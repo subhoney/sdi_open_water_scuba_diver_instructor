@@ -18,6 +18,28 @@
       - [Suspended Status](#suspended-status)
       - [Expelled Status](#expelled-status)
     - [Annual Dive Professional Renewal](#annual-dive-professional-renewal)
+  - [The SDI Open Water Scuba Diver Instructor: Part 2](#the-sdi-open-water-scuba-diver-instructor-part-2)
+    - [Professional Responsibilities of the OWSDI](#professional-responsibilities-of-the-owsdi)
+      - [SDI Code of Ethics and Conduct](#sdi-code-of-ethics-and-conduct)
+    - [Professional Responsibilities of the Open Water Scuba Diver Instructor](#professional-responsibilities-of-the-open-water-scuba-diver-instructor)
+      - [Appearance](#appearance)
+      - [Punctuality](#punctuality)
+      - [Equipment Use](#equipment-use)
+      - [Preparedness](#preparedness)
+      - [Answering Questions](#answering-questions)
+      - [Staying Current with Certifications](#staying-current-with-certifications)
+      - [Continuing to Learn](#continuing-to-learn)
+    - [Advancing Through the Professional Levels](#advancing-through-the-professional-levels)
+      - [Specialty and TDI Instructor](#specialty-and-tdi-instructor)
+      - [Course Director](#course-director)
+      - [Instructor Trainer](#instructor-trainer)
+    - [Quality Assurance](#quality-assurance)
+      - [General Quality Assurance (QA) Procedures](#general-quality-assurance-qa-procedures)
+    - [Using The SDI Standards and Procedures Manual](#using-the-sdi-standards-and-procedures-manual)
+      - [How to Use the SDI Standards and Procedures Manual](#how-to-use-the-sdi-standards-and-procedures-manual)
+      - [Part 1, Introduction, Covers](#part-1-introduction-covers)
+      - [Using The SDI Standards and Procedures Manual](#using-the-sdi-standards-and-procedures-manual-1)
+    - [Chapter 1 and 2 Summary](#chapter-1-and-2-summary)
 
 # SDI Open Water Scuba Diver Instructor
 
@@ -196,3 +218,170 @@ Once the renewal form is received by SDI/TDI/ERDI Headquarters the dive professi
 An online option is also available on the member services page of the SDI/TDI/ERDI website. Click on that option and follow the directions. Not only does the online option allow for a more timely renewal process but also it is eco friendly by not requiring the use of paper.
 
 Please remember that, as mentioned before, SDI is there to help the member be successful. The SDI OWSDI should contact them if they have any questions about anything regarding the collective relationship and responsibilities. Every attempt has been made to make the renewal process easy, and in many cases, what seems to be a major issue can be solved very easily simply by talking to someone at ITI World HQ or your Regional Office.
+
+## The SDI Open Water Scuba Diver Instructor: Part 2
+
+### Professional Responsibilities of the OWSDI
+
+Now that we know what it takes to become an SDI OWSDI we will discuss the SDI Code of Ethics and Conduct as well as the related professional responsibilities that reinforce the Code of Ethics. While some of the responsibilities described may seem somewhat general, they are issues often overlooked and worth discussing.
+
+#### SDI Code of Ethics and Conduct
+
+The following items apply to all SDI professionals:
+
+- Sport diving is recognized as carrying a degree of risk and responsibility not normally associated with other recreational sports.
+- We believe an individual should not be qualified as a SDI diver unless those empowered to qualify the person would allow them to buddy or teach their loved ones recreational diving.
+- The professional always maintains their equipment and never begins a dive with defective equipment.
+- The professional strives to maintain an attitude of professionalism and objectivity, and supports the concept of safety in recreational diving.
+- The professional will not encourage or recruit other individuals to dive recreationally if unqualified.
+- The professional will make every effort to pass on their knowledge to novice recreational divers and the diving community if requested to do so, whether through formal instruction, answering questions or via appropriate publication in books,journal and magazines.
+- The professional strives to encourage and practice an awareness of conservation of the underwater environment at all times.
+- The professional, by virtue of his or her voluntary membership, recognizes a responsibility and obligation to promote SDI and TDI, and support the official decisions as adopted by SDI and TDI; in fulfilling this responsibility and obligation, SDI and TDI members shall:
+  - Publicly support SDI and TDI as organizations.
+  - Make every effort to bring about necessary changes in a professional manner by direct contact with those fellow SDI and TDI members who are in positions of authority and responsibility.
+- Every member has an obligation to report violations of SDI and/or TDI Standards and the Code of Ethics.
+- Every member should strive to set an example of professional behavior and ethical conduct in all activities including, public speaking, articles and books, and various forms of Internet style discourse.
+- Unwarranted critical comment and deliberate inflammatory statements of diving peers is inappropriate and undesirable.
+
+ The professional responsibilities are more than just the knowledge and experience gained getting to this point; a dive professional is an ambassador to the community for the scuba industry. They must present themselves in a positive, professional manner especially when they are teaching students or have responsibility for a group. To maintain a professional image and meet those professional responsibilities they must adhere to the guidelines on the following pages.
+
+### Professional Responsibilities of the Open Water Scuba Diver Instructor
+
+#### Appearance
+
+Wearing appropriate attire for each situation portrays a professional image. If the facility has a staff dress code, all dive professionals must follow that dress code. Many facilities require the dive professional to wear a shirt bearing the store logo while teaching. For the classroom setting, a collared shirt with slacks or casual dress shorts (no cut offs) portrays a professional image, while a T-shirt and casual shorts are more appropriate for the pool/confined water or open water. Certainly when teaching in a resort location, other attire may be appropriate. When all dive staff adhere to a predetermined appearance or dress code, it portrays a cohesive team that is organized and also instills confidence and trust in the customer. This appearance must then be followed up with adherence to other responsibilities, the next of which is punctuality.
+
+#### Punctuality
+
+Perhaps the most important thing a professional can do is make a good first impression. This impression starts even before the first word is spoken. The dive professional should plan to arrive at least 15 to 30 minutes before class starts depending on how much preparation must be done beforehand. The classroom should be checked to make sure all teaching aids and visual aids are available and working. All equipment that is needed for pool/confined water session must be ready and functioning properly. It is a good idea to have an extra set of equipment available should a problem arise with one in use. If the class is to end on time, it must start when it is scheduled to start. If the class starts late it will end late. Students may have made plans based on the schedule that was posted when they signed up for the class. They may have told family or babysitters when they could be expected home. Should the class get abnormally delayed time after time, they may become upset and the dive professional will quickly lose their credibility.
+
+Remember, if everything is ready to go when the students arrive for the class, pool or open water dives, not only will everything take place on time but the student will leave with a good first impression.
+
+#### Equipment Use
+
+As discussed in the previous section on appearance, the dive professional and dive staff must maintain a professional image. Since scuba diving involves both above and below water interaction with the customers, it is important that the SDI OWSDI carry over that image to their underwater appearance. Dive professionals must use equipment sold by the store with which they are affiliated. This equipment should be top of the line, fairly new if not brand new and replaced every year or two. Students will look to the dive professionals as experts on equipment. They will want to emulate what they see these individuals using. The equipment must be maintained as required and any visual inspection stickers must be up to date. Old worn out equipment doesn't indicate an experienced diver, it indicates someone who doesn't care about their appearance or well-being. It may also give the impression the dive professional does not believe the newer equipment is as good as the equipment made in the past.
+
+Keeping in mind the first impression and how that builds confidence and trust in the customer, the in-water portion of the course is where the customer needs to have 100% trust in the dive professional. This may be the first time the customer is going for a dive or they may be beginning a new aspect of diving, so having their trust is paramount; and if the SDI OWSDI's equipment is well maintained and looks new this will help establish that trust.
+
+#### Preparedness
+
+If the dive professional is punctual this will help them to be prepared and if they are neither of these it will be obvious to the customer. The dive professional must prepare for every course they will be conducting. This means knowing what information or skills will be covered for the upcoming lesson. They should try to anticipate questions the students may have and then answer these questions with the information that is presented. Knowing the audience will help in planning. Is the class made up of young students as well as older individuals? If so, what analogies can be used to explain an idea to both age levels so they will all understand?
+
+Anticipate situations that may occur (play the "what if?" game) especially for in-water sessions. *Always think ahead.* Thinking ahead will allow proper planning and appropriate reaction in the event an unusual situation arises.
+
+A good practice is to mentally prepare for the course by going through all the motions; this is better done in a place where there are no distractions. By being mentally and physically prepared the SDI OWSDI and the students will experience a better course.
+
+#### Answering Questions
+
+It should be clear by now, there are a lot of elements to cover in order to be prepared for a course. Another crucial element is the instructor's ability to answer questions the students may have in a prompt and confident manner. The OWSDI should be able to answer these questions by drawing from their current knowledge or experience but perhaps the best way to prepare is to read the materials the students read. When an OWSDI has an assistant instructor assisting with a course, it is the instructor's responsibility to tell the assistant when they should and when they should not answer questions asked by the students. The instructor may wish to have all questions directed to him.
+
+> If the instructor allows the assistant instructor to answer questions, the assistant instructor must be "on the same page" as the instructor and not be contradictory with their answer.
+
+It is the instructor's responsibly to make sure the assistant instructor knows exactly what's expected of him.
+
+The more often courses are taught by an OWSDI the easier this process becomes but it is still a very good habit to review the text the students studied, just in case something was forgotten or the text has been updated. The OWSDI will need to learn to think on his feet as all questions asked by students may pertain to the current topic being discussed. This leads us into the need to stay current not only with materials but also certifications.
+
+#### Staying Current with Certifications
+
+CPR, first aid and oxygen administration are required for certification as an SDI OWSDI. It is the dive professional's responsibility to keep these certifications current; most must be renew every two years. Staying current with CPR, first aid and oxygen administration is not just a matter of adhering to standards; in the unfortunate event an accident does occur the dive professional will know what to do and how to handle the scene. CPR and first aid are an evolving and ever changing science and it is a prudent dive professional that stays abreast of the changes.
+
+Divers Continuing to LearnBeing prepared with the latest techniques and the basic equipment needed for CPR and first aid will not only help alleviate some of the stress associated with a diving accident, it will also produce a more positive outcome for the victim.
+
+#### Continuing to Learn
+
+Just like any other facet of life there is always more to learn, and no matter how long a dive professional has been involved with diving, they still haven't learned everything there is to know about the sport. Information is constantly changing. By continuing to expand their knowledge they will stay informed of these new ideas and will demonstrate to others that continuing education is needed at all levels. There are many avenues to continuing education from simply auditing a course taught by someone else to enrolling in a course to gain a certification that is not currently held. The simple moral here is: keep the mind open to new ideas, knowledge and techniques; they can all come in handy when a new situation is faced. The experience gained as an instructor will help tremendously when moving through the higher professional levels.
+
+### Advancing Through the Professional Levels
+
+SDI has many certification levels in-line with and above the OWSDI, each building on the previous and expanding the abilities of the dive professional. The following is a list of the certifications that can be obtained.
+
+#### Specialty and TDI Instructor
+
+An SDI OWSDI is the professional primarily responsible for training and certifying sport divers. After successful completion of both the SDI Instructor Development Course and the Instructor Evaluation Course, the SDI Instructor may independently conduct all core diver and leadership courses from SDI Open Water Scuba Diver through Assistant Instructor, as well as the SDI Advanced Adventure specialty. An SDI Instructor must be separately qualified and approved for each additional specialty diver course they wish to offer.
+
+TDI Pro CardA TDI Instructor is the professional primarily responsible for training and certifying technical divers. Naturally, certification as an SDI Instructor (or equivalent) is a prerequisite, as well as certification as a technical diver at the appropriate level. After successfully completing a technical instructor course for each technical level, the TDI Instructor may conduct technical diver and technical divemaster programs at that level.
+
+#### Course Director
+
+SDI Course Director is an advanced instructor rating within the SDI curriculum. An SDI Course Director at this level may independently conduct the SDI Instructor Development Course (but not the Instructor Evaluation Course). The Course Director may also qualify SDI Instructors and SDI Assistant Instructors to teach approved SDI Specialties. The prerequisites for SDI Course Director include documented teaching experience in a wide range of SDI Diver and Dive Leadership programs.
+
+It should be noted that there is not a 'Course Director' rating in the TDI curriculum.
+
+#### Instructor Trainer
+
+'Instructor Trainer' is the highest leadership level in the curriculum of SDI, TDI and ERDI. As this title implies, SDI, TDI and ERDI Instructor Trainers are responsible for training, evaluating, and certifying SDI, TDI and ERDI Instructors, as well as SDI Course Directors. Prerequisites for SDI, TDI or ERDI Instructor Trainer include significant and extensive experience as an instructor. SDI has a single Instructor Trainer rating (with the exception of CPR, VIP and Solo ratings), while TDI has an Instructor Trainer rating at each technical level.
+
+These levels of training are what lie ahead for the OWSDI who chooses to advance. Each level provides the ability to pass on more experience and enthusiasm to those divers wanting to learn more. By achieving the higher levels of certification, the dive professional will be able to lead their customers on a journey of exploration and excitement.
+
+To recap, paying attention to one's appearance; being punctual; using well maintained equipment sold by the facility they work for; being very well prepared; answering students' questions correctly; staying current with certifications; and continuing to learn and better oneself are goals that all members should always be certain they accomplish. SDI members who are remiss in any of these areas may end up with quality assurance inquiries and risk losing their active status, or worse - potential expulsion.
+
+International Training takes quality assurance very seriously. As previously discussed, members are direct representatives of International Training. As such, members are expected to act professionally and maintain that professionalism throughout their career with International Training. Quality assurance is tested in several different ways, and specific guidelines have been established for responding to quality assurance concerns. The following section describes the quality assurance procedures and action steps.
+
+### Quality Assurance
+
+As a professional member of a self-policing organization it is important to understand how the quality of training and the materials used in training are monitored. This section discusses how SDI does this and how feedback from those surveys and other annual administrative tasks can affect a member's status.
+
+All quality assurance matters are handled at SDI/TDI/ERDI World Headquarters by the Training Department. This is to ensure that ITI Regional Offices and Sales Managers remain neutral. The information gleaned during the QA process is used to improve the materials and standards as well as return positive feedback to the dive professionals providing quality training.
+
+#### General Quality Assurance (QA) Procedures
+
+Quality assurance survey letters, more commonly known as QA Letters, are sent out to students who were recently certified by members in good standing. These letters are sent with a self-addressed, return postage paid envelope or electronically via e-mail course survey form to solicit information about the course the student just completed. The questions in the letters might ask about the materials used for the course, the maximum depth achieved during the course, and other information that will help the ITI Training Department understand the student's experience during the course. SDI wants this information so that it can maintain the quality of instruction and ensure that proper training materials were used. In addition to the letters, SDI occasionally receives unsolicited emails and phone calls from students. The feedback from these QA letters, emails or phone calls can be negative or positive and either way the member's file is updated.
+
+Now that we have discussed the potential certifications that lie ahead, various member statuses and quality assurance procedures, it is important to know where to find all this information along with course specific standards. In the next section we will cover how to navigate through the SDI Standards and Procedures manual and where to locate the answers to most questions that arise during or before training.
+
+### Using The SDI Standards and Procedures Manual
+
+The SDI Standards and Procedures Manual is intended to be a guide to providing complete and enjoyable training to divers for the courses the OWSDI is qualified to teach. The SDI Standards and Procedures include not only standards for courses OWSDIs can teach but for all courses SDI/TDI/ERDI Instructors can teach. The OWSDI should reference the SDI Standards and Procedures to achieve consistency and quality. They outline the vital "core knowledge" that each student needs to master to achieve SDI certification. Finally, but no less important, the manual is intended to help effectively deliver the skills and knowledge students will actually need.
+
+The SDI Standards and Procedures Manual is meant to be a "living manual" - updated on a regular basis, it is meant to grow and change throughout the OWSDI's career. From time to time member updates will be received; the OWSDI should be sure to incorporate these updates promptly so that their manual is always up to date.
+
+#### How to Use the SDI Standards and Procedures Manual
+
+The SDI Standards and Procedures Manual has intentionally been kept brief but concise. The manual consists of several parts, which are:
+
+1. Introduction
+1. Diver Standards
+1. Diver Specialties
+1. Leadership Standards
+1. Appendix
+
+Each part of the SDI Standards and Procedures Manual is designed to have the same look and flow. Parts 2 and 3 have a general course standard followed by the specific standards for each course. The general standards apply to all standards within that section. The course specific standards are listed in a logical order and follow the normal progression of training. When clarification is needed for a specific course, refer to the general standard at the beginning of that part first, then refer to the course specific standard. If the intent of the standard is still not clear, call or email the Training Department of SDI World Headquarters.
+
+Each of these parts also contains the information needed in order to meet minimum standards. Minimum standards ensure proficiency at a given level and stipulate that the course content can be no less than what is required by the standard. The standard for the specific course being taught should be reviewed prior to teaching that particular course and should be reviewed again before completion to ensure the standard was met. If the instructor adheres to the standards, uses the course materials combined with their experience and knowledge they will produce a well-rounded and proficient diver.
+
+All forms necessary to complete the administrative tasks associated with conducting a course will be found in Part Five (5) Appendix.
+
+#### Part 1, Introduction, Covers
+
+- The Need for Standardized Instruction
+  - Explains SDI/TDI/ERDI's progressive approach to consistency and excellence in instruction
+- The Role of a Dive Professional
+  - Emphasizes the important role the SDI Open Water Scuba Diver Instructor plays in the SDI/TDI/ERDI family
+- Risk Management
+  - Directs the dive professional to further information to protect them against a problem that could consume their career; of course, they always want to be the best OWSDI possible
+- Tips to Becoming a Great Instructor
+  - Tips that offer information to help them be a better teacher and a respected professional in dive instruction
+- How to Conduct an SDI/TDI/ERDI Scuba Course
+  - Covers the general approach to scheduling a scuba course and enrolling students: focuses on the logistics and details (medical and legal) of scheduling training sessions, organizing students, collecting class fees and motivating students to attend all of the course sessions
+
+#### Using The SDI Standards and Procedures Manual
+
+**Part 2, Diver Standards Covers:**
+
+Part Two (2) contains standards for the core SDI training programs including Snorkeling, Scuba Discovery Program, Inactive Diver Program as well as the Advanced Diver Development and Master Diver certifications. Some of these programs the OWSDI may have the ability to teach. When developing a path for a diver wanting to continue their education, this is the part to refer to.
+
+**Part 3, Specialties Covers:**
+
+Part Three (3) has all the course specific specialty standards offered by SDI. The SDI OWSDI can teach a number of these specialties (once certified for each specific level). When working with a diver to determine their interests in diving, the OWSDI can refer to this section to inform them of the prerequisites for the courses and what the courses will entail. As noted earlier, this is also where the OWSDI would review what is required during a course prior to teaching it.
+
+**Part 4, Leadership Standards covers:**
+
+SDI’s Leadership Course standards can be found in Part Four (4) of the Standards and Procedures Manual. After successful completion of the SDI OWSDI course the next step can be mapped out. The OWSDI may wish to gain additional specialty instructor ratings or become a TDI Instructor and this section will make clear what will be expected.
+
+**Part 5, Appendix covers:**
+
+All forms necessary for completing administrative tasks can be found in this part, from student registration forms to the proper form to use when reporting an incident/accident. Part Five (5) also contains all of the forms that are required at the beginning of a course such as the general liability release form and the medical history form.
+
+All of the various parts of the SDI Instructor manual can be found in the member section of our website https://www.tdisdi.com as well as on the Standards and Procedures CD and the printed version of the SDI Standards and Procedures. SDI's Training Department routinely updates these standards and provides member updates quarterly during the year. At the beginning of each year all standards are updated on the website and it is the responsibility of the dive professional to ensure these updates are noted in their SDI Instructor Manual.
+
+### Chapter 1 and 2 Summary
