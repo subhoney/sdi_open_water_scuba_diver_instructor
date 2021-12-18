@@ -40,6 +40,15 @@
       - [Part 1, Introduction, Covers](#part-1-introduction-covers)
       - [Using The SDI Standards and Procedures Manual](#using-the-sdi-standards-and-procedures-manual-1)
     - [Chapter 1 and 2 Summary](#chapter-1-and-2-summary)
+  - [Dive Leader Risk Management: Part 1](#dive-leader-risk-management-part-1)
+    - [Inherent Risks in Scuba Diving](#inherent-risks-in-scuba-diving)
+    - [Anatomy of a Lawsuit](#anatomy-of-a-lawsuit)
+    - [Defensive Teaching and Supervising](#defensive-teaching-and-supervising)
+    - [Student Training Records](#student-training-records)
+    - [Medical Statement](#medical-statement)
+    - [Liability Releases](#liability-releases)
+    - [Liability Insurance for Dive Leaders](#liability-insurance-for-dive-leaders)
+    - [In the Event of a Dive Accident](#in-the-event-of-a-dive-accident)
 
 # SDI Open Water Scuba Diver Instructor
 
@@ -387,3 +396,132 @@ All of the various parts of the SDI Instructor manual can be found in the member
 ### Chapter 1 and 2 Summary
 
 In the first two sections the history and philosophy of ITI, the parent company of Scuba Diving International (SDI), as well as an overview of what to expect during the SDI Open Water Scuba Diver Instructor course have been provided. The SDI Standards and Procedures Manual was reviewed, covering where to find the standards for courses that the OWSDI can teach and how to maintain an active teaching status. This chapter will serve as a reference point as the course progresses and information is needed to prepare for academic or in-water presentations, or to follow along while assisting with a course.
+
+## Dive Leader Risk Management: Part 1
+
+### Inherent Risks in Scuba Diving
+
+At some point in time, almost every experienced diver has told a family member or interested friend that diving is a safe sport. As a professional dive leader, it is a mistake to make that kind of statement to anyone, especially someone just entering the sport as a student diver. It simply is not an accurate statement. “Safe” literally means “without risk”. In fact, few things in life are absolutely safe. Diving, like many other adventure sports, definitely has some inherent risks.
+
+The particular risks associated with diving are detailed in the Diving Physiology chapter of this manual. Among other issues, these risks include decompression sickness and barotraumas, marine-life injuries, physical exertion with increased demands upon the cardio-respiratory system, and the possibility of drowning.
+
+Risk management refers to the various efforts and procedures intended to minimize the inherent risks of scuba diving.
+
+> From the perspective of the diver, these inherent risks can be minimized through appropriate prerequisite training for all participants, followed by accurate application of the student's knowledge and skills during all subsequent diving activities.
+
+Nevertheless, despite these precautions, the possibility of injury still exists. Thus there is a clear mandate for all participants to thoroughly understand and accept these risks. Furthermore, in today's litigious society, whenever any injury occurs there also is the distinct possibility of a lawsuit. Accordingly, from the perspective of the dive leader and dive facility, effective risk management further includes appropriate measures and strategies to mitigate the consequences of a participant's injury.
+
+### Anatomy of a Lawsuit
+
+A civil lawsuit generally consists of two parties: the plaintiff, who files the suit seeking compensation for damages; and the defendant (or defendants), whom the plaintiff alleges is responsible for those damages. In an injury case the plaintiff is normally the individual who actually suffered the injury, though in the case of a fatal injury it also can be the family or estate of the deceased. In order to be successful in the lawsuit, the plaintiff must demonstrate four elements, as outlined below; and normally, to be successful, each of these elements needs to be established merely by a preponderance of the evidence (which is often interpreted to mean that 51% of the evidence is in favor of the plaintiff).
+
+1. The plaintiff must be able to show damages, either financial or physical, or both.
+1. The plaintiff must be able to show that the defendant (or defendants) had a duty to provide training or supervision in an atmosphere of reasonable safety.
+1. The plaintiff must be able to show that, by acts of commission or omission, the defendant (or defendants) breached that duty.
+1. The plaintiff must be able to show that his damages are the direct result of negligent performance by the defendant (or defendants).
+
+In addition to actual damages, some jurisdictions also allow the plaintiff to pursue punitive damages, which are intended to further “punish” the defendant (or defendants) for deliberately injurious actions or other behavior deemed to be unusually egregious in nature.
+
+It is an unfortunate fact that in the legal system within the USA, almost anyone can be sued for anything. The above elements need not be proven in order to file suit; instead, these elements only need to be alleged. Once a suit is filed, both the plaintiff and defendant (or defendants) are entitled to "discovery," which is a detailed process whereby each gathers evidence through formal demands for information and documents, and also through depositions (examinations under oath) of the involved parties and other witnesses. This discovery process is completed prior to trial, and the relevant information, documents, and testimony obtained during the discovery process may be introduced as evidence at trial.
+
+As a matter of routine in the United States, when first filing suit the plaintiff normally names as a defendant every conceivable party who may be involved in any way, either directly or indirectly, in this matter. It might include the dive leader who was supervising diving activities when the plaintiff's injury occurred. It might include the dive facility that rented or last serviced the plaintiff's equipment. It may also include the instructor or dive center who conducted some diver training program for the plaintiff several years prior to the incident. In some cases a defendant may also file a counter-suit against the plaintiff, or against one or more co-defendants. Eventually, as the discovery process continues, some of these defendants may be dismissed from the suit; however, prior to reaching this point, it is likely that each defendant will have already incurred significant legal expenses related to their own defense.
+
+Though the above comments relate primarily to the legal system in the USA, it is important to note that those dive professionals and dive facilities located outside the USA are not necessarily immune from such lawsuits. The courts in the United States generally extend tremendous latitude to US-based plaintiffs. Further, a plaintiff will often be able to establish a US "presence" for a foreign dive instructor or dive facility by identifying their use of a US-based sales agent or representative, or by simply demonstrating that they directly or indirectly offer their services to USA-based clientele.
+
+### Defensive Teaching and Supervising
+
+In any civil lawsuit, ultimately the actions of the dive instructor (as a defendant) will be judged against those of a hypothetical "reasonably prudent" professional, that is, did this individual perform his duties and fulfill his responsibilities in a manner consistent with that which is expected of a competent and capable dive professional?
+
+The dive leader's best defense in any lawsuit is that he acted in full compliance with established protocols. These protocols are detailed in the SDI and TDI Standards and Procedures Manuals. The prudent professional will ensure that every training program is conducted according to standards, that every required topic is appropriately addressed, and that each student becomes proficient in all required skills.
+
+> The prudent professional will exercise appropriate judgment and discretion. For example, the SDI and TDI standards specify maximum student-to-instructor ratios for every training program. It is important to recognize that these are maximums, under ideal conditions. Whenever conditions are less than ideal, these ratios should be reduced.
+
+In addition, the prudent professional will never allow an individual under his charge to engage in activities for which that individual is not qualified, nor allow an individual under his charge to dive with malfunctioning or inadequate equipment.
+
+While supervising students or certified divers, the prudent professional will expect the unexpected. Though the dive leader may exercise great effort and care in presenting information during a dive briefing, he should never assume that everything will go exactly as planned. The dive leader must recognize that, sooner or later, a student or diver may suddenly divert into some behavior that is exactly opposite of what has been briefed. The prudent professional will anticipate the various contingencies that might occur, and will formulate a plan to quickly and appropriately respond.
+
+### Student Training Records
+
+To defend against any later allegations of negligent or inadequate training, it is vitally important to thoroughly document each student's training activities.
+
+The SDI and TDI Student Training Record folders are specially designed to document a student's successful completion of all academic, confined water and open water sessions, as well as all written tests and skills performance. The folder itself includes the medical statement and liability release forms (each of these forms will be addressed in more detail later). Additional documentation that should be inserted into this folder includes the student's completed Knowledge Quest / Scuba IQ Review exercises, written exams, and clearance by a medical professional (if needed).
+
+As a training program progresses, each student's training records should be appropriately updated following each session. Whenever a student encounters some initial difficulty in mastering a skill or academic concept, the appropriate review and remediation also should be documented to demonstrate that in fact the shortcoming was addressed and that the student subsequently mastered this skill or concept.
+
+Naturally, the training records should identify the instructor who conducted each session. It also will be helpful to note other dive leaders who were involved in the training. As an additional precautionary measure, a copy of the class roster also may be added to the folder, listing all students participating in the program, in the event that someday they may be called upon as witnesses to verify the adequacy of the training activities.
+
+All training records should be preserved for a period of seven years. At some dive facilities it is the responsibility of the individual instructor who conducted the training to maintain these records. In other cases it will be the dive facility itself that maintains these records.
+
+### Medical Statement
+
+Diving is a physically demanding activity and, as such, it clearly requires a certain level of health and fitness; lacking appropriate health and fitness, the individual potentially will be placed at increased risk.
+
+Both SDI and TDI have standard medical statement forms that each participant in all SDI and TDI training programs are required to complete. The medical statement is basically a screening tool, to ensure that an individual possesses the prerequisite level of general health and fitness to participate in diving. This form must be completed in its entirety (with no questions left blank), then signed and dated by the student; the medical statement for a minor also must be signed and dated by that student's parent or legal guardian. If a student answers "yes" to any question on this form, it does not necessarily preclude him or her from participation; however, with any "yes" answer the student will be required to obtain written clearance from a medical professional prior to participating in any in-water training activities. It also should be noted that if the student in question happens to be a physician, that student cannot provide his own medical clearance but instead must obtain written clearance from another medical professional.
+
+The instructor conducting the program should review the medical statement with the students and appropriately address any particular issues or concerns that might arise.
+
+> The instructor, however, should never coach a student regarding his answers to any of the medical questions, and never create any hint of suggestion that a student should falsely answer "no" to any question on this form.
+
+Students always must be encouraged to answer these questions honestly and accurately, since concealing any applicable medical condition might expose that student to unnecessary risk.
+
+Any "yes" answer on the medical statement requires evaluation by a qualified medical professional, to determine whether an individual possesses the appropriate level of general health and fitness to participate in diving. The instructor, as a layman, clearly lacks the medical qualifications to make this type of evaluation and to authoritatively clear an individual for diving. Despite the fact that a medical condition might appear minor and inconsequential, in no case should the instructor intentionally overlook any "yes" answer on the medical statement and allow that student to participate in in-water activities without medical clearance; doing so can easily lead to a claim of negligence if any injury subsequently occurs. In fact, this requirement for medical clearance, when indicated, is one of the provisions itemized in every standard liability insurance policy within the dive industry, and failure to adhere to this requirement may well void the insurance coverage for both the dive professional and the dive facility.
+
+On occasion, the situation may arise where there is some reason to question a student's health and fitness for diving, even though that student has answered "no" to each question on the medical statement. It might involve something as obvious as a large surgical scar over the center of a student's chest, or something less tangible such as significant overexertion while performing a relatively benign physical task. Whenever any such question arises, the dive leader should address the issue with the student and if any concern lingers the dive leader should request medical clearance prior to further participation. At the same time, even with clearance by a medical professional, the ultimate decision for accepting a student into any training program rests with the instructor.
+
+As a matter of routine, most instructors, assistant instructors, and dive facilities have the students complete their medical statement forms at the beginning of each course.
+
+> It is important to recognize that on occasion, especially in the case of entry-level divers enrolled in an Open Water Scuba Diver course, there can be some disappointment and possible resentment when an individual first learns that he will need medical clearance only after they arrive for the initial training session.
+
+To avoid this situation, conscientious dive leaders and dive facilities will make the medical statement available to each student ahead of time, the student might be provided with a photocopy of the medical statement at the time of enrollment in the course, or may be instructed to carefully review a copy of the medical statement, which has been posted on the dive facility's website. When medical clearance is required, the student also should be provided with the appropriate SDI or TDI form for the physician's use.
+
+SDI and TDI Standards require each participant to complete a medical statement for all training programs, but do not require a medical statement for participation in other non-training activities. It must be noted, however, that local regulations can vary, and more-restrictive local regulations will supersede the SDI and TDI Standards. For example, in some jurisdictions it may be required that every student obtains medical clearance prior to any in-water training activities, and in other areas a medical statement might be required even for non-training activities.
+
+### Liability Releases
+
+The liability release is effectively a legal contract between the participant and the dive leader and/or dive facility, within which the participant acknowledges and accepts the inherent risks of scuba diving and also agrees to hold the dive leader and/or dive facility harmless if injury should occur. In some cases a properly executed liability release will provide sufficient basis for dismissal of a lawsuit. In other cases the liability release will serve to mitigate damages.
+
+SDI and TDI each have standard liability release forms that apply to each of their respective diver training programs; there also is a supplemental liability release form for the SDI Solo Diver course, and additional SDI liability release forms for non-training activities including guided dives and boat dives.
+
+In each training program the instructor conducting the program should review the applicable liability release with the students and appropriately address any particular issues or concerns that might arise. Each individual must complete the form in its entirety (with no lines left blank), and under no circumstances should the dive leader allow any of the pre-printed text to be modified in any manner. Each paragraph on the form must be initialed, the form must be signed and dated by the participant, and the form for any minor must also be signed and dated by that student's parent or legal guardian; finally the form should be signed and dated by a third-party witness (such as another student).
+
+Similarly, in non-training activities the dive leader supervising the activities should review the applicable liability release with the participants and address any issues or concerns. Again, this form should be completed in its entirety, each paragraph should be initialed by the participant, and the form should be signed, dated, and witnessed.
+
+In order for the liability release to be deemed valid, most jurisdictions require that the participant be allowed sufficient time to reflect on its contents. In addition, some jurisdictions also stipulate that the participant be given an opportunity to discuss this document with other family members (who might be impacted by the release) and perhaps to consult with their own legal counsel (when they feel that such is warranted). It might well be argued that duress exists when an individual is asked to sign a liability release at the very last moment, after the class already has started or after the dive boat already has left the dock, especially if there is any suggestion of peer pressure or financial forfeiture associated with a participant's decision to sign or not sign that release. Clearly, any perception of duress might well invalidate the document.
+
+As a matter of routine most instructors, assistant instructors and dive facilities have the students complete their liability release forms at the beginning of each course. However, to avoid any perception of duress, conscientious dive leaders and dive facilities also make the liability release available to each student ahead of time, the student might be provided with a photocopy of the liability release at the time of enrollment in the course, or they may be instructed to carefully review a copy of the liability release, which has been posted on the dive facility's website.
+
+As the students are completing these forms the dive leader should carefully explain that if they have any reservations about participating, they may withdraw without any loss of face and with a full refund.
+
+### Liability Insurance for Dive Leaders
+
+Affordable liability insurance for dive leaders, as well as dive centers and dive boats, is available through SDI and TDI. Dive leaders operating in most geographic locations are required to have liability insurance; in some locations it is optional but still highly recommended. As outlined above, even if a dive leader has apparently done nothing wrong, he still can be named as a defendant in a lawsuit, perhaps based solely upon the fact that at some point in time that dive leader has crossed paths with the plaintiff.
+
+In the event that the dive leader is named as a defendant, the liability insurance will provide legal representation and cover the cost of defense.
+
+> In the event that the lawsuit results in a judgment against the dive leader, the liability insurance will cover the monetary award. Of course each liability policy specifies the maximum dollar amount of coverage, though increased levels of coverage also are available as an option under the individual policies offered through SDI and TDI.
+
+Currently four types of individual liability insurance policies are available through SDI and TDI. The first is intended for dive leaders operating in the USA, Mexico and the Caribbean. The second is for those in Canada. The third is for those in Australia. The fourth is for other locations but is intended only for those dive leaders who do not interact with citizens of the USA. In each area, coverage is provided according to the dive leader's professional certification, SDI Instructor, SDI Assistant Instructor, or SDI Divemaster. Coverage also is available for those dive leaders who are no longer active in the training or supervision of divers. As you might expect, the cost varies according to the dive leader's professional certification and current activities.
+
+The standard liability insurance policies available through SDI and TDI cover only activities at the sport diver level. Additional coverage is available by endorsement (currently at no additional charge) for TDI Technical Instructors and TDI Technical Divemasters, to cover activities at the technical diver level. The same liability insurance available through SDI and TDI also can be extended (again, currently at no additional charge for technical activities) to cover any activities conducted under the auspices of another approved diver training organization.
+
+The standard liability insurance policies available through SDI and TDI do not provide coverage when the dive leader's personally owned equipment is rented or loaned to a diver under his charge. Such coverage is available as an option (at an additional charge). Lacking such coverage, the dive leader should recognize that he should never rent or loan personal equipment to a student diver or supervised certified diver. Instead, when the dive leader desires to have back-up equipment on hand during diving activities, it should be equipment from the dive facility's rental inventory (the dive facility normally has insurance coverage for any equipment provided to customers).
+
+As noted, insurance coverage is also available through SDI and TDI for dive centers and dive boats. In some cases, coverage under these policies can also be extended to individual dive leaders. It is important to note, however, that such coverage only applies to those diving activities that are official functions of that particular dive center or dive boat. This coverage will not apply to any activities conducted independently by the dive leader, or to any duties the dive leader performs for another dive center or dive boat.
+
+### In the Event of a Dive Accident
+
+Whenever any dive-related accident or injury occurs, there is the possibility of a lawsuit at a later date. It might happen when a supervised certified diver panics at depth, and bolts towards the surface while holding his breath. It might involve a student who accidentally drops a weight belt on his foot. It might even arise from an incident in which the dive leader initially had no involvement, but to which the dive leader responded and rendered assistance.
+
+The primary concern in any incident is to care for the victim. Next, the victim's equipment should be secured; in the event of a serious incident, the local authorities may want to take custody of the equipment for further examination. Finally, the dive leader should begin to gather all relevant information, using the applicable SDI or TDI Accident/Incident Report form as a guide.
+
+Naturally, the dive leader should be sympathetic to the victim and his family or friends. At no time should the dive leader make any comments to the victim, his family and friends, or to the authorities regarding anyone's potential liability. This is no place for opinion or speculation. All information that is reported should be completely factual in nature and should be limited only to those circumstances the dive leader actually observed first-hand. The dive leader should always politely decline any requests by the news media for information regarding the incident.
+
+As soon as possible after the incident, the dive leader should fax the completed accident/incident report to SDI/TDI Headquarters or your regional office. If the incident occurred during training, copies of the student's medical statement, liability release and all training records should be forwarded with the report. If the incident occurred during some other supervised non-training activity, copies of the diver's liability release and any other available information should be forwarded with the report.
+
+If the dive leader has insurance coverage through SDI and TDI, then SDI/TDI Headquarters will forward the report and related documentation to the insurance company. In some cases, on behalf of the insurance company, SDI/TDI Headquarters may initiate its own investigation of the incident. Of course, the dive leader is obliged to respond immediately to any request or further inquiry by SDI/TDI Headquarters.
+
+Without doubt, the dive leader is also obliged to cooperate with any investigation conducted by the local authorities. On occasion, the authorities may request a written report from the dive leader; whenever possible, the dive leader should submit the very same accident/incident report to the authorities as was submitted to SDI/TDI Headquarters.
+
+> In general the dive leader should try to avoid the creation of multiple reports, as even a minor variance between the reports may later prove to be problematic at trial.
+
+If by chance the incident occurred during a training program that was conducted under the auspices of another diver training organization, then the appropriate reporting procedures should be followed as specified by that other training organization. Similarly, if the dive leader has his insurance coverage elsewhere, then the appropriate reporting procedures should also be followed as specified by that other insurance company. As is the case with reports submitted to the authorities, as noted above, the dive leader should try to avoid the creation of multiple reports, and whenever possible the same report should be submitted to the other training organization and/or other insurance company as was submitted to ITI Headquarters.
