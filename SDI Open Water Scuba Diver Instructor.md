@@ -38,7 +38,10 @@
     - [Using The SDI Standards and Procedures Manual](#using-the-sdi-standards-and-procedures-manual)
       - [How to Use the SDI Standards and Procedures Manual](#how-to-use-the-sdi-standards-and-procedures-manual)
       - [Part 1, Introduction, Covers](#part-1-introduction-covers)
-      - [Using The SDI Standards and Procedures Manual](#using-the-sdi-standards-and-procedures-manual-1)
+      - [Part 2, Diver Standards Summary](#part-2-diver-standards-summary)
+      - [Part 3, Specialties Summary](#part-3-specialties-summary)
+      - [Part 4, Leadership Standards Summary](#part-4-leadership-standards-summary)
+      - [Part 5, Appendix Summary](#part-5-appendix-summary)
     - [Chapter 1 and 2 Summary](#chapter-1-and-2-summary)
 
 # SDI Open Water Scuba Diver Instructor
@@ -364,21 +367,19 @@ All forms necessary to complete the administrative tasks associated with conduct
 - How to Conduct an SDI/TDI/ERDI Scuba Course
   - Covers the general approach to scheduling a scuba course and enrolling students: focuses on the logistics and details (medical and legal) of scheduling training sessions, organizing students, collecting class fees and motivating students to attend all of the course sessions
 
-#### Using The SDI Standards and Procedures Manual
-
-**Part 2, Diver Standards Covers:**
+#### Part 2, Diver Standards Summary
 
 Part Two (2) contains standards for the core SDI training programs including Snorkeling, Scuba Discovery Program, Inactive Diver Program as well as the Advanced Diver Development and Master Diver certifications. Some of these programs the OWSDI may have the ability to teach. When developing a path for a diver wanting to continue their education, this is the part to refer to.
 
-**Part 3, Specialties Covers:**
+#### Part 3, Specialties Summary
 
 Part Three (3) has all the course specific specialty standards offered by SDI. The SDI OWSDI can teach a number of these specialties (once certified for each specific level). When working with a diver to determine their interests in diving, the OWSDI can refer to this section to inform them of the prerequisites for the courses and what the courses will entail. As noted earlier, this is also where the OWSDI would review what is required during a course prior to teaching it.
 
-**Part 4, Leadership Standards covers:**
+#### Part 4, Leadership Standards Summary
 
 SDI’s Leadership Course standards can be found in Part Four (4) of the Standards and Procedures Manual. After successful completion of the SDI OWSDI course the next step can be mapped out. The OWSDI may wish to gain additional specialty instructor ratings or become a TDI Instructor and this section will make clear what will be expected.
 
-**Part 5, Appendix covers:**
+#### Part 5, Appendix Summary
 
 All forms necessary for completing administrative tasks can be found in this part, from student registration forms to the proper form to use when reporting an incident/accident. Part Five (5) also contains all of the forms that are required at the beginning of a course such as the general liability release form and the medical history form.
 
