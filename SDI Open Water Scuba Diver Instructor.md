@@ -40,6 +40,10 @@
       - [Part 1, Introduction, Covers](#part-1-introduction-covers)
       - [Using The SDI Standards and Procedures Manual](#using-the-sdi-standards-and-procedures-manual-1)
     - [Chapter 1 and 2 Summary](#chapter-1-and-2-summary)
+  - [Dive Leader Risk Management: Part 1](#dive-leader-risk-management-part-1)
+    - [Inherent Risks in Scuba Diving](#inherent-risks-in-scuba-diving)
+    - [Anatomy of a Lawsuit](#anatomy-of-a-lawsuit)
+    - [Defensive Teaching and Supervising](#defensive-teaching-and-supervising)
 
 # SDI Open Water Scuba Diver Instructor
 
@@ -387,3 +391,46 @@ All of the various parts of the SDI Instructor manual can be found in the member
 ### Chapter 1 and 2 Summary
 
 In the first two sections the history and philosophy of ITI, the parent company of Scuba Diving International (SDI), as well as an overview of what to expect during the SDI Open Water Scuba Diver Instructor course have been provided. The SDI Standards and Procedures Manual was reviewed, covering where to find the standards for courses that the OWSDI can teach and how to maintain an active teaching status. This chapter will serve as a reference point as the course progresses and information is needed to prepare for academic or in-water presentations, or to follow along while assisting with a course.
+
+## Dive Leader Risk Management: Part 1
+
+### Inherent Risks in Scuba Diving
+
+At some point in time, almost every experienced diver has told a family member or interested friend that diving is a safe sport. As a professional dive leader, it is a mistake to make that kind of statement to anyone, especially someone just entering the sport as a student diver. It simply is not an accurate statement. “Safe” literally means “without risk”. In fact, few things in life are absolutely safe. Diving, like many other adventure sports, definitely has some inherent risks.
+
+The particular risks associated with diving are detailed in the Diving Physiology chapter of this manual. Among other issues, these risks include decompression sickness and barotraumas, marine-life injuries, physical exertion with increased demands upon the cardio-respiratory system, and the possibility of drowning.
+
+Risk management refers to the various efforts and procedures intended to minimize the inherent risks of scuba diving.
+
+> From the perspective of the diver, these inherent risks can be minimized through appropriate prerequisite training for all participants, followed by accurate application of the student's knowledge and skills during all subsequent diving activities.
+
+Nevertheless, despite these precautions, the possibility of injury still exists. Thus there is a clear mandate for all participants to thoroughly understand and accept these risks. Furthermore, in today's litigious society, whenever any injury occurs there also is the distinct possibility of a lawsuit. Accordingly, from the perspective of the dive leader and dive facility, effective risk management further includes appropriate measures and strategies to mitigate the consequences of a participant's injury.
+
+### Anatomy of a Lawsuit
+
+A civil lawsuit generally consists of two parties: the plaintiff, who files the suit seeking compensation for damages; and the defendant (or defendants), whom the plaintiff alleges is responsible for those damages. In an injury case the plaintiff is normally the individual who actually suffered the injury, though in the case of a fatal injury it also can be the family or estate of the deceased. In order to be successful in the lawsuit, the plaintiff must demonstrate four elements, as outlined below; and normally, to be successful, each of these elements needs to be established merely by a preponderance of the evidence (which is often interpreted to mean that 51% of the evidence is in favor of the plaintiff).
+
+1. The plaintiff must be able to show damages, either financial or physical, or both.
+1. The plaintiff must be able to show that the defendant (or defendants) had a duty to provide training or supervision in an atmosphere of reasonable safety.
+1. The plaintiff must be able to show that, by acts of commission or omission, the defendant (or defendants) breached that duty.
+1. The plaintiff must be able to show that his damages are the direct result of negligent performance by the defendant (or defendants).
+
+In addition to actual damages, some jurisdictions also allow the plaintiff to pursue punitive damages, which are intended to further “punish” the defendant (or defendants) for deliberately injurious actions or other behavior deemed to be unusually egregious in nature.
+
+It is an unfortunate fact that in the legal system within the USA, almost anyone can be sued for anything. The above elements need not be proven in order to file suit; instead, these elements only need to be alleged. Once a suit is filed, both the plaintiff and defendant (or defendants) are entitled to "discovery," which is a detailed process whereby each gathers evidence through formal demands for information and documents, and also through depositions (examinations under oath) of the involved parties and other witnesses. This discovery process is completed prior to trial, and the relevant information, documents, and testimony obtained during the discovery process may be introduced as evidence at trial.
+
+As a matter of routine in the United States, when first filing suit the plaintiff normally names as a defendant every conceivable party who may be involved in any way, either directly or indirectly, in this matter. It might include the dive leader who was supervising diving activities when the plaintiff's injury occurred. It might include the dive facility that rented or last serviced the plaintiff's equipment. It may also include the instructor or dive center who conducted some diver training program for the plaintiff several years prior to the incident. In some cases a defendant may also file a counter-suit against the plaintiff, or against one or more co-defendants. Eventually, as the discovery process continues, some of these defendants may be dismissed from the suit; however, prior to reaching this point, it is likely that each defendant will have already incurred significant legal expenses related to their own defense.
+
+Though the above comments relate primarily to the legal system in the USA, it is important to note that those dive professionals and dive facilities located outside the USA are not necessarily immune from such lawsuits. The courts in the United States generally extend tremendous latitude to US-based plaintiffs. Further, a plaintiff will often be able to establish a US "presence" for a foreign dive instructor or dive facility by identifying their use of a US-based sales agent or representative, or by simply demonstrating that they directly or indirectly offer their services to USA-based clientele.
+
+### Defensive Teaching and Supervising
+
+In any civil lawsuit, ultimately the actions of the dive instructor (as a defendant) will be judged against those of a hypothetical "reasonably prudent" professional, that is, did this individual perform his duties and fulfill his responsibilities in a manner consistent with that which is expected of a competent and capable dive professional?
+
+The dive leader's best defense in any lawsuit is that he acted in full compliance with established protocols. These protocols are detailed in the SDI and TDI Standards and Procedures Manuals. The prudent professional will ensure that every training program is conducted according to standards, that every required topic is appropriately addressed, and that each student becomes proficient in all required skills.
+
+> The prudent professional will exercise appropriate judgment and discretion. For example, the SDI and TDI standards specify maximum student-to-instructor ratios for every training program. It is important to recognize that these are maximums, under ideal conditions. Whenever conditions are less than ideal, these ratios should be reduced.
+
+In addition, the prudent professional will never allow an individual under his charge to engage in activities for which that individual is not qualified, nor allow an individual under his charge to dive with malfunctioning or inadequate equipment.
+
+While supervising students or certified divers, the prudent professional will expect the unexpected. Though the dive leader may exercise great effort and care in presenting information during a dive briefing, he should never assume that everything will go exactly as planned. The dive leader must recognize that, sooner or later, a student or diver may suddenly divert into some behavior that is exactly opposite of what has been briefed. The prudent professional will anticipate the various contingencies that might occur, and will formulate a plan to quickly and appropriately respond.
