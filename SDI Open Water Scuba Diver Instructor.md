@@ -47,6 +47,8 @@
     - [Student Training Records](#student-training-records)
     - [Medical Statement](#medical-statement)
     - [Liability Releases](#liability-releases)
+    - [Liability Insurance for Dive Leaders](#liability-insurance-for-dive-leaders)
+    - [In the Event of a Dive Accident](#in-the-event-of-a-dive-accident)
 
 # SDI Open Water Scuba Diver Instructor
 
@@ -483,3 +485,43 @@ SDI and TDI each have standard liability release forms that apply to each of the
 In each training program the instructor conducting the program should review the applicable liability release with the students and appropriately address any particular issues or concerns that might arise. Each individual must complete the form in its entirety (with no lines left blank), and under no circumstances should the dive leader allow any of the pre-printed text to be modified in any manner. Each paragraph on the form must be initialed, the form must be signed and dated by the participant, and the form for any minor must also be signed and dated by that student's parent or legal guardian; finally the form should be signed and dated by a third-party witness (such as another student).
 
 Similarly, in non-training activities the dive leader supervising the activities should review the applicable liability release with the participants and address any issues or concerns. Again, this form should be completed in its entirety, each paragraph should be initialed by the participant, and the form should be signed, dated, and witnessed.
+
+In order for the liability release to be deemed valid, most jurisdictions require that the participant be allowed sufficient time to reflect on its contents. In addition, some jurisdictions also stipulate that the participant be given an opportunity to discuss this document with other family members (who might be impacted by the release) and perhaps to consult with their own legal counsel (when they feel that such is warranted). It might well be argued that duress exists when an individual is asked to sign a liability release at the very last moment, after the class already has started or after the dive boat already has left the dock, especially if there is any suggestion of peer pressure or financial forfeiture associated with a participant's decision to sign or not sign that release. Clearly, any perception of duress might well invalidate the document.
+
+As a matter of routine most instructors, assistant instructors and dive facilities have the students complete their liability release forms at the beginning of each course. However, to avoid any perception of duress, conscientious dive leaders and dive facilities also make the liability release available to each student ahead of time, the student might be provided with a photocopy of the liability release at the time of enrollment in the course, or they may be instructed to carefully review a copy of the liability release, which has been posted on the dive facility's website.
+
+As the students are completing these forms the dive leader should carefully explain that if they have any reservations about participating, they may withdraw without any loss of face and with a full refund.
+
+### Liability Insurance for Dive Leaders
+
+Affordable liability insurance for dive leaders, as well as dive centers and dive boats, is available through SDI and TDI. Dive leaders operating in most geographic locations are required to have liability insurance; in some locations it is optional but still highly recommended. As outlined above, even if a dive leader has apparently done nothing wrong, he still can be named as a defendant in a lawsuit, perhaps based solely upon the fact that at some point in time that dive leader has crossed paths with the plaintiff.
+
+In the event that the dive leader is named as a defendant, the liability insurance will provide legal representation and cover the cost of defense.
+
+> In the event that the lawsuit results in a judgment against the dive leader, the liability insurance will cover the monetary award. Of course each liability policy specifies the maximum dollar amount of coverage, though increased levels of coverage also are available as an option under the individual policies offered through SDI and TDI.
+
+Currently four types of individual liability insurance policies are available through SDI and TDI. The first is intended for dive leaders operating in the USA, Mexico and the Caribbean. The second is for those in Canada. The third is for those in Australia. The fourth is for other locations but is intended only for those dive leaders who do not interact with citizens of the USA. In each area, coverage is provided according to the dive leader's professional certification, SDI Instructor, SDI Assistant Instructor, or SDI Divemaster. Coverage also is available for those dive leaders who are no longer active in the training or supervision of divers. As you might expect, the cost varies according to the dive leader's professional certification and current activities.
+
+The standard liability insurance policies available through SDI and TDI cover only activities at the sport diver level. Additional coverage is available by endorsement (currently at no additional charge) for TDI Technical Instructors and TDI Technical Divemasters, to cover activities at the technical diver level. The same liability insurance available through SDI and TDI also can be extended (again, currently at no additional charge for technical activities) to cover any activities conducted under the auspices of another approved diver training organization.
+
+The standard liability insurance policies available through SDI and TDI do not provide coverage when the dive leader's personally owned equipment is rented or loaned to a diver under his charge. Such coverage is available as an option (at an additional charge). Lacking such coverage, the dive leader should recognize that he should never rent or loan personal equipment to a student diver or supervised certified diver. Instead, when the dive leader desires to have back-up equipment on hand during diving activities, it should be equipment from the dive facility's rental inventory (the dive facility normally has insurance coverage for any equipment provided to customers).
+
+As noted, insurance coverage is also available through SDI and TDI for dive centers and dive boats. In some cases, coverage under these policies can also be extended to individual dive leaders. It is important to note, however, that such coverage only applies to those diving activities that are official functions of that particular dive center or dive boat. This coverage will not apply to any activities conducted independently by the dive leader, or to any duties the dive leader performs for another dive center or dive boat.
+
+### In the Event of a Dive Accident
+
+Whenever any dive-related accident or injury occurs, there is the possibility of a lawsuit at a later date. It might happen when a supervised certified diver panics at depth, and bolts towards the surface while holding his breath. It might involve a student who accidentally drops a weight belt on his foot. It might even arise from an incident in which the dive leader initially had no involvement, but to which the dive leader responded and rendered assistance.
+
+The primary concern in any incident is to care for the victim. Next, the victim's equipment should be secured; in the event of a serious incident, the local authorities may want to take custody of the equipment for further examination. Finally, the dive leader should begin to gather all relevant information, using the applicable SDI or TDI Accident/Incident Report form as a guide.
+
+Naturally, the dive leader should be sympathetic to the victim and his family or friends. At no time should the dive leader make any comments to the victim, his family and friends, or to the authorities regarding anyone's potential liability. This is no place for opinion or speculation. All information that is reported should be completely factual in nature and should be limited only to those circumstances the dive leader actually observed first-hand. The dive leader should always politely decline any requests by the news media for information regarding the incident.
+
+As soon as possible after the incident, the dive leader should fax the completed accident/incident report to SDI/TDI Headquarters or your regional office. If the incident occurred during training, copies of the student's medical statement, liability release and all training records should be forwarded with the report. If the incident occurred during some other supervised non-training activity, copies of the diver's liability release and any other available information should be forwarded with the report.
+
+If the dive leader has insurance coverage through SDI and TDI, then SDI/TDI Headquarters will forward the report and related documentation to the insurance company. In some cases, on behalf of the insurance company, SDI/TDI Headquarters may initiate its own investigation of the incident. Of course, the dive leader is obliged to respond immediately to any request or further inquiry by SDI/TDI Headquarters.
+
+Without doubt, the dive leader is also obliged to cooperate with any investigation conducted by the local authorities. On occasion, the authorities may request a written report from the dive leader; whenever possible, the dive leader should submit the very same accident/incident report to the authorities as was submitted to SDI/TDI Headquarters.
+
+> In general the dive leader should try to avoid the creation of multiple reports, as even a minor variance between the reports may later prove to be problematic at trial.
+
+If by chance the incident occurred during a training program that was conducted under the auspices of another diver training organization, then the appropriate reporting procedures should be followed as specified by that other training organization. Similarly, if the dive leader has his insurance coverage elsewhere, then the appropriate reporting procedures should also be followed as specified by that other insurance company. As is the case with reports submitted to the authorities, as noted above, the dive leader should try to avoid the creation of multiple reports, and whenever possible the same report should be submitted to the other training organization and/or other insurance company as was submitted to ITI Headquarters.
