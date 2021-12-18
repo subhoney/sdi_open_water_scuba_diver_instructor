@@ -21,6 +21,10 @@
   - [The SDI Open Water Scuba Diver Instructor: Part 2](#the-sdi-open-water-scuba-diver-instructor-part-2)
     - [Professional Responsibilities of the OWSDI](#professional-responsibilities-of-the-owsdi)
       - [SDI Code of Ethics and Conduct](#sdi-code-of-ethics-and-conduct)
+    - [Professional Responsibilities of the Open Water Scuba Diver Instructor](#professional-responsibilities-of-the-open-water-scuba-diver-instructor)
+      - [Appearance](#appearance)
+      - [Punctuality](#punctuality)
+      - [Equipment Use](#equipment-use)
 
 # SDI Open Water Scuba Diver Instructor
 
@@ -226,3 +230,21 @@ The following items apply to all SDI professionals:
  - Unwarranted critical comment and deliberate inflammatory statements of diving peers is inappropriate and undesirable.
 
  The professional responsibilities are more than just the knowledge and experience gained getting to this point; a dive professional is an ambassador to the community for the scuba industry. They must present themselves in a positive, professional manner especially when they are teaching students or have responsibility for a group. To maintain a professional image and meet those professional responsibilities they must adhere to the guidelines on the following pages.
+
+### Professional Responsibilities of the Open Water Scuba Diver Instructor
+
+#### Appearance
+
+Wearing appropriate attire for each situation portrays a professional image. If the facility has a staff dress code, all dive professionals must follow that dress code. Many facilities require the dive professional to wear a shirt bearing the store logo while teaching. For the classroom setting, a collared shirt with slacks or casual dress shorts (no cut offs) portrays a professional image, while a T-shirt and casual shorts are more appropriate for the pool/confined water or open water. Certainly when teaching in a resort location, other attire may be appropriate. When all dive staff adhere to a predetermined appearance or dress code, it portrays a cohesive team that is organized and also instills confidence and trust in the customer. This appearance must then be followed up with adherence to other responsibilities, the next of which is punctuality.
+
+#### Punctuality
+
+Perhaps the most important thing a professional can do is make a good first impression. This impression starts even before the first word is spoken. The dive professional should plan to arrive at least 15 to 30 minutes before class starts depending on how much preparation must be done beforehand. The classroom should be checked to make sure all teaching aids and visual aids are available and working. All equipment that is needed for pool/confined water session must be ready and functioning properly. It is a good idea to have an extra set of equipment available should a problem arise with one in use. If the class is to end on time, it must start when it is scheduled to start. If the class starts late it will end late. Students may have made plans based on the schedule that was posted when they signed up for the class. They may have told family or babysitters when they could be expected home. Should the class get abnormally delayed time after time, they may become upset and the dive professional will quickly lose their credibility.
+
+Remember, if everything is ready to go when the students arrive for the class, pool or open water dives, not only will everything take place on time but the student will leave with a good first impression.
+
+#### Equipment Use
+
+As discussed in the previous section on appearance, the dive professional and dive staff must maintain a professional image. Since scuba diving involves both above and below water interaction with the customers, it is important that the SDI OWSDI carry over that image to their underwater appearance. Dive professionals must use equipment sold by the store with which they are affiliated. This equipment should be top of the line, fairly new if not brand new and replaced every year or two. Students will look to the dive professionals as experts on equipment. They will want to emulate what they see these individuals using. The equipment must be maintained as required and any visual inspection stickers must be up to date. Old worn out equipment doesn't indicate an experienced diver, it indicates someone who doesn't care about their appearance or well-being. It may also give the impression the dive professional does not believe the newer equipment is as good as the equipment made in the past.
+
+Keeping in mind the first impression and how that builds confidence and trust in the customer, the in-water portion of the course is where the customer needs to have 100% trust in the dive professional. This may be the first time the customer is going for a dive or they may be beginning a new aspect of diving, so having their trust is paramount; and if the SDI OWSDI's equipment is well maintained and looks new this will help establish that trust.
