@@ -27,6 +27,12 @@
       - [Equipment Use](#equipment-use)
       - [Preparedness](#preparedness)
       - [Answering Questions](#answering-questions)
+      - [Staying Current with Certifications](#staying-current-with-certifications)
+      - [Continuing to Learn](#continuing-to-learn)
+    - [Advancing Through the Professional Levels](#advancing-through-the-professional-levels)
+      - [Specialty and TDI Instructor](#specialty-and-tdi-instructor)
+      - [Course Director](#course-director)
+      - [Instructor Trainer](#instructor-trainer)
 
 # SDI Open Water Scuba Diver Instructor
 
@@ -269,3 +275,38 @@ It is the instructor's responsibly to make sure the assistant instructor knows e
 
 The more often courses are taught by an OWSDI the easier this process becomes but it is still a very good habit to review the text the students studied, just in case something was forgotten or the text has been updated. The OWSDI will need to learn to think on his feet as all questions asked by students may pertain to the current topic being discussed. This leads us into the need to stay current not only with materials but also certifications.
 
+#### Staying Current with Certifications
+
+CPR, first aid and oxygen administration are required for certification as an SDI OWSDI. It is the dive professional's responsibility to keep these certifications current; most must be renew every two years. Staying current with CPR, first aid and oxygen administration is not just a matter of adhering to standards; in the unfortunate event an accident does occur the dive professional will know what to do and how to handle the scene. CPR and first aid are an evolving and ever changing science and it is a prudent dive professional that stays abreast of the changes.
+
+Divers Continuing to LearnBeing prepared with the latest techniques and the basic equipment needed for CPR and first aid will not only help alleviate some of the stress associated with a diving accident, it will also produce a more positive outcome for the victim.
+
+#### Continuing to Learn
+
+Just like any other facet of life there is always more to learn, and no matter how long a dive professional has been involved with diving, they still haven't learned everything there is to know about the sport. Information is constantly changing. By continuing to expand their knowledge they will stay informed of these new ideas and will demonstrate to others that continuing education is needed at all levels. There are many avenues to continuing education from simply auditing a course taught by someone else to enrolling in a course to gain a certification that is not currently held. The simple moral here is: keep the mind open to new ideas, knowledge and techniques; they can all come in handy when a new situation is faced. The experience gained as an instructor will help tremendously when moving through the higher professional levels.
+
+### Advancing Through the Professional Levels
+
+SDI has many certification levels in-line with and above the OWSDI, each building on the previous and expanding the abilities of the dive professional. The following is a list of the certifications that can be obtained.
+
+#### Specialty and TDI Instructor
+
+An SDI OWSDI is the professional primarily responsible for training and certifying sport divers. After successful completion of both the SDI Instructor Development Course and the Instructor Evaluation Course, the SDI Instructor may independently conduct all core diver and leadership courses from SDI Open Water Scuba Diver through Assistant Instructor, as well as the SDI Advanced Adventure specialty. An SDI Instructor must be separately qualified and approved for each additional specialty diver course they wish to offer.
+
+TDI Pro CardA TDI Instructor is the professional primarily responsible for training and certifying technical divers. Naturally, certification as an SDI Instructor (or equivalent) is a prerequisite, as well as certification as a technical diver at the appropriate level. After successfully completing a technical instructor course for each technical level, the TDI Instructor may conduct technical diver and technical divemaster programs at that level.
+
+#### Course Director
+
+SDI Course Director is an advanced instructor rating within the SDI curriculum. An SDI Course Director at this level may independently conduct the SDI Instructor Development Course (but not the Instructor Evaluation Course). The Course Director may also qualify SDI Instructors and SDI Assistant Instructors to teach approved SDI Specialties. The prerequisites for SDI Course Director include documented teaching experience in a wide range of SDI Diver and Dive Leadership programs.
+
+It should be noted that there is not a 'Course Director' rating in the TDI curriculum.
+
+#### Instructor Trainer
+
+'Instructor Trainer' is the highest leadership level in the curriculum of SDI, TDI and ERDI. As this title implies, SDI, TDI and ERDI Instructor Trainers are responsible for training, evaluating, and certifying SDI, TDI and ERDI Instructors, as well as SDI Course Directors. Prerequisites for SDI, TDI or ERDI Instructor Trainer include significant and extensive experience as an instructor. SDI has a single Instructor Trainer rating (with the exception of CPR, VIP and Solo ratings), while TDI has an Instructor Trainer rating at each technical level.
+
+These levels of training are what lie ahead for the OWSDI who chooses to advance. Each level provides the ability to pass on more experience and enthusiasm to those divers wanting to learn more. By achieving the higher levels of certification, the dive professional will be able to lead their customers on a journey of exploration and excitement.
+
+To recap, paying attention to one's appearance; being punctual; using well maintained equipment sold by the facility they work for; being very well prepared; answering students' questions correctly; staying current with certifications; and continuing to learn and better oneself are goals that all members should always be certain they accomplish. SDI members who are remiss in any of these areas may end up with quality assurance inquiries and risk losing their active status, or worse - potential expulsion.
+
+International Training takes quality assurance very seriously. As previously discussed, members are direct representatives of International Training. As such, members are expected to act professionally and maintain that professionalism throughout their career with International Training. Quality assurance is tested in several different ways, and specific guidelines have been established for responding to quality assurance concerns. The following section describes the quality assurance procedures and action steps.
