@@ -25,6 +25,8 @@
       - [Appearance](#appearance)
       - [Punctuality](#punctuality)
       - [Equipment Use](#equipment-use)
+      - [Preparedness](#preparedness)
+      - [Answering Questions](#answering-questions)
 
 # SDI Open Water Scuba Diver Instructor
 
@@ -248,3 +250,22 @@ Remember, if everything is ready to go when the students arrive for the class, p
 As discussed in the previous section on appearance, the dive professional and dive staff must maintain a professional image. Since scuba diving involves both above and below water interaction with the customers, it is important that the SDI OWSDI carry over that image to their underwater appearance. Dive professionals must use equipment sold by the store with which they are affiliated. This equipment should be top of the line, fairly new if not brand new and replaced every year or two. Students will look to the dive professionals as experts on equipment. They will want to emulate what they see these individuals using. The equipment must be maintained as required and any visual inspection stickers must be up to date. Old worn out equipment doesn't indicate an experienced diver, it indicates someone who doesn't care about their appearance or well-being. It may also give the impression the dive professional does not believe the newer equipment is as good as the equipment made in the past.
 
 Keeping in mind the first impression and how that builds confidence and trust in the customer, the in-water portion of the course is where the customer needs to have 100% trust in the dive professional. This may be the first time the customer is going for a dive or they may be beginning a new aspect of diving, so having their trust is paramount; and if the SDI OWSDI's equipment is well maintained and looks new this will help establish that trust.
+
+#### Preparedness
+
+If the dive professional is punctual this will help them to be prepared and if they are neither of these it will be obvious to the customer. The dive professional must prepare for every course they will be conducting. This means knowing what information or skills will be covered for the upcoming lesson. They should try to anticipate questions the students may have and then answer these questions with the information that is presented. Knowing the audience will help in planning. Is the class made up of young students as well as older individuals? If so, what analogies can be used to explain an idea to both age levels so they will all understand?
+
+Anticipate situations that may occur (play the "what if?" game) especially for in-water sessions. *Always think ahead.* Thinking ahead will allow proper planning and appropriate reaction in the event an unusual situation arises.
+
+A good practice is to mentally prepare for the course by going through all the motions; this is better done in a place where there are no distractions. By being mentally and physically prepared the SDI OWSDI and the students will experience a better course.
+
+#### Answering Questions
+
+It should be clear by now, there are a lot of elements to cover in order to be prepared for a course. Another crucial element is the instructor's ability to answer questions the students may have in a prompt and confident manner. The OWSDI should be able to answer these questions by drawing from their current knowledge or experience but perhaps the best way to prepare is to read the materials the students read. When an OWSDI has an assistant instructor assisting with a course, it is the instructor's responsibility to tell the assistant when they should and when they should not answer questions asked by the students. The instructor may wish to have all questions directed to him.
+
+> If the instructor allows the assistant instructor to answer questions, the assistant instructor must be "on the same page" as the instructor and not be contradictory with their answer.
+
+It is the instructor's responsibly to make sure the assistant instructor knows exactly what's expected of him.
+
+The more often courses are taught by an OWSDI the easier this process becomes but it is still a very good habit to review the text the students studied, just in case something was forgotten or the text has been updated. The OWSDI will need to learn to think on his feet as all questions asked by students may pertain to the current topic being discussed. This leads us into the need to stay current not only with materials but also certifications.
+
