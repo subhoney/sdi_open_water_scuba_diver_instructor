@@ -35,6 +35,8 @@
       - [Instructor Trainer](#instructor-trainer)
     - [Quality Assurance](#quality-assurance)
       - [General Quality Assurance (QA) Procedures](#general-quality-assurance-qa-procedures)
+    - [Using The SDI Standards and Procedures Manual](#using-the-sdi-standards-and-procedures-manual)
+      - [How to Use the SDI Standards and Procedures Manual](#how-to-use-the-sdi-standards-and-procedures-manual)
 
 # SDI Open Water Scuba Diver Instructor
 
@@ -323,3 +325,25 @@ All quality assurance matters are handled at SDI/TDI/ERDI World Headquarters by 
 Quality assurance survey letters, more commonly known as QA Letters, are sent out to students who were recently certified by members in good standing. These letters are sent with a self-addressed, return postage paid envelope or electronically via e-mail course survey form to solicit information about the course the student just completed. The questions in the letters might ask about the materials used for the course, the maximum depth achieved during the course, and other information that will help the ITI Training Department understand the student's experience during the course. SDI wants this information so that it can maintain the quality of instruction and ensure that proper training materials were used. In addition to the letters, SDI occasionally receives unsolicited emails and phone calls from students. The feedback from these QA letters, emails or phone calls can be negative or positive and either way the member's file is updated.
 
 Now that we have discussed the potential certifications that lie ahead, various member statuses and quality assurance procedures, it is important to know where to find all this information along with course specific standards. In the next section we will cover how to navigate through the SDI Standards and Procedures manual and where to locate the answers to most questions that arise during or before training.
+
+### Using The SDI Standards and Procedures Manual
+
+The SDI Standards and Procedures Manual is intended to be a guide to providing complete and enjoyable training to divers for the courses the OWSDI is qualified to teach. The SDI Standards and Procedures include not only standards for courses OWSDIs can teach but for all courses SDI/TDI/ERDI Instructors can teach. The OWSDI should reference the SDI Standards and Procedures to achieve consistency and quality. They outline the vital "core knowledge" that each student needs to master to achieve SDI certification. Finally, but no less important, the manual is intended to help effectively deliver the skills and knowledge students will actually need.
+
+The SDI Standards and Procedures Manual is meant to be a "living manual" - updated on a regular basis, it is meant to grow and change throughout the OWSDI's career. From time to time member updates will be received; the OWSDI should be sure to incorporate these updates promptly so that their manual is always up to date.
+
+#### How to Use the SDI Standards and Procedures Manual
+
+The SDI Standards and Procedures Manual has intentionally been kept brief but concise. The manual consists of several parts, which are:
+
+1. Introduction
+1. Diver Standards
+1. Diver Specialties
+1. Leadership Standards
+1. Appendix
+
+Each part of the SDI Standards and Procedures Manual is designed to have the same look and flow. Parts 2 and 3 have a general course standard followed by the specific standards for each course. The general standards apply to all standards within that section. The course specific standards are listed in a logical order and follow the normal progression of training. When clarification is needed for a specific course, refer to the general standard at the beginning of that part first, then refer to the course specific standard. If the intent of the standard is still not clear, call or email the Training Department of SDI World Headquarters.
+
+Each of these parts also contains the information needed in order to meet minimum standards. Minimum standards ensure proficiency at a given level and stipulate that the course content can be no less than what is required by the standard. The standard for the specific course being taught should be reviewed prior to teaching that particular course and should be reviewed again before completion to ensure the standard was met. If the instructor adheres to the standards, uses the course materials combined with their experience and knowledge they will produce a well-rounded and proficient diver.
+
+All forms necessary to complete the administrative tasks associated with conducting a course will be found in Part Five (5) Appendix.
