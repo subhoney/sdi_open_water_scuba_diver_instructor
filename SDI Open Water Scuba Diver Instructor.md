@@ -11,6 +11,9 @@
     - [SDI Requirements for OWSDI Certification](#sdi-requirements-for-owsdi-certification)
       - [Prerequisites for OWSDI Certification](#prerequisites-for-owsdi-certification)
       - [Additional Requirements](#additional-requirements)
+    - [Membership Status](#membership-status)
+      - [Active Teaching Status](#active-teaching-status)
+      - [Probation Status](#probation-status)
 
 # SDI Open Water Scuba Diver Instructor
 
@@ -135,3 +138,21 @@ Upon successful completion of the Open Water Scuba Diver Instructor course, the 
 - Teach approved specialties after receiving training in those specialties.
 
 As described above, the SDI Open Water Scuba Diver Instructor must have achieved certain requirements before starting and met the final guidelines, in order to complete the OWSDI course. Once certified, the OWSDI will need to meet and maintain an established set of guidelines in order to remain an active SDI Instructors. Should an SDI member fail to meet the established guidelines for active teaching status, their status may be adjusted accordingly as defined in the following section.
+
+### Membership Status
+
+The status of a SDI Dive Leader, along with their qualifications, defines what they are able to do and to whom they are allowed to teach and issue certifications. SDI has established specific guidelines that must be adhered to in order for an SDI OWSDI to become and remain active status.
+
+If a dive leader fails to meet the minimum guidelines, they will be placed on a different status, which may limit or prevent some or all of their abilities as an SDI Dive Leader until the situation is rectified.
+
+The definition, description and abilities of each member's status within the SDI System are defined below, as well as potential reasons a dive leader would be placed on the associated status.
+
+#### Active Teaching Status
+
+An SDI OWSDI given the designation of active teaching status must adhere to the following criteria: their annual dues and account balances from the previous year must be paid in full, they must submit proof of current liability insurance where required by law, they must have taught or assisted in at least one SDI Open Water Scuba Diver course and have the ability to perform all leadership skills to demonstration quality. Once all criteria have been met, the SDI Open Water Scuba Diver Instructor is authorized to teach SDI courses and certify students for courses in which they are certified to do so as stipulated by the SDI Standards.
+
+#### Probation Status
+
+An SDI OWSDI may be placed on probation status for any of the following reasons: their account balance is older than 90 days, they have failed to meet the contractual obligations of active teaching status or they have violated teaching standards.
+
+An OWSDI placed on probation status is authorized to teach SDI courses and to certify SDI Divers. However, further standards violations may result in an SDI Open Water Scuba Diver Instructor being moved from probation status to suspended or even expelled status.
