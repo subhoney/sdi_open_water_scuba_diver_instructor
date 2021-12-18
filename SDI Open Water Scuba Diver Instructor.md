@@ -1,7 +1,3 @@
-# SDI Open Water Scuba Diver Instructor
-
-## The SDI Open Water Scuba Diver Instructor: Part 1
-
 - [SDI Open Water Scuba Diver Instructor](#sdi-open-water-scuba-diver-instructor)
   - [The SDI Open Water Scuba Diver Instructor: Part 1](#the-sdi-open-water-scuba-diver-instructor-part-1)
     - [Introduction](#introduction)
@@ -15,6 +11,10 @@
     - [SDI Requirements for OWSDI Certification](#sdi-requirements-for-owsdi-certification)
       - [Prerequisites for OWSDI Certification](#prerequisites-for-owsdi-certification)
       - [Additional Requirements](#additional-requirements)
+
+# SDI Open Water Scuba Diver Instructor
+
+## The SDI Open Water Scuba Diver Instructor: Part 1
 
 ### Introduction
 
@@ -81,6 +81,57 @@ We believe that your diving experience should be exhilarating and personally rew
 
 ### SDI Requirements for OWSDI Certification
 
+The SDI Open Water Scuba Diver Instructor (OWSDI) program is the next step in a professional diving career. Upon successful completion of this program, the OWSDI will be able to introduce students to the underwater world for the first time and teach all of the SDI core programs. These core programs start with the open water scuba diver and progress through the assistant instructor level. Teaching these new levels will bring more responsibility and new challenges.
+
+The OWSDI is comprised of two parts, the Instructor Development Course (IDC) and the Instructor Evaluation Course (IEC)In order to meet the responsibilities and challenges of the IDC/IEC, it’s vital that the OWSDI candidate be prepared to begin the training process. To help ensure the candidate is prepared, an established set of prerequisites must be met to start the program. The prerequisites include:
+
 #### Prerequisites for OWSDI Certification
 
+- Be at least 18 years of age
+- Certified diver for at least six (6) months
+- Certified as an SDI Assistant Instructor or Divemaster or equivalent
+- Hold a current CPR and first aid certification (ie current and valid CPROX - certification)
+- Qualified as an Oxygen Provider
+- Have a current medical examination for diving
+- Minimum of 100 logged dives completed in various environments with varying depths (a - minimum of 25 of which must be using a PDC)
+- Possess the minimum instructional equipment as defined in the leadership standards.
+
 #### Additional Requirements
+
+- The student must teach a minimum of:
+  - Two (2) classroom presentations in the Instructor Development Course (IDC)
+  - One (1) classroom presentation at least fifteen (15) minutes long for the instructor - Evaluation Course (IEC)
+  - Two (2) lessons in confined water (IDC)
+  - One (1) full lesson in confined water (IEC)
+  - Two (2) lessons in open water (IDC)
+  - One (1) full lesson in open water (IEC)
+- Show preparation, planning and control in
+  - Dive management
+  - Diving activities
+
+- Complete a minimum of 100 hours of training (no more than 40 can be credited from the divemaster or assistant instructor program at the instructor trainers discretion). Fifty hours must occur under the direct supervision of a current Course Director or Instructor Trainer.
+- Complete all subject areas as defined in the SDI Standards and Procedures.
+- Successfully pass the SDI Instructor exams (IEC)
+- Must complete the IEC within six (6) months of completion of the IDC
+  - Ten (10) minute survival float, without the use of swimming aids
+  - Swim 400 metres on the surface without any swim aids in less than 10 minutes
+  - Swim 800 metres on surface with mask, snorkel and fins non-stop without the use of  - arms in less than 17 minutes
+  - Demonstrate all Open Water Scuba Diver skills at an instructor quality level
+Scuba surface bail-out
+
+- With all equipment in hand and cylinder tuned off descend to 2.5 meters / 8 ft
+  - Turn cylinder on, replace mask, snorkel and scuba unit
+  - With all equipment on and mask cleared ascend slowly
+
+In a pool or confined water setting:
+
+- Perform, to demonstration quality, all skills listed in the SDI Open Water Scuba Diver course.
+- Pool/confined water problem solving
+
+Upon successful completion of the Open Water Scuba Diver Instructor course, the OWSDI is qualified to conduct the following: Teach all SDI core levels from Open Water Scuba Diver through Assistant Instructor, where allowed.
+
+- Teach the SDI Computer Diver Specialty
+- Teach the Advanced Adventure Specialty
+- Teach approved specialties after receiving training in those specialties.
+
+As described above, the SDI Open Water Scuba Diver Instructor must have achieved certain requirements before starting and met the final guidelines, in order to complete the OWSDI course. Once certified, the OWSDI will need to meet and maintain an established set of guidelines in order to remain an active SDI Instructors. Should an SDI member fail to meet the established guidelines for active teaching status, their status may be adjusted accordingly as defined in the following section.
