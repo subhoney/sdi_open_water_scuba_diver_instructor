@@ -18,6 +18,9 @@
       - [Suspended Status](#suspended-status)
       - [Expelled Status](#expelled-status)
     - [Annual Dive Professional Renewal](#annual-dive-professional-renewal)
+  - [The SDI Open Water Scuba Diver Instructor: Part 2](#the-sdi-open-water-scuba-diver-instructor-part-2)
+    - [Professional Responsibilities of the OWSDI](#professional-responsibilities-of-the-owsdi)
+      - [SDI Code of Ethics and Conduct](#sdi-code-of-ethics-and-conduct)
 
 # SDI Open Water Scuba Diver Instructor
 
@@ -196,3 +199,30 @@ Once the renewal form is received by SDI/TDI/ERDI Headquarters the dive professi
 An online option is also available on the member services page of the SDI/TDI/ERDI website. Click on that option and follow the directions. Not only does the online option allow for a more timely renewal process but also it is eco friendly by not requiring the use of paper.
 
 Please remember that, as mentioned before, SDI is there to help the member be successful. The SDI OWSDI should contact them if they have any questions about anything regarding the collective relationship and responsibilities. Every attempt has been made to make the renewal process easy, and in many cases, what seems to be a major issue can be solved very easily simply by talking to someone at ITI World HQ or your Regional Office.
+
+## The SDI Open Water Scuba Diver Instructor: Part 2
+
+### Professional Responsibilities of the OWSDI
+
+Now that we know what it takes to become an SDI OWSDI we will discuss the SDI Code of Ethics and Conduct as well as the related professional responsibilities that reinforce the Code of Ethics. While some of the responsibilities described may seem somewhat general, they are issues often overlooked and worth discussing.
+
+#### SDI Code of Ethics and Conduct
+
+
+The following items apply to all SDI professionals: 
+
+ - Sport diving is recognized as carrying a degree of risk and responsibility not normally associated with other recreational sports.
+ - We believe an individual should not be qualified as a SDI diver unless those empowered to qualify the person would allow them to buddy or teach their loved ones recreational diving.
+ - The professional always maintains their equipment and never begins a dive with defective equipment.
+ - The professional strives to maintain an attitude of professionalism and objectivity, and supports the concept of safety in recreational diving.
+ - The professional will not encourage or recruit other individuals to dive recreationally if unqualified.
+ - The professional will make every effort to pass on their knowledge to novice recreational divers and the diving community if requested to do so, whether through formal instruction, answering questions or via appropriate publication in books,journal and magazines.
+ - The professional strives to encourage and practice an awareness of conservation of the underwater environment at all times.
+ - The professional, by virtue of his or her voluntary membership, recognizes a responsibility and obligation to promote SDI and TDI, and support the official decisions as adopted by SDI and TDI; in fulfilling this responsibility and obligation, SDI and TDI members shall:
+   -  Publicly support SDI and TDI as organizations.
+   -  Make every effort to bring about necessary changes in a professional manner by direct contact with those fellow SDI and TDI members who are in positions of authority and responsibility.
+ - Every member has an obligation to report violations of SDI and/or TDI Standards and the Code of Ethics.
+ - Every member should strive to set an example of professional behavior and ethical conduct in all activities including, public speaking, articles and books, and various forms of Internet style discourse.
+ - Unwarranted critical comment and deliberate inflammatory statements of diving peers is inappropriate and undesirable.
+
+ The professional responsibilities are more than just the knowledge and experience gained getting to this point; a dive professional is an ambassador to the community for the scuba industry. They must present themselves in a positive, professional manner especially when they are teaching students or have responsibility for a group. To maintain a professional image and meet those professional responsibilities they must adhere to the guidelines on the following pages.
