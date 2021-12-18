@@ -2,15 +2,85 @@
 
 ## The SDI Open Water Scuba Diver Instructor: Part 1
 
-- [Introduction](#introduction)
-- [The History of ITI](#the-history-of-iti)
-- [ITI Philosophy](#iti-philosophy)
-- [SDI Requirements for Open Water Scuba Diver Instructor (OWSDI) Certification](#sdi-requirements-for-open-water-scuba-diver-instructor)
-- [Membership Status](#membership-status)
-- [Annual Dive Professional Renewal](#anual-dive-professional-renewal)
-- [Review Questions](#review-questions)
+- [SDI Open Water Scuba Diver Instructor](#sdi-open-water-scuba-diver-instructor)
+  - [The SDI Open Water Scuba Diver Instructor: Part 1](#the-sdi-open-water-scuba-diver-instructor-part-1)
+    - [Introduction](#introduction)
+    - [The History of ITI](#the-history-of-iti)
+      - [Technical Diving International](#technical-diving-international)
+      - [Scuba Diving International](#scuba-diving-international)
+      - [Emergency Response Diving International](#emergency-response-diving-international)
+      - [Recreational Scuba Training Council and World Recreational Scuba Training Council](#recreational-scuba-training-council-and-world-recreational-scuba-training-council)
+    - [ITI Training Philosophy](#iti-training-philosophy)
+      - [The Mission of International Training](#the-mission-of-international-training)
+    - [SDI Requirements for OWSDI Certification](#sdi-requirements-for-owsdi-certification)
+      - [Prerequisites for OWSDI Certification](#prerequisites-for-owsdi-certification)
+      - [Additional Requirements](#additional-requirements)
 
 ### Introduction
 
 The next several chapters cover a good deal of valuable background information for the OWSDI candidate including: an overview of International Training's history and philosophy; requirements for certification as an SDI OWSDI and the SDI Member's responsibilities after certification; International Training's quality assurance procedures; and finally, a description of the SDI Standards and Procedures manual and what information it contains. Having a clear understanding of these things will help the candidate understand what is expected of a well-rounded SDI Dive Professional, and in turn, what the dive professional can expect of ITI; this will help establish and promote a long and healthy business relationship.
 
+### The History of ITI
+
+From its humble beginning in 1994 to today, the group of training agencies Scuba Diving International (SDI), Technical Diving International (TDI), and Emergency Response Diving International (ERDI) form one of the largest diving certification agencies in the World International Training Inc (ITI). With 26 regional offices servicing more than 100 countries, the company today far exceeds the original vision the founders had when they conceived the idea on a napkin, sitting at a kitchen table in the early 1990s.
+
+As with many companies, the original concept for the business was an outgrowth of the recognition that a niche needed to be filled. This niche was providing specialized training for what the industry now calls technical diving, and the founders did so by forming the first agency of the group, Technical Diving International, in 1994.
+
+ITI is headquartered in Stuart, Florida, United States, with regional and local offices located in more than 28 locations around the world.
+
+#### Technical Diving International
+
+Technical Diving International was one of the first agencies of its kind. It’s focus was and still is on providing training materials and education for specialized diving situations ranging from Nitrox to closed circuit rebreathers, as well as for overhead environments such as caves and wrecks. TDI also provides training in the preparation of gas mixtures for dives up to 100 meters (330 feet).
+
+During TDI’s development, there were a few key factors that separated it from its competitors and pioneered the way many people learn to dive today. For one, TDI was at the forefront of the movement that convinced the dive industry to accept technical diving activities.
+
+In the early stages of technical diving there were many industry professionals who felt the average diver was not smart enough to handle the expanded dive planning that goes into doing a technical dive, and that technical diving was far too risky for non-professionals. These two factors were offset at TDI by an extensive education process conducted through seminars, publications, and TDI’s training materials. The average diver realized that the risk in technical diving could be brought to an acceptable level and they were indeed smart enough to conduct technical dives.
+
+Today, the industry not only embraces technical diving, but nitrox is now the most popular specialty course taken worldwide. Another key event in TDI’s history occurred when it pioneered the use of semi closed circuit rebreathers (SCR) by recreational divers. This opened the door to allow divers to use closed circuit rebreathers (CCR) recreationally and spawned a whole new segment of the dive industry. In short, TDI ushered in an exciting breakthrough in the dive industry that many believe actually prevented the industry from further decline.
+
+#### Scuba Diving International
+
+In 1998 the membership of TDI could no longer be held back from the demand to create a sport diving division of TDI and thus was born Scuba Diving International (SDI). The primary reason for this expansion was that dive instructors valued dealing with an agency that listened to the instructors in the field and created programs that were, and continue to be, very profitable because they are tailored to the way today's diver wants to learn to dive.
+
+Like TDI, SDI did a number of things that separated it from previously established training agencies. One example is that SDI was the first agency to require the use of 'Personal Dive Computers' (PDC) by all students during all phases of training. This new standard was put in place because PDCs were and are used daily by most divers to make diving safer, more enjoyable and less intimidating. Research showed that the average diver forgot how to use dive tables soon after completion of a course. This fact along with the advancement and increased reliability of dive computers meant they were considered a better alternative to dive tables. SDI recognized this and although dive tables are not required curriculum in the basic diver course, they still can be taught during any course.
+
+Another groundbreaking step taken by SDI was the development of an e-learning platform for dive education. The idea of allowing a student to learn the academic portion of a dive course online rather than requiring additional classroom instruction was a bold yet visionary step. Currently SDI is one of only a few agencies that offer divers the opportunity to learn online.
+
+#### Emergency Response Diving International
+
+With the membership now happy about their options for both sport and technical dive training through SDI and TDI, they continued to ask for more specialized training in public safety diving, and thus Emergency Response Diving International (ERDI) was born in 2000. ERDI was and continues to be the only training program that is supported by a major certification agency catering exclusively to public safety diving. Throughout the years ERDI has written programs that have trained very established dive teams such as the Chicago Fire Department, numerous state police dive teams, and several federal agencies.
+
+#### Recreational Scuba Training Council and World Recreational Scuba Training Council
+
+In 2004, with 10 years of development into the company, the founders of SDI/TDI/ERDI decided it was time to move on and sold the company to a group of investors who quickly expanded the offerings of the company. Immediate changes included applying for and receiving acceptance into the Recreational Scuba Training Council (RSTC) and the European Underwater Federation (EUF). This acceptance was critical because it meant that SDI standards were evaluated and found to be sound and safe by its competitors. SDI passed with ease and today is actively involved in both organizations, helping maintain diver safety. Other changes came with additional staff and a commitment to embrace electronic technologies to make doing business easier for members
+
+Although SDI/TDI/ERDI is considered to be one of the newer organizations in the industry, it is viewed as one of the most professional and progressive certification agencies. ITI’s history and its reputation as an innovator have built a strong foundation for the future. By listening to its members, building programs that are profitable and addressing scuba diving’s inherent risks in a positive way, the future is bright for the organization.
+
+### ITI Training Philosophy
+
+International Training is the parent company for Scuba Diving International (SDI), Technical Diving International (TDI) and Emergency Response Diving International (ERDI). Our philosophies for this dedicated family of dive training agencies are based on the simple principles included in our mission statement that we are proud to share with you.
+
+#### The Mission of International Training
+
+To advance and extend knowledge, learning and culture as it relates to diving.
+
+To provide opportunities for those who want to learn to dive and for currently certified divers to develop intellectually, personally and professionally.
+
+To prepare educated, responsible divers through the education offered by our three agencies; Scuba Diving International (SDI), Technical Diving International (TDI) and Emergency Response Diving International (ERDI).
+
+While keeping with the team structure and family atmosphere that fosters support, mentoring and mutual respect. We will contribute by…
+
+- Earning our customers’ business daily by providing superior service and products.
+- Growing with our customers to meet their needs.
+- Building long-term business relationships on a foundation of customer satisfaction.
+- Employing cutting edge technologies to maintain a competitive advantage.
+
+When you experience that we have met our mission in interacting with you we sincerely hope you will share your positive experience with others. Should you ever feel that we have fallen short of our mission or more importantly of your expectations, please let us know!
+
+We believe that your diving experience should be exhilarating and personally rewarding at every turn. This includes your experiences with us. As such, we want to ensure that you are well informed about the requirements for certification as an SDI OWSDI, what is expected of you after certification and what your role as an SDI OWSDI will be.
+
+### SDI Requirements for OWSDI Certification
+
+#### Prerequisites for OWSDI Certification
+
+#### Additional Requirements
