@@ -44,6 +44,9 @@
     - [Inherent Risks in Scuba Diving](#inherent-risks-in-scuba-diving)
     - [Anatomy of a Lawsuit](#anatomy-of-a-lawsuit)
     - [Defensive Teaching and Supervising](#defensive-teaching-and-supervising)
+    - [Student Training Records](#student-training-records)
+    - [Medical Statement](#medical-statement)
+    - [Liability Releases](#liability-releases)
 
 # SDI Open Water Scuba Diver Instructor
 
@@ -434,3 +437,49 @@ The dive leader's best defense in any lawsuit is that he acted in full complianc
 In addition, the prudent professional will never allow an individual under his charge to engage in activities for which that individual is not qualified, nor allow an individual under his charge to dive with malfunctioning or inadequate equipment.
 
 While supervising students or certified divers, the prudent professional will expect the unexpected. Though the dive leader may exercise great effort and care in presenting information during a dive briefing, he should never assume that everything will go exactly as planned. The dive leader must recognize that, sooner or later, a student or diver may suddenly divert into some behavior that is exactly opposite of what has been briefed. The prudent professional will anticipate the various contingencies that might occur, and will formulate a plan to quickly and appropriately respond.
+
+### Student Training Records
+
+To defend against any later allegations of negligent or inadequate training, it is vitally important to thoroughly document each student's training activities.
+
+The SDI and TDI Student Training Record folders are specially designed to document a student's successful completion of all academic, confined water and open water sessions, as well as all written tests and skills performance. The folder itself includes the medical statement and liability release forms (each of these forms will be addressed in more detail later). Additional documentation that should be inserted into this folder includes the student's completed Knowledge Quest / Scuba IQ Review exercises, written exams, and clearance by a medical professional (if needed).
+
+As a training program progresses, each student's training records should be appropriately updated following each session. Whenever a student encounters some initial difficulty in mastering a skill or academic concept, the appropriate review and remediation also should be documented to demonstrate that in fact the shortcoming was addressed and that the student subsequently mastered this skill or concept.
+
+Naturally, the training records should identify the instructor who conducted each session. It also will be helpful to note other dive leaders who were involved in the training. As an additional precautionary measure, a copy of the class roster also may be added to the folder, listing all students participating in the program, in the event that someday they may be called upon as witnesses to verify the adequacy of the training activities.
+
+All training records should be preserved for a period of seven years. At some dive facilities it is the responsibility of the individual instructor who conducted the training to maintain these records. In other cases it will be the dive facility itself that maintains these records.
+
+### Medical Statement
+
+Diving is a physically demanding activity and, as such, it clearly requires a certain level of health and fitness; lacking appropriate health and fitness, the individual potentially will be placed at increased risk.
+
+Both SDI and TDI have standard medical statement forms that each participant in all SDI and TDI training programs are required to complete. The medical statement is basically a screening tool, to ensure that an individual possesses the prerequisite level of general health and fitness to participate in diving. This form must be completed in its entirety (with no questions left blank), then signed and dated by the student; the medical statement for a minor also must be signed and dated by that student's parent or legal guardian. If a student answers "yes" to any question on this form, it does not necessarily preclude him or her from participation; however, with any "yes" answer the student will be required to obtain written clearance from a medical professional prior to participating in any in-water training activities. It also should be noted that if the student in question happens to be a physician, that student cannot provide his own medical clearance but instead must obtain written clearance from another medical professional.
+
+The instructor conducting the program should review the medical statement with the students and appropriately address any particular issues or concerns that might arise.
+
+> The instructor, however, should never coach a student regarding his answers to any of the medical questions, and never create any hint of suggestion that a student should falsely answer "no" to any question on this form.
+
+Students always must be encouraged to answer these questions honestly and accurately, since concealing any applicable medical condition might expose that student to unnecessary risk.
+
+Any "yes" answer on the medical statement requires evaluation by a qualified medical professional, to determine whether an individual possesses the appropriate level of general health and fitness to participate in diving. The instructor, as a layman, clearly lacks the medical qualifications to make this type of evaluation and to authoritatively clear an individual for diving. Despite the fact that a medical condition might appear minor and inconsequential, in no case should the instructor intentionally overlook any "yes" answer on the medical statement and allow that student to participate in in-water activities without medical clearance; doing so can easily lead to a claim of negligence if any injury subsequently occurs. In fact, this requirement for medical clearance, when indicated, is one of the provisions itemized in every standard liability insurance policy within the dive industry, and failure to adhere to this requirement may well void the insurance coverage for both the dive professional and the dive facility.
+
+On occasion, the situation may arise where there is some reason to question a student's health and fitness for diving, even though that student has answered "no" to each question on the medical statement. It might involve something as obvious as a large surgical scar over the center of a student's chest, or something less tangible such as significant overexertion while performing a relatively benign physical task. Whenever any such question arises, the dive leader should address the issue with the student and if any concern lingers the dive leader should request medical clearance prior to further participation. At the same time, even with clearance by a medical professional, the ultimate decision for accepting a student into any training program rests with the instructor.
+
+As a matter of routine, most instructors, assistant instructors, and dive facilities have the students complete their medical statement forms at the beginning of each course.
+
+> It is important to recognize that on occasion, especially in the case of entry-level divers enrolled in an Open Water Scuba Diver course, there can be some disappointment and possible resentment when an individual first learns that he will need medical clearance only after they arrive for the initial training session.
+
+To avoid this situation, conscientious dive leaders and dive facilities will make the medical statement available to each student ahead of time, the student might be provided with a photocopy of the medical statement at the time of enrollment in the course, or may be instructed to carefully review a copy of the medical statement, which has been posted on the dive facility's website. When medical clearance is required, the student also should be provided with the appropriate SDI or TDI form for the physician's use.
+
+SDI and TDI Standards require each participant to complete a medical statement for all training programs, but do not require a medical statement for participation in other non-training activities. It must be noted, however, that local regulations can vary, and more-restrictive local regulations will supersede the SDI and TDI Standards. For example, in some jurisdictions it may be required that every student obtains medical clearance prior to any in-water training activities, and in other areas a medical statement might be required even for non-training activities.
+
+### Liability Releases
+
+The liability release is effectively a legal contract between the participant and the dive leader and/or dive facility, within which the participant acknowledges and accepts the inherent risks of scuba diving and also agrees to hold the dive leader and/or dive facility harmless if injury should occur. In some cases a properly executed liability release will provide sufficient basis for dismissal of a lawsuit. In other cases the liability release will serve to mitigate damages.
+
+SDI and TDI each have standard liability release forms that apply to each of their respective diver training programs; there also is a supplemental liability release form for the SDI Solo Diver course, and additional SDI liability release forms for non-training activities including guided dives and boat dives.
+
+In each training program the instructor conducting the program should review the applicable liability release with the students and appropriately address any particular issues or concerns that might arise. Each individual must complete the form in its entirety (with no lines left blank), and under no circumstances should the dive leader allow any of the pre-printed text to be modified in any manner. Each paragraph on the form must be initialed, the form must be signed and dated by the participant, and the form for any minor must also be signed and dated by that student's parent or legal guardian; finally the form should be signed and dated by a third-party witness (such as another student).
+
+Similarly, in non-training activities the dive leader supervising the activities should review the applicable liability release with the participants and address any issues or concerns. Again, this form should be completed in its entirety, each paragraph should be initialed by the participant, and the form should be signed, dated, and witnessed.
