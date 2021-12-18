@@ -37,7 +37,7 @@
       - [General Quality Assurance (QA) Procedures](#general-quality-assurance-qa-procedures)
     - [Using The SDI Standards and Procedures Manual](#using-the-sdi-standards-and-procedures-manual)
       - [How to Use the SDI Standards and Procedures Manual](#how-to-use-the-sdi-standards-and-procedures-manual)
-      - [Part 1, Introduction, Covers](#part-1-introduction-covers)
+      - [Part 1, Introduction Summary](#part-1-introduction-summary)
       - [Part 2, Diver Standards Summary](#part-2-diver-standards-summary)
       - [Part 3, Specialties Summary](#part-3-specialties-summary)
       - [Part 4, Leadership Standards Summary](#part-4-leadership-standards-summary)
@@ -363,7 +363,7 @@ Each of these parts also contains the information needed in order to meet minimu
 
 All forms necessary to complete the administrative tasks associated with conducting a course will be found in Part Five (5) Appendix.
 
-#### Part 1, Introduction, Covers
+#### Part 1, Introduction Summary
 
 - The Need for Standardized Instruction
   - Explains SDI/TDI/ERDI's progressive approach to consistency and excellence in instruction
