@@ -37,6 +37,9 @@
       - [General Quality Assurance (QA) Procedures](#general-quality-assurance-qa-procedures)
     - [Using The SDI Standards and Procedures Manual](#using-the-sdi-standards-and-procedures-manual)
       - [How to Use the SDI Standards and Procedures Manual](#how-to-use-the-sdi-standards-and-procedures-manual)
+      - [Part 1, Introduction, Covers](#part-1-introduction-covers)
+      - [Using The SDI Standards and Procedures Manual](#using-the-sdi-standards-and-procedures-manual-1)
+    - [Chapter 1 and 2 Summary](#chapter-1-and-2-summary)
 
 # SDI Open Water Scuba Diver Instructor
 
@@ -347,3 +350,38 @@ Each part of the SDI Standards and Procedures Manual is designed to have the sam
 Each of these parts also contains the information needed in order to meet minimum standards. Minimum standards ensure proficiency at a given level and stipulate that the course content can be no less than what is required by the standard. The standard for the specific course being taught should be reviewed prior to teaching that particular course and should be reviewed again before completion to ensure the standard was met. If the instructor adheres to the standards, uses the course materials combined with their experience and knowledge they will produce a well-rounded and proficient diver.
 
 All forms necessary to complete the administrative tasks associated with conducting a course will be found in Part Five (5) Appendix.
+
+#### Part 1, Introduction, Covers
+
+- The Need for Standardized Instruction
+  - Explains SDI/TDI/ERDI's progressive approach to consistency and excellence in instruction
+- The Role of a Dive Professional
+  - Emphasizes the important role the SDI Open Water Scuba Diver Instructor plays in the SDI/TDI/ERDI family
+- Risk Management
+  - Directs the dive professional to further information to protect them against a problem that could consume their career; of course, they always want to be the best OWSDI possible
+- Tips to Becoming a Great Instructor
+  - Tips that offer information to help them be a better teacher and a respected professional in dive instruction
+- How to Conduct an SDI/TDI/ERDI Scuba Course
+  - Covers the general approach to scheduling a scuba course and enrolling students: focuses on the logistics and details (medical and legal) of scheduling training sessions, organizing students, collecting class fees and motivating students to attend all of the course sessions
+
+#### Using The SDI Standards and Procedures Manual
+
+**Part 2, Diver Standards Covers:**
+
+Part Two (2) contains standards for the core SDI training programs including Snorkeling, Scuba Discovery Program, Inactive Diver Program as well as the Advanced Diver Development and Master Diver certifications. Some of these programs the OWSDI may have the ability to teach. When developing a path for a diver wanting to continue their education, this is the part to refer to.
+
+**Part 3, Specialties Covers:**
+
+Part Three (3) has all the course specific specialty standards offered by SDI. The SDI OWSDI can teach a number of these specialties (once certified for each specific level). When working with a diver to determine their interests in diving, the OWSDI can refer to this section to inform them of the prerequisites for the courses and what the courses will entail. As noted earlier, this is also where the OWSDI would review what is required during a course prior to teaching it.
+
+**Part 4, Leadership Standards covers:**
+
+SDI’s Leadership Course standards can be found in Part Four (4) of the Standards and Procedures Manual. After successful completion of the SDI OWSDI course the next step can be mapped out. The OWSDI may wish to gain additional specialty instructor ratings or become a TDI Instructor and this section will make clear what will be expected.
+
+**Part 5, Appendix covers:**
+
+All forms necessary for completing administrative tasks can be found in this part, from student registration forms to the proper form to use when reporting an incident/accident. Part Five (5) also contains all of the forms that are required at the beginning of a course such as the general liability release form and the medical history form.
+
+All of the various parts of the SDI Instructor manual can be found in the member section of our website https://www.tdisdi.com as well as on the Standards and Procedures CD and the printed version of the SDI Standards and Procedures. SDI's Training Department routinely updates these standards and provides member updates quarterly during the year. At the beginning of each year all standards are updated on the website and it is the responsibility of the dive professional to ensure these updates are noted in their SDI Instructor Manual.
+
+### Chapter 1 and 2 Summary
