@@ -14,6 +14,10 @@
     - [Membership Status](#membership-status)
       - [Active Teaching Status](#active-teaching-status)
       - [Probation Status](#probation-status)
+      - [Non-Teaching Status](#non-teaching-status)
+      - [Suspended Status](#suspended-status)
+      - [Expelled Status](#expelled-status)
+    - [Annual Dive Professional Renewal](#annual-dive-professional-renewal)
 
 # SDI Open Water Scuba Diver Instructor
 
@@ -156,3 +160,39 @@ An SDI OWSDI given the designation of active teaching status must adhere to the 
 An SDI OWSDI may be placed on probation status for any of the following reasons: their account balance is older than 90 days, they have failed to meet the contractual obligations of active teaching status or they have violated teaching standards.
 
 An OWSDI placed on probation status is authorized to teach SDI courses and to certify SDI Divers. However, further standards violations may result in an SDI Open Water Scuba Diver Instructor being moved from probation status to suspended or even expelled status.
+
+#### Non-Teaching Status
+
+An SDI OWSDI can be placed on non-teaching status for any of the following reasons: their account balance is older than 90 days, they have been temporarily placed on suspension or they have failed to meet the contractual obligations of active teaching status.
+
+Should the SDI OWSDI be placed in a non-teaching status, they are not authorized to teach SDI courses or to certify SDI divers. Change of the member’s status will be provided in writing to the member from International Training’s HQ Training Department.
+
+#### Suspended Status
+
+An SDI OWSDI can be placed on suspended status for any of the following reasons: their account balance is older than 120 days and the SDI OWSDI has made no attempt to rectify the situation, they have failed to meet the contractual obligations of active teaching status or they have violated training standards.
+
+An SDI OWSDI placed on suspended status is not authorized to teach SDI courses or to certify SDI divers. Further standards violations can result in an SDI Open Water Scuba Diver Instructor being moved from suspended status to expelled status. Prior to being placed in a suspended status the SDI Open Water Scuba Diver Instructor will be notified in writing
+
+#### Expelled Status
+
+An SDI OWSDI can be placed on expelled status for any of the following reasons: their account balance is older than 120 days and the SDI OWSDI has made no attempt to rectify the situation, they have been placed on Suspended or Probation Status on more than one occasion, they have failed to meet the contractual obligations of active teaching status, or they have violated teaching standards and have displayed conduct unbecoming a professional SDI OWSDI.
+
+An SDI OWSDI placed on expelled status is no longer authorized to teach SDI courses or certify SDI divers. An SDI OWSDI who has been expelled is no longer considered a member of SDI.
+
+*NOTE*: ITI reserves the right to suspend, expel or terminate the membership of any member based upon the determination that standards violations have occurred by the individual.
+
+It is in the best interest of all parties that dive leaders remain on active status throughout their career; however, there are specific issues that arise from time to time. Should such a situation arise, the dive professional is encouraged to immediately contact SDI’s Training department so they may help solve the issue in the most efficient way possible. Remember, SDI is there to help the SDI Instructor be successful.
+
+### Annual Dive Professional Renewal
+
+As described in the previous section, SDI/TDI/ERDI Dive Professionals must renew their membership every year to remain active and able to conduct programs they are qualified to teach. Regardless of when a dive professional first became a member of SDI/TDI/ERDI they must renew by January 1 of each year. A reduced fee is offered if the dive professional renews prior to December 15.
+
+To renew membership, the dive professional can visit the 'Member Services' area of the SDI/TDI/ERDI website and print the renewal form, They must complete the form and send it by fax or mail to the ITI Regional Office through which they work. Only one form must be completed and only one fee paid, even if the dive professional is a member of SDI, TDI and ERDI.
+
+There are annual renewal requirements the member must meet to renew as an active dive professional. In addition there are renewal requirements that must be met every two years. If an individual does not meet these requirements they will be required to complete an update with a designated SDI/TDI/ERDI Headquarters Representative.
+
+Once the renewal form is received by SDI/TDI/ERDI Headquarters the dive professional's membership will be processed. A sticker indicating the member's new expiration date will be sent. This sticker must be placed on the member's dive professional card in the appropriate location.
+
+An online option is also available on the member services page of the SDI/TDI/ERDI website. Click on that option and follow the directions. Not only does the online option allow for a more timely renewal process but also it is eco friendly by not requiring the use of paper.
+
+Please remember that, as mentioned before, SDI is there to help the member be successful. The SDI OWSDI should contact them if they have any questions about anything regarding the collective relationship and responsibilities. Every attempt has been made to make the renewal process easy, and in many cases, what seems to be a major issue can be solved very easily simply by talking to someone at ITI World HQ or your Regional Office.
