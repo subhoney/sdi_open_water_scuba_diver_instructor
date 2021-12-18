@@ -10,3 +10,4 @@ This sport is full of acronyms. Here's what they mean.
 | ITI     | International Training Inc              |
 | OW      | Open Water                              |
 | OWSDI   | Open Water Scuba Diving Instructor      |
+| QA      | Quality Assurance                       |

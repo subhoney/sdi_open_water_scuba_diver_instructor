@@ -33,6 +33,8 @@
       - [Specialty and TDI Instructor](#specialty-and-tdi-instructor)
       - [Course Director](#course-director)
       - [Instructor Trainer](#instructor-trainer)
+    - [Quality Assurance](#quality-assurance)
+      - [General Quality Assurance (QA) Procedures](#general-quality-assurance-qa-procedures)
 
 # SDI Open Water Scuba Diver Instructor
 
@@ -220,22 +222,21 @@ Now that we know what it takes to become an SDI OWSDI we will discuss the SDI Co
 
 #### SDI Code of Ethics and Conduct
 
+The following items apply to all SDI professionals:
 
-The following items apply to all SDI professionals: 
-
- - Sport diving is recognized as carrying a degree of risk and responsibility not normally associated with other recreational sports.
- - We believe an individual should not be qualified as a SDI diver unless those empowered to qualify the person would allow them to buddy or teach their loved ones recreational diving.
- - The professional always maintains their equipment and never begins a dive with defective equipment.
- - The professional strives to maintain an attitude of professionalism and objectivity, and supports the concept of safety in recreational diving.
- - The professional will not encourage or recruit other individuals to dive recreationally if unqualified.
- - The professional will make every effort to pass on their knowledge to novice recreational divers and the diving community if requested to do so, whether through formal instruction, answering questions or via appropriate publication in books,journal and magazines.
- - The professional strives to encourage and practice an awareness of conservation of the underwater environment at all times.
- - The professional, by virtue of his or her voluntary membership, recognizes a responsibility and obligation to promote SDI and TDI, and support the official decisions as adopted by SDI and TDI; in fulfilling this responsibility and obligation, SDI and TDI members shall:
-   -  Publicly support SDI and TDI as organizations.
-   -  Make every effort to bring about necessary changes in a professional manner by direct contact with those fellow SDI and TDI members who are in positions of authority and responsibility.
- - Every member has an obligation to report violations of SDI and/or TDI Standards and the Code of Ethics.
- - Every member should strive to set an example of professional behavior and ethical conduct in all activities including, public speaking, articles and books, and various forms of Internet style discourse.
- - Unwarranted critical comment and deliberate inflammatory statements of diving peers is inappropriate and undesirable.
+- Sport diving is recognized as carrying a degree of risk and responsibility not normally associated with other recreational sports.
+- We believe an individual should not be qualified as a SDI diver unless those empowered to qualify the person would allow them to buddy or teach their loved ones recreational diving.
+- The professional always maintains their equipment and never begins a dive with defective equipment.
+- The professional strives to maintain an attitude of professionalism and objectivity, and supports the concept of safety in recreational diving.
+- The professional will not encourage or recruit other individuals to dive recreationally if unqualified.
+- The professional will make every effort to pass on their knowledge to novice recreational divers and the diving community if requested to do so, whether through formal instruction, answering questions or via appropriate publication in books,journal and magazines.
+- The professional strives to encourage and practice an awareness of conservation of the underwater environment at all times.
+- The professional, by virtue of his or her voluntary membership, recognizes a responsibility and obligation to promote SDI and TDI, and support the official decisions as adopted by SDI and TDI; in fulfilling this responsibility and obligation, SDI and TDI members shall:
+  - Publicly support SDI and TDI as organizations.
+  - Make every effort to bring about necessary changes in a professional manner by direct contact with those fellow SDI and TDI members who are in positions of authority and responsibility.
+- Every member has an obligation to report violations of SDI and/or TDI Standards and the Code of Ethics.
+- Every member should strive to set an example of professional behavior and ethical conduct in all activities including, public speaking, articles and books, and various forms of Internet style discourse.
+- Unwarranted critical comment and deliberate inflammatory statements of diving peers is inappropriate and undesirable.
 
  The professional responsibilities are more than just the knowledge and experience gained getting to this point; a dive professional is an ambassador to the community for the scuba industry. They must present themselves in a positive, professional manner especially when they are teaching students or have responsibility for a group. To maintain a professional image and meet those professional responsibilities they must adhere to the guidelines on the following pages.
 
@@ -310,3 +311,15 @@ These levels of training are what lie ahead for the OWSDI who chooses to advance
 To recap, paying attention to one's appearance; being punctual; using well maintained equipment sold by the facility they work for; being very well prepared; answering students' questions correctly; staying current with certifications; and continuing to learn and better oneself are goals that all members should always be certain they accomplish. SDI members who are remiss in any of these areas may end up with quality assurance inquiries and risk losing their active status, or worse - potential expulsion.
 
 International Training takes quality assurance very seriously. As previously discussed, members are direct representatives of International Training. As such, members are expected to act professionally and maintain that professionalism throughout their career with International Training. Quality assurance is tested in several different ways, and specific guidelines have been established for responding to quality assurance concerns. The following section describes the quality assurance procedures and action steps.
+
+### Quality Assurance
+
+As a professional member of a self-policing organization it is important to understand how the quality of training and the materials used in training are monitored. This section discusses how SDI does this and how feedback from those surveys and other annual administrative tasks can affect a member's status.
+
+All quality assurance matters are handled at SDI/TDI/ERDI World Headquarters by the Training Department. This is to ensure that ITI Regional Offices and Sales Managers remain neutral. The information gleaned during the QA process is used to improve the materials and standards as well as return positive feedback to the dive professionals providing quality training.
+
+#### General Quality Assurance (QA) Procedures
+
+Quality assurance survey letters, more commonly known as QA Letters, are sent out to students who were recently certified by members in good standing. These letters are sent with a self-addressed, return postage paid envelope or electronically via e-mail course survey form to solicit information about the course the student just completed. The questions in the letters might ask about the materials used for the course, the maximum depth achieved during the course, and other information that will help the ITI Training Department understand the student's experience during the course. SDI wants this information so that it can maintain the quality of instruction and ensure that proper training materials were used. In addition to the letters, SDI occasionally receives unsolicited emails and phone calls from students. The feedback from these QA letters, emails or phone calls can be negative or positive and either way the member's file is updated.
+
+Now that we have discussed the potential certifications that lie ahead, various member statuses and quality assurance procedures, it is important to know where to find all this information along with course specific standards. In the next section we will cover how to navigate through the SDI Standards and Procedures manual and where to locate the answers to most questions that arise during or before training.
