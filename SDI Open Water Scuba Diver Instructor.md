@@ -58,6 +58,9 @@
       - [Control the Scene](#control-the-scene)
       - [Taking Notes](#taking-notes)
       - [Interviewing Witnesses](#interviewing-witnesses)
+      - [Accident Reporting](#accident-reporting)
+      - [CPR and First Aid](#cpr-and-first-aid)
+    - [Summary: Chapters 3 and 4](#summary-chapters-3-and-4)
 
 # SDI Open Water Scuba Diver Instructor
 
@@ -593,3 +596,22 @@ Assign someone to interview witnesses in the area as to what they observed. Make
 - Email if possible
 
 It is guaranteed that the more severe the accident, the more probable it is an investigator will contact the witness(es).
+
+#### Accident Reporting
+
+Once the accident victim has been turned over to the proper authorities and the scene has been secured, the dive professional must collect all of the information gathered by the individuals assigned to take notes and interview witnesses. This information will help the dive professional when he writes the accident report.
+
+The dive professional should write the report as soon as realistically possible following the accident, while the event is still fresh in his memory. Because most insurance companies require notification of an accident within a certain amount of time, failure to promptly report the accident may create a coverage problem. The sooner the better is the best advice when it comes to completing and providing an accident report.
+
+The dive professional should use the appropriate accident form and provide only the information requested. Dive professionals should not provide any information to anyone other than ITI and their insurance agent. More importantly, dive professionals should not provide any information to a third party. If a statement must be made to the local authorities, only the facts should be provided. The dive professional should be cooperative with them and avoid voicing any judments, statements or opinions regarding the accident. Talking with the media should be avoided at all costs.
+
+Remember, anyone can be named in a lawsuit at anytime, especially those in charge of a group. In the event of an accident, it’s important that the dive professional document as many of the facts as possible to protect him and other responders.
+
+#### CPR and First Aid
+
+The initial certification as a dive professional requires that proof of current CPR and first aid training be submitted. After the initial certification it is the dive professional’s responsibility to maintain this training. Within the SDI/TDI system an individual has the option to take the CPROX1st or the CPROX1st AED program to keep this requirement satisfied.
+
+### Summary: Chapters 3 and 4
+
+This section covered various aspects of risk management and how to teach defensively. If these suggestions and procedures are followed when an accident/incident occurs, the process will be less traumatic and end with a more favorable outcome. Accidents can and will happen. An OWSDI can minimize the negative outcome of those accidents with proper training, proper planning and careful organization. Being prepared for an accident will help prevent accidents.
+
