@@ -61,6 +61,21 @@
       - [Accident Reporting](#accident-reporting)
       - [CPR and First Aid](#cpr-and-first-aid)
     - [Summary: Chapters 3 and 4](#summary-chapters-3-and-4)
+  - [Diving Physics Part 1](#diving-physics-part-1)
+    - [Introduction](#introduction-1)
+    - [Phyisical Properties of Water](#phyisical-properties-of-water)
+      - [Density of Water](#density-of-water)
+      - [Refraction of Light in Water](#refraction-of-light-in-water)
+      - [Diffraction of Light in Water](#diffraction-of-light-in-water)
+      - [Color Loss in Water](#color-loss-in-water)
+      - [Transmission of Sound in Water](#transmission-of-sound-in-water)
+      - [Thermal Conductivity in Water](#thermal-conductivity-in-water)
+      - [Bouyancy](#bouyancy)
+        - [How This Principle Relates to Diving](#how-this-principle-relates-to-diving)
+        - [Saltwater versus Freshwater](#saltwater-versus-freshwater)
+        - [Archimedean Calculations](#archimedean-calculations)
+          - [Buoyancy](#buoyancy)
+          - [Lift Bags](#lift-bags)
 
 # SDI Open Water Scuba Diver Instructor
 
@@ -663,10 +678,40 @@ Divers use three items to control their own buoyancy: lead weights, a BCD (buoya
 
 Seawater contains salt and this salt contributes to the water's weight. A volume of seawater weighs more than an equal volume of freshwater. A liter of seawater weighs 1.03 kilograms, while a liter of freshwater weighs 1.0 kilograms. A cubic foot of seawater weighs 64 pounds, while a cubic foot of freshwater weighs 62.4 pounds.
 
-##### Bouyancy Calculations
+##### Archimedean Calculations
 
 To determine the buoyancy of an object, the diver must have several critical pieces of information. First, they must know the weight of the object, in terms of either kilograms or pounds. Next, they need to determine the volume displaced by the object, in terms of either liters or cubic feet. Finally, they must know the specific fluid in which the object is immersed. For diving those fluids are either salt water or fresh water.
 
 Once armed with the above pieces of information, the diver can readily calculate the buoyancy characteristics of an object by first calculating the weight of the displaced water, and then subtracting that weight from the weight of the object.
 
-These calculations are depicted in the following formulas:
+###### Buoyancy
+
+To solve buoyancy problems, some information is required.
+
+1. Object weight
+1. Volume of water displaced by the object
+1. Weight of displaced water
+
+> Imperial
+> $$
+> Buoyancy = weightOfObject- [(cubicFeetDisplaced)(lbsPerCubicFootOfWater)]
+> $$
+
+> Metric
+> $$
+> Buoyancy = weightOfObject- [(litersDisplaced)(kg/literOfWater)]
+> $$
+
+###### Lift Bags
+
+Lift bags can be calculated with these formulae:
+
+> Imperial
+> $$
+> ft^3airRequired = [lbs of negative buoyancy] / [lbs per cu ft of water]
+> $$
+
+> Metric
+> $$
+> litersOfAirRequired = [negativeBuoyancy] / [kgPerLiterOfWater]
+> $$
