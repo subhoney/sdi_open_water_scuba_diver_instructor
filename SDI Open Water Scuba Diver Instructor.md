@@ -52,6 +52,8 @@
     - [Liability Releases](#liability-releases)
     - [Liability Insurance for Dive Leaders](#liability-insurance-for-dive-leaders)
     - [In the Event of a Dive Accident](#in-the-event-of-a-dive-accident)
+  - [Dive Leader Risk Management: Part 2](#dive-leader-risk-management-part-2)
+    - [Emergency Procedures](#emergency-procedures)
 
 # SDI Open Water Scuba Diver Instructor
 
@@ -526,3 +528,16 @@ Without doubt, the dive leader is also obliged to cooperate with any investigati
 > In general the dive leader should try to avoid the creation of multiple reports, as even a minor variance between the reports may later prove to be problematic at trial.
 
 If by chance the incident occurred during a training program that was conducted under the auspices of another diver training organization, then the appropriate reporting procedures should be followed as specified by that other training organization. Similarly, if the dive leader has his insurance coverage elsewhere, then the appropriate reporting procedures should also be followed as specified by that other insurance company. As is the case with reports submitted to the authorities, as noted above, the dive leader should try to avoid the creation of multiple reports, and whenever possible the same report should be submitted to the other training organization and/or other insurance company as was submitted to ITI Headquarters.
+
+## Dive Leader Risk Management: Part 2
+
+### Emergency Procedures
+
+An accident is the least desired situation a dive professional ever wants to face. Odds are though, the longer a dive professional is actively involved with diving the greater the chance he will experience an accident. It may be a small matter, such as a cut or bruise, or as catastrophic as a fatality. It just can’t be helped. What the dive professional can and must do then is try to prevent accidents and be prepared if an accident occurs.
+
+It is important for the dive professional to have an emergency management plan for each dive location he plans to use. This emergency management should include:
+
+Contact numbers for local Emergency Medical Services (EMS), police or sheriff department, Coast Guard and medical facility.
+Diver’s Alert Network (DAN) emergency and non-emergency numbers.
+Check list of items available at the site such as telephone or radio, oxygen available, first aid kit and a copy of the appropriate incident report form.
+It is recommended an incident report be completed any time medical attention is sought or a recommendation made for the diver to seek medical attention. The best precaution to take is to fill out a report for any incident/accident that takes place.
