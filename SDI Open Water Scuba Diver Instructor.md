@@ -52,6 +52,15 @@
     - [Liability Releases](#liability-releases)
     - [Liability Insurance for Dive Leaders](#liability-insurance-for-dive-leaders)
     - [In the Event of a Dive Accident](#in-the-event-of-a-dive-accident)
+  - [Dive Leader Risk Management: Part 2](#dive-leader-risk-management-part-2)
+    - [Emergency Procedures](#emergency-procedures)
+      - [Contact Emergency Medical Services](#contact-emergency-medical-services)
+      - [Control the Scene](#control-the-scene)
+      - [Taking Notes](#taking-notes)
+      - [Interviewing Witnesses](#interviewing-witnesses)
+      - [Accident Reporting](#accident-reporting)
+      - [CPR and First Aid](#cpr-and-first-aid)
+    - [Summary: Chapters 3 and 4](#summary-chapters-3-and-4)
 
 # SDI Open Water Scuba Diver Instructor
 
@@ -526,3 +535,83 @@ Without doubt, the dive leader is also obliged to cooperate with any investigati
 > In general the dive leader should try to avoid the creation of multiple reports, as even a minor variance between the reports may later prove to be problematic at trial.
 
 If by chance the incident occurred during a training program that was conducted under the auspices of another diver training organization, then the appropriate reporting procedures should be followed as specified by that other training organization. Similarly, if the dive leader has his insurance coverage elsewhere, then the appropriate reporting procedures should also be followed as specified by that other insurance company. As is the case with reports submitted to the authorities, as noted above, the dive leader should try to avoid the creation of multiple reports, and whenever possible the same report should be submitted to the other training organization and/or other insurance company as was submitted to ITI Headquarters.
+
+## Dive Leader Risk Management: Part 2
+
+### Emergency Procedures
+
+An accident is the least desired situation a dive professional ever wants to face. Odds are though, the longer a dive professional is actively involved with diving the greater the chance he will experience an accident. It may be a small matter, such as a cut or bruise, or as catastrophic as a fatality. It just can’t be helped. What the dive professional can and must do then is try to prevent accidents and be prepared if an accident occurs.
+
+It is important for the dive professional to have an emergency management plan for each dive location he plans to use. This emergency management should include:
+
+Contact numbers for local Emergency Medical Services (EMS), police or sheriff department, Coast Guard and medical facility.
+Diver’s Alert Network (DAN) emergency and non-emergency numbers.
+Check list of items available at the site such as telephone or radio, oxygen available, first aid kit and a copy of the appropriate incident report form.
+It is recommended an incident report be completed any time medical attention is sought or a recommendation made for the diver to seek medical attention. The best precaution to take is to fill out a report for any incident/accident that takes place.
+
+> Should an accident occur, all attention should be immediately focused on the individual involved in the accident.
+
+If they are missing, try to determine where and when the individual was last seen. Next, decide who is qualified to help with a search. Choosing the people to search for a missing diver means making sure they are qualified, willing and that by putting them back in the water you do not jeopardize their safety. Find willing and able divers with the least amount of residual nitrogen in their bodies. Never jeopardize individuals needlessly. It may be better to wait until more qualified help arrives before starting a search. The most qualified individual on the site, which is most likely the dive professional, should take charge as soon as he finds out a diver is missing or has had an accident. If the individual involved is from the dive professional's group of divers then the responsibility to take charge falls to that dive professional.
+
+The individual in charge should direct the management plan upon being made aware of the situation. He should assign someone to:
+
+- Contact Emergency Medical Services
+- Control the scene
+- Take notes as to what happens and when
+- Interview witnesses and document their comments
+
+#### Contact Emergency Medical Services
+
+As stated previously, the individual in charge must have an accident management plan for the site he is diving. This should include the person(s) and/or entities to contact if an accident occurs. Contact may be via the phone, radio, sending a bystander or driving for help. In remote areas make sure cell phones work and have coverage, or know where the closest landline is located. Someone may have to be sent to meet EMS and bring them to the dive site if it is located away from common use areas.
+
+#### Control the Scene
+
+Control the scene by making sure everyone assigned a task is undertaking the task. Assign additional individuals to help if needed. A well-coordinated scene will make everything flow much easier and show preparedness on the dive professional’s part.
+
+Once the individual is out of the water their equipment must be secured. The dive professional in charge should have an impartial third party evaluate the equipment with him and document those findings. Take photos of the equipment if a camera is available. These photos should become part of the report to the agency.
+
+- Does the equipment appear to be working properly?
+- How much air is left in the cylinder?
+- Were the valves on the cylinders open and how many turns did it take to turn them off?
+- Do the gauges appear to be functioning properly?
+- Is any required item missing?
+
+Once this review is finished, both the dive professional and the third party participant should sign and date the document. Turn the air off (don’t forget to count the turns) to prevent the remaining air from leaking out and making it appear the diver may have run out of air thereby causing the accident.
+
+#### Taking Notes
+
+When taking notes, it is beneficial if a chronological order of events can be documented so that later when the dive professional makes his accident report he has a good idea of what happened, when it happened, and who did what. It is extremely easy to get caught up in what is happening at the moment and forget the sequence of events.
+
+> Don't rely on memory, have someone write it down. This information comes in very handy should any legal action occur due to the accident.
+
+Make sure this is the note taker's only task so he can be completely focused on taking notes. This individual does not need to be a diver.
+
+#### Interviewing Witnesses
+
+Assign someone to interview witnesses in the area as to what they observed. Make sure their comments are factual and not simply their opinions. It is recommended witnesses be interviewed separately as to not influence each other's recollection of what transpired. In the event someone needs to contact the witnesses later make sure the interviewer collects the witnesses' contact information such as:
+
+- Name
+- Address
+- Phone number
+- Email if possible
+
+It is guaranteed that the more severe the accident, the more probable it is an investigator will contact the witness(es).
+
+#### Accident Reporting
+
+Once the accident victim has been turned over to the proper authorities and the scene has been secured, the dive professional must collect all of the information gathered by the individuals assigned to take notes and interview witnesses. This information will help the dive professional when he writes the accident report.
+
+The dive professional should write the report as soon as realistically possible following the accident, while the event is still fresh in his memory. Because most insurance companies require notification of an accident within a certain amount of time, failure to promptly report the accident may create a coverage problem. The sooner the better is the best advice when it comes to completing and providing an accident report.
+
+The dive professional should use the appropriate accident form and provide only the information requested. Dive professionals should not provide any information to anyone other than ITI and their insurance agent. More importantly, dive professionals should not provide any information to a third party. If a statement must be made to the local authorities, only the facts should be provided. The dive professional should be cooperative with them and avoid voicing any judments, statements or opinions regarding the accident. Talking with the media should be avoided at all costs.
+
+Remember, anyone can be named in a lawsuit at anytime, especially those in charge of a group. In the event of an accident, it’s important that the dive professional document as many of the facts as possible to protect him and other responders.
+
+#### CPR and First Aid
+
+The initial certification as a dive professional requires that proof of current CPR and first aid training be submitted. After the initial certification it is the dive professional’s responsibility to maintain this training. Within the SDI/TDI system an individual has the option to take the CPROX1st or the CPROX1st AED program to keep this requirement satisfied.
+
+### Summary: Chapters 3 and 4
+
+This section covered various aspects of risk management and how to teach defensively. If these suggestions and procedures are followed when an accident/incident occurs, the process will be less traumatic and end with a more favorable outcome. Accidents can and will happen. An OWSDI can minimize the negative outcome of those accidents with proper training, proper planning and careful organization. Being prepared for an accident will help prevent accidents.
+
