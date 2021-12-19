@@ -615,3 +615,58 @@ The initial certification as a dive professional requires that proof of current 
 
 This section covered various aspects of risk management and how to teach defensively. If these suggestions and procedures are followed when an accident/incident occurs, the process will be less traumatic and end with a more favorable outcome. Accidents can and will happen. An OWSDI can minimize the negative outcome of those accidents with proper training, proper planning and careful organization. Being prepared for an accident will help prevent accidents.
 
+## Diving Physics Part 1
+
+### Introduction
+
+In the divemaster program, diving physics and physiology were covered in great depth. Here is a brief review of the topics focusing on the most important information. The formulas used in diving and their practical application will also be reviewed. Should an OWSDI candidate have difficulties with any of this information, he should thoroughly review the SDI Divemaster materials. A formulas sheet is provided in the appendix of this manual for use.
+
+A general understanding of physics is a key component in the overall body of knowledge that is expected of a dive professional. The laws of physics are equally applicable both above and below the water's surface. A dive leader should attempt to convey pertinent information to every student with whom he comes into contact; and that knowledge should be tailored according to the recipient's level of training. Any additional information should be reserved for that individual who expresses further interest. A dive leader can never know all there is to know about the science of diving and the theories backing that science up, but the real art is knowing when that knowledge should be shared.
+
+### Phyisical Properties of Water
+
+#### Density of Water
+
+Water is approximately 800 times denser than air. Therefore the diver will experience more resistance underwater, which may lead to increased workload, breathing and air consumption, shortening available bottom time and contributing greatly to diver fatigue. This is one reason control of a diver's profile or trim and buoyancy are important skills to master.
+
+#### Refraction of Light in Water
+
+Light rays bend, or refract, when they pass from one medium to another of different density. The amount of bending is determined by the refractive indices of the two media. Because the structure of the human eye is adapted to sharply focus light rays entering the eye from air, when light rays enter the eye from water, the degree of refraction generally exceeds the eye's focusing range, and thus the image appears blurry. This is why a mask is used to restore focus underwater. The mask creates additional refraction as light rays pass first from the water through the tempered glass of the faceplate and into the air space within the mask, before entering the eye. Due to this refraction, objects appear about 33% larger and about 25% closer to the diver.
+
+#### Diffraction of Light in Water
+
+Light rays normally travel in a straight line through a medium. Any minor obstacles encountered along the way will cause the light rays to be deflected and become scattered to some extent. This scattering, or divergence, is known as diffraction. Accordingly, the seemingly contradictory situation arises where refraction continues to make nearby objects appear closer to the diver than they actually are, while at the same time diffraction makes other objects in the middle and long distance appear to be even farther away.
+
+#### Color Loss in Water
+
+As explained in the divemaster course, as sunlight passes through the denser medium of water, some wavelengths of light are absorbed. The longest wavelengths (red) are absorbed the quickest by water, and this occurs at a relatively shallow depth. To remember the order colors are lost the acronym ROY G BIV can be used: Red (shallowest), orange, yellow, green, blue, indigo and violet (deepest).
+
+#### Transmission of Sound in Water
+
+The speed of sound depends upon the medium through which it passes, and sound tends to travel faster in denser mediums. The precise speed of sound in water depends upon pressure, temperature, and salinity, but in general sound travels about four times faster through water than air.
+
+#### Thermal Conductivity in Water
+
+The thermal conductivity of any substance depends upon a number of variables including its density and overall structure. Water is a far more efficient thermal conductor than air. In fact, the relative thermal conductivity factor for water is about 6.0, while for air it is only about 0.025; thus water will whisk heat away from a diver's body approximately 25 times faster than air. Depending on water temperature divers must plan to use the appropriate exposure suit for conditions.
+
+#### Bouyancy
+
+Archimedes of Syracuse (287-212 BC) (my man!) discovered the principle known in physics as Archimedes' Principle. This principle states: "Any object, wholly or partly immersed in a fluid, is buoyed up by a force equal to the weight of the fluid displaced by the object."
+
+##### How This Principle Relates to Diving
+
+When an object is placed in water, it displaces an amount of water equal to its own volume. If the object weighs less than the displaced water the object will float and is said to be positively buoyant. Conversely, if the object weighs more than the displaced water, the object will sink, or it is negatively buoyant. If the object weighs exactly the same as the displaced water, it will neither float nor sink, and instead it will simply hover in mid-water; it is neutrally buoyant.
+
+Divers use three items to control their own buoyancy: lead weights, a BCD (buoyancy compensator device), and lung volume. Lead weights offset the positive buoyancy of their exposure suit and personal body composition. Air can be added or removed from the BCD (buoyancy compensator device) to maintain neutral buoyancy. But to fine tune buoyancy the diver must learn how to breathe properly and fine tune buoyancy with their lungs.
+
+##### Saltwater versus Freshwater
+
+Seawater contains salt and this salt contributes to the water's weight. A volume of seawater weighs more than an equal volume of freshwater. A liter of seawater weighs 1.03 kilograms, while a liter of freshwater weighs 1.0 kilograms. A cubic foot of seawater weighs 64 pounds, while a cubic foot of freshwater weighs 62.4 pounds.
+
+##### Bouyancy Calculations
+
+To determine the buoyancy of an object, the diver must have several critical pieces of information. First, they must know the weight of the object, in terms of either kilograms or pounds. Next, they need to determine the volume displaced by the object, in terms of either liters or cubic feet. Finally, they must know the specific fluid in which the object is immersed. For diving those fluids are either salt water or fresh water.
+
+Once armed with the above pieces of information, the diver can readily calculate the buoyancy characteristics of an object by first calculating the weight of the displaced water, and then subtracting that weight from the weight of the object.
+
+These calculations are depicted in the following formulas:
