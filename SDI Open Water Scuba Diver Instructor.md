@@ -1,3 +1,5 @@
+# SDI Open Water Scuba Diver Instructor
+
 - [SDI Open Water Scuba Diver Instructor](#sdi-open-water-scuba-diver-instructor)
   - [The SDI Open Water Scuba Diver Instructor: Part 1](#the-sdi-open-water-scuba-diver-instructor-part-1)
     - [Introduction](#introduction)
@@ -70,15 +72,16 @@
       - [Color Loss in Water](#color-loss-in-water)
       - [Transmission of Sound in Water](#transmission-of-sound-in-water)
       - [Thermal Conductivity in Water](#thermal-conductivity-in-water)
-      - [Bouyancy](#bouyancy)
+      - [Buoyancy](#buoyancy)
         - [How This Principle Relates to Diving](#how-this-principle-relates-to-diving)
         - [Saltwater versus Freshwater](#saltwater-versus-freshwater)
         - [Archimedean Calculations](#archimedean-calculations)
-          - [Buoyancy](#buoyancy)
-          - [Lift Bags](#lift-bags)
+          - [How To: Calculate Buoyancy](#how-to-calculate-buoyancy)
+          - [How To: Calculate the Air for Lift Bags](#how-to-calculate-the-air-for-lift-bags)
   - [Diving Physics: Part 2](#diving-physics-part-2)
-
-# SDI Open Water Scuba Diver Instructor
+    - [Principles of Pressure](#principles-of-pressure)
+      - [Ambient Pressure](#ambient-pressure)
+      - [Gauge Pressure](#gauge-pressure)
 
 ## The SDI Open Water Scuba Diver Instructor: Part 1
 
@@ -417,7 +420,7 @@ SDI’s Leadership Course standards can be found in Part Four (4) of the Standar
 
 All forms necessary for completing administrative tasks can be found in this part, from student registration forms to the proper form to use when reporting an incident/accident. Part Five (5) also contains all of the forms that are required at the beginning of a course such as the general liability release form and the medical history form.
 
-All of the various parts of the SDI Instructor manual can be found in the member section of our website https://www.tdisdi.com as well as on the Standards and Procedures CD and the printed version of the SDI Standards and Procedures. SDI's Training Department routinely updates these standards and provides member updates quarterly during the year. At the beginning of each year all standards are updated on the website and it is the responsibility of the dive professional to ensure these updates are noted in their SDI Instructor Manual.
+All of the various parts of the SDI Instructor manual can be found in the member section of our [website](https://www.tdisdi.com) as well as on the Standards and Procedures CD and the printed version of the SDI Standards and Procedures. SDI's Training Department routinely updates these standards and provides member updates quarterly during the year. At the beginning of each year all standards are updated on the website and it is the responsibility of the dive professional to ensure these updates are noted in their SDI Instructor Manual.
 
 ### Chapter 1 and 2 Summary
 
@@ -665,7 +668,7 @@ The speed of sound depends upon the medium through which it passes, and sound te
 
 The thermal conductivity of any substance depends upon a number of variables including its density and overall structure. Water is a far more efficient thermal conductor than air. In fact, the relative thermal conductivity factor for water is about 6.0, while for air it is only about 0.025; thus water will whisk heat away from a diver's body approximately 25 times faster than air. Depending on water temperature divers must plan to use the appropriate exposure suit for conditions.
 
-#### Bouyancy
+#### Buoyancy
 
 Archimedes of Syracuse (287-212 BC) (my man!) discovered the principle known in physics as Archimedes' Principle. This principle states: "Any object, wholly or partly immersed in a fluid, is buoyed up by a force equal to the weight of the fluid displaced by the object."
 
@@ -685,7 +688,7 @@ To determine the buoyancy of an object, the diver must have several critical pie
 
 Once armed with the above pieces of information, the diver can readily calculate the buoyancy characteristics of an object by first calculating the weight of the displaced water, and then subtracting that weight from the weight of the object.
 
-###### Buoyancy
+###### How To: Calculate Buoyancy
 
 To solve buoyancy problems, some information is required.
 
@@ -703,7 +706,7 @@ To solve buoyancy problems, some information is required.
 > Buoyancy = weightOfObject- [(litersDisplaced)(kg/literOfWater)]
 > $$
 
-###### Lift Bags
+###### How To: Calculate the Air for Lift Bags
 
 Lift bags can be calculated with these formulae:
 
@@ -718,3 +721,65 @@ Lift bags can be calculated with these formulae:
 > $$
 
 ## Diving Physics: Part 2
+
+### Principles of Pressure
+
+Pressure is the force or weight pressing upon a surface. When one considers such a surface, often it is in terms of it being a person or an object. It is important to recognize, however, that pressure may also be exerted upon a gas when that gas is confined within some form of flexible container; here the gas is directly impacted by pressure applied to the exterior surface of the flexible container. In addition, regardless of whether it is in a flexible or rigid container, when gas is confined it also exerts pressure upon the interior surface of its container.
+
+#### Ambient Pressure
+
+The total force being exerted simultaneously by all existing sources of pressure is absolute pressure; in diving it is more commonly referred to as ambient pressure.
+
+The first source of pressure affecting all things on Earth is the weight of the overhead atmosphere pressing downward. This force will vary somewhat with altitude. However for practical purposes, at or near sea level (up to an altitude of about 300 meters or 1000 feet above sea level) atmospheric pressure may be considered to be a constant.
+
+In the metric system the weight of the overhead atmosphere at sea level is defined as one barometric unit of measure, commonly abbreviated as 1 bar; it is equivalent to one kilogram per square centimeter. In the imperial system this weight is defined as one atmosphere, commonly abbreviated as 1 atm; it is equivalent to 14.7 pounds per square inch. Consequently, 1 bar is equivalent to 1 atm.
+
+The ambient pressure table demonstrates the affects of increasing pressure with the combined weight of atmosphere and seawater.
+
+The following table demonstrates the relationship between depth and ambient pressure:
+
+| Depth (Metric) | Depth (Imperial) | Ambient Pressure |
+|----------------|------------------|------------------|
+| 0 m            | 0 ft             | 1 bar/atm        |
+| 10 m           | 33 ft            | 2 bar/atm        |
+| 20 m           | 66 ft            | 3 bar/atm        |
+| 30 m           | 99 ft            | 4 bar/atm        |
+| 40 m           | 132 ft           | 5 bar/atm        |
+| 50 m           | 165 ft           | 6 bar/atm        |
+
+#### Gauge Pressure
+
+Gauge pressure refers to the manner in which a diver's instruments measure and display certain types of pressure-related information. Gauge pressure disregards atmospheric pressure, and only provides a measurement of the actual force being exerted by another source of pressure.
+
+Gauge pressure is employed in two types of instruments used in diving. The first is the diver's submersible pressure gauge, or air-integrated dive computer, which measures and displays the internal gas pressure within a scuba cylinder. This information is displayed in terms of bar, or in terms of pounds per square inch (abbreviated as "psi"). Remember that 1 bar equals 1 atm, and that 1 atm also equals 14.7 psi. To convert an SPG reading from bar to psi, or from psi to bar, the OWSDI may employ the following formulas:
+
+> Imperial to metric:
+>
+> $
+> bar = \frac{psi}{14.7}
+> $
+
+> Metric to imperial:
+>
+> $
+> psi = (bar)(14.7)
+> $
+
+Because gauge pressure effectively disregards atmospheric pressure, it must be recognized that when an SPG reads zero, the scuba cylinder is not actually empty; instead it still contains a gas pressure of 1 bar or 14.7 psi.
+
+The second type of instrument employing gauge pressure is the diver's depth gauge or personal dive computer. This type of device measures the ambient pressure being exerted upon the instrument itself, effectively disregards the atmospheric pressure, and indicates only that portion of the ambient pressure that is attributable to the weight of water. This information is displayed in terms of either metres or feet of depth in seawater. To convert a depth gauge reading from metres to feet or from feet to metres, the reader may employ the following formulas:
+
+> Imperial to metric:
+> $
+> meters = \frac{feet}{3.3}
+> $
+>
+
+> Metric to imperial:
+> $
+> feet = (meters)(3.3)
+> $
+
+Metric-to-Imperial: feet = metres x 3.3
+
+The depth gauge or personal dive computer disregards ambient pressure and displays only water pressure. In terms of practical use while diving, gauge pressure is quite effective in identifying depth for the diver. However, as will be demonstrated in subsequent sections of this text, whenever evaluating the effects of pressure the diver always must consider the ambient (total) pressure. To convert depth to ambient pressure or ambient pressure to depth use the following formulas.
