@@ -76,6 +76,7 @@
         - [Archimedean Calculations](#archimedean-calculations)
           - [Buoyancy](#buoyancy)
           - [Lift Bags](#lift-bags)
+  - [Diving Physics: Part 2](#diving-physics-part-2)
 
 # SDI Open Water Scuba Diver Instructor
 
@@ -715,3 +716,5 @@ Lift bags can be calculated with these formulae:
 > $$
 > litersOfAirRequired = [negativeBuoyancy] / [kgPerLiterOfWater]
 > $$
+
+## Diving Physics: Part 2
