@@ -12,3 +12,7 @@ This sport is full of acronyms. Here's what they mean.
 | OWSDI   | Open Water Scuba Diving Instructor      |
 | QA      | Quality Assurance                       |
 | EMS     | Emergency Medical Services              |
+| msw     | meters of seawater                      |
+| mfw     | meters of fresh water                   |
+| fws     | feet of seawater                        |
+| ffw     | feet of fresh water                     |
