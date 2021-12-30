@@ -79,6 +79,7 @@
     - [Boyle's Law](#boyles-law)
       - [Pressure and Volume](#pressure-and-volume)
       - [How this Principal Relates to Diving](#how-this-principal-relates-to-diving)
+      - [The Significance of Relative Changes](#the-significance-of-relative-changes)
 
 # SDI Open Water Scuba Diver Instructor
 
@@ -757,3 +758,13 @@ The second issue with air inhaled at depth relates to the diver's rate of air co
 Air inhaled at depth becomes more dense. At 10 metres or 33 feet, the inhaled air will be twice as dense as it is at the surface, and its density further increases at deeper depths.
 
 The denser air itself generally creates no noticeable problem for a diver within traditional sport diving depths, provided that the diver continues breathing at a normal rate. However, in the event of overexertion the diver's breathing rate will quicken and, when combined with the increased density of inhaled air, may result in turbulence as the air passes down the diver's airway towards the lungs. When turbulence occurs, the diver will likely sense some degree of difficulty in breathing. It is stressed during training that divers always should move slowly and steadily underwater, avoiding overexertion.
+
+#### The Significance of Relative Changes
+
+Ambient pressure increases by 1 bar for every 10 metres of depth, or by 1 atm for every 33 feet of depth, in seawater. This information seems to suggest that changes in pressure, volume, and density always are uniform over various depths, regardless of the depths involved.
+
+The ambient pressure doubles when the diver descends from the surface to 10 metres or 33 feet (which is an actual change of only one 1 bar / 1 atm), but ambient pressure does not double again until the diver descends from 10 metres or 33 feet to a new depth of 30 metres or 99 feet (which is now an actual change of 2 bar / 2 atm).
+
+As another example, volume increases by only 25% during an ascent from a starting depth of 40 metres or 132 feet to a new depth of 30 metres or 99 feet (which is an actual change of 1 bar / 1 atm), yet volume increases by 100% during an ascent from 10 metres or 33 feet to the surface (which also is an actual change of only 1 bar / 1 atm).
+
+The greatest relative changes occur at shallower depths. This emphasizes the importance of a diver equalizing early during a descent. It helps explain why a new diver may have more difficulty in effectively controlling buoyancy at shallower depths and why he might unexpectedly pop to the surface. It demonstrates the need for vigilance in maintaining a slow rate of ascent throughout the entire ascent, especially as the diver nears the surface.
