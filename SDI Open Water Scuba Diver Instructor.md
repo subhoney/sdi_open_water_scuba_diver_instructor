@@ -745,3 +745,15 @@ In reviewing the above table it is important to understand that, in all cases, t
 The tissues of the human body are primarily liquid, and liquid is non-compressible; thus much of the body is unaffected by pressure. Within the body there are two significant air spaces: the lungs and the interconnected middle ears and nasal sinuses. In addition, a third air space is artificially created over the face and eyes by the diver's mask. These three air spaces are impacted by the pressure-related changes. During descent and ascent, each of these air spaces must be equalized to the ambient pressure in order to avoid discomfort and possible injury.
 
 The most common type of exposure protection worn by sport divers is a neoprene wetsuit. Neoprene is a closed cell foam and relatively light in weight compared to the water it displaces, and therefore neoprene is quite buoyant and is compressible. Changes will be most apparent when the diver is wearing a relatively thick wetsuit. To maintain proper buoyancy control, the diver needs to add air to the BCD during descent, and vent air from the BCD during ascent. Other pieces of equipment that are impacted by Boyle's Law are the BCD and dry suit.
+
+When air is inhaled from the cylinder by the diver, it enters the flexible air space of the respiratory system and immediately becomes subject to the pressure-related changes associated with Boyle's Law. The issues related to the inhaled air are three-fold.
+
+Upon inhalation the pressure of the air inside a diver's lungs will be equal to the ambient pressure. If that diver happens to ascend to a shallower depth while holding his breath, the expanding volume of air inside the lungs can result in a lung rupture.
+
+> It should be stressed that a diver should always breathe continuously, never holding his breath.
+
+The second issue with air inhaled at depth relates to the diver's rate of air consumption. When that diver descends to 10 metres or 33 feet (where the ambient pressure is 2 bar / 2 atm), the diver will need to inhale twice as many molecules of air with each breath to fill the lungs. Therefore, the air will last only one-half as long at this depth as it would at the surface.
+
+Air inhaled at depth becomes more dense. At 10 metres or 33 feet, the inhaled air will be twice as dense as it is at the surface, and its density further increases at deeper depths.
+
+The denser air itself generally creates no noticeable problem for a diver within traditional sport diving depths, provided that the diver continues breathing at a normal rate. However, in the event of overexertion the diver's breathing rate will quicken and, when combined with the increased density of inhaled air, may result in turbulence as the air passes down the diver's airway towards the lungs. When turbulence occurs, the diver will likely sense some degree of difficulty in breathing. It is stressed during training that divers always should move slowly and steadily underwater, avoiding overexertion.
