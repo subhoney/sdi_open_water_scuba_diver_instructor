@@ -80,6 +80,9 @@
       - [Pressure and Volume](#pressure-and-volume)
       - [How this Principal Relates to Diving](#how-this-principal-relates-to-diving)
       - [The Significance of Relative Changes](#the-significance-of-relative-changes)
+      - [Pressure and Volume Calculations](#pressure-and-volume-calculations)
+        - [Metric Example](#metric-example)
+        - [Imperial Example](#imperial-example)
 
 # SDI Open Water Scuba Diver Instructor
 
@@ -768,3 +771,40 @@ The ambient pressure doubles when the diver descends from the surface to 10 metr
 As another example, volume increases by only 25% during an ascent from a starting depth of 40 metres or 132 feet to a new depth of 30 metres or 99 feet (which is an actual change of 1 bar / 1 atm), yet volume increases by 100% during an ascent from 10 metres or 33 feet to the surface (which also is an actual change of only 1 bar / 1 atm).
 
 The greatest relative changes occur at shallower depths. This emphasizes the importance of a diver equalizing early during a descent. It helps explain why a new diver may have more difficulty in effectively controlling buoyancy at shallower depths and why he might unexpectedly pop to the surface. It demonstrates the need for vigilance in maintaining a slow rate of ascent throughout the entire ascent, especially as the diver nears the surface.
+
+#### Pressure and Volume Calculations
+
+The following abbreviations appear within the formulas in this section:
+
+- "P" for pressure
+- "V" for volume
+- subscript "1" for a starting value
+- subscript "2" for an ending value
+
+*Note*: The formulas for converting depth to ambient pressure, and ambient pressure to depth, are addressed in the preceding section on pressure.
+
+Boyle's Law is depicted mathematically by the following formula for both Imperial and metric measurements:
+
+$$
+(P_1)(V_1)=(P_2)(V_2)
+$$
+
+##### Metric Example
+
+> If the volume of gas in a flexible container at 2.5 bar is 12 litres, what will its volume be at 4.6 bar?
+
+$$
+(2.5bar)(12L) = (4.6bar)(6.52L)
+$$
+
+The volume of the container will be 6.52L at 4.6 bar.
+
+##### Imperial Example
+
+> If the volume of gas in a flexible container at 5.8 atm is 3.1 cubic feet, what will its volume be at 2.3 atm?
+
+$$
+(5.8atm)(3.1ft^3)=(2.3atm)(7.82ft^3)
+$$
+
+The volume of the container will be 7.82ft^3 at 2.3atm.
