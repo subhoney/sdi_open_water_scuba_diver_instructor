@@ -76,6 +76,8 @@
         - [Archimedean Calculations](#archimedean-calculations)
           - [Buoyancy](#buoyancy)
           - [Lift Bags](#lift-bags)
+    - [Boyle's Law](#boyles-law)
+      - [Pressure and Volume](#pressure-and-volume)
 
 # SDI Open Water Scuba Diver Instructor
 
@@ -715,3 +717,24 @@ Lift bags can be calculated with these formulae:
 > $$
 > litersOfAirRequired = [negativeBuoyancy] / [kgPerLiterOfWater]
 > $$
+
+### Boyle's Law
+
+#### Pressure and Volume
+
+Although Robert Boyle (1627-1692) was not the first to discover this finding he was the first to publish it and that is why it is known as Boyle's Law. This principle states that "Any change in pressure applied upon a fixed amount of gas at a constant temperature will result in a corresponding and inversely proportional change in the volume of that gas." In other words, if the pressure doubles, the volume will decrease by one-half; and if the pressure decreases by one-half, the volume will double.
+
+Though perhaps not specifically recognized due to the state of science at that time, in practice Boyle's Law has since been extended to also encompass the density of a gas. In effect, changes in density are a sort of a by-product of the changes in pressure and volume. Gas is comprised of molecules; when confined within any container, the quantity of gas molecules remains constant. As pressure increases and volume decreases, these molecules are pushed closer together rendering the gas denser. As pressure decreases and volume increases, these molecules move farther apart rendering the gas less dense. The change in density is directly proportional to the change in pressure, and inversely proportional to the change in volume.
+
+Below is a table many entry-level classes use to demonstrate Boyle's Law:
+
+| Depth (sw) |        | Ambient Pressure | Volume | Density |
+|------------|--------|------------------|--------|---------|
+| 0 m        | 0 ft   | 1 bar/atm        | x 1    | x 1     |
+| 10 m       | 33 ft  | 2 bar/atm        | x 1/2  | x 2     |
+| 20 m       | 66 ft  | 3 bar/atm        | x 1/3  | x 3     |
+| 30 m       | 99 ft  | 4 bar/atm        | x 1/4  | x 4     |
+| 40 m       | 132 ft | 5 bar/atm        | x 1/5  | x 5     |
+| 50 m       | 165 ft | 6 bar/atm        | x 1/6  | x 6     |
+
+In reviewing the above table it is important to understand that, in all cases, the pressure of the gas inside a flexible container will be equal to the ambient pressure exerted upon the exterior of that container.
