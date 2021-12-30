@@ -78,6 +78,7 @@
           - [Lift Bags](#lift-bags)
     - [Boyle's Law](#boyles-law)
       - [Pressure and Volume](#pressure-and-volume)
+      - [How this Principal Relates to Diving](#how-this-principal-relates-to-diving)
 
 # SDI Open Water Scuba Diver Instructor
 
@@ -738,3 +739,9 @@ Below is a table many entry-level classes use to demonstrate Boyle's Law:
 | 50 m       | 165 ft | 6 bar/atm        | x 1/6  | x 6     |
 
 In reviewing the above table it is important to understand that, in all cases, the pressure of the gas inside a flexible container will be equal to the ambient pressure exerted upon the exterior of that container.
+
+#### How this Principal Relates to Diving
+
+The tissues of the human body are primarily liquid, and liquid is non-compressible; thus much of the body is unaffected by pressure. Within the body there are two significant air spaces: the lungs and the interconnected middle ears and nasal sinuses. In addition, a third air space is artificially created over the face and eyes by the diver's mask. These three air spaces are impacted by the pressure-related changes. During descent and ascent, each of these air spaces must be equalized to the ambient pressure in order to avoid discomfort and possible injury.
+
+The most common type of exposure protection worn by sport divers is a neoprene wetsuit. Neoprene is a closed cell foam and relatively light in weight compared to the water it displaces, and therefore neoprene is quite buoyant and is compressible. Changes will be most apparent when the diver is wearing a relatively thick wetsuit. To maintain proper buoyancy control, the diver needs to add air to the BCD during descent, and vent air from the BCD during ascent. Other pieces of equipment that are impacted by Boyle's Law are the BCD and dry suit.
