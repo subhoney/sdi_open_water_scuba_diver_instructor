@@ -81,8 +81,6 @@
       - [How this Principal Relates to Diving](#how-this-principal-relates-to-diving)
       - [The Significance of Relative Changes](#the-significance-of-relative-changes)
       - [Pressure and Volume Calculations](#pressure-and-volume-calculations)
-        - [Metric Example](#metric-example)
-        - [Imperial Example](#imperial-example)
 
 # SDI Open Water Scuba Diver Instructor
 
@@ -781,7 +779,7 @@ The following abbreviations appear within the formulas in this section:
 - subscript "1" for a starting value
 - subscript "2" for an ending value
 
-*Note*: The formulas for converting depth to ambient pressure, and ambient pressure to depth, are addressed in the preceding section on pressure.
+*Note*: The formulas for converting depth to ambient pressure, and ambient pressure to depth, are addressed in the preceding section on pressure. They must also be in a flexible container; these formulae do not work with rigid bodies.
 
 Boyle's Law is depicted mathematically by the following formula for both Imperial and metric measurements:
 
@@ -789,22 +787,22 @@ $$
 (P_1)(V_1)=(P_2)(V_2)
 $$
 
-##### Metric Example
-
-> If the volume of gas in a flexible container at 2.5 bar is 12 litres, what will its volume be at 4.6 bar?
+A diver's rate of air consumption directly corresponds to pressure-related changes in gas volume. If a diver knows the amount of time that a certain supply of gas will last at a given depth, he can readily calculate the time at a new depth with the following formula:
 
 $$
-(2.5bar)(12L) = (4.6bar)(6.52L)
+min_2 = \frac{(P_1)(min_1)}{P_2}
 $$
 
-The volume of the container will be 6.52L at 4.6 bar.
-
-##### Imperial Example
-
-> If the volume of gas in a flexible container at 5.8 atm is 3.1 cubic feet, what will its volume be at 2.3 atm?
+If a diver knows the amount of time that a supply of gas will last at a given depth, and he wants to determine the depth at which it will last for some specific period of time, the following formula applies:
 
 $$
-(5.8atm)(3.1ft^3)=(2.3atm)(7.82ft^3)
+P_2= \frac{(P_1)(min_1)}{min_2}
 $$
 
-The volume of the container will be 7.82ft^3 at 2.3atm.
+To determine the relative change in ambient pressure, such as that occurring between two different depths, the following formula may be employed:
+
+$$
+change_r=\frac{P_2}{P_1}
+$$
+
+Identifying changes in gas density actually requires no further calculation, as this change will be exactly the same as any relative change in ambient pressure; that is, if the pressure is doubled, then the density will also be doubled.
