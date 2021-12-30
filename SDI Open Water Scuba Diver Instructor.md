@@ -76,6 +76,11 @@
         - [Archimedean Calculations](#archimedean-calculations)
           - [Buoyancy](#buoyancy)
           - [Lift Bags](#lift-bags)
+    - [Boyle's Law](#boyles-law)
+      - [Pressure and Volume](#pressure-and-volume)
+      - [How this Principal Relates to Diving](#how-this-principal-relates-to-diving)
+      - [The Significance of Relative Changes](#the-significance-of-relative-changes)
+      - [Pressure and Volume Calculations](#pressure-and-volume-calculations)
 
 # SDI Open Water Scuba Diver Instructor
 
@@ -715,3 +720,89 @@ Lift bags can be calculated with these formulae:
 > $$
 > litersOfAirRequired = [negativeBuoyancy] / [kgPerLiterOfWater]
 > $$
+
+### Boyle's Law
+
+#### Pressure and Volume
+
+Although Robert Boyle (1627-1692) was not the first to discover this finding he was the first to publish it and that is why it is known as Boyle's Law. This principle states that "Any change in pressure applied upon a fixed amount of gas at a constant temperature will result in a corresponding and inversely proportional change in the volume of that gas." In other words, if the pressure doubles, the volume will decrease by one-half; and if the pressure decreases by one-half, the volume will double.
+
+Though perhaps not specifically recognized due to the state of science at that time, in practice Boyle's Law has since been extended to also encompass the density of a gas. In effect, changes in density are a sort of a by-product of the changes in pressure and volume. Gas is comprised of molecules; when confined within any container, the quantity of gas molecules remains constant. As pressure increases and volume decreases, these molecules are pushed closer together rendering the gas denser. As pressure decreases and volume increases, these molecules move farther apart rendering the gas less dense. The change in density is directly proportional to the change in pressure, and inversely proportional to the change in volume.
+
+Below is a table many entry-level classes use to demonstrate Boyle's Law:
+
+| Depth (sw) |        | Ambient Pressure | Volume | Density |
+|------------|--------|------------------|--------|---------|
+| 0 m        | 0 ft   | 1 bar/atm        | x 1    | x 1     |
+| 10 m       | 33 ft  | 2 bar/atm        | x 1/2  | x 2     |
+| 20 m       | 66 ft  | 3 bar/atm        | x 1/3  | x 3     |
+| 30 m       | 99 ft  | 4 bar/atm        | x 1/4  | x 4     |
+| 40 m       | 132 ft | 5 bar/atm        | x 1/5  | x 5     |
+| 50 m       | 165 ft | 6 bar/atm        | x 1/6  | x 6     |
+
+In reviewing the above table it is important to understand that, in all cases, the pressure of the gas inside a flexible container will be equal to the ambient pressure exerted upon the exterior of that container.
+
+#### How this Principal Relates to Diving
+
+The tissues of the human body are primarily liquid, and liquid is non-compressible; thus much of the body is unaffected by pressure. Within the body there are two significant air spaces: the lungs and the interconnected middle ears and nasal sinuses. In addition, a third air space is artificially created over the face and eyes by the diver's mask. These three air spaces are impacted by the pressure-related changes. During descent and ascent, each of these air spaces must be equalized to the ambient pressure in order to avoid discomfort and possible injury.
+
+The most common type of exposure protection worn by sport divers is a neoprene wetsuit. Neoprene is a closed cell foam and relatively light in weight compared to the water it displaces, and therefore neoprene is quite buoyant and is compressible. Changes will be most apparent when the diver is wearing a relatively thick wetsuit. To maintain proper buoyancy control, the diver needs to add air to the BCD during descent, and vent air from the BCD during ascent. Other pieces of equipment that are impacted by Boyle's Law are the BCD and dry suit.
+
+When air is inhaled from the cylinder by the diver, it enters the flexible air space of the respiratory system and immediately becomes subject to the pressure-related changes associated with Boyle's Law. The issues related to the inhaled air are three-fold.
+
+Upon inhalation the pressure of the air inside a diver's lungs will be equal to the ambient pressure. If that diver happens to ascend to a shallower depth while holding his breath, the expanding volume of air inside the lungs can result in a lung rupture.
+
+> It should be stressed that a diver should always breathe continuously, never holding his breath.
+
+The second issue with air inhaled at depth relates to the diver's rate of air consumption. When that diver descends to 10 metres or 33 feet (where the ambient pressure is 2 bar / 2 atm), the diver will need to inhale twice as many molecules of air with each breath to fill the lungs. Therefore, the air will last only one-half as long at this depth as it would at the surface.
+
+Air inhaled at depth becomes more dense. At 10 metres or 33 feet, the inhaled air will be twice as dense as it is at the surface, and its density further increases at deeper depths.
+
+The denser air itself generally creates no noticeable problem for a diver within traditional sport diving depths, provided that the diver continues breathing at a normal rate. However, in the event of overexertion the diver's breathing rate will quicken and, when combined with the increased density of inhaled air, may result in turbulence as the air passes down the diver's airway towards the lungs. When turbulence occurs, the diver will likely sense some degree of difficulty in breathing. It is stressed during training that divers always should move slowly and steadily underwater, avoiding overexertion.
+
+#### The Significance of Relative Changes
+
+Ambient pressure increases by 1 bar for every 10 metres of depth, or by 1 atm for every 33 feet of depth, in seawater. This information seems to suggest that changes in pressure, volume, and density always are uniform over various depths, regardless of the depths involved.
+
+The ambient pressure doubles when the diver descends from the surface to 10 metres or 33 feet (which is an actual change of only one 1 bar / 1 atm), but ambient pressure does not double again until the diver descends from 10 metres or 33 feet to a new depth of 30 metres or 99 feet (which is now an actual change of 2 bar / 2 atm).
+
+As another example, volume increases by only 25% during an ascent from a starting depth of 40 metres or 132 feet to a new depth of 30 metres or 99 feet (which is an actual change of 1 bar / 1 atm), yet volume increases by 100% during an ascent from 10 metres or 33 feet to the surface (which also is an actual change of only 1 bar / 1 atm).
+
+The greatest relative changes occur at shallower depths. This emphasizes the importance of a diver equalizing early during a descent. It helps explain why a new diver may have more difficulty in effectively controlling buoyancy at shallower depths and why he might unexpectedly pop to the surface. It demonstrates the need for vigilance in maintaining a slow rate of ascent throughout the entire ascent, especially as the diver nears the surface.
+
+#### Pressure and Volume Calculations
+
+The following abbreviations appear within the formulas in this section:
+
+- "P" for pressure
+- "V" for volume
+- subscript "1" for a starting value
+- subscript "2" for an ending value
+
+*Note*: The formulas for converting depth to ambient pressure, and ambient pressure to depth, are addressed in the preceding section on pressure. They must also be in a flexible container; these formulae do not work with rigid bodies.
+
+Boyle's Law is depicted mathematically by the following formula for both Imperial and metric measurements:
+
+$$
+(P_1)(V_1)=(P_2)(V_2)
+$$
+
+A diver's rate of air consumption directly corresponds to pressure-related changes in gas volume. If a diver knows the amount of time that a certain supply of gas will last at a given depth, he can readily calculate the time at a new depth with the following formula:
+
+$$
+min_2 = \frac{(P_1)(min_1)}{P_2}
+$$
+
+If a diver knows the amount of time that a supply of gas will last at a given depth, and he wants to determine the depth at which it will last for some specific period of time, the following formula applies:
+
+$$
+P_2= \frac{(P_1)(min_1)}{min_2}
+$$
+
+To determine the relative change in ambient pressure, such as that occurring between two different depths, the following formula may be employed:
+
+$$
+change_r=\frac{P_2}{P_1}
+$$
+
+Identifying changes in gas density actually requires no further calculation, as this change will be exactly the same as any relative change in ambient pressure; that is, if the pressure is doubled, then the density will also be doubled.
