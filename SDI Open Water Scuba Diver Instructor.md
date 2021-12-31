@@ -94,6 +94,7 @@
       - [Pressure, Volume, Temperature and Mass (Ideal Gas Law)](#pressure-volume-temperature-and-mass-ideal-gas-law)
   - [Partial Pressure (Dalton's Law)](#partial-pressure-daltons-law)
     - [How This Principle Relates to Diving](#how-this-principle-relates-to-diving-1)
+  - [Partial Pressure Calculations](#partial-pressure-calculations)
 
 # SDI Open Water Scuba Diver Instructor
 
@@ -1019,3 +1020,19 @@ The following table depicts the partial pressures of oxygen and nitrogen in air,
 | 10 m       | 33 ft      | 2 bar/atm        | .42 bar/atm | 1.58 bar/atm | .80 bar/atm  | 1.20 bar/atm |
 | 20 m       | 66 ft      | 3 bar/atm        | .63 bar/atm | 2.37 bar/atm | 1.20 bar/atm | 1.80 bar/atm |
 | 30 m       | 99 ft      | 4 bar/atm        | .84 bar/atm | 3.16 bar/atm | 1.60 bar/atm | 2.40 bar/atm |
+
+## Partial Pressure Calculations
+
+The following abbreviations appear within the formulas in this section:
+
+- "P" for pressure (ambient pressure)
+- "PO2" for partial pressure of oxygen
+- "PN2" for partial pressure of nitrogen
+- "FO2" for fraction of oxygen (such as, 21% = 0.21)
+- "FN2" for fraction of nitrogen (such as, 79% = 0.79)
+- "D" for depth
+- "EAD" for equivalent air depth
+
+*Note*: The formulas for converting depth to ambient pressure and ambient pressure to depth are addressed in the earlier section on pressure.
+
+To determine the partial pressure of a component gas in any gas mixture, simply multiply the ambient pressure by the fraction of that gas. In the case of air, the partial pressures of oxygen and nitrogen may be calculated with the following formulas:
