@@ -89,6 +89,8 @@
     - [Temperature and Volume Calculations (Charles' Law)](#temperature-and-volume-calculations-charles-law)
     - [Temperature and Pressure Calculations (Gay-Lussac's Law)](#temperature-and-pressure-calculations-gay-lussacs-law)
       - [Estimating Temperature and Pressure](#estimating-temperature-and-pressure)
+    - [Combined and Ideal Gas Laws](#combined-and-ideal-gas-laws)
+      - [Pressure, Volume and Temperature](#pressure-volume-and-temperature)
 
 # SDI Open Water Scuba Diver Instructor
 
@@ -959,3 +961,22 @@ $$
 1°F\approx5 psi
 $$
 
+### Combined and Ideal Gas Laws 
+
+#### Pressure, Volume and Temperature
+
+In the real world, multiple variables may come into play in a given situation, volume can be affected simultaneously by both changing pressure and changing temperature; pressure can be affected simultaneously by both changing volume and changing temperature; and temperature can be affected simultaneously by both changing pressure and changing volume.
+
+To effectively address the possible combinations of pressure-volume-temperature variables all at the same time, physicists have adopted the concept of a Combined Gas Law. The Combined Gas Law is a mathematical combination of Boyle's Law, Charles' Law, and Gay-Lussac's Law as depicted by the following formula.
+
+Metric and Imperial: ( P1 x V1 ) / T1 = ( P2 x V2 ) / T2
+
+$$
+\frac{(P_1)(V_1)}{T_1}=\frac{(P_2)(V_2)}{T_2}
+$$
+
+Within this formula pressure refers to absolute pressure and temperature refers to absolute temperature. This formula may also be rearranged as appropriate for the circumstances. It is noted, though, that once all the rearrangements and inherent conversions are applied to this equation, it can become rather unwieldy for all except the skilled mathematician. This formula is included here primarily for informational purposes rather than actual use.
+
+For the sake of simplicity, the OWSDI might find it easier, when multiple variables are involved, to address those variables one at a time.
+
+On occasion the reader may encounter some reference to a less formal "general gas law" that essentially incorporates the same concepts as the Combined Gas Law; though perhaps not technically accurate, in practice these two terms are sometimes used interchangeably.
