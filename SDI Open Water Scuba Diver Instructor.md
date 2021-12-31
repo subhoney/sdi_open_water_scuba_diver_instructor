@@ -90,7 +90,9 @@
     - [Temperature and Pressure Calculations (Gay-Lussac's Law)](#temperature-and-pressure-calculations-gay-lussacs-law)
       - [Estimating Temperature and Pressure](#estimating-temperature-and-pressure)
     - [Combined and Ideal Gas Laws](#combined-and-ideal-gas-laws)
-      - [Pressure, Volume and Temperature](#pressure-volume-and-temperature)
+      - [Pressure, Volume and Temperature (Combined Gas Law)](#pressure-volume-and-temperature-combined-gas-law)
+      - [Pressure, Volume, Temperature and Mass (Ideal Gas Law)](#pressure-volume-temperature-and-mass-ideal-gas-law)
+  - [Partial Pressure (Dalton's Law)](#partial-pressure-daltons-law)
 
 # SDI Open Water Scuba Diver Instructor
 
@@ -963,13 +965,11 @@ $$
 
 ### Combined and Ideal Gas Laws 
 
-#### Pressure, Volume and Temperature
+#### Pressure, Volume and Temperature (Combined Gas Law)
 
 In the real world, multiple variables may come into play in a given situation, volume can be affected simultaneously by both changing pressure and changing temperature; pressure can be affected simultaneously by both changing volume and changing temperature; and temperature can be affected simultaneously by both changing pressure and changing volume.
 
 To effectively address the possible combinations of pressure-volume-temperature variables all at the same time, physicists have adopted the concept of a Combined Gas Law. The Combined Gas Law is a mathematical combination of Boyle's Law, Charles' Law, and Gay-Lussac's Law as depicted by the following formula.
-
-Metric and Imperial: ( P1 x V1 ) / T1 = ( P2 x V2 ) / T2
 
 $$
 \frac{(P_1)(V_1)}{T_1}=\frac{(P_2)(V_2)}{T_2}
@@ -980,3 +980,17 @@ Within this formula pressure refers to absolute pressure and temperature refers 
 For the sake of simplicity, the OWSDI might find it easier, when multiple variables are involved, to address those variables one at a time.
 
 On occasion the reader may encounter some reference to a less formal "general gas law" that essentially incorporates the same concepts as the Combined Gas Law; though perhaps not technically accurate, in practice these two terms are sometimes used interchangeably.
+
+#### Pressure, Volume, Temperature and Mass (Ideal Gas Law)
+
+The Ideal Gas Law is a distinctly expanded concept beyond the Combined Gas Law. In addition to mathematical pressure-volume-temperature relationships, it incorporates values relating to the number of moles (representing molecules and other atomic and subatomic particles) that constitute a hypothetical ideal gas. The Ideal Gas Law is based upon the hypothesis that the volume of two theoretical "ideal"gases under the same pressure and at the same temperature will have similar mass. It is expressed by the following formula (where "n" is the number of moles, and "R" is a universal gas constant).
+
+$$
+pV=nRT
+$$
+
+It is noted, however, that the Ideal Gas Law neglects molecular structure and kinetics, which also govern the volume and mass of a gas. Therefore not all gases behave like an "ideal" gas and, in fact, an actual gas might differ significantly from the cited theoretical model. While the Ideal Gas Law certainly has some application within the scientific community, the inherent complexity and variability of this concept far outweigh its practical value within the context of diving. The Ideal Gas Law is included here primarily so that the reader will be able to distinguish it from, and not confuse it with, the Combined Gas Law.
+
+## Partial Pressure (Dalton's Law)
+
+John Dalton (1766-1844) studied the behavior of individual gases within a gas mixture and discovered the principle now known in physics as Dalton's Law. This principle states that "The total pressure exerted by a mixture of gases is equal to the sum of the pressures of each of its component gases, with each component gas acting as if it alone were present and occupied the total volume." In other words, each gas within a mixture has its own pressure and each gas is unaffected by any other gas in the mixture. Air is a mixture of gases containing approximately 21% oxygen and 79% nitrogen. Accordingly, oxygen accounts for 21% of the total pressure of air, and nitrogen accounts for 79% of the total pressure of air. This relationship of ambient (total) pressure and individual partial pressures is depicted in the following table:
