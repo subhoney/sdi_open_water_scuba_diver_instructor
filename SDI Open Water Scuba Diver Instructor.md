@@ -83,6 +83,10 @@
       - [Pressure and Volume Calculations](#pressure-and-volume-calculations)
     - [Charles' Law and Gay-Lussac's Law](#charles-law-and-gay-lussacs-law)
       - [Formulae for Temperature and Volume](#formulae-for-temperature-and-volume)
+      - [Temperature and Pressure](#temperature-and-pressure)
+      - [Concepts for Temperature and Pressure](#concepts-for-temperature-and-pressure)
+    - [How These Principals Relate to Diving](#how-these-principals-relate-to-diving)
+    - [Temperature and Volume Calculations](#temperature-and-volume-calculations)
 
 # SDI Open Water Scuba Diver Instructor
 
@@ -815,6 +819,8 @@ Jacques Alexandre Cesar Charles (1746-1823) studied the interrelationship of tem
 
 #### Formulae for Temperature and Volume
 
+These laws were proposed by JAC Charles.
+
 T(up) = V(up) and T(down) = V(down)
 
 $$
@@ -824,3 +830,65 @@ $$
 $$
 T(down)=V(down)
 $$
+
+#### Temperature and Pressure
+
+Joseph Louis Gay-Lussac (1778-1850) further advanced the work of Charles. In particular Gay-Lussac addressed the interrelationship between temperature and pressure, and discovered the principle now known in physics as Gay-Lussac's Law: "At a constant volume, the pressure of a gas increases or decreases by the same factor as its temperature." If the temperature goes up, then the pressure also goes up, and this change is mathematically predicable.
+
+#### Concepts for Temperature and Pressure
+
+*Note*: These aren't "formulae" per se; they map a relationship non-mathematically.
+
+$$
+T(up)=P(up)
+$$
+
+$$
+T(down)=P(down)
+$$
+
+This new principle sounds quite similar to Charles' Law. While both deal with the effect of changing temperature, here the focus is on pressure rather than volume.
+
+### How These Principals Relate to Diving
+
+Changing temperature may be of little concern in certain tropical environments, where a diver encounters little or no difference between the temperature of seawater at the surface and at depth.
+
+*Note*: This isn't a "formula" per se; it maps a relationship non-mathematically.
+
+$$
+T = V\&P
+$$
+
+In deeper technical diving, or in more temperate environments and especially in some freshwater lakes, the difference in water temperature can be more pronounced.
+
+> Achieving neutral buoyancy in cold water with a BCD or lift bag still requires exactly the same volume of air as in warm water; but in cold water it will take more molecules of air, drawn from the scuba cylinder, to produce that same volume of air.
+
+Perhaps the most obvious impact of changing temperature involves the scuba cylinder itself. An increase in temperature results in an increase in pressure inside the cylinder, and a decrease in temperature results in a decrease in pressure. When a scuba cylinder is left in the trunk of an automobile on a hot summer day, the pressure rises inside that cylinder (sometimes dangerously so); and when a warm cylinder is immersed in cool water, the diver might readily detect a drop of perhaps 5 to 10 bar, or 100 to 200 psi, in the cylinder's internal pressure as displayed by the SPG. This is why when teaching a specialty course, it is best to advise the students to remove the cylinders from a hot car and place them in the shade or cooler area. Should the cylinder pressure increase too much, the burst disc will rupture and the cylinder will be inoperable.
+
+*Note*: This describes the phenomenon of a "hot fill." When gas is pumped into a pressurized container, its temperature increases. That's why fill stations may fill a 3000psi tank to 3100psi. The tank will be hot to the touch and, as it cools, will dip to 3000psi.
+
+### Temperature and Volume Calculations
+
+The following abbreviations appear within the formulas in this section:
+
+- "T" for temperature
+- "V" for volume
+- "°C" for degrees Celsius (or Centigrade)
+- "°F" for degrees Fahrenheit
+- subscript "1" for a starting value
+- subscript "2" for an ending value
+
+Charles' Law is depicted mathematically by the following formula for both metric and Imperial:
+
+$$
+\frac{V_1}{T_1}=\frac{V_2}{T_2}
+$$
+
+Again, the components within this formula may be algebrically rearranged as needed. For instance, to find the new volume following any change in temperature, the following will apply:
+
+$$
+V_2=(T_2)(\frac{V_1}{T_1})
+$$
+V2 = T2 x [ V1 / T1 ]
+
+It is essential to note that the accuracy of this formula depends upon the above temperature values being expressed in terms of either degrees Kelvin or degrees Rankine. Kelvin and Rankine are temperature scales routinely used within the scientific community. The Kelvin scale is based upon the more common Celsius (or Centigrade) scale and a degree of Kelvin identifies the same unit of measurement for temperature as a degree of Celsius. 0° Kelvin is equal to -273° Celsius. To convert from Celsius to Kelvin, simply add 273 degrees. The Rankine scale is based upon the Fahrenheit scale, and a degree of Rankine identifies the same unit of measurement for temperature as a degree of Fahrenheit. 0° Rankine is equal to -460° Fahrenheit. To convert from Fahrenheit to Rankine simply add 460 degrees. When the additional Kelvin or Rankine calculations are incorporated into the above formula, it appears as follows:
