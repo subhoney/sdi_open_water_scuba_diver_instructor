@@ -12,3 +12,4 @@ This sport is full of acronyms. Here's what they mean.
 | OWSDI   | Open Water Scuba Diving Instructor      |
 | QA      | Quality Assurance                       |
 | EMS     | Emergency Medical Services              |
+| PPO_2   | Partial Pressure of [Oxygen]            |

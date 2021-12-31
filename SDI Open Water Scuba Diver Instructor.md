@@ -63,18 +63,18 @@
     - [Summary: Chapters 3 and 4](#summary-chapters-3-and-4)
   - [Diving Physics](#diving-physics)
     - [Introduction](#introduction-1)
-    - [Phyisical Properties of Water](#phyisical-properties-of-water)
+    - [Physical Properties of Water](#physical-properties-of-water)
       - [Density of Water](#density-of-water)
       - [Refraction of Light in Water](#refraction-of-light-in-water)
       - [Diffraction of Light in Water](#diffraction-of-light-in-water)
       - [Color Loss in Water](#color-loss-in-water)
       - [Transmission of Sound in Water](#transmission-of-sound-in-water)
       - [Thermal Conductivity in Water](#thermal-conductivity-in-water)
-      - [Bouyancy](#bouyancy)
+      - [Buoyancy](#buoyancy)
         - [How This Principle Relates to Diving](#how-this-principle-relates-to-diving)
         - [Saltwater versus Freshwater](#saltwater-versus-freshwater)
         - [Archimedean Calculations](#archimedean-calculations)
-          - [Buoyancy](#buoyancy)
+          - [Buoyancy](#buoyancy-1)
           - [Lift Bags](#lift-bags)
     - [Boyle's Law](#boyles-law)
       - [Pressure and Volume](#pressure-and-volume)
@@ -637,7 +637,7 @@ Once the accident victim has been turned over to the proper authorities and the 
 
 The dive professional should write the report as soon as realistically possible following the accident, while the event is still fresh in his memory. Because most insurance companies require notification of an accident within a certain amount of time, failure to promptly report the accident may create a coverage problem. The sooner the better is the best advice when it comes to completing and providing an accident report.
 
-The dive professional should use the appropriate accident form and provide only the information requested. Dive professionals should not provide any information to anyone other than ITI and their insurance agent. More importantly, dive professionals should not provide any information to a third party. If a statement must be made to the local authorities, only the facts should be provided. The dive professional should be cooperative with them and avoid voicing any judments, statements or opinions regarding the accident. Talking with the media should be avoided at all costs.
+The dive professional should use the appropriate accident form and provide only the information requested. Dive professionals should not provide any information to anyone other than ITI and their insurance agent. More importantly, dive professionals should not provide any information to a third party. If a statement must be made to the local authorities, only the facts should be provided. The dive professional should be cooperative with them and avoid voicing any judgments, statements or opinions regarding the accident. Talking with the media should be avoided at all costs.
 
 Remember, anyone can be named in a lawsuit at anytime, especially those in charge of a group. In the event of an accident, it’s important that the dive professional document as many of the facts as possible to protect him and other responders.
 
@@ -657,7 +657,7 @@ In the divemaster program, diving physics and physiology were covered in great d
 
 A general understanding of physics is a key component in the overall body of knowledge that is expected of a dive professional. The laws of physics are equally applicable both above and below the water's surface. A dive leader should attempt to convey pertinent information to every student with whom he comes into contact; and that knowledge should be tailored according to the recipient's level of training. Any additional information should be reserved for that individual who expresses further interest. A dive leader can never know all there is to know about the science of diving and the theories backing that science up, but the real art is knowing when that knowledge should be shared.
 
-### Phyisical Properties of Water
+### Physical Properties of Water
 
 #### Density of Water
 
@@ -683,7 +683,7 @@ The speed of sound depends upon the medium through which it passes, and sound te
 
 The thermal conductivity of any substance depends upon a number of variables including its density and overall structure. Water is a far more efficient thermal conductor than air. In fact, the relative thermal conductivity factor for water is about 6.0, while for air it is only about 0.025; thus water will whisk heat away from a diver's body approximately 25 times faster than air. Depending on water temperature divers must plan to use the appropriate exposure suit for conditions.
 
-#### Bouyancy
+#### Buoyancy
 
 Archimedes of Syracuse (287-212 BC) (my man!) discovered the principle known in physics as Archimedes' Principle. This principle states: "Any object, wholly or partly immersed in a fluid, is buoyed up by a force equal to the weight of the fluid displaced by the object."
 
@@ -892,7 +892,7 @@ $$
 \frac{V_1}{T_1}=\frac{V_2}{T_2}
 $$
 
-Again, the components within this formula may be algebrically rearranged as needed. For instance, to find the new volume following any change in temperature, the following will apply:
+Again, the components within this formula may be algebraically rearranged as needed. For instance, to find the new volume following any change in temperature, the following will apply:
 
 $$
 V_2=\frac{(T_2)(V_1)}{T_1}
@@ -937,7 +937,7 @@ $$
 \frac{P_1}{T_1}=\frac{P_2}{T_2}
 $$
 
-The components within this formula may be algebraiclly manipulated as needed; for instance, to find the new pressure following any change in temperature, the following will apply:
+The components within this formula may be algebraically manipulated as needed; for instance, to find the new pressure following any change in temperature, the following will apply:
 
 $$
 P_2=\frac{(T_2)(P_1)}{T_1}
@@ -1035,4 +1035,22 @@ The following abbreviations appear within the formulas in this section:
 
 *Note*: The formulas for converting depth to ambient pressure and ambient pressure to depth are addressed in the earlier section on pressure.
 
-To determine the partial pressure of a component gas in any gas mixture, simply multiply the ambient pressure by the fraction of that gas. In the case of air, the partial pressures of oxygen and nitrogen may be calculated with the following formulas:
+To determine the partial pressure of a component gas in any gas mixture, simply multiply the ambient pressure by the fraction of that gas. In the case of air, the partial pressures of oxygen and nitrogen may be calculated with the following formulae:
+
+$$
+PO_2=(P)(FO_2)
+$$
+
+$$
+PN_2=(P)(FN_2)
+$$
+
+As before, the component factors within this formula may be algebraically rearranged as needed. For example, if a diver wants to determine which nitrox mixture provides a specified partial pressure of either oxygen or nitrogen at a given ambient pressure, the following formulas would apply:
+
+$$
+FO_2=\frac{PO_2}{P}
+$$
+
+$$
+FN_2=\frac{PN_2}{P}
+$$
