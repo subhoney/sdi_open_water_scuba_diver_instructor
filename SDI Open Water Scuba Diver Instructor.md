@@ -88,6 +88,7 @@
     - [How These Principals Relate to Diving](#how-these-principals-relate-to-diving)
     - [Temperature and Volume Calculations](#temperature-and-volume-calculations)
     - [Temperature and Pressure Calculations](#temperature-and-pressure-calculations)
+      - [Estimating Temperature and Pressure](#estimating-temperature-and-pressure)
 
 # SDI Open Water Scuba Diver Instructor
 
@@ -944,4 +945,16 @@ $$
 
 $$
 Atm_2= \frac{(°F_2+460)(Atm_1+14.7psi)}{°F_1+460}-14.7psi
+$$
+
+#### Estimating Temperature and Pressure
+
+As an alternative, in the real world of diving the effect of temperature upon pressure also may be quickly estimated. A change of 1°C will result in an approximate change of 0.6 bar. A change of 1°F will result in an approximate change of 5 psi. In either case, an increase in temperature will be accompanied by an increase in pressure, and a decrease in temperature will be accompanied by a decrease in pressure. These approximations are depicted as follows:
+
+$$
+1°C\approx0.6 bar
+$$
+
+$$
+1°F\approx5 psi
 $$
