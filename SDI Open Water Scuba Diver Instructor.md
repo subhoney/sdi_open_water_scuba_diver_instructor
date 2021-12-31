@@ -81,6 +81,8 @@
       - [How this Principal Relates to Diving](#how-this-principal-relates-to-diving)
       - [The Significance of Relative Changes](#the-significance-of-relative-changes)
       - [Pressure and Volume Calculations](#pressure-and-volume-calculations)
+    - [Charles' Law and Gay-Lussac's Law](#charles-law-and-gay-lussacs-law)
+      - [Formulae for Temperature and Volume](#formulae-for-temperature-and-volume)
 
 # SDI Open Water Scuba Diver Instructor
 
@@ -806,3 +808,19 @@ change_r=\frac{P_2}{P_1}
 $$
 
 Identifying changes in gas density actually requires no further calculation, as this change will be exactly the same as any relative change in ambient pressure; that is, if the pressure is doubled, then the density will also be doubled.
+
+### Charles' Law and Gay-Lussac's Law
+
+Jacques Alexandre Cesar Charles (1746-1823) studied the interrelationship of temperature and volume, and discovered the principle of physics that is now known as Charles' Law: " At a constant pressure, the volume of a gas increases or decreases by the same factor as its temperature." If the temperature goes up, then the volume also goes up, and this change is mathematically predicable.
+
+#### Formulae for Temperature and Volume
+
+T(up) = V(up) and T(down) = V(down)
+
+$$
+T(up)=V(up)
+$$
+
+$$
+T(down)=V(down)
+$$
