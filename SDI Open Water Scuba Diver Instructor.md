@@ -82,12 +82,12 @@
       - [The Significance of Relative Changes](#the-significance-of-relative-changes)
       - [Pressure and Volume Calculations](#pressure-and-volume-calculations)
     - [Charles' Law and Gay-Lussac's Law](#charles-law-and-gay-lussacs-law)
-      - [Formulae for Temperature and Volume](#formulae-for-temperature-and-volume)
-      - [Temperature and Pressure](#temperature-and-pressure)
+      - [Formulae for Temperature and Volume (Charles' Law)](#formulae-for-temperature-and-volume-charles-law)
+      - [Temperature and Pressure (Gay-Lussac's Law)](#temperature-and-pressure-gay-lussacs-law)
       - [Concepts for Temperature and Pressure](#concepts-for-temperature-and-pressure)
     - [How These Principals Relate to Diving](#how-these-principals-relate-to-diving)
-    - [Temperature and Volume Calculations](#temperature-and-volume-calculations)
-    - [Temperature and Pressure Calculations](#temperature-and-pressure-calculations)
+    - [Temperature and Volume Calculations (Charles' Law)](#temperature-and-volume-calculations-charles-law)
+    - [Temperature and Pressure Calculations (Gay-Lussac's Law)](#temperature-and-pressure-calculations-gay-lussacs-law)
       - [Estimating Temperature and Pressure](#estimating-temperature-and-pressure)
 
 # SDI Open Water Scuba Diver Instructor
@@ -819,7 +819,7 @@ Identifying changes in gas density actually requires no further calculation, as 
 
 Jacques Alexandre Cesar Charles (1746-1823) studied the interrelationship of temperature and volume, and discovered the principle of physics that is now known as Charles' Law: " At a constant pressure, the volume of a gas increases or decreases by the same factor as its temperature." If the temperature goes up, then the volume also goes up, and this change is mathematically predicable.
 
-#### Formulae for Temperature and Volume
+#### Formulae for Temperature and Volume (Charles' Law)
 
 These laws were proposed by JAC Charles.
 
@@ -833,7 +833,7 @@ $$
 T(down)=V(down)
 $$
 
-#### Temperature and Pressure
+#### Temperature and Pressure (Gay-Lussac's Law)
 
 Joseph Louis Gay-Lussac (1778-1850) further advanced the work of Charles. In particular Gay-Lussac addressed the interrelationship between temperature and pressure, and discovered the principle now known in physics as Gay-Lussac's Law: "At a constant volume, the pressure of a gas increases or decreases by the same factor as its temperature." If the temperature goes up, then the pressure also goes up, and this change is mathematically predicable.
 
@@ -869,7 +869,7 @@ Perhaps the most obvious impact of changing temperature involves the scuba cylin
 
 *Note*: This describes the phenomenon of a "hot fill." When gas is pumped into a pressurized container, its temperature increases. That's why fill stations may fill a 3000psi tank to 3100psi. The tank will be hot to the touch and, as it cools, will dip to 3000psi.
 
-### Temperature and Volume Calculations
+### Temperature and Volume Calculations (Charles' Law)
 
 The following abbreviations appear within the formulas in this section:
 
@@ -914,7 +914,7 @@ $$
 V_2=(°F_2+460)(\frac{V_1}{°F_1+460})
 $$
 
-### Temperature and Pressure Calculations
+### Temperature and Pressure Calculations (Gay-Lussac's Law)
 
 The following abbreviations appear within the formulas in this section:
 
@@ -958,3 +958,4 @@ $$
 $$
 1°F\approx5 psi
 $$
+
