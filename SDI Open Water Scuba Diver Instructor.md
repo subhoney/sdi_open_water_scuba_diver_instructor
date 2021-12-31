@@ -93,6 +93,7 @@
       - [Pressure, Volume and Temperature (Combined Gas Law)](#pressure-volume-and-temperature-combined-gas-law)
       - [Pressure, Volume, Temperature and Mass (Ideal Gas Law)](#pressure-volume-temperature-and-mass-ideal-gas-law)
   - [Partial Pressure (Dalton's Law)](#partial-pressure-daltons-law)
+    - [How This Principle Relates to Diving](#how-this-principle-relates-to-diving-1)
 
 # SDI Open Water Scuba Diver Instructor
 
@@ -994,3 +995,27 @@ It is noted, however, that the Ideal Gas Law neglects molecular structure and ki
 ## Partial Pressure (Dalton's Law)
 
 John Dalton (1766-1844) studied the behavior of individual gases within a gas mixture and discovered the principle now known in physics as Dalton's Law. This principle states that "The total pressure exerted by a mixture of gases is equal to the sum of the pressures of each of its component gases, with each component gas acting as if it alone were present and occupied the total volume." In other words, each gas within a mixture has its own pressure and each gas is unaffected by any other gas in the mixture. Air is a mixture of gases containing approximately 21% oxygen and 79% nitrogen. Accordingly, oxygen accounts for 21% of the total pressure of air, and nitrogen accounts for 79% of the total pressure of air. This relationship of ambient (total) pressure and individual partial pressures is depicted in the following table:
+
+| Depth (sw) | Depth (sw) | Ambient Pressure | Partial Pressure O2 | Partial Pressure N |
+|------------|------------|------------------|---------------------|--------------------|
+| 0 m        | 0 ft       | 1 bar/atm        | .21 bar/atm         | .79 bar/atm        |
+| 10 m       | 33 ft      | 2 bar/atm        | .42 bar/atm         | 1.58 bar/atm       |
+| 20 m       | 66 ft      | 3 bar/atm        | .63 bar/atm         | 2.37 bar/atm       |
+| 30 m       | 99 ft      | 4 bar/atm        | .84 bar/atm         | 3.16 bar/atm       |
+| 40 m       | 132 ft     | 5 bar/atm        | 1.05 bar/atm        | 3.95 bar/atm       |
+| 50 m       | 165 ft     | 6 bar/atm        | 1.26 bar/atm        | 4.74 bar/atm       |
+
+A prior discussion of Boyle's Law stated that the pressure of a gas inside a flexible container is equal to ambient pressure. Such also is true when considering partial pressure. As demonstrated in the above table, within a flexible container the percentages of oxygen and nitrogen remain constant in the air mixture, while the partial pressure of each gas varies proportionately with depth.
+
+### How This Principle Relates to Diving
+
+Dalton's Law provides the means to examine each of the components within air or any other gas mixture on an individual basis. As demonstrated in the previous table, when a diver is breathing air at a depth of 40 meters or 132 feet, the partial pressure of oxygen is about 21% of the total ambient pressure at that depth (5 bar x 0.21 = 1.05 bar / 1.05 atm) is roughly equivalent to a person breathing 100% oxygen at the surface (where the partial pressure of 100% oxygen would be 1 bar / 1 atm). When breathing air at 40 meters or 132 feet, the partial pressure of nitrogen (3.95 bar / 3.95 atm) is almost five times the "dose" of nitrogen a person would breathe on the surface. This helps explain, at least in part, why a diver's body absorbs additional nitrogen at depth. In fact, it is the partial pressure of a gas that determines its physiological impact. The actual percentage of a gas within any mixture is largely immaterial except as it relates to partial pressure.
+
+The following table depicts the partial pressures of oxygen and nitrogen in air, and also those in a nitrox mixture containing 40% oxygen:
+
+| Depth (sw) | Depth (sw) | Ambient Pressure | PPO2 (air)  | PPN (air)    | PPO2 40%EANx | PPN 40%EANx  |
+|------------|------------|------------------|-------------|--------------|--------------|--------------|
+| 0 m        | 0 ft       | 1 bar/atm        | .21 bar/atm | .79 bar/atm  | .40 bar/atm  | .60 bar/atm  |
+| 10 m       | 33 ft      | 2 bar/atm        | .42 bar/atm | 1.58 bar/atm | .80 bar/atm  | 1.20 bar/atm |
+| 20 m       | 66 ft      | 3 bar/atm        | .63 bar/atm | 2.37 bar/atm | 1.20 bar/atm | 1.80 bar/atm |
+| 30 m       | 99 ft      | 4 bar/atm        | .84 bar/atm | 3.16 bar/atm | 1.60 bar/atm | 2.40 bar/atm |
