@@ -17,7 +17,7 @@ $$
 \frac{V_1}{T_1}=\frac{V_2}{T_2}
 $$
 
-## Kelvin and Rankine Conversions
+## Kelvin and Rankine Conversion Constants
 
 $$
 °K=°C+273
