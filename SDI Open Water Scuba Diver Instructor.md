@@ -61,7 +61,7 @@
       - [Accident Reporting](#accident-reporting)
       - [CPR and First Aid](#cpr-and-first-aid)
     - [Summary: Chapters 3 and 4](#summary-chapters-3-and-4)
-  - [Diving Physics Part 1](#diving-physics-part-1)
+  - [Diving Physics](#diving-physics)
     - [Introduction](#introduction-1)
     - [Phyisical Properties of Water](#phyisical-properties-of-water)
       - [Density of Water](#density-of-water)
@@ -635,7 +635,7 @@ The initial certification as a dive professional requires that proof of current 
 
 This section covered various aspects of risk management and how to teach defensively. If these suggestions and procedures are followed when an accident/incident occurs, the process will be less traumatic and end with a more favorable outcome. Accidents can and will happen. An OWSDI can minimize the negative outcome of those accidents with proper training, proper planning and careful organization. Being prepared for an accident will help prevent accidents.
 
-## Diving Physics Part 1
+## Diving Physics
 
 ### Introduction
 
