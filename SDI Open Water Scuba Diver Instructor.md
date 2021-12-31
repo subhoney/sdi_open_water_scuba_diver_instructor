@@ -87,6 +87,7 @@
       - [Concepts for Temperature and Pressure](#concepts-for-temperature-and-pressure)
     - [How These Principals Relate to Diving](#how-these-principals-relate-to-diving)
     - [Temperature and Volume Calculations](#temperature-and-volume-calculations)
+    - [Temperature and Pressure Calculations](#temperature-and-pressure-calculations)
 
 # SDI Open Water Scuba Diver Instructor
 
@@ -912,3 +913,35 @@ $$
 V_2=(°F_2+460)(\frac{V_1}{°F_1+460})
 $$
 
+### Temperature and Pressure Calculations
+
+The following abbreviations appear within the formulas in this section:
+
+- "T" for temperature
+- "V" for volume
+- "°C" for degrees Celsius (or Centigrade)
+- "°F" for degrees Fahrenheit
+- subscript "1" for a starting value
+- subscript "2" for an ending value
+
+Gay-Lussac's Law is depicted mathematically by the following formula for metric and Imperial:
+
+$$
+\frac{P_1}{T_1}=\frac{P_2}{T_2}
+$$
+
+The components within this formula may be algebraiclly manipulated as needed; for instance, to find the new pressure following any change in temperature, the following will apply:
+
+$$
+P_2=\frac{(T_2)(P_1)}{T_1}
+$$
+
+Here too it is necessary to convert temperature values to Kelvin or Rankine. As usual, pressure refers to absolute (total) pressure; here it includes gauge pressure (internal pressure, as measured by an SPG-type device) plus atmospheric pressure. To convert gauge pressure to absolute pressure, just add 1 bar or 14.7 psi. Of course, 1 bar / 14.7 psi also must be subtracted again later in the calculations, to arrive back ultimately at gauge pressure. With these additional calculations incorporated into the formula, it would now appear as follows:
+
+$$
+Bar_2 = \frac{(°C_2+273)(Bar_1+1bar)}{°C_1+273}-1bar
+$$
+
+$$
+Atm_2= \frac{(°F_2+460)(Atm_1+14.7psi)}{°F_1+460}-14.7psi
+$$
