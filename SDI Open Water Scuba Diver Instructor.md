@@ -887,8 +887,28 @@ $$
 Again, the components within this formula may be algebrically rearranged as needed. For instance, to find the new volume following any change in temperature, the following will apply:
 
 $$
-V_2=(T_2)(\frac{V_1}{T_1})
+V_2=\frac{(T_2)(V_1)}{T_1}
 $$
-V2 = T2 x [ V1 / T1 ]
 
-It is essential to note that the accuracy of this formula depends upon the above temperature values being expressed in terms of either degrees Kelvin or degrees Rankine. Kelvin and Rankine are temperature scales routinely used within the scientific community. The Kelvin scale is based upon the more common Celsius (or Centigrade) scale and a degree of Kelvin identifies the same unit of measurement for temperature as a degree of Celsius. 0° Kelvin is equal to -273° Celsius. To convert from Celsius to Kelvin, simply add 273 degrees. The Rankine scale is based upon the Fahrenheit scale, and a degree of Rankine identifies the same unit of measurement for temperature as a degree of Fahrenheit. 0° Rankine is equal to -460° Fahrenheit. To convert from Fahrenheit to Rankine simply add 460 degrees. When the additional Kelvin or Rankine calculations are incorporated into the above formula, it appears as follows:
+It is essential to note that the accuracy of this formula depends upon the above temperature values being expressed in terms of either degrees Kelvin or degrees Rankine. Kelvin and Rankine are temperature scales routinely used within the scientific community. The Kelvin scale is based upon the more common Celsius (or Centigrade) scale and a degree of Kelvin identifies the same unit of measurement for temperature as a degree of Celsius. 0° Kelvin is equal to -273° Celsius. To convert from Celsius to Kelvin, simply add 273 degrees. 
+
+$$
+°K=°C+273
+$$
+
+The Rankine scale is based upon the Fahrenheit scale, and a degree of Rankine identifies the same unit of measurement for temperature as a degree of Fahrenheit. 0° Rankine is equal to -460° Fahrenheit. To convert from Fahrenheit to Rankine simply add 460 degrees. 
+
+$$
+°R=°F+460
+$$
+
+When the additional Kelvin or Rankine calculations are incorporated into the above formula, they appear as follows:
+
+$$
+V_2=(°C_2+273)(\frac{V_1}{°C_1+273})
+$$
+
+$$
+V_2=(°F_2+460)(\frac{V_1}{°F_1+460})
+$$
+
