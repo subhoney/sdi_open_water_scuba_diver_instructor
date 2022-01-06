@@ -1073,8 +1073,6 @@ $$
 
 ### Imperial
 
-EAD = [ ( FN2 / 0.79 ) x ( D + 33 ) ] - 33
-
 $$
 EAD=((\frac{FN_2}{0.79})(D+33))-33
 $$
@@ -1082,6 +1080,5 @@ $$
 *Note*: This second formula is just algebraic manipulation that makes more sense to me. --jcb
 
 $$
-EAD=\frac{(FN_2)(D+10)}{0.33}-33
+EAD=\frac{(FN_2)(D+33)}{0.79}-33
 $$
-

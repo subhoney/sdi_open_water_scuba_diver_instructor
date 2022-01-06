@@ -1,6 +1,6 @@
 # Temperature and Volume
 
-Information Requirements: 
+Information Requirements:
 
 - "T" for temperature
 - "V" for volume
@@ -11,7 +11,7 @@ Information Requirements:
 
 ## Generalized Charles' Law
 
-*Note*: This is metric and imperial, but requires constants for Kelvin and Rankine. 
+*Note*: This is metric and imperial, but requires constants for Kelvin and Rankine.
 
 $$
 \frac{V_1}{T_1}=\frac{V_2}{T_2}
@@ -46,7 +46,7 @@ V_2=\frac{(T_2)(V_1)}{T_1}
 $$
 
 ### Examples
-    
+
 > If the volume of a gas is 10 liters at a temperature of 30°C, what will be its volume at 10°C?
 
 $$
