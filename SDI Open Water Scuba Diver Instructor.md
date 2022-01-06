@@ -875,7 +875,7 @@ Changing temperature may be of little concern in certain tropical environments, 
 *Note*: This isn't a "formula" per se; it maps a relationship non-mathematically.
 
 $$
-T = V\&P
+T=V\&P
 $$
 
 In deeper technical diving, or in more temperate environments and especially in some freshwater lakes, the difference in water temperature can be more pronounced.
