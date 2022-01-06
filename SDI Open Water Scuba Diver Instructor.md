@@ -63,24 +63,49 @@
     - [Summary: Chapters 3 and 4](#summary-chapters-3-and-4)
   - [Diving Physics](#diving-physics)
     - [Introduction](#introduction-1)
-    - [Phyisical Properties of Water](#phyisical-properties-of-water)
+    - [Physical Properties of Water](#physical-properties-of-water)
       - [Density of Water](#density-of-water)
       - [Refraction of Light in Water](#refraction-of-light-in-water)
       - [Diffraction of Light in Water](#diffraction-of-light-in-water)
       - [Color Loss in Water](#color-loss-in-water)
       - [Transmission of Sound in Water](#transmission-of-sound-in-water)
       - [Thermal Conductivity in Water](#thermal-conductivity-in-water)
-      - [Bouyancy](#bouyancy)
+      - [Buoyancy](#buoyancy)
         - [How This Principle Relates to Diving](#how-this-principle-relates-to-diving)
         - [Saltwater versus Freshwater](#saltwater-versus-freshwater)
         - [Archimedean Calculations](#archimedean-calculations)
-          - [Buoyancy](#buoyancy)
+          - [Buoyancy](#buoyancy-1)
           - [Lift Bags](#lift-bags)
     - [Boyle's Law](#boyles-law)
       - [Pressure and Volume](#pressure-and-volume)
       - [How this Principal Relates to Diving](#how-this-principal-relates-to-diving)
       - [The Significance of Relative Changes](#the-significance-of-relative-changes)
       - [Pressure and Volume Calculations](#pressure-and-volume-calculations)
+    - [Charles' Law and Gay-Lussac's Law](#charles-law-and-gay-lussacs-law)
+      - [Formulae for Temperature and Volume (Charles' Law)](#formulae-for-temperature-and-volume-charles-law)
+      - [Temperature and Pressure (Gay-Lussac's Law)](#temperature-and-pressure-gay-lussacs-law)
+      - [Concepts for Temperature and Pressure](#concepts-for-temperature-and-pressure)
+    - [How These Principals Relate to Diving](#how-these-principals-relate-to-diving)
+    - [Temperature and Volume Calculations (Charles' Law)](#temperature-and-volume-calculations-charles-law)
+    - [Temperature and Pressure Calculations (Gay-Lussac's Law)](#temperature-and-pressure-calculations-gay-lussacs-law)
+      - [Estimating Temperature and Pressure](#estimating-temperature-and-pressure)
+    - [Combined and Ideal Gas Laws](#combined-and-ideal-gas-laws)
+      - [Pressure, Volume and Temperature (Combined Gas Law)](#pressure-volume-and-temperature-combined-gas-law)
+      - [Pressure, Volume, Temperature and Mass (Ideal Gas Law)](#pressure-volume-temperature-and-mass-ideal-gas-law)
+  - [Partial Pressure (Dalton's Law)](#partial-pressure-daltons-law)
+    - [How This Principle Relates to Diving](#how-this-principle-relates-to-diving-1)
+    - [Partial Pressure Calculations](#partial-pressure-calculations)
+      - [Metric](#metric)
+      - [Imperial](#imperial)
+  - [Henry's Law (Partial Pressure and Gas Solubility")](#henrys-law-partial-pressure-and-gas-solubility)
+    - [How this Principle Relates to Diving](#how-this-principle-relates-to-diving-2)
+    - [Haldane's Decompression Model](#haldanes-decompression-model)
+      - [Theoretical Tissue Compartments](#theoretical-tissue-compartments)
+      - [Half-Times](#half-times)
+      - [M-Values](#m-values)
+      - [Haldane's Algorithm](#haldanes-algorithm)
+      - [Modern Dive Tables and Dive Computers](#modern-dive-tables-and-dive-computers)
+    - [Summary: Chapter 5, 6 and 7](#summary-chapter-5-6-and-7)
 
 # SDI Open Water Scuba Diver Instructor
 
@@ -623,7 +648,7 @@ Once the accident victim has been turned over to the proper authorities and the 
 
 The dive professional should write the report as soon as realistically possible following the accident, while the event is still fresh in his memory. Because most insurance companies require notification of an accident within a certain amount of time, failure to promptly report the accident may create a coverage problem. The sooner the better is the best advice when it comes to completing and providing an accident report.
 
-The dive professional should use the appropriate accident form and provide only the information requested. Dive professionals should not provide any information to anyone other than ITI and their insurance agent. More importantly, dive professionals should not provide any information to a third party. If a statement must be made to the local authorities, only the facts should be provided. The dive professional should be cooperative with them and avoid voicing any judments, statements or opinions regarding the accident. Talking with the media should be avoided at all costs.
+The dive professional should use the appropriate accident form and provide only the information requested. Dive professionals should not provide any information to anyone other than ITI and their insurance agent. More importantly, dive professionals should not provide any information to a third party. If a statement must be made to the local authorities, only the facts should be provided. The dive professional should be cooperative with them and avoid voicing any judgments, statements or opinions regarding the accident. Talking with the media should be avoided at all costs.
 
 Remember, anyone can be named in a lawsuit at anytime, especially those in charge of a group. In the event of an accident, it’s important that the dive professional document as many of the facts as possible to protect him and other responders.
 
@@ -643,7 +668,7 @@ In the divemaster program, diving physics and physiology were covered in great d
 
 A general understanding of physics is a key component in the overall body of knowledge that is expected of a dive professional. The laws of physics are equally applicable both above and below the water's surface. A dive leader should attempt to convey pertinent information to every student with whom he comes into contact; and that knowledge should be tailored according to the recipient's level of training. Any additional information should be reserved for that individual who expresses further interest. A dive leader can never know all there is to know about the science of diving and the theories backing that science up, but the real art is knowing when that knowledge should be shared.
 
-### Phyisical Properties of Water
+### Physical Properties of Water
 
 #### Density of Water
 
@@ -669,7 +694,7 @@ The speed of sound depends upon the medium through which it passes, and sound te
 
 The thermal conductivity of any substance depends upon a number of variables including its density and overall structure. Water is a far more efficient thermal conductor than air. In fact, the relative thermal conductivity factor for water is about 6.0, while for air it is only about 0.025; thus water will whisk heat away from a diver's body approximately 25 times faster than air. Depending on water temperature divers must plan to use the appropriate exposure suit for conditions.
 
-#### Bouyancy
+#### Buoyancy
 
 Archimedes of Syracuse (287-212 BC) (my man!) discovered the principle known in physics as Archimedes' Principle. This principle states: "Any object, wholly or partly immersed in a fluid, is buoyed up by a force equal to the weight of the fluid displaced by the object."
 
@@ -806,3 +831,322 @@ change_r=\frac{P_2}{P_1}
 $$
 
 Identifying changes in gas density actually requires no further calculation, as this change will be exactly the same as any relative change in ambient pressure; that is, if the pressure is doubled, then the density will also be doubled.
+
+### Charles' Law and Gay-Lussac's Law
+
+Jacques Alexandre Cesar Charles (1746-1823) studied the interrelationship of temperature and volume, and discovered the principle of physics that is now known as Charles' Law: " At a constant pressure, the volume of a gas increases or decreases by the same factor as its temperature." If the temperature goes up, then the volume also goes up, and this change is mathematically predicable.
+
+#### Formulae for Temperature and Volume (Charles' Law)
+
+These laws were proposed by JAC Charles.
+
+T(up) = V(up) and T(down) = V(down)
+
+$$
+T(up)=V(up)
+$$
+
+$$
+T(down)=V(down)
+$$
+
+#### Temperature and Pressure (Gay-Lussac's Law)
+
+Joseph Louis Gay-Lussac (1778-1850) further advanced the work of Charles. In particular Gay-Lussac addressed the interrelationship between temperature and pressure, and discovered the principle now known in physics as Gay-Lussac's Law: "At a constant volume, the pressure of a gas increases or decreases by the same factor as its temperature." If the temperature goes up, then the pressure also goes up, and this change is mathematically predicable.
+
+#### Concepts for Temperature and Pressure
+
+*Note*: These aren't "formulae" per se; they map a relationship non-mathematically.
+
+$$
+T(up)=P(up)
+$$
+
+$$
+T(down)=P(down)
+$$
+
+This new principle sounds quite similar to Charles' Law. While both deal with the effect of changing temperature, here the focus is on pressure rather than volume.
+
+### How These Principals Relate to Diving
+
+Changing temperature may be of little concern in certain tropical environments, where a diver encounters little or no difference between the temperature of seawater at the surface and at depth.
+
+*Note*: This isn't a "formula" per se; it maps a relationship non-mathematically.
+
+$$
+T=V\&P
+$$
+
+In deeper technical diving, or in more temperate environments and especially in some freshwater lakes, the difference in water temperature can be more pronounced.
+
+> Achieving neutral buoyancy in cold water with a BCD or lift bag still requires exactly the same volume of air as in warm water; but in cold water it will take more molecules of air, drawn from the scuba cylinder, to produce that same volume of air.
+
+Perhaps the most obvious impact of changing temperature involves the scuba cylinder itself. An increase in temperature results in an increase in pressure inside the cylinder, and a decrease in temperature results in a decrease in pressure. When a scuba cylinder is left in the trunk of an automobile on a hot summer day, the pressure rises inside that cylinder (sometimes dangerously so); and when a warm cylinder is immersed in cool water, the diver might readily detect a drop of perhaps 5 to 10 bar, or 100 to 200 psi, in the cylinder's internal pressure as displayed by the SPG. This is why when teaching a specialty course, it is best to advise the students to remove the cylinders from a hot car and place them in the shade or cooler area. Should the cylinder pressure increase too much, the burst disc will rupture and the cylinder will be inoperable.
+
+*Note*: This describes the phenomenon of a "hot fill." When gas is pumped into a pressurized container, its temperature increases. That's why fill stations may fill a 3000psi tank to 3100psi. The tank will be hot to the touch and, as it cools, will dip to 3000psi.
+
+### Temperature and Volume Calculations (Charles' Law)
+
+The following abbreviations appear within the formulas in this section:
+
+- "T" for temperature
+- "V" for volume
+- "°C" for degrees Celsius (or Centigrade)
+- "°F" for degrees Fahrenheit
+- subscript "1" for a starting value
+- subscript "2" for an ending value
+
+Charles' Law is depicted mathematically by the following formula for both metric and Imperial:
+
+$$
+\frac{V_1}{T_1}=\frac{V_2}{T_2}
+$$
+
+Again, the components within this formula may be algebraically rearranged as needed. For instance, to find the new volume following any change in temperature, the following will apply:
+
+$$
+V_2=\frac{(T_2)(V_1)}{T_1}
+$$
+
+It is essential to note that the accuracy of this formula depends upon the above temperature values being expressed in terms of either degrees Kelvin or degrees Rankine. Kelvin and Rankine are temperature scales routinely used within the scientific community. The Kelvin scale is based upon the more common Celsius (or Centigrade) scale and a degree of Kelvin identifies the same unit of measurement for temperature as a degree of Celsius. 0° Kelvin is equal to -273° Celsius. To convert from Celsius to Kelvin, simply add 273 degrees. 
+
+$$
+°K=°C+273
+$$
+
+The Rankine scale is based upon the Fahrenheit scale, and a degree of Rankine identifies the same unit of measurement for temperature as a degree of Fahrenheit. 0° Rankine is equal to -460° Fahrenheit. To convert from Fahrenheit to Rankine simply add 460 degrees. 
+
+$$
+°R=°F+460
+$$
+
+When the additional Kelvin or Rankine calculations are incorporated into the above formula, they appear as follows:
+
+$$
+V_2=(°C_2+273)(\frac{V_1}{°C_1+273})
+$$
+
+$$
+V_2=(°F_2+460)(\frac{V_1}{°F_1+460})
+$$
+
+### Temperature and Pressure Calculations (Gay-Lussac's Law)
+
+The following abbreviations appear within the formulas in this section:
+
+- "T" for temperature
+- "V" for volume
+- "°C" for degrees Celsius (or Centigrade)
+- "°F" for degrees Fahrenheit
+- subscript "1" for a starting value
+- subscript "2" for an ending value
+
+Gay-Lussac's Law is depicted mathematically by the following formula for metric and Imperial:
+
+$$
+\frac{P_1}{T_1}=\frac{P_2}{T_2}
+$$
+
+The components within this formula may be algebraically manipulated as needed; for instance, to find the new pressure following any change in temperature, the following will apply:
+
+$$
+P_2=\frac{(T_2)(P_1)}{T_1}
+$$
+
+Here too it is necessary to convert temperature values to Kelvin or Rankine. As usual, pressure refers to absolute (total) pressure; here it includes gauge pressure (internal pressure, as measured by an SPG-type device) plus atmospheric pressure. To convert gauge pressure to absolute pressure, just add 1 bar or 14.7 psi. Of course, 1 bar / 14.7 psi also must be subtracted again later in the calculations, to arrive back ultimately at gauge pressure. With these additional calculations incorporated into the formula, it would now appear as follows:
+
+$$
+Bar_2 = \frac{(°C_2+273)(Bar_1+1bar)}{°C_1+273}-1bar
+$$
+
+$$
+Atm_2= \frac{(°F_2+460)(Atm_1+14.7psi)}{°F_1+460}-14.7psi
+$$
+
+#### Estimating Temperature and Pressure
+
+As an alternative, in the real world of diving the effect of temperature upon pressure also may be quickly estimated. A change of 1°C will result in an approximate change of 0.6 bar. A change of 1°F will result in an approximate change of 5 psi. In either case, an increase in temperature will be accompanied by an increase in pressure, and a decrease in temperature will be accompanied by a decrease in pressure. These approximations are depicted as follows:
+
+$$
+1°C\approx0.6 bar
+$$
+
+$$
+1°F\approx5 psi
+$$
+
+### Combined and Ideal Gas Laws 
+
+#### Pressure, Volume and Temperature (Combined Gas Law)
+
+In the real world, multiple variables may come into play in a given situation, volume can be affected simultaneously by both changing pressure and changing temperature; pressure can be affected simultaneously by both changing volume and changing temperature; and temperature can be affected simultaneously by both changing pressure and changing volume.
+
+To effectively address the possible combinations of pressure-volume-temperature variables all at the same time, physicists have adopted the concept of a Combined Gas Law. The Combined Gas Law is a mathematical combination of Boyle's Law, Charles' Law, and Gay-Lussac's Law as depicted by the following formula.
+
+$$
+\frac{(P_1)(V_1)}{T_1}=\frac{(P_2)(V_2)}{T_2}
+$$
+
+Within this formula pressure refers to absolute pressure and temperature refers to absolute temperature. This formula may also be rearranged as appropriate for the circumstances. It is noted, though, that once all the rearrangements and inherent conversions are applied to this equation, it can become rather unwieldy for all except the skilled mathematician. This formula is included here primarily for informational purposes rather than actual use.
+
+For the sake of simplicity, the OWSDI might find it easier, when multiple variables are involved, to address those variables one at a time.
+
+On occasion the reader may encounter some reference to a less formal "general gas law" that essentially incorporates the same concepts as the Combined Gas Law; though perhaps not technically accurate, in practice these two terms are sometimes used interchangeably.
+
+#### Pressure, Volume, Temperature and Mass (Ideal Gas Law)
+
+The Ideal Gas Law is a distinctly expanded concept beyond the Combined Gas Law. In addition to mathematical pressure-volume-temperature relationships, it incorporates values relating to the number of moles (representing molecules and other atomic and subatomic particles) that constitute a hypothetical ideal gas. The Ideal Gas Law is based upon the hypothesis that the volume of two theoretical "ideal"gases under the same pressure and at the same temperature will have similar mass. It is expressed by the following formula (where "n" is the number of moles, and "R" is a universal gas constant).
+
+$$
+pV=nRT
+$$
+
+It is noted, however, that the Ideal Gas Law neglects molecular structure and kinetics, which also govern the volume and mass of a gas. Therefore not all gases behave like an "ideal" gas and, in fact, an actual gas might differ significantly from the cited theoretical model. While the Ideal Gas Law certainly has some application within the scientific community, the inherent complexity and variability of this concept far outweigh its practical value within the context of diving. The Ideal Gas Law is included here primarily so that the reader will be able to distinguish it from, and not confuse it with, the Combined Gas Law.
+
+## Partial Pressure (Dalton's Law)
+
+John Dalton (1766-1844) studied the behavior of individual gases within a gas mixture and discovered the principle now known in physics as Dalton's Law. This principle states that "The total pressure exerted by a mixture of gases is equal to the sum of the pressures of each of its component gases, with each component gas acting as if it alone were present and occupied the total volume." In other words, each gas within a mixture has its own pressure and each gas is unaffected by any other gas in the mixture. Air is a mixture of gases containing approximately 21% oxygen and 79% nitrogen. Accordingly, oxygen accounts for 21% of the total pressure of air, and nitrogen accounts for 79% of the total pressure of air. This relationship of ambient (total) pressure and individual partial pressures is depicted in the following table:
+
+| Depth (sw) | Depth (sw) | Ambient Pressure | Partial Pressure O2 | Partial Pressure N |
+|------------|------------|------------------|---------------------|--------------------|
+| 0 m        | 0 ft       | 1 bar/atm        | .21 bar/atm         | .79 bar/atm        |
+| 10 m       | 33 ft      | 2 bar/atm        | .42 bar/atm         | 1.58 bar/atm       |
+| 20 m       | 66 ft      | 3 bar/atm        | .63 bar/atm         | 2.37 bar/atm       |
+| 30 m       | 99 ft      | 4 bar/atm        | .84 bar/atm         | 3.16 bar/atm       |
+| 40 m       | 132 ft     | 5 bar/atm        | 1.05 bar/atm        | 3.95 bar/atm       |
+| 50 m       | 165 ft     | 6 bar/atm        | 1.26 bar/atm        | 4.74 bar/atm       |
+
+A prior discussion of Boyle's Law stated that the pressure of a gas inside a flexible container is equal to ambient pressure. Such also is true when considering partial pressure. As demonstrated in the above table, within a flexible container the percentages of oxygen and nitrogen remain constant in the air mixture, while the partial pressure of each gas varies proportionately with depth.
+
+### How This Principle Relates to Diving
+
+Dalton's Law provides the means to examine each of the components within air or any other gas mixture on an individual basis. As demonstrated in the previous table, when a diver is breathing air at a depth of 40 meters or 132 feet, the partial pressure of oxygen is about 21% of the total ambient pressure at that depth (5 bar x 0.21 = 1.05 bar / 1.05 atm) is roughly equivalent to a person breathing 100% oxygen at the surface (where the partial pressure of 100% oxygen would be 1 bar / 1 atm). When breathing air at 40 meters or 132 feet, the partial pressure of nitrogen (3.95 bar / 3.95 atm) is almost five times the "dose" of nitrogen a person would breathe on the surface. This helps explain, at least in part, why a diver's body absorbs additional nitrogen at depth. In fact, it is the partial pressure of a gas that determines its physiological impact. The actual percentage of a gas within any mixture is largely immaterial except as it relates to partial pressure.
+
+The following table depicts the partial pressures of oxygen and nitrogen in air, and also those in a nitrox mixture containing 40% oxygen:
+
+| Depth (sw) | Depth (sw) | Ambient Pressure | PPO2 (air)  | PPN (air)    | PPO2 40%EANx | PPN 40%EANx  |
+|------------|------------|------------------|-------------|--------------|--------------|--------------|
+| 0 m        | 0 ft       | 1 bar/atm        | .21 bar/atm | .79 bar/atm  | .40 bar/atm  | .60 bar/atm  |
+| 10 m       | 33 ft      | 2 bar/atm        | .42 bar/atm | 1.58 bar/atm | .80 bar/atm  | 1.20 bar/atm |
+| 20 m       | 66 ft      | 3 bar/atm        | .63 bar/atm | 2.37 bar/atm | 1.20 bar/atm | 1.80 bar/atm |
+| 30 m       | 99 ft      | 4 bar/atm        | .84 bar/atm | 3.16 bar/atm | 1.60 bar/atm | 2.40 bar/atm |
+
+### Partial Pressure Calculations
+
+The following abbreviations appear within the formulas in this section:
+
+- "P" for pressure (ambient pressure)
+- "PO2" for partial pressure of oxygen
+- "PN2" for partial pressure of nitrogen
+- "FO2" for fraction of oxygen (such as, 21% = 0.21)
+- "FN2" for fraction of nitrogen (such as, 79% = 0.79)
+- "D" for depth
+- "EAD" for equivalent air depth
+
+*Note*: The formulas for converting depth to ambient pressure and ambient pressure to depth are addressed in the earlier section on pressure.
+
+To determine the partial pressure of a component gas in any gas mixture, simply multiply the ambient pressure by the fraction of that gas. In the case of air, the partial pressures of oxygen and nitrogen may be calculated with the following formulae:
+
+$$
+PO_2=(P)(FO_2)
+$$
+
+$$
+PN_2=(P)(FN_2)
+$$
+
+As before, the component factors within this formula may be algebraically rearranged as needed. For example, if a diver wants to determine which nitrox mixture provides a specified partial pressure of either oxygen or nitrogen at a given ambient pressure, the following formulas would apply:
+
+$$
+FO_2=\frac{PO_2}{P}
+$$
+
+$$
+FN_2=\frac{PN_2}{P}
+$$
+
+Several of the previous formulas can be used in succession to determine equivalent air depth. Alternatively, all of these calculations may be combined into a single equivalent air depth formula, as depicted below:
+
+#### Metric
+
+$$
+EAD=((\frac{FN_2}{0.79})(D+10))-10
+$$
+
+*Note*: This second formula is just algebraic manipulation that makes more sense to me. --jcb
+
+$$
+EAD=\frac{(FN_2)(D+10)}{0.79}-10
+$$
+
+#### Imperial
+
+$$
+EAD=((\frac{FN_2}{0.79})(D+33))-33
+$$
+
+*Note*: This second formula is just algebraic manipulation that makes more sense to me. --jcb
+
+$$
+EAD=\frac{(FN_2)(D+33)}{0.79}-33
+$$
+
+## Henry's Law (Partial Pressure and Gas Solubility")
+
+William Henry (1775-1836) discovered the principle now known as Henry's Law. This principle states that, "At a constant temperature, the quantity of a gas which is dissolved in a given type and volume of liquid is directly proportional to the partial pressure of that gas in equilibrium with that liquid."
+
+> When pressure is exerted by a gas upon a liquid, some amount of gas will move into solution within that liquid. It should be noted that, once dissolved, gas continues to exert pressure; here this force is more commonly referred to as tension.
+
+As additional gas enters into solution, it contributes to the overall tension of that gas within the liquid. As cited within the context of this principle, the term "in equilibrium" refers to that point at which partial pressure and tension are equal, and the transition of gas ceases.
+
+Despite the variability related to solubility coefficients, Henry's Law nevertheless dictates that when the partial pressure is doubled, the quantity of gas that can now be dissolved into the liquid is also doubled.
+
+| Partial Pressure of Gas | Maximum Quantity of Dissolved Gas |
+|:-----------------------:|:---------------------------------:|
+| 0.25 bar/atm            | x .25                             |
+| 0.50 bar/atm            | x 0.50                            |
+| 0.75 bar/atm            | x 0.75                            |
+| 1 bar/atm               | x 1                               |
+| 2 bar/atm               | x 2                               |
+| 3 bar/atm               | x 3                               |
+| 4 bar/atm               | x 4                               |
+| 5 bar/atm               | x 5                               |
+
+It is also important to note that when the pressure gradient reverses, the liquid is now supersaturated with gas.
+
+### How this Principle Relates to Diving
+
+Earlier it was noted that the body's tissues are primarily liquid in nature, and therefore unaffected by those factors associated with Boyle's Law. Dalton's Law laid the foundation that the physiological impact of a gas is tied to its partial pressure. Henry's Law correlates partial pressure with the solubility of gases in the body's tissues. These three laws are the principal laws that explain: DCS, nitrogen narcosis, arterial gas embolisms and gas expansion or contraction as they relate to temperature.
+
+### Haldane's Decompression Model
+
+#### Theoretical Tissue Compartments
+
+John Scott Haldane (1860-1936) constructed a mathematical model involving multiple theoretical tissue compartments. Each compartment was defined by certain properties. Though these compartments did not directly correspond to actual tissues, Haldane hypothesized that taken together these compartments would mimic the overall behavior of a diver's body in regards to the nitrogen on-gassing and off-gassing processes.
+
+#### Half-Times
+
+Haldane assigned a half-time to each theoretical tissue compartment, as the rate at which it would both absorb and release nitrogen. A half-time is the time, in minutes, for a compartment to go halfway from its initial level of dissolved nitrogen at a certain depth, to its ultimate level of dissolved nitrogen at a new depth. This exponential rate of on-gassing and off-gassing is demonstrated in the accompanying tables.
+
+[//]: # (Sorry about the HTML, but markdown won't allow for merged cells. - jcb)
+
+<table><thead><tr><th colspan="2">60 Minute Compartment Exposed to Increased Pressure</th><th colspan="2">5 Minute Compartment Exposed to Decreased Pressure</th></tr></thead><tbody><tr><td>Elapsed Time</td><td>On-Gassing Completed</td><td>Elapsed Time</td><td>Off-Gassing Completed</td></tr><tr><td>Start</td><td>0.0%</td><td>Start</td><td>0.0%</td></tr><tr><td>1 hour</td><td>50.0%</td><td>5 minutes</td><td>50.0%</td></tr><tr><td>2 hours</td><td>75.0%</td><td>10 minutes</td><td>75.0%</td></tr><tr><td>3 hours</td><td>87.5%</td><td>15 minutes</td><td>87.5%</td></tr><tr><td>4 hours</td><td>93.8%</td><td>20 minutes</td><td>93.8%</td></tr><tr><td>5 hours</td><td>96.9%</td><td>25 minutes</td><td>96.9%</td></tr><tr><td>6 hours</td><td>98.5%</td><td>30 minutes</td><td>98.5%</td></tr></tbody></table>
+
+#### M-Values
+
+Haldane conducted various experiments to determine the maximum quantity of excess nitrogen that could be held in solution by each theoretical tissue compartment during an ascent, following time at depth, with a pre-defined rate of ascent. Haldane initially conducted his experiments with goats, and then conducted further experiments with human volunteers, including himself, involving both pressurized chambers and actual open water dives. Through trial and error research he eventually identified the maximum limits for excess nitrogen. This type of limit is now known as an M-value and most often is expressed as a factor, or percentage, above the normal quantity of nitrogen present in a saturated tissue at the surface.
+
+#### Haldane's Algorithm
+
+Haldane combined all of this information into a complex mathematical computation, or algorithm. In doing so he calculated the relevant information for each theoretical tissue compartment and found that, depending upon the circumstances of a particular dive, different compartments would effectively govern the time limits at different depths. From these calculations he projected a schedule of depths and times that constituted the first dive tables, which then saw widespread use by the Royal Navy and others from 1907 to 1956. While his work was highly theoretical in nature, time has largely proven Haldane's methodology to be valid.
+
+#### Modern Dive Tables and Dive Computers
+
+Haldane's decompression model provided the essential parameters for subsequent research and refinement. Over the years researchers have continued to build upon Haldane's original efforts, typically expanding the number of theoretical tissue compartments within the mathematical model, recalculating applicable M-values, altering specified ascent rates, assigning dissimilar rates for the on-gassing and off-gassing processes, and/or otherwise modifying the algorithm in some manner. Professor Albert Buhlmann's work with decompression theory during the latter part of the last century has been particularly useful to scuba divers. Today most dive tables and personal dive computers rely upon an algorithm derived from Haldane's original decompression model.
+
+ Current decompression algorithms, such as dual-phase or bubble-models, are even more complex than that developed by Haldane and refined over a century of studied application. This complexity clearly precludes any attempt at impromptu decompression calculations. The diver should always rely upon published dive tables and/or a Personal Dive Computer for accurate decompression-related information.
+
+### Summary: Chapter 5, 6 and 7
+
+ This chapter was a recap of physics that relate to scuba diving. How these theories apply to scuba diving was also reviewed. It was not intended to be comprehensive but rather to refresh the theory learned in the divemaster course. For a more comprehensive review of physics refer to the SDI Divemaster Manual.
