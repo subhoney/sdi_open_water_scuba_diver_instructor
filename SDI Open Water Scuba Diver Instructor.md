@@ -104,6 +104,8 @@
       - [Half-Times](#half-times)
       - [M-Values](#m-values)
       - [Haldane's Algorithm](#haldanes-algorithm)
+      - [Modern Dive Tables and Dive Computers](#modern-dive-tables-and-dive-computers)
+    - [Summary: Chapter 5, 6 and 7](#summary-chapter-5-6-and-7)
 
 # SDI Open Water Scuba Diver Instructor
 
@@ -1138,3 +1140,13 @@ Haldane conducted various experiments to determine the maximum quantity of exces
 #### Haldane's Algorithm
 
 Haldane combined all of this information into a complex mathematical computation, or algorithm. In doing so he calculated the relevant information for each theoretical tissue compartment and found that, depending upon the circumstances of a particular dive, different compartments would effectively govern the time limits at different depths. From these calculations he projected a schedule of depths and times that constituted the first dive tables, which then saw widespread use by the Royal Navy and others from 1907 to 1956. While his work was highly theoretical in nature, time has largely proven Haldane's methodology to be valid.
+
+#### Modern Dive Tables and Dive Computers
+
+Haldane's decompression model provided the essential parameters for subsequent research and refinement. Over the years researchers have continued to build upon Haldane's original efforts, typically expanding the number of theoretical tissue compartments within the mathematical model, recalculating applicable M-values, altering specified ascent rates, assigning dissimilar rates for the on-gassing and off-gassing processes, and/or otherwise modifying the algorithm in some manner. Professor Albert Buhlmann's work with decompression theory during the latter part of the last century has been particularly useful to scuba divers. Today most dive tables and personal dive computers rely upon an algorithm derived from Haldane's original decompression model.
+
+ Current decompression algorithms, such as dual-phase or bubble-models, are even more complex than that developed by Haldane and refined over a century of studied application. This complexity clearly precludes any attempt at impromptu decompression calculations. The diver should always rely upon published dive tables and/or a Personal Dive Computer for accurate decompression-related information.
+
+### Summary: Chapter 5, 6 and 7
+
+ This chapter was a recap of physics that relate to scuba diving. How these theories apply to scuba diving was also reviewed. It was not intended to be comprehensive but rather to refresh the theory learned in the divemaster course. For a more comprehensive review of physics refer to the SDI Divemaster Manual.
