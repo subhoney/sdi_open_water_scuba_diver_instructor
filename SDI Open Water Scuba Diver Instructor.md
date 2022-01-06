@@ -94,9 +94,16 @@
       - [Pressure, Volume, Temperature and Mass (Ideal Gas Law)](#pressure-volume-temperature-and-mass-ideal-gas-law)
   - [Partial Pressure (Dalton's Law)](#partial-pressure-daltons-law)
     - [How This Principle Relates to Diving](#how-this-principle-relates-to-diving-1)
-  - [Partial Pressure Calculations](#partial-pressure-calculations)
-    - [Metric](#metric)
-    - [Imperial](#imperial)
+    - [Partial Pressure Calculations](#partial-pressure-calculations)
+      - [Metric](#metric)
+      - [Imperial](#imperial)
+  - [Henry's Law (Partial Pressure and Gas Solubility")](#henrys-law-partial-pressure-and-gas-solubility)
+    - [How this Principle Relates to Diving](#how-this-principle-relates-to-diving-2)
+    - [Haldane's Decompression Model](#haldanes-decompression-model)
+      - [Theoretical Tissue Compartments](#theoretical-tissue-compartments)
+      - [Half-Times](#half-times)
+      - [M-Values](#m-values)
+      - [Haldane's Algorithm](#haldanes-algorithm)
 
 # SDI Open Water Scuba Diver Instructor
 
@@ -1023,7 +1030,7 @@ The following table depicts the partial pressures of oxygen and nitrogen in air,
 | 20 m       | 66 ft      | 3 bar/atm        | .63 bar/atm | 2.37 bar/atm | 1.20 bar/atm | 1.80 bar/atm |
 | 30 m       | 99 ft      | 4 bar/atm        | .84 bar/atm | 3.16 bar/atm | 1.60 bar/atm | 2.40 bar/atm |
 
-## Partial Pressure Calculations
+### Partial Pressure Calculations
 
 The following abbreviations appear within the formulas in this section:
 
@@ -1059,7 +1066,7 @@ $$
 
 Several of the previous formulas can be used in succession to determine equivalent air depth. Alternatively, all of these calculations may be combined into a single equivalent air depth formula, as depicted below:
 
-### Metric
+#### Metric
 
 $$
 EAD=((\frac{FN_2}{0.79})(D+10))-10
@@ -1071,7 +1078,7 @@ $$
 EAD=\frac{(FN_2)(D+10)}{0.79}-10
 $$
 
-### Imperial
+#### Imperial
 
 $$
 EAD=((\frac{FN_2}{0.79})(D+33))-33
@@ -1082,3 +1089,52 @@ $$
 $$
 EAD=\frac{(FN_2)(D+33)}{0.79}-33
 $$
+
+## Henry's Law (Partial Pressure and Gas Solubility")
+
+William Henry (1775-1836) discovered the principle now known as Henry's Law. This principle states that, "At a constant temperature, the quantity of a gas which is dissolved in a given type and volume of liquid is directly proportional to the partial pressure of that gas in equilibrium with that liquid."
+
+> When pressure is exerted by a gas upon a liquid, some amount of gas will move into solution within that liquid. It should be noted that, once dissolved, gas continues to exert pressure; here this force is more commonly referred to as tension.
+
+As additional gas enters into solution, it contributes to the overall tension of that gas within the liquid. As cited within the context of this principle, the term "in equilibrium" refers to that point at which partial pressure and tension are equal, and the transition of gas ceases.
+
+Despite the variability related to solubility coefficients, Henry's Law nevertheless dictates that when the partial pressure is doubled, the quantity of gas that can now be dissolved into the liquid is also doubled.
+
+| Partial Pressure of Gas | Maximum Quantity of Dissolved Gas |
+|:-----------------------:|:---------------------------------:|
+| 0.25 bar/atm            | x .25                             |
+| 0.50 bar/atm            | x 0.50                            |
+| 0.75 bar/atm            | x 0.75                            |
+| 1 bar/atm               | x 1                               |
+| 2 bar/atm               | x 2                               |
+| 3 bar/atm               | x 3                               |
+| 4 bar/atm               | x 4                               |
+| 5 bar/atm               | x 5                               |
+
+It is also important to note that when the pressure gradient reverses, the liquid is now supersaturated with gas.
+
+### How this Principle Relates to Diving
+
+Earlier it was noted that the body's tissues are primarily liquid in nature, and therefore unaffected by those factors associated with Boyle's Law. Dalton's Law laid the foundation that the physiological impact of a gas is tied to its partial pressure. Henry's Law correlates partial pressure with the solubility of gases in the body's tissues. These three laws are the principal laws that explain: DCS, nitrogen narcosis, arterial gas embolisms and gas expansion or contraction as they relate to temperature.
+
+### Haldane's Decompression Model
+
+#### Theoretical Tissue Compartments
+
+John Scott Haldane (1860-1936) constructed a mathematical model involving multiple theoretical tissue compartments. Each compartment was defined by certain properties. Though these compartments did not directly correspond to actual tissues, Haldane hypothesized that taken together these compartments would mimic the overall behavior of a diver's body in regards to the nitrogen on-gassing and off-gassing processes.
+
+#### Half-Times
+
+Haldane assigned a half-time to each theoretical tissue compartment, as the rate at which it would both absorb and release nitrogen. A half-time is the time, in minutes, for a compartment to go halfway from its initial level of dissolved nitrogen at a certain depth, to its ultimate level of dissolved nitrogen at a new depth. This exponential rate of on-gassing and off-gassing is demonstrated in the accompanying tables.
+
+[//]: # (Sorry about the HTML, but markdown won't allow for merged cells. - jcb)
+
+<table><thead><tr><th colspan="2">60 Minute Compartment Exposed to Increased Pressure</th><th colspan="2">5 Minute Compartment Exposed to Decreased Pressure</th></tr></thead><tbody><tr><td>Elapsed Time</td><td>On-Gassing Completed</td><td>Elapsed Time</td><td>Off-Gassing Completed</td></tr><tr><td>Start</td><td>0.0%</td><td>Start</td><td>0.0%</td></tr><tr><td>1 hour</td><td>50.0%</td><td>5 minutes</td><td>50.0%</td></tr><tr><td>2 hours</td><td>75.0%</td><td>10 minutes</td><td>75.0%</td></tr><tr><td>3 hours</td><td>87.5%</td><td>15 minutes</td><td>87.5%</td></tr><tr><td>4 hours</td><td>93.8%</td><td>20 minutes</td><td>93.8%</td></tr><tr><td>5 hours</td><td>96.9%</td><td>25 minutes</td><td>96.9%</td></tr><tr><td>6 hours</td><td>98.5%</td><td>30 minutes</td><td>98.5%</td></tr></tbody></table>
+
+#### M-Values
+
+Haldane conducted various experiments to determine the maximum quantity of excess nitrogen that could be held in solution by each theoretical tissue compartment during an ascent, following time at depth, with a pre-defined rate of ascent. Haldane initially conducted his experiments with goats, and then conducted further experiments with human volunteers, including himself, involving both pressurized chambers and actual open water dives. Through trial and error research he eventually identified the maximum limits for excess nitrogen. This type of limit is now known as an M-value and most often is expressed as a factor, or percentage, above the normal quantity of nitrogen present in a saturated tissue at the surface.
+
+#### Haldane's Algorithm
+
+Haldane combined all of this information into a complex mathematical computation, or algorithm. In doing so he calculated the relevant information for each theoretical tissue compartment and found that, depending upon the circumstances of a particular dive, different compartments would effectively govern the time limits at different depths. From these calculations he projected a schedule of depths and times that constituted the first dive tables, which then saw widespread use by the Royal Navy and others from 1907 to 1956. While his work was highly theoretical in nature, time has largely proven Haldane's methodology to be valid.
