@@ -95,6 +95,8 @@
   - [Partial Pressure (Dalton's Law)](#partial-pressure-daltons-law)
     - [How This Principle Relates to Diving](#how-this-principle-relates-to-diving-1)
   - [Partial Pressure Calculations](#partial-pressure-calculations)
+    - [Metric](#metric)
+    - [Imperial](#imperial)
 
 # SDI Open Water Scuba Diver Instructor
 
@@ -1057,6 +1059,8 @@ $$
 
 Several of the previous formulas can be used in succession to determine equivalent air depth. Alternatively, all of these calculations may be combined into a single equivalent air depth formula, as depicted below:
 
+### Metric
+
 $$
 EAD=((\frac{FN_2}{0.79})(D+10))-10
 $$
@@ -1066,3 +1070,18 @@ $$
 $$
 EAD=\frac{(FN_2)(D+10)}{0.79}-10
 $$
+
+### Imperial
+
+EAD = [ ( FN2 / 0.79 ) x ( D + 33 ) ] - 33
+
+$$
+EAD=((\frac{FN_2}{0.79})(D+33))-33
+$$
+
+*Note*: This second formula is just algebraic manipulation that makes more sense to me. --jcb
+
+$$
+EAD=\frac{(FN_2)(D+10)}{0.33}-33
+$$
+
