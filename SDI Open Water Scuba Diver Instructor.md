@@ -1061,7 +1061,7 @@ $$
 EAD=((\frac{FN_2}{0.79})(D+10))-10
 $$
 
-*Note*: This is an algebraic manipulation of this equation that makes more sense to me. --jcb
+*Note*: This second formula is just algebraic manipulation that makes more sense to me. --jcb
 
 $$
 EAD=\frac{(FN_2)(D+10)}{0.79}-10
