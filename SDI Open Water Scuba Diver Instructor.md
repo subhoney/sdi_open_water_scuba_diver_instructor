@@ -1054,3 +1054,15 @@ $$
 $$
 FN_2=\frac{PN_2}{P}
 $$
+
+Several of the previous formulas can be used in succession to determine equivalent air depth. Alternatively, all of these calculations may be combined into a single equivalent air depth formula, as depicted below:
+
+$$
+EAD=((\frac{FN_2}{0.79})(D+10))-10
+$$
+
+*Note*: This is an algebraic manipulation of this equation that makes more sense to me. --jcb
+
+$$
+EAD=\frac{(FN_2)(D+10)}{0.79}-10
+$$
