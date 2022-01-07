@@ -62,7 +62,6 @@
       - [CPR and First Aid](#cpr-and-first-aid)
     - [Summary: Chapters 3 and 4](#summary-chapters-3-and-4)
   - [Diving Physics](#diving-physics)
-    - [Introduction](#introduction-1)
     - [Physical Properties of Water](#physical-properties-of-water)
       - [Density of Water](#density-of-water)
       - [Refraction of Light in Water](#refraction-of-light-in-water)
@@ -118,6 +117,9 @@
       - [Five-Minute Field Neurological Evaluation](#five-minute-field-neurological-evaluation)
       - [Recompression Therapy](#recompression-therapy)
     - [Nitrogen Narcosis](#nitrogen-narcosis)
+    - [Inert Gas Narcosis](#inert-gas-narcosis)
+    - [Gas Toxicity](#gas-toxicity)
+      - [Central Nervous System Oxygen Toxicity](#central-nervous-system-oxygen-toxicity)
 
 # SDI Open Water Scuba Diver Instructor
 
@@ -458,7 +460,7 @@ SDI’s Leadership Course standards can be found in Part Four (4) of the Standar
 
 All forms necessary for completing administrative tasks can be found in this part, from student registration forms to the proper form to use when reporting an incident/accident. Part Five (5) also contains all of the forms that are required at the beginning of a course such as the general liability release form and the medical history form.
 
-All of the various parts of the SDI Instructor manual can be found in the member section of our website https://www.tdisdi.com as well as on the Standards and Procedures CD and the printed version of the SDI Standards and Procedures. SDI's Training Department routinely updates these standards and provides member updates quarterly during the year. At the beginning of each year all standards are updated on the website and it is the responsibility of the dive professional to ensure these updates are noted in their SDI Instructor Manual.
+All of the various parts of the SDI Instructor manual can be found in the member section of our website <https://www.tdisdi.com> as well as on the Standards and Procedures CD and the printed version of the SDI Standards and Procedures. SDI's Training Department routinely updates these standards and provides member updates quarterly during the year. At the beginning of each year all standards are updated on the website and it is the responsibility of the dive professional to ensure these updates are noted in their SDI Instructor Manual.
 
 ### Chapter 1 and 2 Summary
 
@@ -673,8 +675,6 @@ The initial certification as a dive professional requires that proof of current 
 This section covered various aspects of risk management and how to teach defensively. If these suggestions and procedures are followed when an accident/incident occurs, the process will be less traumatic and end with a more favorable outcome. Accidents can and will happen. An OWSDI can minimize the negative outcome of those accidents with proper training, proper planning and careful organization. Being prepared for an accident will help prevent accidents.
 
 ## Diving Physics
-
-### Introduction
 
 In the divemaster program, diving physics and physiology were covered in great depth. Here is a brief review of the topics focusing on the most important information. The formulas used in diving and their practical application will also be reviewed. Should an OWSDI candidate have difficulties with any of this information, he should thoroughly review the SDI Divemaster materials. A formulas sheet is provided in the appendix of this manual for use.
 
@@ -921,13 +921,13 @@ $$
 V_2=\frac{(T_2)(V_1)}{T_1}
 $$
 
-It is essential to note that the accuracy of this formula depends upon the above temperature values being expressed in terms of either degrees Kelvin or degrees Rankine. Kelvin and Rankine are temperature scales routinely used within the scientific community. The Kelvin scale is based upon the more common Celsius (or Centigrade) scale and a degree of Kelvin identifies the same unit of measurement for temperature as a degree of Celsius. 0° Kelvin is equal to -273° Celsius. To convert from Celsius to Kelvin, simply add 273 degrees. 
+It is essential to note that the accuracy of this formula depends upon the above temperature values being expressed in terms of either degrees Kelvin or degrees Rankine. Kelvin and Rankine are temperature scales routinely used within the scientific community. The Kelvin scale is based upon the more common Celsius (or Centigrade) scale and a degree of Kelvin identifies the same unit of measurement for temperature as a degree of Celsius. 0° Kelvin is equal to -273° Celsius. To convert from Celsius to Kelvin, simply add 273 degrees.
 
 $$
 °K=°C+273
 $$
 
-The Rankine scale is based upon the Fahrenheit scale, and a degree of Rankine identifies the same unit of measurement for temperature as a degree of Fahrenheit. 0° Rankine is equal to -460° Fahrenheit. To convert from Fahrenheit to Rankine simply add 460 degrees. 
+The Rankine scale is based upon the Fahrenheit scale, and a degree of Rankine identifies the same unit of measurement for temperature as a degree of Fahrenheit. 0° Rankine is equal to -460° Fahrenheit. To convert from Fahrenheit to Rankine simply add 460 degrees.
 
 $$
 °R=°F+460
@@ -988,7 +988,7 @@ $$
 1°F\approx5 psi
 $$
 
-### Combined and Ideal Gas Laws 
+### Combined and Ideal Gas Laws
 
 #### Pressure, Volume and Temperature (Combined Gas Law)
 
@@ -1185,7 +1185,7 @@ As a review, the role of the body's circulatory system is the movement of gases,
 
 Hemoglobin is the specific component within the blood to which both oxygen and carbon dioxide attach, while being transported by the blood throughout the body.
 
-Starting with pulmonary circulation at the heart, the blood enters and gathers within the right atrium of the heart. An initial contraction of the upper heart muscle moves the blood from the right atrium downward into the right ventricle of the heart. A subsequent contraction of the lower heart muscle then moves the blood from the right ventricle through the pulmonary arteries to those capillaries that surround the alveoli of the lungs. Here carbon dioxide passes from the blood through the permeable membrane of the alveoli and into the lungs, while oxygen passes in the opposite direction from the lungs and into the blood. The oxygen-rich blood then returns to the heart through the pulmonary veins, and now enters the left atrium of the heart. HeartThe initial contraction of the upper heart muscle moves the blood from the left atrium downward into the left ventricle, and the subsequent contraction of the lower heart muscle then moves the blood from the left ventricle into the aorta, which is the body's largest systemic artery. From the aorta the blood branches out into the series of smaller systemic arteries leading to capillaries located throughout the tissues. 
+Starting with pulmonary circulation at the heart, the blood enters and gathers within the right atrium of the heart. An initial contraction of the upper heart muscle moves the blood from the right atrium downward into the right ventricle of the heart. A subsequent contraction of the lower heart muscle then moves the blood from the right ventricle through the pulmonary arteries to those capillaries that surround the alveoli of the lungs. Here carbon dioxide passes from the blood through the permeable membrane of the alveoli and into the lungs, while oxygen passes in the opposite direction from the lungs and into the blood. The oxygen-rich blood then returns to the heart through the pulmonary veins, and now enters the left atrium of the heart. HeartThe initial contraction of the upper heart muscle moves the blood from the left atrium downward into the left ventricle, and the subsequent contraction of the lower heart muscle then moves the blood from the left ventricle into the aorta, which is the body's largest systemic artery. From the aorta the blood branches out into the series of smaller systemic arteries leading to capillaries located throughout the tissues.
 
 Here oxygen passes from the blood to the tissues, where it is used in the body's metabolic process; and also here carbon dioxide, which is a by-product of metabolism, passes from the tissues to the blood. The oxygen-poor blood returns through the systemic veins towards the heart, where it then re-enters the right atrium of the heart and transitions again into pulmonary circulation.
 
@@ -1393,3 +1393,43 @@ Recent and cumulative deep diving experience appears to help counter, to some de
 > Ascending to a shallower depth eliminates the effects of narcosis.
 
 Unlike DCI, nitrogen narcosis poses no lingering concern after surfacing, and requires no subsequent medical intervention.
+
+### Inert Gas Narcosis
+
+Other inert gases also are capable of inducing narcosis; the extent of narcosis related to a particular gas is dependent upon a number of factors including its molecular weight. Examples of inert gases would be helium and argon (commonly used as a dry suit gas).
+
+Though oxygen is not an inert gas, it can behave like one at times. This may be encountered with the use of nitrox. At depth, the elevated partial pressure of oxygen may result in more of this gas entering the blood than can readily be used in the metabolic process; when this occurs, some of the excess oxygen will be deposited throughout the tissues including the membrane of nerve cells. Oxygen is similar in weight to nitrogen, and has similar narcotic properties. Therefore the overall effect of inert gas narcosis will be about the same, regardless of whether the diver is breathing nitrox or air, at any given depth.
+
+### Gas Toxicity
+
+Toxicity is the degree to which a particular substance is poisonous to the body. It may refer to the effect upon the body as a whole, as well as upon a specific tissue or process within the body.
+
+Central to this review is the concept of a time-dose exposure. Time refers to the duration of exposure to a given gas, and dose refers to the level (or intensity) of exposure to that gas. The dose is determined by the partial pressure of the gas in question. Below a certain minimum toxic dose, a particular gas will not become toxic despite the duration of exposure; and above a certain maximum toxic dose, a particular gas can immediately become toxic. At intermediate dosage levels, the toxic effect will be cumulative in nature, and the degree of toxicity will be directly dependent upon the duration of exposure to the particular gas at its then current partial pressure.
+
+#### Central Nervous System Oxygen Toxicity
+
+Oxygen at significantly elevated partial pressures can become toxic. CNS (central nervous system) oxygen toxicity is one of two types of oxygen toxicity, and it is the one with which divers are more concerned. The most significant manifestation of CNS oxygen toxicity is convulsions. When convulsions occur underwater, it is likely the affected diver will lose their regulator and there is a distinct risk of drowning. There are, however, other signs and symptoms of CNS and they can be remembered by the acronym "ConVENTID."
+
+- **Con**vulsions
+- **V**isual disturbances
+- **E**uphoria
+- **N**ausea
+- **T**innitus/tingling or twitching
+- **I**rritability
+- **D**izziness/dyspnea
+
+In regards to CNS oxygen toxicity, NOAA has identified the maximum oxygen toxic dose to be a partial pressure of 1.6 bar or 1.6 atm for all diving activities. The accompanying table depicts further time dose relationships as established by NOAA.
+
+| Oxygen Partial Pressure ( bar/ata)   | Single Dive Limit (minutes)   | Daily Limit (minutes)   |
+|:----------------------------------:  |:---------------------------:  |:---------------------:  |
+| 1.6                                  | 45                            | 150                     |
+| 1.5                                  | 120                           | 180                     |
+| 1.4                                  | 150                           | 180                     |
+| 1.3                                  | 180                           | 210                     |
+| 1.2                                  | 210                           | 240                     |
+| 1.1                                  | 240                           | 270                     |
+| 1.0                                  | 300                           | 300                     |
+| 0.9                                  | 360                           | 360                     |
+| 0.8                                  | 450                           | 450                     |
+| 0.7                                  | 570                           | 570                     |
+| 0.6                                  | 720                           | 720                     |
