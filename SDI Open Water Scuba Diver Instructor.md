@@ -106,6 +106,12 @@
       - [Haldane's Algorithm](#haldanes-algorithm)
       - [Modern Dive Tables and Dive Computers](#modern-dive-tables-and-dive-computers)
     - [Summary: Chapter 5, 6 and 7](#summary-chapter-5-6-and-7)
+  - [Diving Physiology, Part 1](#diving-physiology-part-1)
+    - [Introduction](#introduction-2)
+    - [Pulmonary System](#pulmonary-system)
+    - [Cardiovascular System](#cardiovascular-system)
+    - [Decompression Illness](#decompression-illness)
+      - [What Is DCI?](#what-is-dci)
 
 # SDI Open Water Scuba Diver Instructor
 
@@ -1150,3 +1156,37 @@ Haldane's decompression model provided the essential parameters for subsequent r
 ### Summary: Chapter 5, 6 and 7
 
  This chapter was a recap of physics that relate to scuba diving. How these theories apply to scuba diving was also reviewed. It was not intended to be comprehensive but rather to refresh the theory learned in the divemaster course. For a more comprehensive review of physics refer to the SDI Divemaster Manual.
+
+## Diving Physiology, Part 1
+
+### Introduction
+
+Physiology is another key component in the overall body of knowledge a dive professional is expected to possess. We will review the key components and overall body of knowledge that was learned during the SDI Divemaster course. As the OWSDI candidate reviews this information, if they come across a subject that needs more elaboration, they should refer back to the SDI Divemaster manual for a more in-depth discussion. The dive professional should be well versed in all the subjects covered in this chapter. Although most divers will never experience these maladies it is important for the instructor to know how to recognize and address them.
+
+### Pulmonary System
+
+The role of the pulmonary system is the exchange of gases, with certain gases being introduced into the body while other gases are eliminated, the two primary gasses being oxygen and carbon dioxide. Oxygen is a critical ingredient in the body's metabolic process; in a normal environment, air contains 21% oxygen, which is introduced to the body with each inhaled breath. Carbon dioxide is a by-product of metabolism, and at elevated levels it is potentially harmful to the body. Carbon dioxide is expelled from the body with each exhaled breath. Carbon dioxide is also what triggers the receptors in the body to breathe.
+
+Inhalation is controlled primarily by the muscles of the diaphragm. When these muscles contract, the ribcage expands and the contents of the abdomen are moved downward, resulting in increased volume and decreased pressure within the lungs. When more active inhalation is required, other deeper muscles within the chest and neck will supplement the muscles of the diaphragm. Restful exhalation is generally a passive process. As the diaphragm muscles relax following inhalation, the elastic tissues of the lungs recoil and thereby gently push air out of the lungs. More active exhalation requires muscles within the abdomen and chest to contract more quickly, decreasing the volume and increasing pressure within the lungs, moving air more quickly and forcefully out of the lungs
+
+The movement of oxygen from the lungs through the alveoli into the blood and then to the tissues is the direct result of its partial pressure. The movement of carbon dioxide from the tissues into the blood and through the alveoli into the lungs also is the direct result of its partial pressure. Remember, gas always moves from an area of higher pressure and density to an area of lower pressure and density.
+
+> Rather than directly sensing the body's need for oxygen, the breathing reflex is primarily triggered by the buildup of carbon dioxide in the blood.
+
+When additional physical demands are placed upon the body, such as strenuous physical activity, the metabolic rate increases; this also raises the output of carbon dioxide, and thereby the breathing rate quickens. When the breathing reflex is intentionally overridden by an individual deliberately holding his breath, the increasing level of carbon dioxide eventually results in a neurosignal to other parts of the brain triggering a conscious urge to breathe.
+
+### Cardiovascular System
+
+As a review, the role of the body's circulatory system is the movement of gases, nutrients and wastes throughout the body. The circulatory system actually consists of two separate and distinct sub-systems: the cardiovascular system and the lymphatic system. For the purposes of this review, we will focus primarily on the cardiovascular system and more specifically how it transports gasses. The four parts that make up the cardio-vascular system are: the heart, arteries, veins and capillaries.
+
+Hemoglobin is the specific component within the blood to which both oxygen and carbon dioxide attach, while being transported by the blood throughout the body.
+
+Starting with pulmonary circulation at the heart, the blood enters and gathers within the right atrium of the heart. An initial contraction of the upper heart muscle moves the blood from the right atrium downward into the right ventricle of the heart. A subsequent contraction of the lower heart muscle then moves the blood from the right ventricle through the pulmonary arteries to those capillaries that surround the alveoli of the lungs. Here carbon dioxide passes from the blood through the permeable membrane of the alveoli and into the lungs, while oxygen passes in the opposite direction from the lungs and into the blood. The oxygen-rich blood then returns to the heart through the pulmonary veins, and now enters the left atrium of the heart. HeartThe initial contraction of the upper heart muscle moves the blood from the left atrium downward into the left ventricle, and the subsequent contraction of the lower heart muscle then moves the blood from the left ventricle into the aorta, which is the body's largest systemic artery. From the aorta the blood branches out into the series of smaller systemic arteries leading to capillaries located throughout the tissues. 
+
+Here oxygen passes from the blood to the tissues, where it is used in the body's metabolic process; and also here carbon dioxide, which is a by-product of metabolism, passes from the tissues to the blood. The oxygen-poor blood returns through the systemic veins towards the heart, where it then re-enters the right atrium of the heart and transitions again into pulmonary circulation.
+
+### Decompression Illness
+
+#### What Is DCI?
+
+Decompression illness, or DCI, is the diagnostic classification for the conditions that a diver may suffer upon ascent to the surface following any time at depth, as the direct result of decompression. More specifically, DCI includes both decompression sickness and arterial gas embolism. The mechanism leading to each of these conditions are distinctly different; nevertheless, each is remarkably similar, making it impossible at times to distinguish between the two. Both conditions are treated exactly the same way in terms of emergency first aid at the scene and follow-up medical care.
