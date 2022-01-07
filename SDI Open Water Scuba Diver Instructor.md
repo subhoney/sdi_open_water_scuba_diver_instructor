@@ -106,14 +106,15 @@
       - [Haldane's Algorithm](#haldanes-algorithm)
       - [Modern Dive Tables and Dive Computers](#modern-dive-tables-and-dive-computers)
     - [Summary: Chapter 5, 6 and 7](#summary-chapter-5-6-and-7)
-  - [Diving Physiology, Part 1](#diving-physiology-part-1)
-    - [Introduction](#introduction-2)
+  - [Diving Physiology](#diving-physiology)
     - [Pulmonary System](#pulmonary-system)
     - [Cardiovascular System](#cardiovascular-system)
     - [Decompression Illness](#decompression-illness)
       - [What Is DCI?](#what-is-dci)
       - [Decompression Sickness](#decompression-sickness)
       - [DCI and Patent Foramen Ovale](#dci-and-patent-foramen-ovale)
+      - [Signs and Symptoms of DCI](#signs-and-symptoms-of-dci)
+      - [First Aid for Suspected DCI](#first-aid-for-suspected-dci)
 
 # SDI Open Water Scuba Diver Instructor
 
@@ -1159,9 +1160,7 @@ Haldane's decompression model provided the essential parameters for subsequent r
 
  This chapter was a recap of physics that relate to scuba diving. How these theories apply to scuba diving was also reviewed. It was not intended to be comprehensive but rather to refresh the theory learned in the divemaster course. For a more comprehensive review of physics refer to the SDI Divemaster Manual.
 
-## Diving Physiology, Part 1
-
-### Introduction
+## Diving Physiology
 
 Physiology is another key component in the overall body of knowledge a dive professional is expected to possess. We will review the key components and overall body of knowledge that was learned during the SDI Divemaster course. As the OWSDI candidate reviews this information, if they come across a subject that needs more elaboration, they should refer back to the SDI Divemaster manual for a more in-depth discussion. The dive professional should be well versed in all the subjects covered in this chapter. Although most divers will never experience these maladies it is important for the instructor to know how to recognize and address them.
 
@@ -1258,3 +1257,58 @@ The severity of signs and symptoms will depend upon the location of the arterial
 Patent Foramen Ovale, or PFO, is a circulatory defect and is believed to be a possible predisposing factor for the onset of DCI.
 
 The foramen ovale is a flap-like valve within the heart. This valve is open during fetal development, and then closes after birth. When the foramen ovale is open it connects the right atrium to the left atrium, thereby shunting blood into systemic circulation while by-passing pulmonary circulation. The foramen ovale closes after birth, when the newborn begins to breathe on its own, and thereby establishes pulmonary circulation and segregates it from systemic circulation. PFO can be identified through special testing procedures, but such is not a part of routine medical screening, and in many cases PFO simply goes undetected. Statistical evidence suggests that it might create an increased risk of DCS or DCI during scuba diving activities.
+
+#### Signs and Symptoms of DCI
+
+A sign is an outward indication that can be readily observed by another person, while a symptom is an internal indication that is sensed by the patient. Following is a list of common signs and symptoms of DCI:
+
+- Skin rash or itching
+- Tingling or numbness
+- Joint or limb pain
+- Back, abdominal, or chest pain or discomfort
+- Unusual headache
+- Extreme fatigue
+- Weakness or paralysis
+- Dizziness, loss of balance, or loss of coordination
+- Confusion or disorientation
+- Unresponsiveness or unconsciousness
+- Convulsions
+- Difficulty swallowing
+- Slurred speech
+- Hearing disturbance
+- Visual disturbance
+- Loss of bladder or bowel control
+- Difficulty urinating with a full bladder
+- Unusual coughing
+- Rapid, shallow, or distressed breathing
+- Blood or froth in the mouth
+- Rapid, erratic, or weak pulse
+- Cardiac arrest
+
+#### First Aid for Suspected DCI
+
+The primary and immediate patient care always focuses upon the ABCs:
+
+- Airway (open)
+- Breathing (present)
+- Circulation (present)
+
+Once the ABCs have been confirmed, the following first aid procedures should be implemented whenever DCI is suspected:
+
+- Activate EMS (emergency medical services), or seek medical care
+- Administer 100% oxygen (or highest percentage of oxygen available)
+- Have the victim lie down in supine or recovery position
+- Monitor the patient
+- Treat for shock
+- Administer CPR when appropriate
+
+> In general DCI does not get better on its own. Left unattended, the signs and symptoms often worsen. Any delay in appropriate care increases the risk of long-term neurological complications. Prompt medical attention always is indicated.
+Oxygen administration may:
+
+- Help the diver off-gas excess nitrogen more quickly
+- Reduce blood sludging (thickening)
+- Reduce nitrogen bubble size
+- Increase oxygenated blood flow
+- Reduce tissue swelling
+- Ease breathing
+- Improve the chances of a full recovery
