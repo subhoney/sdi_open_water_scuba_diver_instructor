@@ -106,6 +106,14 @@
       - [Haldane's Algorithm](#haldanes-algorithm)
       - [Modern Dive Tables and Dive Computers](#modern-dive-tables-and-dive-computers)
     - [Summary: Chapter 5, 6 and 7](#summary-chapter-5-6-and-7)
+  - [Diving Physiology, Part 1](#diving-physiology-part-1)
+    - [Introduction](#introduction-2)
+    - [Pulmonary System](#pulmonary-system)
+    - [Cardiovascular System](#cardiovascular-system)
+    - [Decompression Illness](#decompression-illness)
+      - [What Is DCI?](#what-is-dci)
+      - [Decompression Sickness](#decompression-sickness)
+      - [DCI and Patent Foramen Ovale](#dci-and-patent-foramen-ovale)
 
 # SDI Open Water Scuba Diver Instructor
 
@@ -1150,3 +1158,103 @@ Haldane's decompression model provided the essential parameters for subsequent r
 ### Summary: Chapter 5, 6 and 7
 
  This chapter was a recap of physics that relate to scuba diving. How these theories apply to scuba diving was also reviewed. It was not intended to be comprehensive but rather to refresh the theory learned in the divemaster course. For a more comprehensive review of physics refer to the SDI Divemaster Manual.
+
+## Diving Physiology, Part 1
+
+### Introduction
+
+Physiology is another key component in the overall body of knowledge a dive professional is expected to possess. We will review the key components and overall body of knowledge that was learned during the SDI Divemaster course. As the OWSDI candidate reviews this information, if they come across a subject that needs more elaboration, they should refer back to the SDI Divemaster manual for a more in-depth discussion. The dive professional should be well versed in all the subjects covered in this chapter. Although most divers will never experience these maladies it is important for the instructor to know how to recognize and address them.
+
+### Pulmonary System
+
+The role of the pulmonary system is the exchange of gases, with certain gases being introduced into the body while other gases are eliminated, the two primary gasses being oxygen and carbon dioxide. Oxygen is a critical ingredient in the body's metabolic process; in a normal environment, air contains 21% oxygen, which is introduced to the body with each inhaled breath. Carbon dioxide is a by-product of metabolism, and at elevated levels it is potentially harmful to the body. Carbon dioxide is expelled from the body with each exhaled breath. Carbon dioxide is also what triggers the receptors in the body to breathe.
+
+Inhalation is controlled primarily by the muscles of the diaphragm. When these muscles contract, the ribcage expands and the contents of the abdomen are moved downward, resulting in increased volume and decreased pressure within the lungs. When more active inhalation is required, other deeper muscles within the chest and neck will supplement the muscles of the diaphragm. Restful exhalation is generally a passive process. As the diaphragm muscles relax following inhalation, the elastic tissues of the lungs recoil and thereby gently push air out of the lungs. More active exhalation requires muscles within the abdomen and chest to contract more quickly, decreasing the volume and increasing pressure within the lungs, moving air more quickly and forcefully out of the lungs
+
+The movement of oxygen from the lungs through the alveoli into the blood and then to the tissues is the direct result of its partial pressure. The movement of carbon dioxide from the tissues into the blood and through the alveoli into the lungs also is the direct result of its partial pressure. Remember, gas always moves from an area of higher pressure and density to an area of lower pressure and density.
+
+> Rather than directly sensing the body's need for oxygen, the breathing reflex is primarily triggered by the buildup of carbon dioxide in the blood.
+
+When additional physical demands are placed upon the body, such as strenuous physical activity, the metabolic rate increases; this also raises the output of carbon dioxide, and thereby the breathing rate quickens. When the breathing reflex is intentionally overridden by an individual deliberately holding his breath, the increasing level of carbon dioxide eventually results in a neurosignal to other parts of the brain triggering a conscious urge to breathe.
+
+### Cardiovascular System
+
+As a review, the role of the body's circulatory system is the movement of gases, nutrients and wastes throughout the body. The circulatory system actually consists of two separate and distinct sub-systems: the cardiovascular system and the lymphatic system. For the purposes of this review, we will focus primarily on the cardiovascular system and more specifically how it transports gasses. The four parts that make up the cardio-vascular system are: the heart, arteries, veins and capillaries.
+
+Hemoglobin is the specific component within the blood to which both oxygen and carbon dioxide attach, while being transported by the blood throughout the body.
+
+Starting with pulmonary circulation at the heart, the blood enters and gathers within the right atrium of the heart. An initial contraction of the upper heart muscle moves the blood from the right atrium downward into the right ventricle of the heart. A subsequent contraction of the lower heart muscle then moves the blood from the right ventricle through the pulmonary arteries to those capillaries that surround the alveoli of the lungs. Here carbon dioxide passes from the blood through the permeable membrane of the alveoli and into the lungs, while oxygen passes in the opposite direction from the lungs and into the blood. The oxygen-rich blood then returns to the heart through the pulmonary veins, and now enters the left atrium of the heart. HeartThe initial contraction of the upper heart muscle moves the blood from the left atrium downward into the left ventricle, and the subsequent contraction of the lower heart muscle then moves the blood from the left ventricle into the aorta, which is the body's largest systemic artery. From the aorta the blood branches out into the series of smaller systemic arteries leading to capillaries located throughout the tissues. 
+
+Here oxygen passes from the blood to the tissues, where it is used in the body's metabolic process; and also here carbon dioxide, which is a by-product of metabolism, passes from the tissues to the blood. The oxygen-poor blood returns through the systemic veins towards the heart, where it then re-enters the right atrium of the heart and transitions again into pulmonary circulation.
+
+### Decompression Illness
+
+#### What Is DCI?
+
+Decompression illness, or DCI, is the diagnostic classification for the conditions that a diver may suffer upon ascent to the surface following any time at depth, as the direct result of decompression. More specifically, DCI includes both decompression sickness and arterial gas embolism. The mechanism leading to each of these conditions are distinctly different; nevertheless, each is remarkably similar, making it impossible at times to distinguish between the two. Both conditions are treated exactly the same way in terms of emergency first aid at the scene and follow-up medical care.
+
+#### Decompression Sickness
+
+Decompression sickness, or DCS (sometimes also referred to as "the bends"), is caused by the formation of nitrogen bubbles within the tissues of a diver's body. Nitrogen is physiologically inert and does not chemically interact with the tissues. A certain amount of nitrogen will be dissolved within the tissues simply because the body is exposed to it. Similar to the movement of oxygen and carbon dioxide in the preceding discussion, nitrogen moves from the lungs through the blood to the tissues and from the tissues through the blood to the lungs, based upon its partial pressure.
+
+Bubbles can form when a diver makes a direct ascent to the surface after remaining too long at a given depth, due to an excessive pressure gradient. Bubbles can also form when a diver makes a rapid ascent from any depth, even while otherwise adhering to established depth and time limits.
+
+DCS is normally associated with bubble formation in the tissues, but it is important to recognize that nitrogen bubbles can also form in the blood. This usually occurs at the same time and for exactly the same reasons. In fact, unlike the tissues, the extent of bubble formation in the blood can be accurately measured through the use of an electronic Doppler stethoscope.
+
+Divers routinely rely upon dive tables and personal dive computers to effectively manage their exposure to excess nitrogen, and thereby minimize their risk of DCS.
+
+> It's important to point out, however, that no table or computer can guarantee a completely risk-free dive in terms of DCS.
+
+A number of physiological factors might increase the susceptibility of an individual diver to DCS, even if they adhere to the depth-time profiles specified by that diver's tables or computer. These factors can include:
+
+- Older Age
+- Obesity
+- Poor Fitness
+- Recent Injury or Illness
+- Cold Conditions
+- Excessive Workload
+- Fatigue
+- Dehydration
+- Prior Occurrence of DCS
+
+A diver can minimize some of these factors by ensuring proper fitness and health, staying properly hydrated, using appropriate thermal exposure protection, and avoiding over-exertion. Sport divers can minimize the risk of DCS by:
+
+- Diving conservatively
+- Avoiding diving up to the no-decompression limits specified by their tables or computer
+- Adhering to the maximum ascent rate indicated by their dive tables or computer.
+- Ascend at a slow rate
+- Completing a safety stop of 3 to 5 minutes during ascent at a depth of 3 to 6 metres or 10 to 20 feet
+
+Remember, when a repetitive dive is made prior to completion of the off-gassing process, residual nitrogen will remain in the diver's tissues and it becomes an additional factor in determining the applicable depth-time limits for the repetitive dive.
+
+DCS can occur if the diver is subjected to a subsequent decrease in ambient pressure, as will be encountered when traveling to a higher altitude or flying in a plane. Accordingly, DAN (Divers Alert Network) currently recommends the following minimum surface intervals before flying: 12 hours after a single dive; 18 hours after multiple dives or multiple days of diving; and 24 hours after any dive requiring staged or emergency decompression. SDI Divers, because they are required to use personal dive computers, should follow the recommendation of their dive computer as to when it is safe to fly.
+
+The severity of DCS will depend upon the extent, as well as the location where the bubbles may form. In terms of significance, DCS is often characterized by type: Type I involves skin rash, itching, and localized pain; Type II involves the central nervous system, respiratory system, and/or circulatory system.
+
+> The early onset of DCS can be rather subtle, and thus it might be initially overlooked or discounted by the diver.
+
+The signs and symptoms of DCS usually begin to appear within 15 minutes to 2 hours after surfacing, but onset can be delayed for up to 24 hours. Once onset occurs, signs and symptoms may worsen over time, and Type I can transition to Type II. Signs and symptoms do not normally subside on their own, and left untreated DCS can cause long-term neurological complications. Early intervention, in regards to both first aid at the scene and subsequent professional medical care, greatly increases an affected diver's chance of a full recovery.
+
+Arterial gas embolism, or AGE, occurs when a gas bubble blocks the arterial flow of blood to a vital organ. It might arise in DCS, when nitrogen comes out of solution and forms nitrogen bubbles within the blood. More often it occurs when over-pressurized air still in its gaseous state passes through the alveoli and enters the bloodstream as an air bubble.
+
+Perhaps the most obvious potential cause of AGE is when a diver holds his breath, which may occur during a panicked ascent following some underwater complication. Another possible cause is lung congestion, as can occur with certain illnesses and allergies where the congestive fluids actually entrap some amount of air within the recesses of the lungs. Asthma-like restriction of the pulmonary airway can also be a possible cause. An excessively rapid ascent, which simply surpasses the equalization process of normal respiration, is another possible cause.
+
+Over-pressurization within the lungs can have two consequences. It may cause a rupture of the lung tissue with air then escaping into the chest cavity or it can force a bubble of air to pass through the alveoli and enter the blood, leading to arterial gas embolism.
+
+Gas Embolism
+
+Once in the bloodstream the bubble passes into systemic circulation and travels through the progressively narrowing network of arteries towards the capillaries. Meanwhile, additional decrease in ambient pressure (due to a continuing ascent) will cause that bubble to expand in size. Eventually, the bubble will become lodged in an artery, blocking the flow of blood beyond that point. A blockage can occur anywhere throughout the body, but of course the greatest risk occurs when that blockage impacts a vital organ.
+
+> When an arterial blockage occurs in the brain, it will produce a sudden stroke; a stroke will manifest in other bodily dysfunction such as weakness or paralysis, respiratory distress or cardiac arrest.
+
+If the blockage occurs in one of the arteries supplying oxygen to the heart, it can also directly result in cardiac arrest.
+
+>A diver may employ a few simple precautions to avoid the risk of AGE – never hold one’s breath, seek medical advice for any question regarding the overall health of the respiratory system, postpone diving while temporarily congested and always ascend slowly.
+
+The severity of signs and symptoms will depend upon the location of the arterial blockage. Though its signs and symptoms may be quite similar to those of DCS, the onset of AGE is often more rapid and dramatic. Sudden unconsciousness may occur immediately upon surfacing, or even during the ascent. In addition, because of the risk to vital organs, AGE can be more immediately life-threatening.
+
+#### DCI and Patent Foramen Ovale
+
+Patent Foramen Ovale, or PFO, is a circulatory defect and is believed to be a possible predisposing factor for the onset of DCI.
+
+The foramen ovale is a flap-like valve within the heart. This valve is open during fetal development, and then closes after birth. When the foramen ovale is open it connects the right atrium to the left atrium, thereby shunting blood into systemic circulation while by-passing pulmonary circulation. The foramen ovale closes after birth, when the newborn begins to breathe on its own, and thereby establishes pulmonary circulation and segregates it from systemic circulation. PFO can be identified through special testing procedures, but such is not a part of routine medical screening, and in many cases PFO simply goes undetected. Statistical evidence suggests that it might create an increased risk of DCS or DCI during scuba diving activities.
