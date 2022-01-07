@@ -1,138 +1,141 @@
-- [SDI Open Water Scuba Diver Instructor](#sdi-open-water-scuba-diver-instructor)
-  - [The SDI Open Water Scuba Diver Instructor: Part 1](#the-sdi-open-water-scuba-diver-instructor-part-1)
-    - [Introduction](#introduction)
-    - [The History of ITI](#the-history-of-iti)
-      - [Technical Diving International](#technical-diving-international)
-      - [Scuba Diving International](#scuba-diving-international)
-      - [Emergency Response Diving International](#emergency-response-diving-international)
-      - [Recreational Scuba Training Council and World Recreational Scuba Training Council](#recreational-scuba-training-council-and-world-recreational-scuba-training-council)
-    - [ITI Training Philosophy](#iti-training-philosophy)
-      - [The Mission of International Training](#the-mission-of-international-training)
-    - [SDI Requirements for OWSDI Certification](#sdi-requirements-for-owsdi-certification)
-      - [Prerequisites for OWSDI Certification](#prerequisites-for-owsdi-certification)
-      - [Additional Requirements](#additional-requirements)
-    - [Membership Status](#membership-status)
-      - [Active Teaching Status](#active-teaching-status)
-      - [Probation Status](#probation-status)
-      - [Non-Teaching Status](#non-teaching-status)
-      - [Suspended Status](#suspended-status)
-      - [Expelled Status](#expelled-status)
-    - [Annual Dive Professional Renewal](#annual-dive-professional-renewal)
-  - [The SDI Open Water Scuba Diver Instructor: Part 2](#the-sdi-open-water-scuba-diver-instructor-part-2)
-    - [Professional Responsibilities of the OWSDI](#professional-responsibilities-of-the-owsdi)
-      - [SDI Code of Ethics and Conduct](#sdi-code-of-ethics-and-conduct)
-    - [Professional Responsibilities of the Open Water Scuba Diver Instructor](#professional-responsibilities-of-the-open-water-scuba-diver-instructor)
-      - [Appearance](#appearance)
-      - [Punctuality](#punctuality)
-      - [Equipment Use](#equipment-use)
-      - [Preparedness](#preparedness)
-      - [Answering Questions](#answering-questions)
-      - [Staying Current with Certifications](#staying-current-with-certifications)
-      - [Continuing to Learn](#continuing-to-learn)
-    - [Advancing Through the Professional Levels](#advancing-through-the-professional-levels)
-      - [Specialty and TDI Instructor](#specialty-and-tdi-instructor)
-      - [Course Director](#course-director)
-      - [Instructor Trainer](#instructor-trainer)
-    - [Quality Assurance](#quality-assurance)
-      - [General Quality Assurance (QA) Procedures](#general-quality-assurance-qa-procedures)
-    - [Using The SDI Standards and Procedures Manual](#using-the-sdi-standards-and-procedures-manual)
-      - [How to Use the SDI Standards and Procedures Manual](#how-to-use-the-sdi-standards-and-procedures-manual)
-      - [Part 1, Introduction Summary](#part-1-introduction-summary)
-      - [Part 2, Diver Standards Summary](#part-2-diver-standards-summary)
-      - [Part 3, Specialties Summary](#part-3-specialties-summary)
-      - [Part 4, Leadership Standards Summary](#part-4-leadership-standards-summary)
-      - [Part 5, Appendix Summary](#part-5-appendix-summary)
-    - [Chapter 1 and 2 Summary](#chapter-1-and-2-summary)
-  - [Dive Leader Risk Management: Part 1](#dive-leader-risk-management-part-1)
-    - [Inherent Risks in Scuba Diving](#inherent-risks-in-scuba-diving)
-    - [Anatomy of a Lawsuit](#anatomy-of-a-lawsuit)
-    - [Defensive Teaching and Supervising](#defensive-teaching-and-supervising)
-    - [Student Training Records](#student-training-records)
-    - [Medical Statement](#medical-statement)
-    - [Liability Releases](#liability-releases)
-    - [Liability Insurance for Dive Leaders](#liability-insurance-for-dive-leaders)
-    - [In the Event of a Dive Accident](#in-the-event-of-a-dive-accident)
-  - [Dive Leader Risk Management: Part 2](#dive-leader-risk-management-part-2)
-    - [Emergency Procedures](#emergency-procedures)
-      - [Contact Emergency Medical Services](#contact-emergency-medical-services)
-      - [Control the Scene](#control-the-scene)
-      - [Taking Notes](#taking-notes)
-      - [Interviewing Witnesses](#interviewing-witnesses)
-      - [Accident Reporting](#accident-reporting)
-      - [CPR and First Aid](#cpr-and-first-aid)
-    - [Summary: Chapters 3 and 4](#summary-chapters-3-and-4)
-  - [Diving Physics](#diving-physics)
-    - [Physical Properties of Water](#physical-properties-of-water)
-      - [Density of Water](#density-of-water)
-      - [Refraction of Light in Water](#refraction-of-light-in-water)
-      - [Diffraction of Light in Water](#diffraction-of-light-in-water)
-      - [Color Loss in Water](#color-loss-in-water)
-      - [Transmission of Sound in Water](#transmission-of-sound-in-water)
-      - [Thermal Conductivity in Water](#thermal-conductivity-in-water)
-      - [Buoyancy](#buoyancy)
-        - [How This Principle Relates to Diving](#how-this-principle-relates-to-diving)
-        - [Saltwater versus Freshwater](#saltwater-versus-freshwater)
-        - [Archimedean Calculations](#archimedean-calculations)
-          - [Buoyancy](#buoyancy-1)
-          - [Lift Bags](#lift-bags)
-    - [Boyle's Law](#boyles-law)
-      - [Pressure and Volume](#pressure-and-volume)
-      - [How this Principal Relates to Diving](#how-this-principal-relates-to-diving)
-      - [The Significance of Relative Changes](#the-significance-of-relative-changes)
-      - [Pressure and Volume Calculations](#pressure-and-volume-calculations)
-    - [Charles' Law and Gay-Lussac's Law](#charles-law-and-gay-lussacs-law)
-      - [Formulae for Temperature and Volume (Charles' Law)](#formulae-for-temperature-and-volume-charles-law)
-      - [Temperature and Pressure (Gay-Lussac's Law)](#temperature-and-pressure-gay-lussacs-law)
-      - [Concepts for Temperature and Pressure](#concepts-for-temperature-and-pressure)
-    - [How These Principals Relate to Diving](#how-these-principals-relate-to-diving)
-    - [Temperature and Volume Calculations (Charles' Law)](#temperature-and-volume-calculations-charles-law)
-    - [Temperature and Pressure Calculations (Gay-Lussac's Law)](#temperature-and-pressure-calculations-gay-lussacs-law)
-      - [Estimating Temperature and Pressure](#estimating-temperature-and-pressure)
-    - [Combined and Ideal Gas Laws](#combined-and-ideal-gas-laws)
-      - [Pressure, Volume and Temperature (Combined Gas Law)](#pressure-volume-and-temperature-combined-gas-law)
-      - [Pressure, Volume, Temperature and Mass (Ideal Gas Law)](#pressure-volume-temperature-and-mass-ideal-gas-law)
-  - [Partial Pressure (Dalton's Law)](#partial-pressure-daltons-law)
-    - [How This Principle Relates to Diving](#how-this-principle-relates-to-diving-1)
-    - [Partial Pressure Calculations](#partial-pressure-calculations)
-      - [Metric](#metric)
-      - [Imperial](#imperial)
-  - [Henry's Law (Partial Pressure and Gas Solubility")](#henrys-law-partial-pressure-and-gas-solubility)
-    - [How this Principle Relates to Diving](#how-this-principle-relates-to-diving-2)
-    - [Haldane's Decompression Model](#haldanes-decompression-model)
-      - [Theoretical Tissue Compartments](#theoretical-tissue-compartments)
-      - [Half-Times](#half-times)
-      - [M-Values](#m-values)
-      - [Haldane's Algorithm](#haldanes-algorithm)
-      - [Modern Dive Tables and Dive Computers](#modern-dive-tables-and-dive-computers)
-    - [Summary: Chapter 5, 6 and 7](#summary-chapter-5-6-and-7)
-  - [Diving Physiology](#diving-physiology)
-    - [Pulmonary System](#pulmonary-system)
-    - [Cardiovascular System](#cardiovascular-system)
-    - [Decompression Illness](#decompression-illness)
-      - [What Is DCI?](#what-is-dci)
-      - [Decompression Sickness](#decompression-sickness)
-      - [DCI and Patent Foramen Ovale](#dci-and-patent-foramen-ovale)
-      - [Signs and Symptoms of DCI](#signs-and-symptoms-of-dci)
-      - [First Aid for Suspected DCI](#first-aid-for-suspected-dci)
-      - [Five-Minute Field Neurological Evaluation](#five-minute-field-neurological-evaluation)
-      - [Recompression Therapy](#recompression-therapy)
-    - [Nitrogen Narcosis](#nitrogen-narcosis)
-    - [Inert Gas Narcosis](#inert-gas-narcosis)
-    - [Gas Toxicity](#gas-toxicity)
-      - [Central Nervous System Oxygen Toxicity](#central-nervous-system-oxygen-toxicity)
-      - [Pulmonary Oxygen Toxicity](#pulmonary-oxygen-toxicity)
-      - [Carbon Dioxide Toxicity](#carbon-dioxide-toxicity)
-      - [Carbon Monoxide Toxicity](#carbon-monoxide-toxicity)
+- [1. SDI Open Water Scuba Diver Instructor](#1-sdi-open-water-scuba-diver-instructor)
+  - [1.1. The SDI Open Water Scuba Diver Instructor: Part 1](#11-the-sdi-open-water-scuba-diver-instructor-part-1)
+    - [1.1.1. Introduction](#111-introduction)
+    - [1.1.2. The History of ITI](#112-the-history-of-iti)
+      - [1.1.2.1. Technical Diving International](#1121-technical-diving-international)
+      - [1.1.2.2. Scuba Diving International](#1122-scuba-diving-international)
+      - [1.1.2.3. Emergency Response Diving International](#1123-emergency-response-diving-international)
+      - [1.1.2.4. Recreational Scuba Training Council and World Recreational Scuba Training Council](#1124-recreational-scuba-training-council-and-world-recreational-scuba-training-council)
+    - [1.1.3. ITI Training Philosophy](#113-iti-training-philosophy)
+      - [1.1.3.1. The Mission of International Training](#1131-the-mission-of-international-training)
+    - [1.1.4. SDI Requirements for OWSDI Certification](#114-sdi-requirements-for-owsdi-certification)
+      - [1.1.4.1. Prerequisites for OWSDI Certification](#1141-prerequisites-for-owsdi-certification)
+      - [1.1.4.2. Additional Requirements](#1142-additional-requirements)
+    - [1.1.5. Membership Status](#115-membership-status)
+      - [1.1.5.1. Active Teaching Status](#1151-active-teaching-status)
+      - [1.1.5.2. Probation Status](#1152-probation-status)
+      - [1.1.5.3. Non-Teaching Status](#1153-non-teaching-status)
+      - [1.1.5.4. Suspended Status](#1154-suspended-status)
+      - [1.1.5.5. Expelled Status](#1155-expelled-status)
+    - [1.1.6. Annual Dive Professional Renewal](#116-annual-dive-professional-renewal)
+  - [1.2. The SDI Open Water Scuba Diver Instructor: Part 2](#12-the-sdi-open-water-scuba-diver-instructor-part-2)
+    - [1.2.1. Professional Responsibilities of the OWSDI](#121-professional-responsibilities-of-the-owsdi)
+      - [1.2.1.1. SDI Code of Ethics and Conduct](#1211-sdi-code-of-ethics-and-conduct)
+    - [1.2.2. Professional Responsibilities of the Open Water Scuba Diver Instructor](#122-professional-responsibilities-of-the-open-water-scuba-diver-instructor)
+      - [1.2.2.1. Appearance](#1221-appearance)
+      - [1.2.2.2. Punctuality](#1222-punctuality)
+      - [1.2.2.3. Equipment Use](#1223-equipment-use)
+      - [1.2.2.4. Preparedness](#1224-preparedness)
+      - [1.2.2.5. Answering Questions](#1225-answering-questions)
+      - [1.2.2.6. Staying Current with Certifications](#1226-staying-current-with-certifications)
+      - [1.2.2.7. Continuing to Learn](#1227-continuing-to-learn)
+    - [1.2.3. Advancing Through the Professional Levels](#123-advancing-through-the-professional-levels)
+      - [1.2.3.1. Specialty and TDI Instructor](#1231-specialty-and-tdi-instructor)
+      - [1.2.3.2. Course Director](#1232-course-director)
+      - [1.2.3.3. Instructor Trainer](#1233-instructor-trainer)
+    - [1.2.4. Quality Assurance](#124-quality-assurance)
+      - [1.2.4.1. General Quality Assurance (QA) Procedures](#1241-general-quality-assurance-qa-procedures)
+    - [1.2.5. Using The SDI Standards and Procedures Manual](#125-using-the-sdi-standards-and-procedures-manual)
+      - [1.2.5.1. How to Use the SDI Standards and Procedures Manual](#1251-how-to-use-the-sdi-standards-and-procedures-manual)
+      - [1.2.5.2. Part 1, Introduction Summary](#1252-part-1-introduction-summary)
+      - [1.2.5.3. Part 2, Diver Standards Summary](#1253-part-2-diver-standards-summary)
+      - [1.2.5.4. Part 3, Specialties Summary](#1254-part-3-specialties-summary)
+      - [1.2.5.5. Part 4, Leadership Standards Summary](#1255-part-4-leadership-standards-summary)
+      - [1.2.5.6. Part 5, Appendix Summary](#1256-part-5-appendix-summary)
+    - [1.2.6. Chapter 1 and 2 Summary](#126-chapter-1-and-2-summary)
+  - [1.3. Dive Leader Risk Management: Part 1](#13-dive-leader-risk-management-part-1)
+    - [1.3.1. Inherent Risks in Scuba Diving](#131-inherent-risks-in-scuba-diving)
+    - [1.3.2. Anatomy of a Lawsuit](#132-anatomy-of-a-lawsuit)
+    - [1.3.3. Defensive Teaching and Supervising](#133-defensive-teaching-and-supervising)
+    - [1.3.4. Student Training Records](#134-student-training-records)
+    - [1.3.5. Medical Statement](#135-medical-statement)
+    - [1.3.6. Liability Releases](#136-liability-releases)
+    - [1.3.7. Liability Insurance for Dive Leaders](#137-liability-insurance-for-dive-leaders)
+    - [1.3.8. In the Event of a Dive Accident](#138-in-the-event-of-a-dive-accident)
+  - [1.4. Dive Leader Risk Management: Part 2](#14-dive-leader-risk-management-part-2)
+    - [1.4.1. Emergency Procedures](#141-emergency-procedures)
+      - [1.4.1.1. Contact Emergency Medical Services](#1411-contact-emergency-medical-services)
+      - [1.4.1.2. Control the Scene](#1412-control-the-scene)
+      - [1.4.1.3. Taking Notes](#1413-taking-notes)
+      - [1.4.1.4. Interviewing Witnesses](#1414-interviewing-witnesses)
+      - [1.4.1.5. Accident Reporting](#1415-accident-reporting)
+      - [1.4.1.6. CPR and First Aid](#1416-cpr-and-first-aid)
+    - [1.4.2. Summary: Chapters 3 and 4](#142-summary-chapters-3-and-4)
+  - [1.5. Diving Physics](#15-diving-physics)
+    - [1.5.1. Physical Properties of Water](#151-physical-properties-of-water)
+      - [1.5.1.1. Density of Water](#1511-density-of-water)
+      - [1.5.1.2. Refraction of Light in Water](#1512-refraction-of-light-in-water)
+      - [1.5.1.3. Diffraction of Light in Water](#1513-diffraction-of-light-in-water)
+      - [1.5.1.4. Color Loss in Water](#1514-color-loss-in-water)
+      - [1.5.1.5. Transmission of Sound in Water](#1515-transmission-of-sound-in-water)
+      - [1.5.1.6. Thermal Conductivity in Water](#1516-thermal-conductivity-in-water)
+      - [1.5.1.7. Buoyancy](#1517-buoyancy)
+        - [1.5.1.7.1. How This Principle Relates to Diving](#15171-how-this-principle-relates-to-diving)
+        - [1.5.1.7.2. Saltwater versus Freshwater](#15172-saltwater-versus-freshwater)
+        - [1.5.1.7.3. Archimedean Calculations](#15173-archimedean-calculations)
+          - [1.5.1.7.3.1. Buoyancy Calculations](#151731-buoyancy-calculations)
+          - [1.5.1.7.3.2. Lift Bags](#151732-lift-bags)
+    - [1.5.2. Boyle's Law](#152-boyles-law)
+      - [1.5.2.1. Pressure and Volume](#1521-pressure-and-volume)
+      - [1.5.2.2. How this Principal Relates to Diving](#1522-how-this-principal-relates-to-diving)
+      - [1.5.2.3. The Significance of Relative Changes](#1523-the-significance-of-relative-changes)
+      - [1.5.2.4. Pressure and Volume Calculations](#1524-pressure-and-volume-calculations)
+    - [1.5.3. Charles' Law and Gay-Lussac's Law](#153-charles-law-and-gay-lussacs-law)
+      - [1.5.3.1. Formulae for Temperature and Volume (Charles' Law)](#1531-formulae-for-temperature-and-volume-charles-law)
+      - [1.5.3.2. Temperature and Pressure (Gay-Lussac's Law)](#1532-temperature-and-pressure-gay-lussacs-law)
+      - [1.5.3.3. Concepts for Temperature and Pressure](#1533-concepts-for-temperature-and-pressure)
+    - [1.5.4. How These Principals Relate to Diving](#154-how-these-principals-relate-to-diving)
+    - [1.5.5. Temperature and Volume Calculations (Charles' Law)](#155-temperature-and-volume-calculations-charles-law)
+    - [1.5.6. Temperature and Pressure Calculations (Gay-Lussac's Law)](#156-temperature-and-pressure-calculations-gay-lussacs-law)
+      - [1.5.6.1. Estimating Temperature and Pressure](#1561-estimating-temperature-and-pressure)
+    - [1.5.7. Combined and Ideal Gas Laws](#157-combined-and-ideal-gas-laws)
+      - [1.5.7.1. Pressure, Volume and Temperature (Combined Gas Law)](#1571-pressure-volume-and-temperature-combined-gas-law)
+      - [1.5.7.2. Pressure, Volume, Temperature and Mass (Ideal Gas Law)](#1572-pressure-volume-temperature-and-mass-ideal-gas-law)
+  - [1.6. Partial Pressure (Dalton's Law)](#16-partial-pressure-daltons-law)
+    - [1.6.1. How This Principle Relates to Diving](#161-how-this-principle-relates-to-diving)
+    - [1.6.2. Partial Pressure Calculations](#162-partial-pressure-calculations)
+      - [1.6.2.1. Metric](#1621-metric)
+      - [1.6.2.2. Imperial](#1622-imperial)
+  - [1.7. Henry's Law (Partial Pressure and Gas Solubility")](#17-henrys-law-partial-pressure-and-gas-solubility)
+    - [1.7.1. How this Principle Relates to Diving](#171-how-this-principle-relates-to-diving)
+    - [1.7.2. Haldane's Decompression Model](#172-haldanes-decompression-model)
+      - [1.7.2.1. Theoretical Tissue Compartments](#1721-theoretical-tissue-compartments)
+      - [1.7.2.2. Half-Times](#1722-half-times)
+      - [1.7.2.3. M-Values](#1723-m-values)
+      - [1.7.2.4. Haldane's Algorithm](#1724-haldanes-algorithm)
+      - [1.7.2.5. Modern Dive Tables and Dive Computers](#1725-modern-dive-tables-and-dive-computers)
+    - [1.7.3. Summary: Chapter 5, 6 and 7](#173-summary-chapter-5-6-and-7)
+  - [1.8. Diving Physiology](#18-diving-physiology)
+    - [1.8.1. Pulmonary System](#181-pulmonary-system)
+    - [1.8.2. Cardiovascular System](#182-cardiovascular-system)
+    - [1.8.3. Decompression Illness](#183-decompression-illness)
+      - [1.8.3.1. What Is DCI?](#1831-what-is-dci)
+      - [1.8.3.2. Decompression Sickness](#1832-decompression-sickness)
+      - [1.8.3.3. DCI and Patent Foramen Ovale](#1833-dci-and-patent-foramen-ovale)
+      - [1.8.3.4. Signs and Symptoms of DCI](#1834-signs-and-symptoms-of-dci)
+      - [1.8.3.5. First Aid for Suspected DCI](#1835-first-aid-for-suspected-dci)
+      - [1.8.3.6. Five-Minute Field Neurological Evaluation](#1836-five-minute-field-neurological-evaluation)
+      - [1.8.3.7. Recompression Therapy](#1837-recompression-therapy)
+    - [1.8.4. Nitrogen Narcosis](#184-nitrogen-narcosis)
+    - [1.8.5. Inert Gas Narcosis](#185-inert-gas-narcosis)
+    - [1.8.6. Gas Toxicity](#186-gas-toxicity)
+      - [1.8.6.1. Central Nervous System Oxygen Toxicity](#1861-central-nervous-system-oxygen-toxicity)
+      - [1.8.6.2. Pulmonary Oxygen Toxicity](#1862-pulmonary-oxygen-toxicity)
+      - [1.8.6.3. Carbon Dioxide Toxicity](#1863-carbon-dioxide-toxicity)
+      - [1.8.6.4. Carbon Monoxide Toxicity](#1864-carbon-monoxide-toxicity)
+    - [1.8.7. Barotrauma](#187-barotrauma)
+      - [1.8.7.1. What is Barotrauma?](#1871-what-is-barotrauma)
+      - [1.8.7.2. Lung Injuries](#1872-lung-injuries)
 
-# SDI Open Water Scuba Diver Instructor
+# 1. SDI Open Water Scuba Diver Instructor
 
-## The SDI Open Water Scuba Diver Instructor: Part 1
+## 1.1. The SDI Open Water Scuba Diver Instructor: Part 1
 
-### Introduction
+### 1.1.1. Introduction
 
 The next several chapters cover a good deal of valuable background information for the OWSDI candidate including: an overview of International Training's history and philosophy; requirements for certification as an SDI OWSDI and the SDI Member's responsibilities after certification; International Training's quality assurance procedures; and finally, a description of the SDI Standards and Procedures manual and what information it contains. Having a clear understanding of these things will help the candidate understand what is expected of a well-rounded SDI Dive Professional, and in turn, what the dive professional can expect of ITI; this will help establish and promote a long and healthy business relationship.
 
-### The History of ITI
+### 1.1.2. The History of ITI
 
 From its humble beginning in 1994 to today, the group of training agencies Scuba Diving International (SDI), Technical Diving International (TDI), and Emergency Response Diving International (ERDI) form one of the largest diving certification agencies in the World International Training Inc (ITI). With 26 regional offices servicing more than 100 countries, the company today far exceeds the original vision the founders had when they conceived the idea on a napkin, sitting at a kitchen table in the early 1990s.
 
@@ -140,7 +143,7 @@ As with many companies, the original concept for the business was an outgrowth o
 
 ITI is headquartered in Stuart, Florida, United States, with regional and local offices located in more than 28 locations around the world.
 
-#### Technical Diving International
+#### 1.1.2.1. Technical Diving International
 
 Technical Diving International was one of the first agencies of its kind. It’s focus was and still is on providing training materials and education for specialized diving situations ranging from Nitrox to closed circuit rebreathers, as well as for overhead environments such as caves and wrecks. TDI also provides training in the preparation of gas mixtures for dives up to 100 meters (330 feet).
 
@@ -150,7 +153,7 @@ In the early stages of technical diving there were many industry professionals w
 
 Today, the industry not only embraces technical diving, but nitrox is now the most popular specialty course taken worldwide. Another key event in TDI’s history occurred when it pioneered the use of semi closed circuit rebreathers (SCR) by recreational divers. This opened the door to allow divers to use closed circuit rebreathers (CCR) recreationally and spawned a whole new segment of the dive industry. In short, TDI ushered in an exciting breakthrough in the dive industry that many believe actually prevented the industry from further decline.
 
-#### Scuba Diving International
+#### 1.1.2.2. Scuba Diving International
 
 In 1998 the membership of TDI could no longer be held back from the demand to create a sport diving division of TDI and thus was born Scuba Diving International (SDI). The primary reason for this expansion was that dive instructors valued dealing with an agency that listened to the instructors in the field and created programs that were, and continue to be, very profitable because they are tailored to the way today's diver wants to learn to dive.
 
@@ -158,21 +161,21 @@ Like TDI, SDI did a number of things that separated it from previously establish
 
 Another groundbreaking step taken by SDI was the development of an e-learning platform for dive education. The idea of allowing a student to learn the academic portion of a dive course online rather than requiring additional classroom instruction was a bold yet visionary step. Currently SDI is one of only a few agencies that offer divers the opportunity to learn online.
 
-#### Emergency Response Diving International
+#### 1.1.2.3. Emergency Response Diving International
 
 With the membership now happy about their options for both sport and technical dive training through SDI and TDI, they continued to ask for more specialized training in public safety diving, and thus Emergency Response Diving International (ERDI) was born in 2000. ERDI was and continues to be the only training program that is supported by a major certification agency catering exclusively to public safety diving. Throughout the years ERDI has written programs that have trained very established dive teams such as the Chicago Fire Department, numerous state police dive teams, and several federal agencies.
 
-#### Recreational Scuba Training Council and World Recreational Scuba Training Council
+#### 1.1.2.4. Recreational Scuba Training Council and World Recreational Scuba Training Council
 
 In 2004, with 10 years of development into the company, the founders of SDI/TDI/ERDI decided it was time to move on and sold the company to a group of investors who quickly expanded the offerings of the company. Immediate changes included applying for and receiving acceptance into the Recreational Scuba Training Council (RSTC) and the European Underwater Federation (EUF). This acceptance was critical because it meant that SDI standards were evaluated and found to be sound and safe by its competitors. SDI passed with ease and today is actively involved in both organizations, helping maintain diver safety. Other changes came with additional staff and a commitment to embrace electronic technologies to make doing business easier for members
 
 Although SDI/TDI/ERDI is considered to be one of the newer organizations in the industry, it is viewed as one of the most professional and progressive certification agencies. ITI’s history and its reputation as an innovator have built a strong foundation for the future. By listening to its members, building programs that are profitable and addressing scuba diving’s inherent risks in a positive way, the future is bright for the organization.
 
-### ITI Training Philosophy
+### 1.1.3. ITI Training Philosophy
 
 International Training is the parent company for Scuba Diving International (SDI), Technical Diving International (TDI) and Emergency Response Diving International (ERDI). Our philosophies for this dedicated family of dive training agencies are based on the simple principles included in our mission statement that we are proud to share with you.
 
-#### The Mission of International Training
+#### 1.1.3.1. The Mission of International Training
 
 To advance and extend knowledge, learning and culture as it relates to diving.
 
@@ -191,13 +194,13 @@ When you experience that we have met our mission in interacting with you we sinc
 
 We believe that your diving experience should be exhilarating and personally rewarding at every turn. This includes your experiences with us. As such, we want to ensure that you are well informed about the requirements for certification as an SDI OWSDI, what is expected of you after certification and what your role as an SDI OWSDI will be.
 
-### SDI Requirements for OWSDI Certification
+### 1.1.4. SDI Requirements for OWSDI Certification
 
 The SDI Open Water Scuba Diver Instructor (OWSDI) program is the next step in a professional diving career. Upon successful completion of this program, the OWSDI will be able to introduce students to the underwater world for the first time and teach all of the SDI core programs. These core programs start with the open water scuba diver and progress through the assistant instructor level. Teaching these new levels will bring more responsibility and new challenges.
 
 The OWSDI is comprised of two parts, the Instructor Development Course (IDC) and the Instructor Evaluation Course (IEC)In order to meet the responsibilities and challenges of the IDC/IEC, it’s vital that the OWSDI candidate be prepared to begin the training process. To help ensure the candidate is prepared, an established set of prerequisites must be met to start the program. The prerequisites include:
 
-#### Prerequisites for OWSDI Certification
+#### 1.1.4.1. Prerequisites for OWSDI Certification
 
 - Be at least 18 years of age
 - Certified diver for at least six (6) months
@@ -208,7 +211,7 @@ The OWSDI is comprised of two parts, the Instructor Development Course (IDC) and
 - Minimum of 100 logged dives completed in various environments with varying depths (a - minimum of 25 of which must be using a PDC)
 - Possess the minimum instructional equipment as defined in the leadership standards.
 
-#### Additional Requirements
+#### 1.1.4.2. Additional Requirements
 
 - The student must teach a minimum of:
   - Two (2) classroom presentations in the Instructor Development Course (IDC)
@@ -248,7 +251,7 @@ Upon successful completion of the Open Water Scuba Diver Instructor course, the 
 
 As described above, the SDI Open Water Scuba Diver Instructor must have achieved certain requirements before starting and met the final guidelines, in order to complete the OWSDI course. Once certified, the OWSDI will need to meet and maintain an established set of guidelines in order to remain an active SDI Instructors. Should an SDI member fail to meet the established guidelines for active teaching status, their status may be adjusted accordingly as defined in the following section.
 
-### Membership Status
+### 1.1.5. Membership Status
 
 The status of a SDI Dive Leader, along with their qualifications, defines what they are able to do and to whom they are allowed to teach and issue certifications. SDI has established specific guidelines that must be adhered to in order for an SDI OWSDI to become and remain active status.
 
@@ -256,29 +259,29 @@ If a dive leader fails to meet the minimum guidelines, they will be placed on a 
 
 The definition, description and abilities of each member's status within the SDI System are defined below, as well as potential reasons a dive leader would be placed on the associated status.
 
-#### Active Teaching Status
+#### 1.1.5.1. Active Teaching Status
 
 An SDI OWSDI given the designation of active teaching status must adhere to the following criteria: their annual dues and account balances from the previous year must be paid in full, they must submit proof of current liability insurance where required by law, they must have taught or assisted in at least one SDI Open Water Scuba Diver course and have the ability to perform all leadership skills to demonstration quality. Once all criteria have been met, the SDI Open Water Scuba Diver Instructor is authorized to teach SDI courses and certify students for courses in which they are certified to do so as stipulated by the SDI Standards.
 
-#### Probation Status
+#### 1.1.5.2. Probation Status
 
 An SDI OWSDI may be placed on probation status for any of the following reasons: their account balance is older than 90 days, they have failed to meet the contractual obligations of active teaching status or they have violated teaching standards.
 
 An OWSDI placed on probation status is authorized to teach SDI courses and to certify SDI Divers. However, further standards violations may result in an SDI Open Water Scuba Diver Instructor being moved from probation status to suspended or even expelled status.
 
-#### Non-Teaching Status
+#### 1.1.5.3. Non-Teaching Status
 
 An SDI OWSDI can be placed on non-teaching status for any of the following reasons: their account balance is older than 90 days, they have been temporarily placed on suspension or they have failed to meet the contractual obligations of active teaching status.
 
 Should the SDI OWSDI be placed in a non-teaching status, they are not authorized to teach SDI courses or to certify SDI divers. Change of the member’s status will be provided in writing to the member from International Training’s HQ Training Department.
 
-#### Suspended Status
+#### 1.1.5.4. Suspended Status
 
 An SDI OWSDI can be placed on suspended status for any of the following reasons: their account balance is older than 120 days and the SDI OWSDI has made no attempt to rectify the situation, they have failed to meet the contractual obligations of active teaching status or they have violated training standards.
 
 An SDI OWSDI placed on suspended status is not authorized to teach SDI courses or to certify SDI divers. Further standards violations can result in an SDI Open Water Scuba Diver Instructor being moved from suspended status to expelled status. Prior to being placed in a suspended status the SDI Open Water Scuba Diver Instructor will be notified in writing
 
-#### Expelled Status
+#### 1.1.5.5. Expelled Status
 
 An SDI OWSDI can be placed on expelled status for any of the following reasons: their account balance is older than 120 days and the SDI OWSDI has made no attempt to rectify the situation, they have been placed on Suspended or Probation Status on more than one occasion, they have failed to meet the contractual obligations of active teaching status, or they have violated teaching standards and have displayed conduct unbecoming a professional SDI OWSDI.
 
@@ -288,7 +291,7 @@ An SDI OWSDI placed on expelled status is no longer authorized to teach SDI cour
 
 It is in the best interest of all parties that dive leaders remain on active status throughout their career; however, there are specific issues that arise from time to time. Should such a situation arise, the dive professional is encouraged to immediately contact SDI’s Training department so they may help solve the issue in the most efficient way possible. Remember, SDI is there to help the SDI Instructor be successful.
 
-### Annual Dive Professional Renewal
+### 1.1.6. Annual Dive Professional Renewal
 
 As described in the previous section, SDI/TDI/ERDI Dive Professionals must renew their membership every year to remain active and able to conduct programs they are qualified to teach. Regardless of when a dive professional first became a member of SDI/TDI/ERDI they must renew by January 1 of each year. A reduced fee is offered if the dive professional renews prior to December 15.
 
@@ -302,13 +305,13 @@ An online option is also available on the member services page of the SDI/TDI/ER
 
 Please remember that, as mentioned before, SDI is there to help the member be successful. The SDI OWSDI should contact them if they have any questions about anything regarding the collective relationship and responsibilities. Every attempt has been made to make the renewal process easy, and in many cases, what seems to be a major issue can be solved very easily simply by talking to someone at ITI World HQ or your Regional Office.
 
-## The SDI Open Water Scuba Diver Instructor: Part 2
+## 1.2. The SDI Open Water Scuba Diver Instructor: Part 2
 
-### Professional Responsibilities of the OWSDI
+### 1.2.1. Professional Responsibilities of the OWSDI
 
 Now that we know what it takes to become an SDI OWSDI we will discuss the SDI Code of Ethics and Conduct as well as the related professional responsibilities that reinforce the Code of Ethics. While some of the responsibilities described may seem somewhat general, they are issues often overlooked and worth discussing.
 
-#### SDI Code of Ethics and Conduct
+#### 1.2.1.1. SDI Code of Ethics and Conduct
 
 The following items apply to all SDI professionals:
 
@@ -328,25 +331,25 @@ The following items apply to all SDI professionals:
 
  The professional responsibilities are more than just the knowledge and experience gained getting to this point; a dive professional is an ambassador to the community for the scuba industry. They must present themselves in a positive, professional manner especially when they are teaching students or have responsibility for a group. To maintain a professional image and meet those professional responsibilities they must adhere to the guidelines on the following pages.
 
-### Professional Responsibilities of the Open Water Scuba Diver Instructor
+### 1.2.2. Professional Responsibilities of the Open Water Scuba Diver Instructor
 
-#### Appearance
+#### 1.2.2.1. Appearance
 
 Wearing appropriate attire for each situation portrays a professional image. If the facility has a staff dress code, all dive professionals must follow that dress code. Many facilities require the dive professional to wear a shirt bearing the store logo while teaching. For the classroom setting, a collared shirt with slacks or casual dress shorts (no cut offs) portrays a professional image, while a T-shirt and casual shorts are more appropriate for the pool/confined water or open water. Certainly when teaching in a resort location, other attire may be appropriate. When all dive staff adhere to a predetermined appearance or dress code, it portrays a cohesive team that is organized and also instills confidence and trust in the customer. This appearance must then be followed up with adherence to other responsibilities, the next of which is punctuality.
 
-#### Punctuality
+#### 1.2.2.2. Punctuality
 
 Perhaps the most important thing a professional can do is make a good first impression. This impression starts even before the first word is spoken. The dive professional should plan to arrive at least 15 to 30 minutes before class starts depending on how much preparation must be done beforehand. The classroom should be checked to make sure all teaching aids and visual aids are available and working. All equipment that is needed for pool/confined water session must be ready and functioning properly. It is a good idea to have an extra set of equipment available should a problem arise with one in use. If the class is to end on time, it must start when it is scheduled to start. If the class starts late it will end late. Students may have made plans based on the schedule that was posted when they signed up for the class. They may have told family or babysitters when they could be expected home. Should the class get abnormally delayed time after time, they may become upset and the dive professional will quickly lose their credibility.
 
 Remember, if everything is ready to go when the students arrive for the class, pool or open water dives, not only will everything take place on time but the student will leave with a good first impression.
 
-#### Equipment Use
+#### 1.2.2.3. Equipment Use
 
 As discussed in the previous section on appearance, the dive professional and dive staff must maintain a professional image. Since scuba diving involves both above and below water interaction with the customers, it is important that the SDI OWSDI carry over that image to their underwater appearance. Dive professionals must use equipment sold by the store with which they are affiliated. This equipment should be top of the line, fairly new if not brand new and replaced every year or two. Students will look to the dive professionals as experts on equipment. They will want to emulate what they see these individuals using. The equipment must be maintained as required and any visual inspection stickers must be up to date. Old worn out equipment doesn't indicate an experienced diver, it indicates someone who doesn't care about their appearance or well-being. It may also give the impression the dive professional does not believe the newer equipment is as good as the equipment made in the past.
 
 Keeping in mind the first impression and how that builds confidence and trust in the customer, the in-water portion of the course is where the customer needs to have 100% trust in the dive professional. This may be the first time the customer is going for a dive or they may be beginning a new aspect of diving, so having their trust is paramount; and if the SDI OWSDI's equipment is well maintained and looks new this will help establish that trust.
 
-#### Preparedness
+#### 1.2.2.4. Preparedness
 
 If the dive professional is punctual this will help them to be prepared and if they are neither of these it will be obvious to the customer. The dive professional must prepare for every course they will be conducting. This means knowing what information or skills will be covered for the upcoming lesson. They should try to anticipate questions the students may have and then answer these questions with the information that is presented. Knowing the audience will help in planning. Is the class made up of young students as well as older individuals? If so, what analogies can be used to explain an idea to both age levels so they will all understand?
 
@@ -354,7 +357,7 @@ Anticipate situations that may occur (play the "what if?" game) especially for i
 
 A good practice is to mentally prepare for the course by going through all the motions; this is better done in a place where there are no distractions. By being mentally and physically prepared the SDI OWSDI and the students will experience a better course.
 
-#### Answering Questions
+#### 1.2.2.5. Answering Questions
 
 It should be clear by now, there are a lot of elements to cover in order to be prepared for a course. Another crucial element is the instructor's ability to answer questions the students may have in a prompt and confident manner. The OWSDI should be able to answer these questions by drawing from their current knowledge or experience but perhaps the best way to prepare is to read the materials the students read. When an OWSDI has an assistant instructor assisting with a course, it is the instructor's responsibility to tell the assistant when they should and when they should not answer questions asked by the students. The instructor may wish to have all questions directed to him.
 
@@ -364,33 +367,33 @@ It is the instructor's responsibly to make sure the assistant instructor knows e
 
 The more often courses are taught by an OWSDI the easier this process becomes but it is still a very good habit to review the text the students studied, just in case something was forgotten or the text has been updated. The OWSDI will need to learn to think on his feet as all questions asked by students may pertain to the current topic being discussed. This leads us into the need to stay current not only with materials but also certifications.
 
-#### Staying Current with Certifications
+#### 1.2.2.6. Staying Current with Certifications
 
 CPR, first aid and oxygen administration are required for certification as an SDI OWSDI. It is the dive professional's responsibility to keep these certifications current; most must be renew every two years. Staying current with CPR, first aid and oxygen administration is not just a matter of adhering to standards; in the unfortunate event an accident does occur the dive professional will know what to do and how to handle the scene. CPR and first aid are an evolving and ever changing science and it is a prudent dive professional that stays abreast of the changes.
 
 Divers Continuing to LearnBeing prepared with the latest techniques and the basic equipment needed for CPR and first aid will not only help alleviate some of the stress associated with a diving accident, it will also produce a more positive outcome for the victim.
 
-#### Continuing to Learn
+#### 1.2.2.7. Continuing to Learn
 
 Just like any other facet of life there is always more to learn, and no matter how long a dive professional has been involved with diving, they still haven't learned everything there is to know about the sport. Information is constantly changing. By continuing to expand their knowledge they will stay informed of these new ideas and will demonstrate to others that continuing education is needed at all levels. There are many avenues to continuing education from simply auditing a course taught by someone else to enrolling in a course to gain a certification that is not currently held. The simple moral here is: keep the mind open to new ideas, knowledge and techniques; they can all come in handy when a new situation is faced. The experience gained as an instructor will help tremendously when moving through the higher professional levels.
 
-### Advancing Through the Professional Levels
+### 1.2.3. Advancing Through the Professional Levels
 
 SDI has many certification levels in-line with and above the OWSDI, each building on the previous and expanding the abilities of the dive professional. The following is a list of the certifications that can be obtained.
 
-#### Specialty and TDI Instructor
+#### 1.2.3.1. Specialty and TDI Instructor
 
 An SDI OWSDI is the professional primarily responsible for training and certifying sport divers. After successful completion of both the SDI Instructor Development Course and the Instructor Evaluation Course, the SDI Instructor may independently conduct all core diver and leadership courses from SDI Open Water Scuba Diver through Assistant Instructor, as well as the SDI Advanced Adventure specialty. An SDI Instructor must be separately qualified and approved for each additional specialty diver course they wish to offer.
 
 TDI Pro CardA TDI Instructor is the professional primarily responsible for training and certifying technical divers. Naturally, certification as an SDI Instructor (or equivalent) is a prerequisite, as well as certification as a technical diver at the appropriate level. After successfully completing a technical instructor course for each technical level, the TDI Instructor may conduct technical diver and technical divemaster programs at that level.
 
-#### Course Director
+#### 1.2.3.2. Course Director
 
 SDI Course Director is an advanced instructor rating within the SDI curriculum. An SDI Course Director at this level may independently conduct the SDI Instructor Development Course (but not the Instructor Evaluation Course). The Course Director may also qualify SDI Instructors and SDI Assistant Instructors to teach approved SDI Specialties. The prerequisites for SDI Course Director include documented teaching experience in a wide range of SDI Diver and Dive Leadership programs.
 
 It should be noted that there is not a 'Course Director' rating in the TDI curriculum.
 
-#### Instructor Trainer
+#### 1.2.3.3. Instructor Trainer
 
 'Instructor Trainer' is the highest leadership level in the curriculum of SDI, TDI and ERDI. As this title implies, SDI, TDI and ERDI Instructor Trainers are responsible for training, evaluating, and certifying SDI, TDI and ERDI Instructors, as well as SDI Course Directors. Prerequisites for SDI, TDI or ERDI Instructor Trainer include significant and extensive experience as an instructor. SDI has a single Instructor Trainer rating (with the exception of CPR, VIP and Solo ratings), while TDI has an Instructor Trainer rating at each technical level.
 
@@ -400,25 +403,25 @@ To recap, paying attention to one's appearance; being punctual; using well maint
 
 International Training takes quality assurance very seriously. As previously discussed, members are direct representatives of International Training. As such, members are expected to act professionally and maintain that professionalism throughout their career with International Training. Quality assurance is tested in several different ways, and specific guidelines have been established for responding to quality assurance concerns. The following section describes the quality assurance procedures and action steps.
 
-### Quality Assurance
+### 1.2.4. Quality Assurance
 
 As a professional member of a self-policing organization it is important to understand how the quality of training and the materials used in training are monitored. This section discusses how SDI does this and how feedback from those surveys and other annual administrative tasks can affect a member's status.
 
 All quality assurance matters are handled at SDI/TDI/ERDI World Headquarters by the Training Department. This is to ensure that ITI Regional Offices and Sales Managers remain neutral. The information gleaned during the QA process is used to improve the materials and standards as well as return positive feedback to the dive professionals providing quality training.
 
-#### General Quality Assurance (QA) Procedures
+#### 1.2.4.1. General Quality Assurance (QA) Procedures
 
 Quality assurance survey letters, more commonly known as QA Letters, are sent out to students who were recently certified by members in good standing. These letters are sent with a self-addressed, return postage paid envelope or electronically via e-mail course survey form to solicit information about the course the student just completed. The questions in the letters might ask about the materials used for the course, the maximum depth achieved during the course, and other information that will help the ITI Training Department understand the student's experience during the course. SDI wants this information so that it can maintain the quality of instruction and ensure that proper training materials were used. In addition to the letters, SDI occasionally receives unsolicited emails and phone calls from students. The feedback from these QA letters, emails or phone calls can be negative or positive and either way the member's file is updated.
 
 Now that we have discussed the potential certifications that lie ahead, various member statuses and quality assurance procedures, it is important to know where to find all this information along with course specific standards. In the next section we will cover how to navigate through the SDI Standards and Procedures manual and where to locate the answers to most questions that arise during or before training.
 
-### Using The SDI Standards and Procedures Manual
+### 1.2.5. Using The SDI Standards and Procedures Manual
 
 The SDI Standards and Procedures Manual is intended to be a guide to providing complete and enjoyable training to divers for the courses the OWSDI is qualified to teach. The SDI Standards and Procedures include not only standards for courses OWSDIs can teach but for all courses SDI/TDI/ERDI Instructors can teach. The OWSDI should reference the SDI Standards and Procedures to achieve consistency and quality. They outline the vital "core knowledge" that each student needs to master to achieve SDI certification. Finally, but no less important, the manual is intended to help effectively deliver the skills and knowledge students will actually need.
 
 The SDI Standards and Procedures Manual is meant to be a "living manual" - updated on a regular basis, it is meant to grow and change throughout the OWSDI's career. From time to time member updates will be received; the OWSDI should be sure to incorporate these updates promptly so that their manual is always up to date.
 
-#### How to Use the SDI Standards and Procedures Manual
+#### 1.2.5.1. How to Use the SDI Standards and Procedures Manual
 
 The SDI Standards and Procedures Manual has intentionally been kept brief but concise. The manual consists of several parts, which are:
 
@@ -434,7 +437,7 @@ Each of these parts also contains the information needed in order to meet minimu
 
 All forms necessary to complete the administrative tasks associated with conducting a course will be found in Part Five (5) Appendix.
 
-#### Part 1, Introduction Summary
+#### 1.2.5.2. Part 1, Introduction Summary
 
 - The Need for Standardized Instruction
   - Explains SDI/TDI/ERDI's progressive approach to consistency and excellence in instruction
@@ -447,31 +450,31 @@ All forms necessary to complete the administrative tasks associated with conduct
 - How to Conduct an SDI/TDI/ERDI Scuba Course
   - Covers the general approach to scheduling a scuba course and enrolling students: focuses on the logistics and details (medical and legal) of scheduling training sessions, organizing students, collecting class fees and motivating students to attend all of the course sessions
 
-#### Part 2, Diver Standards Summary
+#### 1.2.5.3. Part 2, Diver Standards Summary
 
 Part Two (2) contains standards for the core SDI training programs including Snorkeling, Scuba Discovery Program, Inactive Diver Program as well as the Advanced Diver Development and Master Diver certifications. Some of these programs the OWSDI may have the ability to teach. When developing a path for a diver wanting to continue their education, this is the part to refer to.
 
-#### Part 3, Specialties Summary
+#### 1.2.5.4. Part 3, Specialties Summary
 
 Part Three (3) has all the course specific specialty standards offered by SDI. The SDI OWSDI can teach a number of these specialties (once certified for each specific level). When working with a diver to determine their interests in diving, the OWSDI can refer to this section to inform them of the prerequisites for the courses and what the courses will entail. As noted earlier, this is also where the OWSDI would review what is required during a course prior to teaching it.
 
-#### Part 4, Leadership Standards Summary
+#### 1.2.5.5. Part 4, Leadership Standards Summary
 
 SDI’s Leadership Course standards can be found in Part Four (4) of the Standards and Procedures Manual. After successful completion of the SDI OWSDI course the next step can be mapped out. The OWSDI may wish to gain additional specialty instructor ratings or become a TDI Instructor and this section will make clear what will be expected.
 
-#### Part 5, Appendix Summary
+#### 1.2.5.6. Part 5, Appendix Summary
 
 All forms necessary for completing administrative tasks can be found in this part, from student registration forms to the proper form to use when reporting an incident/accident. Part Five (5) also contains all of the forms that are required at the beginning of a course such as the general liability release form and the medical history form.
 
 All of the various parts of the SDI Instructor manual can be found in the member section of our website <https://www.tdisdi.com> as well as on the Standards and Procedures CD and the printed version of the SDI Standards and Procedures. SDI's Training Department routinely updates these standards and provides member updates quarterly during the year. At the beginning of each year all standards are updated on the website and it is the responsibility of the dive professional to ensure these updates are noted in their SDI Instructor Manual.
 
-### Chapter 1 and 2 Summary
+### 1.2.6. Chapter 1 and 2 Summary
 
 In the first two sections the history and philosophy of ITI, the parent company of Scuba Diving International (SDI), as well as an overview of what to expect during the SDI Open Water Scuba Diver Instructor course have been provided. The SDI Standards and Procedures Manual was reviewed, covering where to find the standards for courses that the OWSDI can teach and how to maintain an active teaching status. This chapter will serve as a reference point as the course progresses and information is needed to prepare for academic or in-water presentations, or to follow along while assisting with a course.
 
-## Dive Leader Risk Management: Part 1
+## 1.3. Dive Leader Risk Management: Part 1
 
-### Inherent Risks in Scuba Diving
+### 1.3.1. Inherent Risks in Scuba Diving
 
 At some point in time, almost every experienced diver has told a family member or interested friend that diving is a safe sport. As a professional dive leader, it is a mistake to make that kind of statement to anyone, especially someone just entering the sport as a student diver. It simply is not an accurate statement. “Safe” literally means “without risk”. In fact, few things in life are absolutely safe. Diving, like many other adventure sports, definitely has some inherent risks.
 
@@ -483,7 +486,7 @@ Risk management refers to the various efforts and procedures intended to minimiz
 
 Nevertheless, despite these precautions, the possibility of injury still exists. Thus there is a clear mandate for all participants to thoroughly understand and accept these risks. Furthermore, in today's litigious society, whenever any injury occurs there also is the distinct possibility of a lawsuit. Accordingly, from the perspective of the dive leader and dive facility, effective risk management further includes appropriate measures and strategies to mitigate the consequences of a participant's injury.
 
-### Anatomy of a Lawsuit
+### 1.3.2. Anatomy of a Lawsuit
 
 A civil lawsuit generally consists of two parties: the plaintiff, who files the suit seeking compensation for damages; and the defendant (or defendants), whom the plaintiff alleges is responsible for those damages. In an injury case the plaintiff is normally the individual who actually suffered the injury, though in the case of a fatal injury it also can be the family or estate of the deceased. In order to be successful in the lawsuit, the plaintiff must demonstrate four elements, as outlined below; and normally, to be successful, each of these elements needs to be established merely by a preponderance of the evidence (which is often interpreted to mean that 51% of the evidence is in favor of the plaintiff).
 
@@ -500,7 +503,7 @@ As a matter of routine in the United States, when first filing suit the plaintif
 
 Though the above comments relate primarily to the legal system in the USA, it is important to note that those dive professionals and dive facilities located outside the USA are not necessarily immune from such lawsuits. The courts in the United States generally extend tremendous latitude to US-based plaintiffs. Further, a plaintiff will often be able to establish a US "presence" for a foreign dive instructor or dive facility by identifying their use of a US-based sales agent or representative, or by simply demonstrating that they directly or indirectly offer their services to USA-based clientele.
 
-### Defensive Teaching and Supervising
+### 1.3.3. Defensive Teaching and Supervising
 
 In any civil lawsuit, ultimately the actions of the dive instructor (as a defendant) will be judged against those of a hypothetical "reasonably prudent" professional, that is, did this individual perform his duties and fulfill his responsibilities in a manner consistent with that which is expected of a competent and capable dive professional?
 
@@ -512,7 +515,7 @@ In addition, the prudent professional will never allow an individual under his c
 
 While supervising students or certified divers, the prudent professional will expect the unexpected. Though the dive leader may exercise great effort and care in presenting information during a dive briefing, he should never assume that everything will go exactly as planned. The dive leader must recognize that, sooner or later, a student or diver may suddenly divert into some behavior that is exactly opposite of what has been briefed. The prudent professional will anticipate the various contingencies that might occur, and will formulate a plan to quickly and appropriately respond.
 
-### Student Training Records
+### 1.3.4. Student Training Records
 
 To defend against any later allegations of negligent or inadequate training, it is vitally important to thoroughly document each student's training activities.
 
@@ -524,7 +527,7 @@ Naturally, the training records should identify the instructor who conducted eac
 
 All training records should be preserved for a period of seven years. At some dive facilities it is the responsibility of the individual instructor who conducted the training to maintain these records. In other cases it will be the dive facility itself that maintains these records.
 
-### Medical Statement
+### 1.3.5. Medical Statement
 
 Diving is a physically demanding activity and, as such, it clearly requires a certain level of health and fitness; lacking appropriate health and fitness, the individual potentially will be placed at increased risk.
 
@@ -548,7 +551,7 @@ To avoid this situation, conscientious dive leaders and dive facilities will mak
 
 SDI and TDI Standards require each participant to complete a medical statement for all training programs, but do not require a medical statement for participation in other non-training activities. It must be noted, however, that local regulations can vary, and more-restrictive local regulations will supersede the SDI and TDI Standards. For example, in some jurisdictions it may be required that every student obtains medical clearance prior to any in-water training activities, and in other areas a medical statement might be required even for non-training activities.
 
-### Liability Releases
+### 1.3.6. Liability Releases
 
 The liability release is effectively a legal contract between the participant and the dive leader and/or dive facility, within which the participant acknowledges and accepts the inherent risks of scuba diving and also agrees to hold the dive leader and/or dive facility harmless if injury should occur. In some cases a properly executed liability release will provide sufficient basis for dismissal of a lawsuit. In other cases the liability release will serve to mitigate damages.
 
@@ -564,7 +567,7 @@ As a matter of routine most instructors, assistant instructors and dive faciliti
 
 As the students are completing these forms the dive leader should carefully explain that if they have any reservations about participating, they may withdraw without any loss of face and with a full refund.
 
-### Liability Insurance for Dive Leaders
+### 1.3.7. Liability Insurance for Dive Leaders
 
 Affordable liability insurance for dive leaders, as well as dive centers and dive boats, is available through SDI and TDI. Dive leaders operating in most geographic locations are required to have liability insurance; in some locations it is optional but still highly recommended. As outlined above, even if a dive leader has apparently done nothing wrong, he still can be named as a defendant in a lawsuit, perhaps based solely upon the fact that at some point in time that dive leader has crossed paths with the plaintiff.
 
@@ -580,7 +583,7 @@ The standard liability insurance policies available through SDI and TDI do not p
 
 As noted, insurance coverage is also available through SDI and TDI for dive centers and dive boats. In some cases, coverage under these policies can also be extended to individual dive leaders. It is important to note, however, that such coverage only applies to those diving activities that are official functions of that particular dive center or dive boat. This coverage will not apply to any activities conducted independently by the dive leader, or to any duties the dive leader performs for another dive center or dive boat.
 
-### In the Event of a Dive Accident
+### 1.3.8. In the Event of a Dive Accident
 
 Whenever any dive-related accident or injury occurs, there is the possibility of a lawsuit at a later date. It might happen when a supervised certified diver panics at depth, and bolts towards the surface while holding his breath. It might involve a student who accidentally drops a weight belt on his foot. It might even arise from an incident in which the dive leader initially had no involvement, but to which the dive leader responded and rendered assistance.
 
@@ -598,9 +601,9 @@ Without doubt, the dive leader is also obliged to cooperate with any investigati
 
 If by chance the incident occurred during a training program that was conducted under the auspices of another diver training organization, then the appropriate reporting procedures should be followed as specified by that other training organization. Similarly, if the dive leader has his insurance coverage elsewhere, then the appropriate reporting procedures should also be followed as specified by that other insurance company. As is the case with reports submitted to the authorities, as noted above, the dive leader should try to avoid the creation of multiple reports, and whenever possible the same report should be submitted to the other training organization and/or other insurance company as was submitted to ITI Headquarters.
 
-## Dive Leader Risk Management: Part 2
+## 1.4. Dive Leader Risk Management: Part 2
 
-### Emergency Procedures
+### 1.4.1. Emergency Procedures
 
 An accident is the least desired situation a dive professional ever wants to face. Odds are though, the longer a dive professional is actively involved with diving the greater the chance he will experience an accident. It may be a small matter, such as a cut or bruise, or as catastrophic as a fatality. It just can’t be helped. What the dive professional can and must do then is try to prevent accidents and be prepared if an accident occurs.
 
@@ -622,11 +625,11 @@ The individual in charge should direct the management plan upon being made aware
 - Take notes as to what happens and when
 - Interview witnesses and document their comments
 
-#### Contact Emergency Medical Services
+#### 1.4.1.1. Contact Emergency Medical Services
 
 As stated previously, the individual in charge must have an accident management plan for the site he is diving. This should include the person(s) and/or entities to contact if an accident occurs. Contact may be via the phone, radio, sending a bystander or driving for help. In remote areas make sure cell phones work and have coverage, or know where the closest landline is located. Someone may have to be sent to meet EMS and bring them to the dive site if it is located away from common use areas.
 
-#### Control the Scene
+#### 1.4.1.2. Control the Scene
 
 Control the scene by making sure everyone assigned a task is undertaking the task. Assign additional individuals to help if needed. A well-coordinated scene will make everything flow much easier and show preparedness on the dive professional’s part.
 
@@ -640,7 +643,7 @@ Once the individual is out of the water their equipment must be secured. The div
 
 Once this review is finished, both the dive professional and the third party participant should sign and date the document. Turn the air off (don’t forget to count the turns) to prevent the remaining air from leaking out and making it appear the diver may have run out of air thereby causing the accident.
 
-#### Taking Notes
+#### 1.4.1.3. Taking Notes
 
 When taking notes, it is beneficial if a chronological order of events can be documented so that later when the dive professional makes his accident report he has a good idea of what happened, when it happened, and who did what. It is extremely easy to get caught up in what is happening at the moment and forget the sequence of events.
 
@@ -648,7 +651,7 @@ When taking notes, it is beneficial if a chronological order of events can be do
 
 Make sure this is the note taker's only task so he can be completely focused on taking notes. This individual does not need to be a diver.
 
-#### Interviewing Witnesses
+#### 1.4.1.4. Interviewing Witnesses
 
 Assign someone to interview witnesses in the area as to what they observed. Make sure their comments are factual and not simply their opinions. It is recommended witnesses be interviewed separately as to not influence each other's recollection of what transpired. In the event someone needs to contact the witnesses later make sure the interviewer collects the witnesses' contact information such as:
 
@@ -659,7 +662,7 @@ Assign someone to interview witnesses in the area as to what they observed. Make
 
 It is guaranteed that the more severe the accident, the more probable it is an investigator will contact the witness(es).
 
-#### Accident Reporting
+#### 1.4.1.5. Accident Reporting
 
 Once the accident victim has been turned over to the proper authorities and the scene has been secured, the dive professional must collect all of the information gathered by the individuals assigned to take notes and interview witnesses. This information will help the dive professional when he writes the accident report.
 
@@ -669,67 +672,67 @@ The dive professional should use the appropriate accident form and provide only 
 
 Remember, anyone can be named in a lawsuit at anytime, especially those in charge of a group. In the event of an accident, it’s important that the dive professional document as many of the facts as possible to protect him and other responders.
 
-#### CPR and First Aid
+#### 1.4.1.6. CPR and First Aid
 
 The initial certification as a dive professional requires that proof of current CPR and first aid training be submitted. After the initial certification it is the dive professional’s responsibility to maintain this training. Within the SDI/TDI system an individual has the option to take the CPROX1st or the CPROX1st AED program to keep this requirement satisfied.
 
-### Summary: Chapters 3 and 4
+### 1.4.2. Summary: Chapters 3 and 4
 
 This section covered various aspects of risk management and how to teach defensively. If these suggestions and procedures are followed when an accident/incident occurs, the process will be less traumatic and end with a more favorable outcome. Accidents can and will happen. An OWSDI can minimize the negative outcome of those accidents with proper training, proper planning and careful organization. Being prepared for an accident will help prevent accidents.
 
-## Diving Physics
+## 1.5. Diving Physics
 
 In the divemaster program, diving physics and physiology were covered in great depth. Here is a brief review of the topics focusing on the most important information. The formulas used in diving and their practical application will also be reviewed. Should an OWSDI candidate have difficulties with any of this information, he should thoroughly review the SDI Divemaster materials. A formulas sheet is provided in the appendix of this manual for use.
 
 A general understanding of physics is a key component in the overall body of knowledge that is expected of a dive professional. The laws of physics are equally applicable both above and below the water's surface. A dive leader should attempt to convey pertinent information to every student with whom he comes into contact; and that knowledge should be tailored according to the recipient's level of training. Any additional information should be reserved for that individual who expresses further interest. A dive leader can never know all there is to know about the science of diving and the theories backing that science up, but the real art is knowing when that knowledge should be shared.
 
-### Physical Properties of Water
+### 1.5.1. Physical Properties of Water
 
-#### Density of Water
+#### 1.5.1.1. Density of Water
 
 Water is approximately 800 times denser than air. Therefore the diver will experience more resistance underwater, which may lead to increased workload, breathing and air consumption, shortening available bottom time and contributing greatly to diver fatigue. This is one reason control of a diver's profile or trim and buoyancy are important skills to master.
 
-#### Refraction of Light in Water
+#### 1.5.1.2. Refraction of Light in Water
 
 Light rays bend, or refract, when they pass from one medium to another of different density. The amount of bending is determined by the refractive indices of the two media. Because the structure of the human eye is adapted to sharply focus light rays entering the eye from air, when light rays enter the eye from water, the degree of refraction generally exceeds the eye's focusing range, and thus the image appears blurry. This is why a mask is used to restore focus underwater. The mask creates additional refraction as light rays pass first from the water through the tempered glass of the faceplate and into the air space within the mask, before entering the eye. Due to this refraction, objects appear about 33% larger and about 25% closer to the diver.
 
-#### Diffraction of Light in Water
+#### 1.5.1.3. Diffraction of Light in Water
 
 Light rays normally travel in a straight line through a medium. Any minor obstacles encountered along the way will cause the light rays to be deflected and become scattered to some extent. This scattering, or divergence, is known as diffraction. Accordingly, the seemingly contradictory situation arises where refraction continues to make nearby objects appear closer to the diver than they actually are, while at the same time diffraction makes other objects in the middle and long distance appear to be even farther away.
 
-#### Color Loss in Water
+#### 1.5.1.4. Color Loss in Water
 
 As explained in the divemaster course, as sunlight passes through the denser medium of water, some wavelengths of light are absorbed. The longest wavelengths (red) are absorbed the quickest by water, and this occurs at a relatively shallow depth. To remember the order colors are lost the acronym ROY G BIV can be used: Red (shallowest), orange, yellow, green, blue, indigo and violet (deepest).
 
-#### Transmission of Sound in Water
+#### 1.5.1.5. Transmission of Sound in Water
 
 The speed of sound depends upon the medium through which it passes, and sound tends to travel faster in denser mediums. The precise speed of sound in water depends upon pressure, temperature, and salinity, but in general sound travels about four times faster through water than air.
 
-#### Thermal Conductivity in Water
+#### 1.5.1.6. Thermal Conductivity in Water
 
 The thermal conductivity of any substance depends upon a number of variables including its density and overall structure. Water is a far more efficient thermal conductor than air. In fact, the relative thermal conductivity factor for water is about 6.0, while for air it is only about 0.025; thus water will whisk heat away from a diver's body approximately 25 times faster than air. Depending on water temperature divers must plan to use the appropriate exposure suit for conditions.
 
-#### Buoyancy
+#### 1.5.1.7. Buoyancy
 
 Archimedes of Syracuse (287-212 BC) (my man!) discovered the principle known in physics as Archimedes' Principle. This principle states: "Any object, wholly or partly immersed in a fluid, is buoyed up by a force equal to the weight of the fluid displaced by the object."
 
-##### How This Principle Relates to Diving
+##### 1.5.1.7.1. How This Principle Relates to Diving
 
 When an object is placed in water, it displaces an amount of water equal to its own volume. If the object weighs less than the displaced water the object will float and is said to be positively buoyant. Conversely, if the object weighs more than the displaced water, the object will sink, or it is negatively buoyant. If the object weighs exactly the same as the displaced water, it will neither float nor sink, and instead it will simply hover in mid-water; it is neutrally buoyant.
 
 Divers use three items to control their own buoyancy: lead weights, a BCD (buoyancy compensator device), and lung volume. Lead weights offset the positive buoyancy of their exposure suit and personal body composition. Air can be added or removed from the BCD (buoyancy compensator device) to maintain neutral buoyancy. But to fine tune buoyancy the diver must learn how to breathe properly and fine tune buoyancy with their lungs.
 
-##### Saltwater versus Freshwater
+##### 1.5.1.7.2. Saltwater versus Freshwater
 
 Seawater contains salt and this salt contributes to the water's weight. A volume of seawater weighs more than an equal volume of freshwater. A liter of seawater weighs 1.03 kilograms, while a liter of freshwater weighs 1.0 kilograms. A cubic foot of seawater weighs 64 pounds, while a cubic foot of freshwater weighs 62.4 pounds.
 
-##### Archimedean Calculations
+##### 1.5.1.7.3. Archimedean Calculations
 
 To determine the buoyancy of an object, the diver must have several critical pieces of information. First, they must know the weight of the object, in terms of either kilograms or pounds. Next, they need to determine the volume displaced by the object, in terms of either liters or cubic feet. Finally, they must know the specific fluid in which the object is immersed. For diving those fluids are either salt water or fresh water.
 
 Once armed with the above pieces of information, the diver can readily calculate the buoyancy characteristics of an object by first calculating the weight of the displaced water, and then subtracting that weight from the weight of the object.
 
-###### Buoyancy
+###### 1.5.1.7.3.1. Buoyancy Calculations
 
 To solve buoyancy problems, some information is required.
 
@@ -737,33 +740,29 @@ To solve buoyancy problems, some information is required.
 1. Volume of water displaced by the object
 1. Weight of displaced water
 
-> Imperial
-> $$
-> Buoyancy = weightOfObject- [(cubicFeetDisplaced)(lbsPerCubicFootOfWater)]
-> $$
+$
+Buoyancy=weightOfObject-[(cubicFeetDisplaced)(lbsPerCubicFootOfWater)]
+$
 
-> Metric
-> $$
-> Buoyancy = weightOfObject- [(litersDisplaced)(kg/literOfWater)]
-> $$
+$
+Buoyancy = weightOfObject- [(litersDisplaced)(kg/literOfWater)]
+$
 
-###### Lift Bags
+###### 1.5.1.7.3.2. Lift Bags
 
 Lift bags can be calculated with these formulae:
 
-> Imperial
-> $$
-> ft^3airRequired = [lbs of negative buoyancy] / [lbs per cu ft of water]
-> $$
+$
+ft^3OfAirRequired=[lbsOfNegativeBuoyancy]/[lbsPerCubicFootOfWater]
+$
 
-> Metric
-> $$
-> litersOfAirRequired = [negativeBuoyancy] / [kgPerLiterOfWater]
-> $$
+$
+litersOfAirRequired=[negativeBuoyancy]/[kgPerLiterOfWater]
+$
 
-### Boyle's Law
+### 1.5.2. Boyle's Law
 
-#### Pressure and Volume
+#### 1.5.2.1. Pressure and Volume
 
 Although Robert Boyle (1627-1692) was not the first to discover this finding he was the first to publish it and that is why it is known as Boyle's Law. This principle states that "Any change in pressure applied upon a fixed amount of gas at a constant temperature will result in a corresponding and inversely proportional change in the volume of that gas." In other words, if the pressure doubles, the volume will decrease by one-half; and if the pressure decreases by one-half, the volume will double.
 
@@ -782,7 +781,7 @@ Below is a table many entry-level classes use to demonstrate Boyle's Law:
 
 In reviewing the above table it is important to understand that, in all cases, the pressure of the gas inside a flexible container will be equal to the ambient pressure exerted upon the exterior of that container.
 
-#### How this Principal Relates to Diving
+#### 1.5.2.2. How this Principal Relates to Diving
 
 The tissues of the human body are primarily liquid, and liquid is non-compressible; thus much of the body is unaffected by pressure. Within the body there are two significant air spaces: the lungs and the interconnected middle ears and nasal sinuses. In addition, a third air space is artificially created over the face and eyes by the diver's mask. These three air spaces are impacted by the pressure-related changes. During descent and ascent, each of these air spaces must be equalized to the ambient pressure in order to avoid discomfort and possible injury.
 
@@ -800,7 +799,7 @@ Air inhaled at depth becomes more dense. At 10 metres or 33 feet, the inhaled ai
 
 The denser air itself generally creates no noticeable problem for a diver within traditional sport diving depths, provided that the diver continues breathing at a normal rate. However, in the event of overexertion the diver's breathing rate will quicken and, when combined with the increased density of inhaled air, may result in turbulence as the air passes down the diver's airway towards the lungs. When turbulence occurs, the diver will likely sense some degree of difficulty in breathing. It is stressed during training that divers always should move slowly and steadily underwater, avoiding overexertion.
 
-#### The Significance of Relative Changes
+#### 1.5.2.3. The Significance of Relative Changes
 
 Ambient pressure increases by 1 bar for every 10 metres of depth, or by 1 atm for every 33 feet of depth, in seawater. This information seems to suggest that changes in pressure, volume, and density always are uniform over various depths, regardless of the depths involved.
 
@@ -810,7 +809,7 @@ As another example, volume increases by only 25% during an ascent from a startin
 
 The greatest relative changes occur at shallower depths. This emphasizes the importance of a diver equalizing early during a descent. It helps explain why a new diver may have more difficulty in effectively controlling buoyancy at shallower depths and why he might unexpectedly pop to the surface. It demonstrates the need for vigilance in maintaining a slow rate of ascent throughout the entire ascent, especially as the diver nears the surface.
 
-#### Pressure and Volume Calculations
+#### 1.5.2.4. Pressure and Volume Calculations
 
 The following abbreviations appear within the formulas in this section:
 
@@ -847,11 +846,11 @@ $$
 
 Identifying changes in gas density actually requires no further calculation, as this change will be exactly the same as any relative change in ambient pressure; that is, if the pressure is doubled, then the density will also be doubled.
 
-### Charles' Law and Gay-Lussac's Law
+### 1.5.3. Charles' Law and Gay-Lussac's Law
 
 Jacques Alexandre Cesar Charles (1746-1823) studied the interrelationship of temperature and volume, and discovered the principle of physics that is now known as Charles' Law: " At a constant pressure, the volume of a gas increases or decreases by the same factor as its temperature." If the temperature goes up, then the volume also goes up, and this change is mathematically predicable.
 
-#### Formulae for Temperature and Volume (Charles' Law)
+#### 1.5.3.1. Formulae for Temperature and Volume (Charles' Law)
 
 These laws were proposed by JAC Charles.
 
@@ -865,11 +864,11 @@ $$
 T(down)=V(down)
 $$
 
-#### Temperature and Pressure (Gay-Lussac's Law)
+#### 1.5.3.2. Temperature and Pressure (Gay-Lussac's Law)
 
 Joseph Louis Gay-Lussac (1778-1850) further advanced the work of Charles. In particular Gay-Lussac addressed the interrelationship between temperature and pressure, and discovered the principle now known in physics as Gay-Lussac's Law: "At a constant volume, the pressure of a gas increases or decreases by the same factor as its temperature." If the temperature goes up, then the pressure also goes up, and this change is mathematically predicable.
 
-#### Concepts for Temperature and Pressure
+#### 1.5.3.3. Concepts for Temperature and Pressure
 
 *Note*: These aren't "formulae" per se; they map a relationship non-mathematically.
 
@@ -883,7 +882,7 @@ $$
 
 This new principle sounds quite similar to Charles' Law. While both deal with the effect of changing temperature, here the focus is on pressure rather than volume.
 
-### How These Principals Relate to Diving
+### 1.5.4. How These Principals Relate to Diving
 
 Changing temperature may be of little concern in certain tropical environments, where a diver encounters little or no difference between the temperature of seawater at the surface and at depth.
 
@@ -901,7 +900,7 @@ Perhaps the most obvious impact of changing temperature involves the scuba cylin
 
 *Note*: This describes the phenomenon of a "hot fill." When gas is pumped into a pressurized container, its temperature increases. That's why fill stations may fill a 3000psi tank to 3100psi. The tank will be hot to the touch and, as it cools, will dip to 3000psi.
 
-### Temperature and Volume Calculations (Charles' Law)
+### 1.5.5. Temperature and Volume Calculations (Charles' Law)
 
 The following abbreviations appear within the formulas in this section:
 
@@ -946,7 +945,7 @@ $$
 V_2=(°F_2+460)(\frac{V_1}{°F_1+460})
 $$
 
-### Temperature and Pressure Calculations (Gay-Lussac's Law)
+### 1.5.6. Temperature and Pressure Calculations (Gay-Lussac's Law)
 
 The following abbreviations appear within the formulas in this section:
 
@@ -979,7 +978,7 @@ $$
 Atm_2= \frac{(°F_2+460)(Atm_1+14.7psi)}{°F_1+460}-14.7psi
 $$
 
-#### Estimating Temperature and Pressure
+#### 1.5.6.1. Estimating Temperature and Pressure
 
 As an alternative, in the real world of diving the effect of temperature upon pressure also may be quickly estimated. A change of 1°C will result in an approximate change of 0.6 bar. A change of 1°F will result in an approximate change of 5 psi. In either case, an increase in temperature will be accompanied by an increase in pressure, and a decrease in temperature will be accompanied by a decrease in pressure. These approximations are depicted as follows:
 
@@ -991,9 +990,9 @@ $$
 1°F\approx5 psi
 $$
 
-### Combined and Ideal Gas Laws
+### 1.5.7. Combined and Ideal Gas Laws
 
-#### Pressure, Volume and Temperature (Combined Gas Law)
+#### 1.5.7.1. Pressure, Volume and Temperature (Combined Gas Law)
 
 In the real world, multiple variables may come into play in a given situation, volume can be affected simultaneously by both changing pressure and changing temperature; pressure can be affected simultaneously by both changing volume and changing temperature; and temperature can be affected simultaneously by both changing pressure and changing volume.
 
@@ -1009,7 +1008,7 @@ For the sake of simplicity, the OWSDI might find it easier, when multiple variab
 
 On occasion the reader may encounter some reference to a less formal "general gas law" that essentially incorporates the same concepts as the Combined Gas Law; though perhaps not technically accurate, in practice these two terms are sometimes used interchangeably.
 
-#### Pressure, Volume, Temperature and Mass (Ideal Gas Law)
+#### 1.5.7.2. Pressure, Volume, Temperature and Mass (Ideal Gas Law)
 
 The Ideal Gas Law is a distinctly expanded concept beyond the Combined Gas Law. In addition to mathematical pressure-volume-temperature relationships, it incorporates values relating to the number of moles (representing molecules and other atomic and subatomic particles) that constitute a hypothetical ideal gas. The Ideal Gas Law is based upon the hypothesis that the volume of two theoretical "ideal"gases under the same pressure and at the same temperature will have similar mass. It is expressed by the following formula (where "n" is the number of moles, and "R" is a universal gas constant).
 
@@ -1019,7 +1018,7 @@ $$
 
 It is noted, however, that the Ideal Gas Law neglects molecular structure and kinetics, which also govern the volume and mass of a gas. Therefore not all gases behave like an "ideal" gas and, in fact, an actual gas might differ significantly from the cited theoretical model. While the Ideal Gas Law certainly has some application within the scientific community, the inherent complexity and variability of this concept far outweigh its practical value within the context of diving. The Ideal Gas Law is included here primarily so that the reader will be able to distinguish it from, and not confuse it with, the Combined Gas Law.
 
-## Partial Pressure (Dalton's Law)
+## 1.6. Partial Pressure (Dalton's Law)
 
 John Dalton (1766-1844) studied the behavior of individual gases within a gas mixture and discovered the principle now known in physics as Dalton's Law. This principle states that "The total pressure exerted by a mixture of gases is equal to the sum of the pressures of each of its component gases, with each component gas acting as if it alone were present and occupied the total volume." In other words, each gas within a mixture has its own pressure and each gas is unaffected by any other gas in the mixture. Air is a mixture of gases containing approximately 21% oxygen and 79% nitrogen. Accordingly, oxygen accounts for 21% of the total pressure of air, and nitrogen accounts for 79% of the total pressure of air. This relationship of ambient (total) pressure and individual partial pressures is depicted in the following table:
 
@@ -1034,7 +1033,7 @@ John Dalton (1766-1844) studied the behavior of individual gases within a gas mi
 
 A prior discussion of Boyle's Law stated that the pressure of a gas inside a flexible container is equal to ambient pressure. Such also is true when considering partial pressure. As demonstrated in the above table, within a flexible container the percentages of oxygen and nitrogen remain constant in the air mixture, while the partial pressure of each gas varies proportionately with depth.
 
-### How This Principle Relates to Diving
+### 1.6.1. How This Principle Relates to Diving
 
 Dalton's Law provides the means to examine each of the components within air or any other gas mixture on an individual basis. As demonstrated in the previous table, when a diver is breathing air at a depth of 40 meters or 132 feet, the partial pressure of oxygen is about 21% of the total ambient pressure at that depth (5 bar x 0.21 = 1.05 bar / 1.05 atm) is roughly equivalent to a person breathing 100% oxygen at the surface (where the partial pressure of 100% oxygen would be 1 bar / 1 atm). When breathing air at 40 meters or 132 feet, the partial pressure of nitrogen (3.95 bar / 3.95 atm) is almost five times the "dose" of nitrogen a person would breathe on the surface. This helps explain, at least in part, why a diver's body absorbs additional nitrogen at depth. In fact, it is the partial pressure of a gas that determines its physiological impact. The actual percentage of a gas within any mixture is largely immaterial except as it relates to partial pressure.
 
@@ -1047,7 +1046,7 @@ The following table depicts the partial pressures of oxygen and nitrogen in air,
 | 20 m       | 66 ft      | 3 bar/atm        | .63 bar/atm | 2.37 bar/atm | 1.20 bar/atm | 1.80 bar/atm |
 | 30 m       | 99 ft      | 4 bar/atm        | .84 bar/atm | 3.16 bar/atm | 1.60 bar/atm | 2.40 bar/atm |
 
-### Partial Pressure Calculations
+### 1.6.2. Partial Pressure Calculations
 
 The following abbreviations appear within the formulas in this section:
 
@@ -1083,7 +1082,7 @@ $$
 
 Several of the previous formulas can be used in succession to determine equivalent air depth. Alternatively, all of these calculations may be combined into a single equivalent air depth formula, as depicted below:
 
-#### Metric
+#### 1.6.2.1. Metric
 
 $$
 EAD=((\frac{FN_2}{0.79})(D+10))-10
@@ -1095,7 +1094,7 @@ $$
 EAD=\frac{(FN_2)(D+10)}{0.79}-10
 $$
 
-#### Imperial
+#### 1.6.2.2. Imperial
 
 $$
 EAD=((\frac{FN_2}{0.79})(D+33))-33
@@ -1107,7 +1106,7 @@ $$
 EAD=\frac{(FN_2)(D+33)}{0.79}-33
 $$
 
-## Henry's Law (Partial Pressure and Gas Solubility")
+## 1.7. Henry's Law (Partial Pressure and Gas Solubility")
 
 William Henry (1775-1836) discovered the principle now known as Henry's Law. This principle states that, "At a constant temperature, the quantity of a gas which is dissolved in a given type and volume of liquid is directly proportional to the partial pressure of that gas in equilibrium with that liquid."
 
@@ -1130,17 +1129,17 @@ Despite the variability related to solubility coefficients, Henry's Law neverthe
 
 It is also important to note that when the pressure gradient reverses, the liquid is now supersaturated with gas.
 
-### How this Principle Relates to Diving
+### 1.7.1. How this Principle Relates to Diving
 
 Earlier it was noted that the body's tissues are primarily liquid in nature, and therefore unaffected by those factors associated with Boyle's Law. Dalton's Law laid the foundation that the physiological impact of a gas is tied to its partial pressure. Henry's Law correlates partial pressure with the solubility of gases in the body's tissues. These three laws are the principal laws that explain: DCS, nitrogen narcosis, arterial gas embolisms and gas expansion or contraction as they relate to temperature.
 
-### Haldane's Decompression Model
+### 1.7.2. Haldane's Decompression Model
 
-#### Theoretical Tissue Compartments
+#### 1.7.2.1. Theoretical Tissue Compartments
 
 John Scott Haldane (1860-1936) constructed a mathematical model involving multiple theoretical tissue compartments. Each compartment was defined by certain properties. Though these compartments did not directly correspond to actual tissues, Haldane hypothesized that taken together these compartments would mimic the overall behavior of a diver's body in regards to the nitrogen on-gassing and off-gassing processes.
 
-#### Half-Times
+#### 1.7.2.2. Half-Times
 
 Haldane assigned a half-time to each theoretical tissue compartment, as the rate at which it would both absorb and release nitrogen. A half-time is the time, in minutes, for a compartment to go halfway from its initial level of dissolved nitrogen at a certain depth, to its ultimate level of dissolved nitrogen at a new depth. This exponential rate of on-gassing and off-gassing is demonstrated in the accompanying tables.
 
@@ -1148,29 +1147,29 @@ Haldane assigned a half-time to each theoretical tissue compartment, as the rate
 
 <table><thead><tr><th colspan="2">60 Minute Compartment Exposed to Increased Pressure</th><th colspan="2">5 Minute Compartment Exposed to Decreased Pressure</th></tr></thead><tbody><tr><td>Elapsed Time</td><td>On-Gassing Completed</td><td>Elapsed Time</td><td>Off-Gassing Completed</td></tr><tr><td>Start</td><td>0.0%</td><td>Start</td><td>0.0%</td></tr><tr><td>1 hour</td><td>50.0%</td><td>5 minutes</td><td>50.0%</td></tr><tr><td>2 hours</td><td>75.0%</td><td>10 minutes</td><td>75.0%</td></tr><tr><td>3 hours</td><td>87.5%</td><td>15 minutes</td><td>87.5%</td></tr><tr><td>4 hours</td><td>93.8%</td><td>20 minutes</td><td>93.8%</td></tr><tr><td>5 hours</td><td>96.9%</td><td>25 minutes</td><td>96.9%</td></tr><tr><td>6 hours</td><td>98.5%</td><td>30 minutes</td><td>98.5%</td></tr></tbody></table>
 
-#### M-Values
+#### 1.7.2.3. M-Values
 
 Haldane conducted various experiments to determine the maximum quantity of excess nitrogen that could be held in solution by each theoretical tissue compartment during an ascent, following time at depth, with a pre-defined rate of ascent. Haldane initially conducted his experiments with goats, and then conducted further experiments with human volunteers, including himself, involving both pressurized chambers and actual open water dives. Through trial and error research he eventually identified the maximum limits for excess nitrogen. This type of limit is now known as an M-value and most often is expressed as a factor, or percentage, above the normal quantity of nitrogen present in a saturated tissue at the surface.
 
-#### Haldane's Algorithm
+#### 1.7.2.4. Haldane's Algorithm
 
 Haldane combined all of this information into a complex mathematical computation, or algorithm. In doing so he calculated the relevant information for each theoretical tissue compartment and found that, depending upon the circumstances of a particular dive, different compartments would effectively govern the time limits at different depths. From these calculations he projected a schedule of depths and times that constituted the first dive tables, which then saw widespread use by the Royal Navy and others from 1907 to 1956. While his work was highly theoretical in nature, time has largely proven Haldane's methodology to be valid.
 
-#### Modern Dive Tables and Dive Computers
+#### 1.7.2.5. Modern Dive Tables and Dive Computers
 
 Haldane's decompression model provided the essential parameters for subsequent research and refinement. Over the years researchers have continued to build upon Haldane's original efforts, typically expanding the number of theoretical tissue compartments within the mathematical model, recalculating applicable M-values, altering specified ascent rates, assigning dissimilar rates for the on-gassing and off-gassing processes, and/or otherwise modifying the algorithm in some manner. Professor Albert Buhlmann's work with decompression theory during the latter part of the last century has been particularly useful to scuba divers. Today most dive tables and personal dive computers rely upon an algorithm derived from Haldane's original decompression model.
 
  Current decompression algorithms, such as dual-phase or bubble-models, are even more complex than that developed by Haldane and refined over a century of studied application. This complexity clearly precludes any attempt at impromptu decompression calculations. The diver should always rely upon published dive tables and/or a Personal Dive Computer for accurate decompression-related information.
 
-### Summary: Chapter 5, 6 and 7
+### 1.7.3. Summary: Chapter 5, 6 and 7
 
  This chapter was a recap of physics that relate to scuba diving. How these theories apply to scuba diving was also reviewed. It was not intended to be comprehensive but rather to refresh the theory learned in the divemaster course. For a more comprehensive review of physics refer to the SDI Divemaster Manual.
 
-## Diving Physiology
+## 1.8. Diving Physiology
 
 Physiology is another key component in the overall body of knowledge a dive professional is expected to possess. We will review the key components and overall body of knowledge that was learned during the SDI Divemaster course. As the OWSDI candidate reviews this information, if they come across a subject that needs more elaboration, they should refer back to the SDI Divemaster manual for a more in-depth discussion. The dive professional should be well versed in all the subjects covered in this chapter. Although most divers will never experience these maladies it is important for the instructor to know how to recognize and address them.
 
-### Pulmonary System
+### 1.8.1. Pulmonary System
 
 The role of the pulmonary system is the exchange of gases, with certain gases being introduced into the body while other gases are eliminated, the two primary gasses being oxygen and carbon dioxide. Oxygen is a critical ingredient in the body's metabolic process; in a normal environment, air contains 21% oxygen, which is introduced to the body with each inhaled breath. Carbon dioxide is a by-product of metabolism, and at elevated levels it is potentially harmful to the body. Carbon dioxide is expelled from the body with each exhaled breath. Carbon dioxide is also what triggers the receptors in the body to breathe.
 
@@ -1182,7 +1181,7 @@ The movement of oxygen from the lungs through the alveoli into the blood and the
 
 When additional physical demands are placed upon the body, such as strenuous physical activity, the metabolic rate increases; this also raises the output of carbon dioxide, and thereby the breathing rate quickens. When the breathing reflex is intentionally overridden by an individual deliberately holding his breath, the increasing level of carbon dioxide eventually results in a neurosignal to other parts of the brain triggering a conscious urge to breathe.
 
-### Cardiovascular System
+### 1.8.2. Cardiovascular System
 
 As a review, the role of the body's circulatory system is the movement of gases, nutrients and wastes throughout the body. The circulatory system actually consists of two separate and distinct sub-systems: the cardiovascular system and the lymphatic system. For the purposes of this review, we will focus primarily on the cardiovascular system and more specifically how it transports gasses. The four parts that make up the cardio-vascular system are: the heart, arteries, veins and capillaries.
 
@@ -1192,13 +1191,13 @@ Starting with pulmonary circulation at the heart, the blood enters and gathers w
 
 Here oxygen passes from the blood to the tissues, where it is used in the body's metabolic process; and also here carbon dioxide, which is a by-product of metabolism, passes from the tissues to the blood. The oxygen-poor blood returns through the systemic veins towards the heart, where it then re-enters the right atrium of the heart and transitions again into pulmonary circulation.
 
-### Decompression Illness
+### 1.8.3. Decompression Illness
 
-#### What Is DCI?
+#### 1.8.3.1. What Is DCI?
 
 Decompression illness, or DCI, is the diagnostic classification for the conditions that a diver may suffer upon ascent to the surface following any time at depth, as the direct result of decompression. More specifically, DCI includes both decompression sickness and arterial gas embolism. The mechanism leading to each of these conditions are distinctly different; nevertheless, each is remarkably similar, making it impossible at times to distinguish between the two. Both conditions are treated exactly the same way in terms of emergency first aid at the scene and follow-up medical care.
 
-#### Decompression Sickness
+#### 1.8.3.2. Decompression Sickness
 
 Decompression sickness, or DCS (sometimes also referred to as "the bends"), is caused by the formation of nitrogen bubbles within the tissues of a diver's body. Nitrogen is physiologically inert and does not chemically interact with the tissues. A certain amount of nitrogen will be dissolved within the tissues simply because the body is exposed to it. Similar to the movement of oxygen and carbon dioxide in the preceding discussion, nitrogen moves from the lungs through the blood to the tissues and from the tissues through the blood to the lungs, based upon its partial pressure.
 
@@ -1256,13 +1255,13 @@ If the blockage occurs in one of the arteries supplying oxygen to the heart, it 
 
 The severity of signs and symptoms will depend upon the location of the arterial blockage. Though its signs and symptoms may be quite similar to those of DCS, the onset of AGE is often more rapid and dramatic. Sudden unconsciousness may occur immediately upon surfacing, or even during the ascent. In addition, because of the risk to vital organs, AGE can be more immediately life-threatening.
 
-#### DCI and Patent Foramen Ovale
+#### 1.8.3.3. DCI and Patent Foramen Ovale
 
 Patent Foramen Ovale, or PFO, is a circulatory defect and is believed to be a possible predisposing factor for the onset of DCI.
 
 The foramen ovale is a flap-like valve within the heart. This valve is open during fetal development, and then closes after birth. When the foramen ovale is open it connects the right atrium to the left atrium, thereby shunting blood into systemic circulation while by-passing pulmonary circulation. The foramen ovale closes after birth, when the newborn begins to breathe on its own, and thereby establishes pulmonary circulation and segregates it from systemic circulation. PFO can be identified through special testing procedures, but such is not a part of routine medical screening, and in many cases PFO simply goes undetected. Statistical evidence suggests that it might create an increased risk of DCS or DCI during scuba diving activities.
 
-#### Signs and Symptoms of DCI
+#### 1.8.3.4. Signs and Symptoms of DCI
 
 A sign is an outward indication that can be readily observed by another person, while a symptom is an internal indication that is sensed by the patient. Following is a list of common signs and symptoms of DCI:
 
@@ -1289,7 +1288,7 @@ A sign is an outward indication that can be readily observed by another person, 
 - Rapid, erratic, or weak pulse
 - Cardiac arrest
 
-#### First Aid for Suspected DCI
+#### 1.8.3.5. First Aid for Suspected DCI
 
 The primary and immediate patient care always focuses upon the ABCs:
 
@@ -1327,7 +1326,7 @@ While administering oxygen, the patient should lie down. Sometimes a patient wil
 
 In any case of DCI, initially minor signs and symptoms may quickly and unexpectedly worsen. While awaiting professional medical care, the patient should be carefully monitored. During this time the patient should be kept as comfortable as possible. In regards to shock, the patient will also need to be kept warm. A conscious patient who is able to swallow may be given a non-caffeinated and non-carbonated beverage. While fluids will quench a thirst, more importantly they also help to maintain hydration, which will help to counteract some of the effects of shock and also reduce sludging of the blood.
 
-#### Five-Minute Field Neurological Evaluation
+#### 1.8.3.6. Five-Minute Field Neurological Evaluation
 
 To objectively assess the signs and symptoms in a suspected case of DCI, the dive leader may employ a relatively quick and simple field neurological evaluation. This procedure will be beneficial as part of the initial assessment of the patient; it should also be repeated periodically, perhaps every 15 or 30 minutes, while the patient is awaiting professional medical attention. The time of each evaluation should be noted and all observations should be carefully recorded; this information should then be relayed to EMS and/or the treating physician. In particular, the dive leader should be alert to the following:
 
@@ -1352,7 +1351,7 @@ The five-minute field neurological evaluation consists of 12 steps, generally pr
 
 Though beneficial in assessing the signs and symptoms of DCI, the five-minute field neurological evaluation should never take precedence over the patient’s primary care; rendering appropriate first aid always remains the priority.
 
-#### Recompression Therapy
+#### 1.8.3.7. Recompression Therapy
 
 Recompression in a hyperbaric chamber is the standard treatment for DCI. The term "hyperbaric" literally means "high pressure;" thus a hyperbaric chamber is a high pressure chamber. The injured diver is placed inside the chamber and ambient pressure inside the chamber is increased, usually to a pressure of 3 to 6 bar / atm. After an appropriate amount of time the ambient pressure is then slowly decreased, usually in a series of stages or steps, until the diver is finally returned to surface-level ambient pressure.
 
@@ -1369,7 +1368,7 @@ Despite the benefits of recompression, the dive leader should never attempt impr
 
 > In all suspected cases of DCI the diver should remain out of the water, and should be administered oxygen and other appropriate first aid, while awaiting further medical care.
 
-### Nitrogen Narcosis
+### 1.8.4. Nitrogen Narcosis
 
 Narcosis is the state of intoxication that can be caused by breathing a high concentration of inert gas, or a lower concentration of inert gas under elevated pressure. The phenomenon of narcosis is not completely understood, but it is believed to occur when an inert gas is absorbed into the membrane of nerve cells and begins to interfere with the electrical signals transmitted by those nerves. The extent of narcosis will vary from one inert gas to another, and will be dependent upon the partial pressure of a particular inert gas at a given point in time. Narcosis is not physiologically harmful; it poses a risk because of its adverse impact upon a diver's overall alertness and performance.
 
@@ -1395,19 +1394,19 @@ Recent and cumulative deep diving experience appears to help counter, to some de
 
 Unlike DCI, nitrogen narcosis poses no lingering concern after surfacing, and requires no subsequent medical intervention.
 
-### Inert Gas Narcosis
+### 1.8.5. Inert Gas Narcosis
 
 Other inert gases also are capable of inducing narcosis; the extent of narcosis related to a particular gas is dependent upon a number of factors including its molecular weight. Examples of inert gases would be helium and argon (commonly used as a dry suit gas).
 
 Though oxygen is not an inert gas, it can behave like one at times. This may be encountered with the use of nitrox. At depth, the elevated partial pressure of oxygen may result in more of this gas entering the blood than can readily be used in the metabolic process; when this occurs, some of the excess oxygen will be deposited throughout the tissues including the membrane of nerve cells. Oxygen is similar in weight to nitrogen, and has similar narcotic properties. Therefore the overall effect of inert gas narcosis will be about the same, regardless of whether the diver is breathing nitrox or air, at any given depth.
 
-### Gas Toxicity
+### 1.8.6. Gas Toxicity
 
 Toxicity is the degree to which a particular substance is poisonous to the body. It may refer to the effect upon the body as a whole, as well as upon a specific tissue or process within the body.
 
 Central to this review is the concept of a time-dose exposure. Time refers to the duration of exposure to a given gas, and dose refers to the level (or intensity) of exposure to that gas. The dose is determined by the partial pressure of the gas in question. Below a certain minimum toxic dose, a particular gas will not become toxic despite the duration of exposure; and above a certain maximum toxic dose, a particular gas can immediately become toxic. At intermediate dosage levels, the toxic effect will be cumulative in nature, and the degree of toxicity will be directly dependent upon the duration of exposure to the particular gas at its then current partial pressure.
 
-#### Central Nervous System Oxygen Toxicity
+#### 1.8.6.1. Central Nervous System Oxygen Toxicity
 
 Oxygen at significantly elevated partial pressures can become toxic. CNS (central nervous system) oxygen toxicity is one of two types of oxygen toxicity, and it is the one with which divers are more concerned. The most significant manifestation of CNS oxygen toxicity is convulsions. When convulsions occur underwater, it is likely the affected diver will lose their regulator and there is a distinct risk of drowning. There are, however, other signs and symptoms of CNS and they can be remembered by the acronym "ConVENTID."
 
@@ -1441,11 +1440,11 @@ If a diver begins to convulse underwater, the diver's buddy should immediately r
 
 > In all cases the affected diver should seek medical attention due to the possibility of inhaled water (even if the regulator was not lost), which later may lead to near-drowning complications.
 
-#### Pulmonary Oxygen Toxicity
+#### 1.8.6.2. Pulmonary Oxygen Toxicity
 
 Pulmonary oxygen toxicity is the second type of oxygen toxicity, and it is caused by long-term exposure to elevated partial pressures of oxygen. This form of oxygen toxicity is not normally associated with sport diving activities but can be a concern for commercial saturation divers and divers undergoing hyperbaric treatment.
 
-#### Carbon Dioxide Toxicity
+#### 1.8.6.3. Carbon Dioxide Toxicity
 
 Carbon dioxide, or CO2 is a by-product of metabolism in animals, plants and other organisms, which is dispersed into the atmospheric air. It also is removed from the air and used by plants in photosynthesis. Carbon dioxide normally comprises only about 0.038% of air, and at this low level its presence is negligible in any inhaled breath.
 
@@ -1461,7 +1460,7 @@ An elevated level of carbon dioxide also can be caused by a diver's ineffective 
 
 The lesser symptoms of carbon dioxide toxicity generally begin to alleviate on their own, after the increased workload subsides and/or after the affected diver resumes breathing normal atmospheric air, though they can also linger for some period of time. In severe cases, especially those involving respiratory distress or unconsciousness, the affected individual should be monitored and oxygen and other appropriate first aid should be administered while awaiting further medical attention.
 
-#### Carbon Monoxide Toxicity
+#### 1.8.6.4. Carbon Monoxide Toxicity
 
 Carbon MonoxideCarbon monoxide, or CO is a by-product of inefficient (incomplete) combustion of a carbon-based fuel. It enters the body as a contaminant in inhaled air. Carbon monoxide passes from the lungs into the blood, where it attaches far more readily to the hemoglobin than does oxygen; it also forms a chemical bond that is significantly stronger than the bond between hemoglobin and oxygen. The effects of toxicity are cumulative in nature, and even a very low-level exposure to carbon monoxide can produce a rapid accumulation in the blood. The end result is asphyxiation (oxygen starvation) throughout the body.
 
@@ -1474,3 +1473,16 @@ Contamination can occur within the compressor system itself due to poor maintena
 Though carbon monoxide itself is odorless and tasteless, it is often accompanied by other contaminates (such as those in an automobile's exhaust), and divers should avoid breathing any gas that has a hint of a smell or taste.
 
 If a diver convulses or becomes unconscious underwater, the diver's buddy should immediately render assistance by taking physical control of the affected diver and then start a controlled ascent to the surface. Upon surfacing administer appropriate first aid measures. Subsequent treatment may include hyperbaric chamber therapy; however, its benefit in helping to flush carbon monoxide from the body remains the subject of debate among medical authorities. Following an acute episode of carbon monoxide toxicity, there is some possibility of subsequent neurological complications arising days, or even weeks, later.
+
+### 1.8.7. Barotrauma
+
+#### 1.8.7.1. What is Barotrauma?
+
+Barotrauma is a pressure-related injury, usually accompanied by discomfort or pain. It may be caused by either increasing or decreasing ambient pressure.
+
+#### 1.8.7.2. Lung Injuries
+
+Upon ascent from depth ambient pressure decreases and volume of air in the lungs will increase if not otherwise vented through normal respiration. If venting is blocked in some way, the expanding gas can exceed the limits of elasticity, causing the lung tissue to rupture. The resulting lung rupture is often referred to as an over-expansion or over-pressurization injury.
+
+Lung over-expansion injuries are characterized by the location in which the escaping air gathers within the chest, after passing through the ruptured lung tissue. The three primary lung injuries are Pneumothorax (collapsed lung), Mediastinal Emphysema (escaped air gathering in the center of the chest under the sternum) and Subcutaneous Emphysema (escaped air forms bubbles that typically gather around the base of the neck).
+
