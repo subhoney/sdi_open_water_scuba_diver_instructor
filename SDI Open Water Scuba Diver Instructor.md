@@ -62,7 +62,6 @@
       - [CPR and First Aid](#cpr-and-first-aid)
     - [Summary: Chapters 3 and 4](#summary-chapters-3-and-4)
   - [Diving Physics](#diving-physics)
-    - [Introduction](#introduction-1)
     - [Physical Properties of Water](#physical-properties-of-water)
       - [Density of Water](#density-of-water)
       - [Refraction of Light in Water](#refraction-of-light-in-water)
@@ -106,14 +105,24 @@
       - [Haldane's Algorithm](#haldanes-algorithm)
       - [Modern Dive Tables and Dive Computers](#modern-dive-tables-and-dive-computers)
     - [Summary: Chapter 5, 6 and 7](#summary-chapter-5-6-and-7)
-  - [Diving Physiology, Part 1](#diving-physiology-part-1)
-    - [Introduction](#introduction-2)
+  - [Diving Physiology](#diving-physiology)
     - [Pulmonary System](#pulmonary-system)
     - [Cardiovascular System](#cardiovascular-system)
     - [Decompression Illness](#decompression-illness)
       - [What Is DCI?](#what-is-dci)
       - [Decompression Sickness](#decompression-sickness)
       - [DCI and Patent Foramen Ovale](#dci-and-patent-foramen-ovale)
+      - [Signs and Symptoms of DCI](#signs-and-symptoms-of-dci)
+      - [First Aid for Suspected DCI](#first-aid-for-suspected-dci)
+      - [Five-Minute Field Neurological Evaluation](#five-minute-field-neurological-evaluation)
+      - [Recompression Therapy](#recompression-therapy)
+    - [Nitrogen Narcosis](#nitrogen-narcosis)
+    - [Inert Gas Narcosis](#inert-gas-narcosis)
+    - [Gas Toxicity](#gas-toxicity)
+      - [Central Nervous System Oxygen Toxicity](#central-nervous-system-oxygen-toxicity)
+      - [Pulmonary Oxygen Toxicity](#pulmonary-oxygen-toxicity)
+      - [Carbon Dioxide Toxicity](#carbon-dioxide-toxicity)
+      - [Carbon Monoxide Toxicity](#carbon-monoxide-toxicity)
 
 # SDI Open Water Scuba Diver Instructor
 
@@ -454,7 +463,7 @@ SDI’s Leadership Course standards can be found in Part Four (4) of the Standar
 
 All forms necessary for completing administrative tasks can be found in this part, from student registration forms to the proper form to use when reporting an incident/accident. Part Five (5) also contains all of the forms that are required at the beginning of a course such as the general liability release form and the medical history form.
 
-All of the various parts of the SDI Instructor manual can be found in the member section of our website https://www.tdisdi.com as well as on the Standards and Procedures CD and the printed version of the SDI Standards and Procedures. SDI's Training Department routinely updates these standards and provides member updates quarterly during the year. At the beginning of each year all standards are updated on the website and it is the responsibility of the dive professional to ensure these updates are noted in their SDI Instructor Manual.
+All of the various parts of the SDI Instructor manual can be found in the member section of our website <https://www.tdisdi.com> as well as on the Standards and Procedures CD and the printed version of the SDI Standards and Procedures. SDI's Training Department routinely updates these standards and provides member updates quarterly during the year. At the beginning of each year all standards are updated on the website and it is the responsibility of the dive professional to ensure these updates are noted in their SDI Instructor Manual.
 
 ### Chapter 1 and 2 Summary
 
@@ -669,8 +678,6 @@ The initial certification as a dive professional requires that proof of current 
 This section covered various aspects of risk management and how to teach defensively. If these suggestions and procedures are followed when an accident/incident occurs, the process will be less traumatic and end with a more favorable outcome. Accidents can and will happen. An OWSDI can minimize the negative outcome of those accidents with proper training, proper planning and careful organization. Being prepared for an accident will help prevent accidents.
 
 ## Diving Physics
-
-### Introduction
 
 In the divemaster program, diving physics and physiology were covered in great depth. Here is a brief review of the topics focusing on the most important information. The formulas used in diving and their practical application will also be reviewed. Should an OWSDI candidate have difficulties with any of this information, he should thoroughly review the SDI Divemaster materials. A formulas sheet is provided in the appendix of this manual for use.
 
@@ -917,13 +924,13 @@ $$
 V_2=\frac{(T_2)(V_1)}{T_1}
 $$
 
-It is essential to note that the accuracy of this formula depends upon the above temperature values being expressed in terms of either degrees Kelvin or degrees Rankine. Kelvin and Rankine are temperature scales routinely used within the scientific community. The Kelvin scale is based upon the more common Celsius (or Centigrade) scale and a degree of Kelvin identifies the same unit of measurement for temperature as a degree of Celsius. 0° Kelvin is equal to -273° Celsius. To convert from Celsius to Kelvin, simply add 273 degrees. 
+It is essential to note that the accuracy of this formula depends upon the above temperature values being expressed in terms of either degrees Kelvin or degrees Rankine. Kelvin and Rankine are temperature scales routinely used within the scientific community. The Kelvin scale is based upon the more common Celsius (or Centigrade) scale and a degree of Kelvin identifies the same unit of measurement for temperature as a degree of Celsius. 0° Kelvin is equal to -273° Celsius. To convert from Celsius to Kelvin, simply add 273 degrees.
 
 $$
 °K=°C+273
 $$
 
-The Rankine scale is based upon the Fahrenheit scale, and a degree of Rankine identifies the same unit of measurement for temperature as a degree of Fahrenheit. 0° Rankine is equal to -460° Fahrenheit. To convert from Fahrenheit to Rankine simply add 460 degrees. 
+The Rankine scale is based upon the Fahrenheit scale, and a degree of Rankine identifies the same unit of measurement for temperature as a degree of Fahrenheit. 0° Rankine is equal to -460° Fahrenheit. To convert from Fahrenheit to Rankine simply add 460 degrees.
 
 $$
 °R=°F+460
@@ -984,7 +991,7 @@ $$
 1°F\approx5 psi
 $$
 
-### Combined and Ideal Gas Laws 
+### Combined and Ideal Gas Laws
 
 #### Pressure, Volume and Temperature (Combined Gas Law)
 
@@ -1159,9 +1166,7 @@ Haldane's decompression model provided the essential parameters for subsequent r
 
  This chapter was a recap of physics that relate to scuba diving. How these theories apply to scuba diving was also reviewed. It was not intended to be comprehensive but rather to refresh the theory learned in the divemaster course. For a more comprehensive review of physics refer to the SDI Divemaster Manual.
 
-## Diving Physiology, Part 1
-
-### Introduction
+## Diving Physiology
 
 Physiology is another key component in the overall body of knowledge a dive professional is expected to possess. We will review the key components and overall body of knowledge that was learned during the SDI Divemaster course. As the OWSDI candidate reviews this information, if they come across a subject that needs more elaboration, they should refer back to the SDI Divemaster manual for a more in-depth discussion. The dive professional should be well versed in all the subjects covered in this chapter. Although most divers will never experience these maladies it is important for the instructor to know how to recognize and address them.
 
@@ -1183,7 +1188,7 @@ As a review, the role of the body's circulatory system is the movement of gases,
 
 Hemoglobin is the specific component within the blood to which both oxygen and carbon dioxide attach, while being transported by the blood throughout the body.
 
-Starting with pulmonary circulation at the heart, the blood enters and gathers within the right atrium of the heart. An initial contraction of the upper heart muscle moves the blood from the right atrium downward into the right ventricle of the heart. A subsequent contraction of the lower heart muscle then moves the blood from the right ventricle through the pulmonary arteries to those capillaries that surround the alveoli of the lungs. Here carbon dioxide passes from the blood through the permeable membrane of the alveoli and into the lungs, while oxygen passes in the opposite direction from the lungs and into the blood. The oxygen-rich blood then returns to the heart through the pulmonary veins, and now enters the left atrium of the heart. HeartThe initial contraction of the upper heart muscle moves the blood from the left atrium downward into the left ventricle, and the subsequent contraction of the lower heart muscle then moves the blood from the left ventricle into the aorta, which is the body's largest systemic artery. From the aorta the blood branches out into the series of smaller systemic arteries leading to capillaries located throughout the tissues. 
+Starting with pulmonary circulation at the heart, the blood enters and gathers within the right atrium of the heart. An initial contraction of the upper heart muscle moves the blood from the right atrium downward into the right ventricle of the heart. A subsequent contraction of the lower heart muscle then moves the blood from the right ventricle through the pulmonary arteries to those capillaries that surround the alveoli of the lungs. Here carbon dioxide passes from the blood through the permeable membrane of the alveoli and into the lungs, while oxygen passes in the opposite direction from the lungs and into the blood. The oxygen-rich blood then returns to the heart through the pulmonary veins, and now enters the left atrium of the heart. HeartThe initial contraction of the upper heart muscle moves the blood from the left atrium downward into the left ventricle, and the subsequent contraction of the lower heart muscle then moves the blood from the left ventricle into the aorta, which is the body's largest systemic artery. From the aorta the blood branches out into the series of smaller systemic arteries leading to capillaries located throughout the tissues.
 
 Here oxygen passes from the blood to the tissues, where it is used in the body's metabolic process; and also here carbon dioxide, which is a by-product of metabolism, passes from the tissues to the blood. The oxygen-poor blood returns through the systemic veins towards the heart, where it then re-enters the right atrium of the heart and transitions again into pulmonary circulation.
 
@@ -1241,8 +1246,6 @@ Perhaps the most obvious potential cause of AGE is when a diver holds his breath
 
 Over-pressurization within the lungs can have two consequences. It may cause a rupture of the lung tissue with air then escaping into the chest cavity or it can force a bubble of air to pass through the alveoli and enter the blood, leading to arterial gas embolism.
 
-Gas Embolism
-
 Once in the bloodstream the bubble passes into systemic circulation and travels through the progressively narrowing network of arteries towards the capillaries. Meanwhile, additional decrease in ambient pressure (due to a continuing ascent) will cause that bubble to expand in size. Eventually, the bubble will become lodged in an artery, blocking the flow of blood beyond that point. A blockage can occur anywhere throughout the body, but of course the greatest risk occurs when that blockage impacts a vital organ.
 
 > When an arterial blockage occurs in the brain, it will produce a sudden stroke; a stroke will manifest in other bodily dysfunction such as weakness or paralysis, respiratory distress or cardiac arrest.
@@ -1258,3 +1261,216 @@ The severity of signs and symptoms will depend upon the location of the arterial
 Patent Foramen Ovale, or PFO, is a circulatory defect and is believed to be a possible predisposing factor for the onset of DCI.
 
 The foramen ovale is a flap-like valve within the heart. This valve is open during fetal development, and then closes after birth. When the foramen ovale is open it connects the right atrium to the left atrium, thereby shunting blood into systemic circulation while by-passing pulmonary circulation. The foramen ovale closes after birth, when the newborn begins to breathe on its own, and thereby establishes pulmonary circulation and segregates it from systemic circulation. PFO can be identified through special testing procedures, but such is not a part of routine medical screening, and in many cases PFO simply goes undetected. Statistical evidence suggests that it might create an increased risk of DCS or DCI during scuba diving activities.
+
+#### Signs and Symptoms of DCI
+
+A sign is an outward indication that can be readily observed by another person, while a symptom is an internal indication that is sensed by the patient. Following is a list of common signs and symptoms of DCI:
+
+- Skin rash or itching
+- Tingling or numbness
+- Joint or limb pain
+- Back, abdominal, or chest pain or discomfort
+- Unusual headache
+- Extreme fatigue
+- Weakness or paralysis
+- Dizziness, loss of balance, or loss of coordination
+- Confusion or disorientation
+- Unresponsiveness or unconsciousness
+- Convulsions
+- Difficulty swallowing
+- Slurred speech
+- Hearing disturbance
+- Visual disturbance
+- Loss of bladder or bowel control
+- Difficulty urinating with a full bladder
+- Unusual coughing
+- Rapid, shallow, or distressed breathing
+- Blood or froth in the mouth
+- Rapid, erratic, or weak pulse
+- Cardiac arrest
+
+#### First Aid for Suspected DCI
+
+The primary and immediate patient care always focuses upon the ABCs:
+
+- Airway (open)
+- Breathing (present)
+- Circulation (present)
+
+Once the ABCs have been confirmed, the following first aid procedures should be implemented whenever DCI is suspected:
+
+- Activate EMS (emergency medical services), or seek medical care
+- Administer 100% oxygen (or highest percentage of oxygen available)
+- Have the victim lie down in supine or recovery position
+- Monitor the patient
+- Treat for shock
+- Administer CPR when appropriate
+
+> In general DCI does not get better on its own. Left unattended, the signs and symptoms often worsen. Any delay in appropriate care increases the risk of long-term neurological complications. Prompt medical attention always is indicated.
+Oxygen administration may:
+
+- Help the diver off-gas excess nitrogen more quickly
+- Reduce blood sludging (thickening)
+- Reduce nitrogen bubble size
+- Increase oxygenated blood flow
+- Reduce tissue swelling
+- Ease breathing
+- Improve the chances of a full recovery
+
+To be most effective, the patient should be administered the highest possible concentration of oxygen. In the event that the available oxygen is depleted, a technical diver's decompression gas (with its high content of oxygen) can sometimes be substituted, provided the patient can tolerate breathing through a traditional scuba regulator. In the case of a non-breathing patient, the constant-flow system may be used with an oro-nasal resuscitation mask (sometimes referred to as a "pocket mask") to supplement rescue breaths delivered during CPR.
+
+> In any case of suspected DCI, once signs or symptoms have been detected, the patient should always be evaluated by a qualified medical professional.
+
+It is important to recognize, however, that there is no need to await the actual onset of DCI before administering oxygen. If a diver has been exposed to a distinct risk of DCI, oxygen may be administered immediately as a precautionary measure. In this case the early administration of oxygen may help to prevent the onset of DCI, or at least lessen its severity.
+
+While administering oxygen, the patient should lie down. Sometimes a patient will resist out of embarrassment or, because of pain or discomfort, the patient might prefer an alternate position. In either case, the more important issue is getting the patient to breath oxygen, rather than the patient's position.
+
+In any case of DCI, initially minor signs and symptoms may quickly and unexpectedly worsen. While awaiting professional medical care, the patient should be carefully monitored. During this time the patient should be kept as comfortable as possible. In regards to shock, the patient will also need to be kept warm. A conscious patient who is able to swallow may be given a non-caffeinated and non-carbonated beverage. While fluids will quench a thirst, more importantly they also help to maintain hydration, which will help to counteract some of the effects of shock and also reduce sludging of the blood.
+
+#### Five-Minute Field Neurological Evaluation
+
+To objectively assess the signs and symptoms in a suspected case of DCI, the dive leader may employ a relatively quick and simple field neurological evaluation. This procedure will be beneficial as part of the initial assessment of the patient; it should also be repeated periodically, perhaps every 15 or 30 minutes, while the patient is awaiting professional medical attention. The time of each evaluation should be noted and all observations should be carefully recorded; this information should then be relayed to EMS and/or the treating physician. In particular, the dive leader should be alert to the following:
+
+- Field Exam SlatesAny deviations from the expected norm
+- Any differences from one side of the body to the other
+- Any changes over time
+
+The five-minute field neurological evaluation consists of 12 steps, generally progressing from head to toe. Note any abnormality to the following.
+
+- Orientation
+- Eyes
+- Forehead
+- Face
+- Ears
+- Gag Reflex
+- Tongue
+- Shoulders
+- Arms and Hands
+- Chest
+- Legs
+- Heel-to-Toe Walk
+
+Though beneficial in assessing the signs and symptoms of DCI, the five-minute field neurological evaluation should never take precedence over the patient’s primary care; rendering appropriate first aid always remains the priority.
+
+#### Recompression Therapy
+
+Recompression in a hyperbaric chamber is the standard treatment for DCI. The term "hyperbaric" literally means "high pressure;" thus a hyperbaric chamber is a high pressure chamber. The injured diver is placed inside the chamber and ambient pressure inside the chamber is increased, usually to a pressure of 3 to 6 bar / atm. After an appropriate amount of time the ambient pressure is then slowly decreased, usually in a series of stages or steps, until the diver is finally returned to surface-level ambient pressure.
+
+Recompression therapy might quickly remove the bubble, but there still remains damage to the surrounding tissue. It takes time for the damaged tissues to heal and diving activities should be suspended during this healing process. The US Navy recommends that a diver remain out of the water for at least seven days following resolution of Type I DCS, while DAN recommends a minimum of two to four weeks following subsidence of any neurological signs and symptoms of Type II DCS. More significant cases may require an even longer period of healing. Before resuming diving activities, the injured diver should always be evaluated by a dive medicine physician.
+
+Recompression therapy is most effective when it is initiated quickly after the onset of signs and symptoms. The dive leader should resist the temptation to immediately take an injured diver directly to the closest hyperbaric chamber because appropriate medical care may be lacking at that location. In addition, that chamber might be found to be already in use, un-staffed, or otherwise unavailable. Instead, it is recommended that the injured diver always be transported to the nearest medical facility for evaluation and treatment.Transport to Medical Facility
+
+Despite the benefits of recompression, the dive leader should never attempt impromptu in-water recompression of an injured diver as the following may apply:
+
+- May cause the diver to on-gas additional nitrogen.
+- It is unlikely that a sufficient air supply will be available to complete the recompression process.
+- There is the risk of hypothermia over time, even in relatively warm water, which can create further complications.
+- Does not allow effective monitoring of the patient and rendering of first aid procedures.
+
+> In all suspected cases of DCI the diver should remain out of the water, and should be administered oxygen and other appropriate first aid, while awaiting further medical care.
+
+### Nitrogen Narcosis
+
+Narcosis is the state of intoxication that can be caused by breathing a high concentration of inert gas, or a lower concentration of inert gas under elevated pressure. The phenomenon of narcosis is not completely understood, but it is believed to occur when an inert gas is absorbed into the membrane of nerve cells and begins to interfere with the electrical signals transmitted by those nerves. The extent of narcosis will vary from one inert gas to another, and will be dependent upon the partial pressure of a particular inert gas at a given point in time. Narcosis is not physiologically harmful; it poses a risk because of its adverse impact upon a diver's overall alertness and performance.
+
+Nitrogen is the most common inert gas encountered by recreational divers and is the primary cause of narcosis in typical sport diving activities.
+
+As a diver descends, the partial pressure of nitrogen increases within the diver's lungs. Its elevated partial pressure causes additional nitrogen to move from the lungs into the diver's body, where it can begin to interfere with the electrical signals transmitted by the nerves. Susceptibility to nitrogen narcosis varies from diver to diver and from day to day, but primarily it is dependent upon depth. The narcotic effect becomes increasingly pronounced at 30 meters or 100 feet, and a diver will exhibit outward signs of nitrogen narcosis. Deeper depths will produce even more severe symptoms.
+
+Narcosis can cause:
+
+- Sense of euphoria
+- Lack of concern
+- Paranoia
+- Diminished coordination
+- Impaired thinking
+- Foolish behavior
+- Hallucinations
+
+The effects of nitrogen narcosis can intensify with physical or psychological stress.
+
+Recent and cumulative deep diving experience appears to help counter, to some degree, the adverse effects of nitrogen narcosis.
+
+> Ascending to a shallower depth eliminates the effects of narcosis.
+
+Unlike DCI, nitrogen narcosis poses no lingering concern after surfacing, and requires no subsequent medical intervention.
+
+### Inert Gas Narcosis
+
+Other inert gases also are capable of inducing narcosis; the extent of narcosis related to a particular gas is dependent upon a number of factors including its molecular weight. Examples of inert gases would be helium and argon (commonly used as a dry suit gas).
+
+Though oxygen is not an inert gas, it can behave like one at times. This may be encountered with the use of nitrox. At depth, the elevated partial pressure of oxygen may result in more of this gas entering the blood than can readily be used in the metabolic process; when this occurs, some of the excess oxygen will be deposited throughout the tissues including the membrane of nerve cells. Oxygen is similar in weight to nitrogen, and has similar narcotic properties. Therefore the overall effect of inert gas narcosis will be about the same, regardless of whether the diver is breathing nitrox or air, at any given depth.
+
+### Gas Toxicity
+
+Toxicity is the degree to which a particular substance is poisonous to the body. It may refer to the effect upon the body as a whole, as well as upon a specific tissue or process within the body.
+
+Central to this review is the concept of a time-dose exposure. Time refers to the duration of exposure to a given gas, and dose refers to the level (or intensity) of exposure to that gas. The dose is determined by the partial pressure of the gas in question. Below a certain minimum toxic dose, a particular gas will not become toxic despite the duration of exposure; and above a certain maximum toxic dose, a particular gas can immediately become toxic. At intermediate dosage levels, the toxic effect will be cumulative in nature, and the degree of toxicity will be directly dependent upon the duration of exposure to the particular gas at its then current partial pressure.
+
+#### Central Nervous System Oxygen Toxicity
+
+Oxygen at significantly elevated partial pressures can become toxic. CNS (central nervous system) oxygen toxicity is one of two types of oxygen toxicity, and it is the one with which divers are more concerned. The most significant manifestation of CNS oxygen toxicity is convulsions. When convulsions occur underwater, it is likely the affected diver will lose their regulator and there is a distinct risk of drowning. There are, however, other signs and symptoms of CNS and they can be remembered by the acronym "ConVENTID."
+
+- **Con**vulsions
+- **V**isual disturbances
+- **E**uphoria
+- **N**ausea
+- **T**innitus/tingling or twitching
+- **I**rritability
+- **D**izziness/dyspnea
+
+In regards to CNS oxygen toxicity, NOAA has identified the maximum oxygen toxic dose to be a partial pressure of 1.6 bar or 1.6 atm for all diving activities. The accompanying table depicts further time dose relationships as established by NOAA.
+
+| Oxygen Partial Pressure ( bar/ata)   | Single Dive Limit (minutes)   | Daily Limit (minutes)   |
+|:----------------------------------:  |:---------------------------:  |:---------------------:  |
+| 1.6                                  | 45                            | 150                     |
+| 1.5                                  | 120                           | 180                     |
+| 1.4                                  | 150                           | 180                     |
+| 1.3                                  | 180                           | 210                     |
+| 1.2                                  | 210                           | 240                     |
+| 1.1                                  | 240                           | 270                     |
+| 1.0                                  | 300                           | 300                     |
+| 0.9                                  | 360                           | 360                     |
+| 0.8                                  | 450                           | 450                     |
+| 0.7                                  | 570                           | 570                     |
+| 0.6                                  | 720                           | 720                     |
+
+The primary factor regarding the onset of CNS oxygen toxicity is the diver's exposure to an elevated partial pressure of oxygen; it should be noted, however, that an elevated level of carbon dioxide within a diver's body may be an additional contributing factor.
+
+If a diver begins to convulse underwater, the diver's buddy should immediately render assistance by taking physical control of the convulsing diver, and then start a controlled ascent to the surface. When the regulator is still in the convulsing diver's mouth, the buddy should attempt to hold it in place. If the regulator is already out of the affected diver's mouth, the buddy should not attempt to replace it. As active convulsions subside, a person will generally enter a sleep-like state prior to regaining consciousness. Once back on the surface and out of the water, the diver's airway, breathing and circulation should be monitored and appropriate first aid should be administered as indicated.
+
+> In all cases the affected diver should seek medical attention due to the possibility of inhaled water (even if the regulator was not lost), which later may lead to near-drowning complications.
+
+#### Pulmonary Oxygen Toxicity
+
+Pulmonary oxygen toxicity is the second type of oxygen toxicity, and it is caused by long-term exposure to elevated partial pressures of oxygen. This form of oxygen toxicity is not normally associated with sport diving activities but can be a concern for commercial saturation divers and divers undergoing hyperbaric treatment.
+
+#### Carbon Dioxide Toxicity
+
+Carbon dioxide, or CO2 is a by-product of metabolism in animals, plants and other organisms, which is dispersed into the atmospheric air. It also is removed from the air and used by plants in photosynthesis. Carbon dioxide normally comprises only about 0.038% of air, and at this low level its presence is negligible in any inhaled breath.
+
+Any elevated level of carbon dioxide in atmospheric air can be problematic in diving when that air is then used to fill a diver's scuba cylinder.
+
+A greater problem stems from carbon dioxide produced by the body itself during the course of a dive. At elevated levels this self-produced carbon dioxide will be equally toxic to the body, and could result in loss of consciousness.
+
+> An elevated level of carbon dioxide within the body frequently stems from excessive workload.
+
+Factors such as strenuous activity, cold water, older age, and diminished health or fitness will place increased physical demands upon a diver, increasing the overall workload. Another factor often overlooked is the increased effort of breathing caused by an ill-performing regulator, especially at deeper depths.
+
+An elevated level of carbon dioxide also can be caused by a diver's ineffective breathing pattern, such as shallow breathing or skip-breathing. These breathing patterns are something the OWSDI should monitor while teaching students. An elevated level of carbon dioxide can be a contributing factor in the onset of both decompression sickness and CNS oxygen toxicity.
+
+The lesser symptoms of carbon dioxide toxicity generally begin to alleviate on their own, after the increased workload subsides and/or after the affected diver resumes breathing normal atmospheric air, though they can also linger for some period of time. In severe cases, especially those involving respiratory distress or unconsciousness, the affected individual should be monitored and oxygen and other appropriate first aid should be administered while awaiting further medical attention.
+
+#### Carbon Monoxide Toxicity
+
+Carbon MonoxideCarbon monoxide, or CO is a by-product of inefficient (incomplete) combustion of a carbon-based fuel. It enters the body as a contaminant in inhaled air. Carbon monoxide passes from the lungs into the blood, where it attaches far more readily to the hemoglobin than does oxygen; it also forms a chemical bond that is significantly stronger than the bond between hemoglobin and oxygen. The effects of toxicity are cumulative in nature, and even a very low-level exposure to carbon monoxide can produce a rapid accumulation in the blood. The end result is asphyxiation (oxygen starvation) throughout the body.
+
+The tissues most susceptible to carbon monoxide toxicity are the heart and central nervous system. It may cause a dangerously rapid heart rate and increased blood pressure, headache, dizziness, auditory and visual dysfunction, confusion or dementia, convulsions, unconsciousness, acute renal failure, and both respiratory and cardiac arrest.
+
+Contamination might occur in several different ways. The most common source of carbon monoxide is the exhaust from an internal combustion engine (such as an automobile engine), and contamination will occur if that exhaust is allowed to enter the intake of a compressor system.
+
+Contamination can occur within the compressor system itself due to poor maintenance, when filters begin to fail and internal lubricants begin to breakdown. Contamination can also occur with the improper handling of 100% oxygen under high pressure, as may be the case in blending nitrox and trimix, due to internal flashing (momentary ignition) within the compressor lines or cylinder.
+
+Though carbon monoxide itself is odorless and tasteless, it is often accompanied by other contaminates (such as those in an automobile's exhaust), and divers should avoid breathing any gas that has a hint of a smell or taste.
+
+If a diver convulses or becomes unconscious underwater, the diver's buddy should immediately render assistance by taking physical control of the affected diver and then start a controlled ascent to the surface. Upon surfacing administer appropriate first aid measures. Subsequent treatment may include hyperbaric chamber therapy; however, its benefit in helping to flush carbon monoxide from the body remains the subject of debate among medical authorities. Following an acute episode of carbon monoxide toxicity, there is some possibility of subsequent neurological complications arising days, or even weeks, later.
