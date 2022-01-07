@@ -115,6 +115,9 @@
       - [DCI and Patent Foramen Ovale](#dci-and-patent-foramen-ovale)
       - [Signs and Symptoms of DCI](#signs-and-symptoms-of-dci)
       - [First Aid for Suspected DCI](#first-aid-for-suspected-dci)
+      - [Five-Minute Field Neurological Evaluation](#five-minute-field-neurological-evaluation)
+      - [Recompression Therapy](#recompression-therapy)
+    - [Nitrogen Narcosis](#nitrogen-narcosis)
 
 # SDI Open Water Scuba Diver Instructor
 
@@ -1312,3 +1315,81 @@ Oxygen administration may:
 - Reduce tissue swelling
 - Ease breathing
 - Improve the chances of a full recovery
+
+To be most effective, the patient should be administered the highest possible concentration of oxygen. In the event that the available oxygen is depleted, a technical diver's decompression gas (with its high content of oxygen) can sometimes be substituted, provided the patient can tolerate breathing through a traditional scuba regulator. In the case of a non-breathing patient, the constant-flow system may be used with an oro-nasal resuscitation mask (sometimes referred to as a "pocket mask") to supplement rescue breaths delivered during CPR.
+
+> In any case of suspected DCI, once signs or symptoms have been detected, the patient should always be evaluated by a qualified medical professional.
+
+It is important to recognize, however, that there is no need to await the actual onset of DCI before administering oxygen. If a diver has been exposed to a distinct risk of DCI, oxygen may be administered immediately as a precautionary measure. In this case the early administration of oxygen may help to prevent the onset of DCI, or at least lessen its severity.
+
+While administering oxygen, the patient should lie down. Sometimes a patient will resist out of embarrassment or, because of pain or discomfort, the patient might prefer an alternate position. In either case, the more important issue is getting the patient to breath oxygen, rather than the patient's position.
+
+In any case of DCI, initially minor signs and symptoms may quickly and unexpectedly worsen. While awaiting professional medical care, the patient should be carefully monitored. During this time the patient should be kept as comfortable as possible. In regards to shock, the patient will also need to be kept warm. A conscious patient who is able to swallow may be given a non-caffeinated and non-carbonated beverage. While fluids will quench a thirst, more importantly they also help to maintain hydration, which will help to counteract some of the effects of shock and also reduce sludging of the blood.
+
+#### Five-Minute Field Neurological Evaluation
+
+To objectively assess the signs and symptoms in a suspected case of DCI, the dive leader may employ a relatively quick and simple field neurological evaluation. This procedure will be beneficial as part of the initial assessment of the patient; it should also be repeated periodically, perhaps every 15 or 30 minutes, while the patient is awaiting professional medical attention. The time of each evaluation should be noted and all observations should be carefully recorded; this information should then be relayed to EMS and/or the treating physician. In particular, the dive leader should be alert to the following:
+
+- Field Exam SlatesAny deviations from the expected norm
+- Any differences from one side of the body to the other
+- Any changes over time
+
+The five-minute field neurological evaluation consists of 12 steps, generally progressing from head to toe. Note any abnormality to the following.
+
+- Orientation
+- Eyes
+- Forehead
+- Face
+- Ears
+- Gag Reflex
+- Tongue
+- Shoulders
+- Arms and Hands
+- Chest
+- Legs
+- Heel-to-Toe Walk
+
+Though beneficial in assessing the signs and symptoms of DCI, the five-minute field neurological evaluation should never take precedence over the patient’s primary care; rendering appropriate first aid always remains the priority.
+
+#### Recompression Therapy
+
+Recompression in a hyperbaric chamber is the standard treatment for DCI. The term "hyperbaric" literally means "high pressure;" thus a hyperbaric chamber is a high pressure chamber. The injured diver is placed inside the chamber and ambient pressure inside the chamber is increased, usually to a pressure of 3 to 6 bar / atm. After an appropriate amount of time the ambient pressure is then slowly decreased, usually in a series of stages or steps, until the diver is finally returned to surface-level ambient pressure.
+
+Recompression therapy might quickly remove the bubble, but there still remains damage to the surrounding tissue. It takes time for the damaged tissues to heal and diving activities should be suspended during this healing process. The US Navy recommends that a diver remain out of the water for at least seven days following resolution of Type I DCS, while DAN recommends a minimum of two to four weeks following subsidence of any neurological signs and symptoms of Type II DCS. More significant cases may require an even longer period of healing. Before resuming diving activities, the injured diver should always be evaluated by a dive medicine physician.
+
+Recompression therapy is most effective when it is initiated quickly after the onset of signs and symptoms. The dive leader should resist the temptation to immediately take an injured diver directly to the closest hyperbaric chamber because appropriate medical care may be lacking at that location. In addition, that chamber might be found to be already in use, un-staffed, or otherwise unavailable. Instead, it is recommended that the injured diver always be transported to the nearest medical facility for evaluation and treatment.Transport to Medical Facility
+
+Despite the benefits of recompression, the dive leader should never attempt impromptu in-water recompression of an injured diver as the following may apply:
+
+- May cause the diver to on-gas additional nitrogen.
+- It is unlikely that a sufficient air supply will be available to complete the recompression process.
+- There is the risk of hypothermia over time, even in relatively warm water, which can create further complications.
+- Does not allow effective monitoring of the patient and rendering of first aid procedures.
+
+> In all suspected cases of DCI the diver should remain out of the water, and should be administered oxygen and other appropriate first aid, while awaiting further medical care.
+
+### Nitrogen Narcosis
+
+Narcosis is the state of intoxication that can be caused by breathing a high concentration of inert gas, or a lower concentration of inert gas under elevated pressure. The phenomenon of narcosis is not completely understood, but it is believed to occur when an inert gas is absorbed into the membrane of nerve cells and begins to interfere with the electrical signals transmitted by those nerves. The extent of narcosis will vary from one inert gas to another, and will be dependent upon the partial pressure of a particular inert gas at a given point in time. Narcosis is not physiologically harmful; it poses a risk because of its adverse impact upon a diver's overall alertness and performance.
+
+Nitrogen is the most common inert gas encountered by recreational divers and is the primary cause of narcosis in typical sport diving activities.
+
+As a diver descends, the partial pressure of nitrogen increases within the diver's lungs. Its elevated partial pressure causes additional nitrogen to move from the lungs into the diver's body, where it can begin to interfere with the electrical signals transmitted by the nerves. Susceptibility to nitrogen narcosis varies from diver to diver and from day to day, but primarily it is dependent upon depth. The narcotic effect becomes increasingly pronounced at 30 meters or 100 feet, and a diver will exhibit outward signs of nitrogen narcosis. Deeper depths will produce even more severe symptoms.
+
+Narcosis can cause:
+
+- Sense of euphoria
+- Lack of concern
+- Paranoia
+- Diminished coordination
+- Impaired thinking
+- Foolish behavior
+- Hallucinations
+
+The effects of nitrogen narcosis can intensify with physical or psychological stress.
+
+Recent and cumulative deep diving experience appears to help counter, to some degree, the adverse effects of nitrogen narcosis.
+
+> Ascending to a shallower depth eliminates the effects of narcosis.
+
+Unlike DCI, nitrogen narcosis poses no lingering concern after surfacing, and requires no subsequent medical intervention.
