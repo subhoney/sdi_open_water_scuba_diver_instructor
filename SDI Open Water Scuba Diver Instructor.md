@@ -134,6 +134,13 @@
       - [Dehydration](#dehydration)
       - [Mid-Water Disorientation](#mid-water-disorientation)
       - [Seasickness](#seasickness)
+      - [Carotid Sinus Reflex](#carotid-sinus-reflex)
+      - [Shallow Water Blackout](#shallow-water-blackout)
+      - [Stings, Bites, and Envenomations](#stings-bites-and-envenomations)
+      - [Appropriate Training](#appropriate-training)
+    - [General First Aid for Marine Related Injuries](#general-first-aid-for-marine-related-injuries)
+      - [The Dive Leader's First Aid Kit](#the-dive-leaders-first-aid-kit)
+    - [Summary: Chapters 8, 9, 10](#summary-chapters-8-9-10)
 
 # SDI Open Water Scuba Diver Instructor
 
@@ -1542,3 +1549,51 @@ On occasion a diver might encounter disorientation due to a lack of visual refer
 
 Like other forms of motion sickness, some individuals are more susceptible to seasickness than others. Fatigue and dehydration might be additional factors in the onset of seasickness. The effects of seasickness can often be minimized if the diver remains above deck in fresh air, near the middle of the boat, with their vision focused upon a fixed object near the horizon or on shore.
 
+#### Carotid Sinus Reflex
+
+The carotid artery supplies blood to the brain (there are actually two carotid arteries, with one located on each side of the neck). When the neuro sensors within the carotid sinus detect either a high or low pressure in the blood en route to the brain, a signal is transmitted to the heart to modify the heartbeat and blood pressure accordingly. This monitoring and signaling process is known as the carotid sinus reflex.
+
+External pressure applied upon the neck can "fool" the carotid sinus reflex. Any excessively tight item worn around the neck can create this situation. The neuro sensors can mistakenly interpret the external pressure as excessive internal pressure, and then will inappropriately signal the heart to slow and reduce the blood pressure. Ultimately, unconsciousness may occur due to an inadequate supply of blood reaching the brain. When unconsciousness occurs underwater, there is an inherent risk of drowning. To avoid problems related to the carotid sinus reflex, the diver always should avoid use of an under-sized neck seal on a dry suit, an overly-tight collar on a wet suit, or an improperly-fitted hood.
+
+#### Shallow Water Blackout
+
+The risk of shallow water blackout stems from excessive pre-dive hyperventilation, as in some cases it actually flushes too much carbon dioxide from the body, and thereby overly suppresses the diver's conscious urge to breathe.
+
+#### Stings, Bites, and Envenomations
+
+The most common marine life injuries are simple surface stings and irritations, such as those caused when an inattentive diver's bare skin comes in contact with the tentacles of a common jellyfish or brushes against certain types of coral. Bites are rare, but when one occurs the result is often a puncture-type wound.
+
+In any case of envenomation, the patient should be closely monitored, as some individuals will have an increased sensitivity to certain toxins and pronounced allergic reactions are possible (much the same as the increased sensitivity of some individuals to bee stings).
+
+#### Appropriate Training
+
+A current first aid and CPR certification is a prerequisite for all SDI leadership programs. It is important to note, however, that once an individual becomes an SDI OWSDI, it becomes a matter of personal responsibility to remain current in these critical skills. SDI offers additional training in CPR, first aid, bloodborne pathogens and oxygen administration through First Response Training International.
+
+Like the similar programs offered by most other organizations, certification following completion of the above programs is valid for two years, and re-training then is required.
+
+Most injuries can be prevented or at least mitigated through common-sense precautions related to equipment handling and environmental conditions and by ensuring an appropriate level of health and fitness for diving. When any injury occurs, the appropriate first aid procedures for assisting the patient always start with the ABCs:
+
+- Airway (open)
+- Breathing (present)
+- Circulation (present)
+
+Once the ABCs are confirmed, care can then focus upon the patient's specific injuries. Any suspected fracture should be immobilized. A burn may be cooled with fresh water. If there is bleeding, applying direct pressure to the site can control serious bleeding. Once bleeding is controlled, the wound should then be covered with an appropriate dressing.
+
+### General First Aid for Marine Related Injuries
+
+#### The Dive Leader's First Aid Kit
+
+Each dive leader should personally possess a basic first aid kit, readily accessible, that is always carried along as a standard component of his overall dive equipment. At a minimum, it should include the following supplies:
+
+- CPR Barrier / Rescue Breathing Mask
+- Surgical Gloves
+- Scissors or Shears
+- Bandages and Dressings (limited assortment)
+
+Dive boats and dive centers often have a more comprehensive first aid kit, also accessible for use by the dive leader when the need arises. In addition, the dive leader should ensure that emergency oxygen equipment is available on-site for all training dives and supervised diving activities. Where allowed by law, an AED (Automated Eternal Defibrillator) also is highly recommended.
+
+### Summary: Chapters 8, 9, 10
+
+Proper knowledge regarding physiology and how it can affect a diver can help the OWSDI recognize and handle emergencies should they occur. Some general steps to follow in any diving incident are: get the victim to a safe and comfortable place, notify emergency medical service (EMS), get the victim on oxygen (if breathing), and if diving from a boat, activate the emergency recall system and get all other divers aboard so the boat can head to shore. If diving from a boat, follow the instructions of the EMS; they may want the boat to remain stationary. The same would apply if shore diving; the EMS may not want the victim moved. The best course of action is to always have a site assessment plan ready. Thinking ahead saves valuable time, and timely action and treatment can save a life.
+
+NOTE:The information covered in these chapters regarding physiology are intended as a review. For more detailed information refer to the SDI Divemaster materials.
