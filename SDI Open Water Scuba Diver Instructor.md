@@ -120,6 +120,9 @@
     - [Inert Gas Narcosis](#inert-gas-narcosis)
     - [Gas Toxicity](#gas-toxicity)
       - [Central Nervous System Oxygen Toxicity](#central-nervous-system-oxygen-toxicity)
+      - [Pulmonary Oxygen Toxicity](#pulmonary-oxygen-toxicity)
+      - [Carbon Dioxide Toxicity](#carbon-dioxide-toxicity)
+      - [Carbon Monoxide Toxicity](#carbon-monoxide-toxicity)
 
 # SDI Open Water Scuba Diver Instructor
 
@@ -1243,8 +1246,6 @@ Perhaps the most obvious potential cause of AGE is when a diver holds his breath
 
 Over-pressurization within the lungs can have two consequences. It may cause a rupture of the lung tissue with air then escaping into the chest cavity or it can force a bubble of air to pass through the alveoli and enter the blood, leading to arterial gas embolism.
 
-Gas Embolism
-
 Once in the bloodstream the bubble passes into systemic circulation and travels through the progressively narrowing network of arteries towards the capillaries. Meanwhile, additional decrease in ambient pressure (due to a continuing ascent) will cause that bubble to expand in size. Eventually, the bubble will become lodged in an artery, blocking the flow of blood beyond that point. A blockage can occur anywhere throughout the body, but of course the greatest risk occurs when that blockage impacts a vital organ.
 
 > When an arterial blockage occurs in the brain, it will produce a sudden stroke; a stroke will manifest in other bodily dysfunction such as weakness or paralysis, respiratory distress or cardiac arrest.
@@ -1433,3 +1434,43 @@ In regards to CNS oxygen toxicity, NOAA has identified the maximum oxygen toxic 
 | 0.8                                  | 450                           | 450                     |
 | 0.7                                  | 570                           | 570                     |
 | 0.6                                  | 720                           | 720                     |
+
+The primary factor regarding the onset of CNS oxygen toxicity is the diver's exposure to an elevated partial pressure of oxygen; it should be noted, however, that an elevated level of carbon dioxide within a diver's body may be an additional contributing factor.
+
+If a diver begins to convulse underwater, the diver's buddy should immediately render assistance by taking physical control of the convulsing diver, and then start a controlled ascent to the surface. When the regulator is still in the convulsing diver's mouth, the buddy should attempt to hold it in place. If the regulator is already out of the affected diver's mouth, the buddy should not attempt to replace it. As active convulsions subside, a person will generally enter a sleep-like state prior to regaining consciousness. Once back on the surface and out of the water, the diver's airway, breathing and circulation should be monitored and appropriate first aid should be administered as indicated.
+
+> In all cases the affected diver should seek medical attention due to the possibility of inhaled water (even if the regulator was not lost), which later may lead to near-drowning complications.
+
+#### Pulmonary Oxygen Toxicity
+
+Pulmonary oxygen toxicity is the second type of oxygen toxicity, and it is caused by long-term exposure to elevated partial pressures of oxygen. This form of oxygen toxicity is not normally associated with sport diving activities but can be a concern for commercial saturation divers and divers undergoing hyperbaric treatment.
+
+#### Carbon Dioxide Toxicity
+
+Carbon dioxide, or CO2 is a by-product of metabolism in animals, plants and other organisms, which is dispersed into the atmospheric air. It also is removed from the air and used by plants in photosynthesis. Carbon dioxide normally comprises only about 0.038% of air, and at this low level its presence is negligible in any inhaled breath.
+
+Any elevated level of carbon dioxide in atmospheric air can be problematic in diving when that air is then used to fill a diver's scuba cylinder.
+
+A greater problem stems from carbon dioxide produced by the body itself during the course of a dive. At elevated levels this self-produced carbon dioxide will be equally toxic to the body, and could result in loss of consciousness.
+
+> An elevated level of carbon dioxide within the body frequently stems from excessive workload.
+
+Factors such as strenuous activity, cold water, older age, and diminished health or fitness will place increased physical demands upon a diver, increasing the overall workload. Another factor often overlooked is the increased effort of breathing caused by an ill-performing regulator, especially at deeper depths.
+
+An elevated level of carbon dioxide also can be caused by a diver's ineffective breathing pattern, such as shallow breathing or skip-breathing. These breathing patterns are something the OWSDI should monitor while teaching students. An elevated level of carbon dioxide can be a contributing factor in the onset of both decompression sickness and CNS oxygen toxicity.
+
+The lesser symptoms of carbon dioxide toxicity generally begin to alleviate on their own, after the increased workload subsides and/or after the affected diver resumes breathing normal atmospheric air, though they can also linger for some period of time. In severe cases, especially those involving respiratory distress or unconsciousness, the affected individual should be monitored and oxygen and other appropriate first aid should be administered while awaiting further medical attention.
+
+#### Carbon Monoxide Toxicity
+
+Carbon MonoxideCarbon monoxide, or CO is a by-product of inefficient (incomplete) combustion of a carbon-based fuel. It enters the body as a contaminant in inhaled air. Carbon monoxide passes from the lungs into the blood, where it attaches far more readily to the hemoglobin than does oxygen; it also forms a chemical bond that is significantly stronger than the bond between hemoglobin and oxygen. The effects of toxicity are cumulative in nature, and even a very low-level exposure to carbon monoxide can produce a rapid accumulation in the blood. The end result is asphyxiation (oxygen starvation) throughout the body.
+
+The tissues most susceptible to carbon monoxide toxicity are the heart and central nervous system. It may cause a dangerously rapid heart rate and increased blood pressure, headache, dizziness, auditory and visual dysfunction, confusion or dementia, convulsions, unconsciousness, acute renal failure, and both respiratory and cardiac arrest.
+
+Contamination might occur in several different ways. The most common source of carbon monoxide is the exhaust from an internal combustion engine (such as an automobile engine), and contamination will occur if that exhaust is allowed to enter the intake of a compressor system.
+
+Contamination can occur within the compressor system itself due to poor maintenance, when filters begin to fail and internal lubricants begin to breakdown. Contamination can also occur with the improper handling of 100% oxygen under high pressure, as may be the case in blending nitrox and trimix, due to internal flashing (momentary ignition) within the compressor lines or cylinder.
+
+Though carbon monoxide itself is odorless and tasteless, it is often accompanied by other contaminates (such as those in an automobile's exhaust), and divers should avoid breathing any gas that has a hint of a smell or taste.
+
+If a diver convulses or becomes unconscious underwater, the diver's buddy should immediately render assistance by taking physical control of the affected diver and then start a controlled ascent to the surface. Upon surfacing administer appropriate first aid measures. Subsequent treatment may include hyperbaric chamber therapy; however, its benefit in helping to flush carbon monoxide from the body remains the subject of debate among medical authorities. Following an acute episode of carbon monoxide toxicity, there is some possibility of subsequent neurological complications arising days, or even weeks, later.
