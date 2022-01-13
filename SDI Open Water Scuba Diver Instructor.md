@@ -139,6 +139,10 @@
   - [Methods of Instruction 2](#methods-of-instruction-2)
     - [Phases of Teaching](#phases-of-teaching)
       - [Assessment](#assessment)
+      - [Presentation](#presentation)
+      - [Application](#application)
+      - [Evaluation](#evaluation)
+    - [Learning Objectives](#learning-objectives)
 
 # SDI Open Water Scuba Diver Instructor
 
@@ -1636,8 +1640,68 @@ First, the instructional staff should assess the students that will be in the co
 
 **Past Water Experience** - What are the students' comfort levels in the water? Have they ever participated in swim classes? Have they dived before? Do they enjoy other water sports? This information will provide valuable insight to the instructional staff as to potential student apprehension that should be addressed.
 
-**PartnersPartner Dependence** - Are there students who are taking the course with a spouse, partner or other family member? If so, do they seem dependent on the other person? Does it help or hinder them? A good example of this is a situation where a father and son take the course together for the first time. In this case, the son may feel dependent on the father's assistance since that's what he has come to learn through his past experiences with his father. If the father is removed from the picture, the child may excel. Of course, often this isn't the best solution. However, a brief and private discussion with the father regarding the situation may open new doors for the child to progress in a more positive manner. Alternatively, an individual may be overly critical of their partner's performance. Again, it's important that the instructors recognize the situation through their assessment and take appropriate action so that each individual can progress in a positive and fun environment.
+**Partner Dependence** - Are there students who are taking the course with a spouse, partner or other family member? If so, do they seem dependent on the other person? Does it help or hinder them? A good example of this is a situation where a father and son take the course together for the first time. In this case, the son may feel dependent on the father's assistance since that's what he has come to learn through his past experiences with his father. If the father is removed from the picture, the child may excel. Of course, often this isn't the best solution. However, a brief and private discussion with the father regarding the situation may open new doors for the child to progress in a more positive manner. Alternatively, an individual may be overly critical of their partner's performance. Again, it's important that the instructors recognize the situation through their assessment and take appropriate action so that each individual can progress in a positive and fun environment.
 
 Remember, in addition to the classroom, this same assessment procedure should be applied before, during and after the first in-water session
 
 Proper and timely assessment of the students will help ensure that the instructional staff do not bore the students with information they already know or overwhelm them by advancing too quickly. It also helps identify and solve issues that could create or already are learning barriers. At the very least, a good assessment will give the instructors a much clearer picture of who their students are, which ultimately helps in the next phase: the presentation phase.
+
+#### Presentation
+
+Following the assessment phase, the instructional staff should have a much better idea of whom they will be teaching. As a result, they should be better equipped to formulate and deliver a presentation tailored to the group. The presentation should start with an explanation to the students of what they will be learning. It should be clear and concise and each subject should be separated out into small, manageable portions. Doing so will also help identify logical stopping points in the curriculum, which provides opportunities for the students to ask questions (in private or away from the rest of the class), stretch and get refreshments. For example, when teaching the SDI Underwater Navigation course, the instructor covers the use of mechanical and electronic compasses, what affects them, and how to properly care for and maintain them. Before moving on to the natural navigation presentation, the instructor allows the group to take a five-minute break to refresh themselves.
+
+> When developing presentations, instructors need to be sure that each subject has a clear objective and well-defined timeline. Breaks should be strategically placed within the timeline, and most importantly, the instructor needs to do their best to stick to it.
+
+In addition, the timeline should be communicated to the students prior to starting, so they know what to expect and won't be wondering when they are going to get a break instead of focusing on the subject matter.
+
+Creating and delivering a good presentation is vital to the overall validity and progression of the course. Naturally, there are many factors such as behavioral objectives and visual aids that must be considered when developing presentations. These considerations are covered later in this chapter.
+
+In terms of scuba education, a presentation generally includes a segment or segments of time when the students will apply their newly gained knowledge. In fact, these practice periods are particularly recommended as the class increases in "intensity," since this tends to increase retention (as was explained in the previous section).
+
+#### Application
+
+Very simply, the application phase of learning occurs when students "apply" what they have learned. Such application can be done in almost any location, but as previously discussed in the primacy section, it;s vital that they apply the knowledge in the appropriate sequence and perform skills correctly the first time. Should they fail to perform the skill or apply the knowledge correctly the first time, the SDI OWSDI must be there to correct them in a positive way.
+
+Continuing with the example of the SDI Navigation course: As part of his presentation, the instructor issues each student a compass mounted to a slate. He takes the class outside to the parking lot and gives instruction on how to properly set the bezel while holding the compass level, in order to take a single heading course. He then provides instruction on how to complete a reciprocal course. At the conclusion of his demonstration, he instructs the students to apply the knowledge and complete the same exercise on their own.
+
+Conducting land drills or "dry drills" prior to performing anything in-water will help the divers better understand what is required of them underwater. This same application of theory can be used in the academic setting as well. For example, when teaching the SDI Marine Eco System Awareness course an instructor could ask the divers to identify benthic (bottom dwelling) and pelagic (mid-water) marine life from a book. By doing so, the students have to practically apply what they have learned about the definitions of benthic and pelagic marine life.
+
+As with any learning situation, there should be an evaluation phase to test how much of the information taught was retained.
+
+#### Evaluation
+
+Once the subject has been presented and the students have had an opportunity to apply and reapply what they have learned, their knowledge retention will need to be evaluated. Of the many ways to test the retention and understanding of subjects that were presented, the most common methods are by examination or skill performance or a combination of both.
+
+Examinations are not always written, although this is ideal for record keeping; they can also be verbal. Throughout the course students should be asked questions. If the answer is correct, the student experiences positive reinforcement; however, if the answer is incorrect, the explanation the instructor provides should serve as an additional opportunity for all students to grasp the concept. This is a form of examination and is best used at the end of each lecture session. To ensure that all students retain and understand what was discussed, questions should be asked of each student in an even distribution.
+
+The written exam is more straightforward. Each student answers the questions to the best of their ability, and hands it in to be corrected. Generally speaking, most SDI written exams have a minimum passing score. However, all of the questions that the student answered incorrectly are to be reviewed together by the student and instructor to ensure that the student has 100% understanding of what they missed.
+
+Skill performance exams are also pretty straightforward. In this case, the student is asked to perform a skill or a series of skills with a predetermined degree of accuracy. How accurately the student performs the skill(s) determines if they will successfully pass or not.
+
+Returning to the SDI Navigation course scenario for an example of a typical skill performance exam: To test the students' skill performance for completing a reciprocal course, the instructor asks the students to swim out 50 kick cycles and return to within 3m /10 feet of where they started. When performing the skill, one diver of the buddy team is to hold the compass and set the direction, while the other is to monitor depth and watch out for obstacles in their path. If the buddy team returns within 3m/10 feet of the location they left from, they have passed the exam.
+
+> The final and perhaps most important "test" is the instructor's assessment of the students' comfort level in the water. The instructor should observe each student through all phases of the dive and evaluate whether their comfort has increased or they are still nervous. Students who continue to be nervous may need additional time with the instructor, possibly on a one-on-one basis.
+
+Ultimately, each phase of teaching is necessary for the next to be successful.
+
+### Learning Objectives
+
+Learning objectives (objectives) are a core part of every presentation, and usually are used in the introduction of new subjects. In some cases the objectives may be described as performance-based outcomes, or behavioral objectives. In other words, they are what the student will understand, be able to describe or be able to do at the conclusion of the presentation, and in the case of behavioral objectives, what behavior will be elicited from the student or subject. By establishing the objectives, an instructor knows what he must teach and the students know what is expected of them. Objectives should be brief, concise and have a measurable outcome, and should be provided in both theory and skill presentations.
+
+When creating objectives, the instructor should evaluate his audience and what they should be able to describe or do at the conclusion of the presentation. In addition, the objective should define any specific conditions under which the objective must be met and how well it must be done. A simple way to remember how to write an objective is the “ABCD” format.
+
+**Audience** – Who?
+
+**Behavior** – What should the student be able to do?
+
+**Condition** – Under what conditions is the student being asked to perform this?
+
+**Degree** – How well must it be done?
+
+CPRFor example, when performing CPR during the CPROX1stAED course, students are asked to maintain a constant rate of compressions per minute and administer two breaths every thirty seconds for a specified period of time. Using the above “ABCD” format, a good example of the objective would be:
+
+“By the end of this exercise, using a mannequin, the student will be able to maintain 100 compressions per minute for one minute, pausing every 30 seconds to administer two breaths. The student will continue this cycle for five minutes.”
+
+In this example we established the Audience, the student; the Behavior, maintain 100 compressions per minute for one minute, pausing every 30 seconds to administer two breaths; the Condition, using a mannequin; and the Degree, continue this cycle for five minutes.
+
+Writing objectives using this format helps ensure that there is little to no ambiguity as to what is expected of the student or instructor. It creates specific, measurable goals that can be quickly and easily evaluated by both the student and the instructor.
