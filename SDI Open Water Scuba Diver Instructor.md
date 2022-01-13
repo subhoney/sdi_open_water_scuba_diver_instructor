@@ -136,6 +136,9 @@
         - [Baby Boomers](#baby-boomers)
         - [Gen Xers](#gen-xers)
         - [Generation "Y" aka the "Millennials"](#generation-y-aka-the-millennials)
+  - [Methods of Instruction 2](#methods-of-instruction-2)
+    - [Phases of Teaching](#phases-of-teaching)
+      - [Assessment](#assessment)
 
 # SDI Open Water Scuba Diver Instructor
 
@@ -1612,3 +1615,29 @@ The final generation is generation "Y" also known as the "Millennials." They wer
 - Perform better when rewarded for job well done
 
 All of the above is a generalization and potentially geographically specific. Without a doubt it may not apply to all students even if they fit into the age categories, but it will help the OWSDI candidate understand and prepare for divers that will be taking courses. There are many factors that affect learning and the message here is to keep the mind open to new ideas and always try a different approach if the current one is not working. Once the instructor better understands the students' background based and their applicable generation, the instructor can tailor his delivery methods as appropriate.
+
+## Methods of Instruction 2
+
+### Phases of Teaching
+
+Now that we've covered the basics of how people learn, we can examine the phases of teaching and how each is applied in a learning environment. This is effectively "how to teach."
+
+The phases of teaching as they relate to this course are: Assessment, Presentation, Application and Evaluation. Each phase is as important as the next, and so is the order in which they are implemented. Each phase and how it relates to the next will be discussed in this section.
+
+#### Assessment
+
+During the assessment phase the instructional staff evaluates each student's general condition as well as the overall dynamic of the group. While conducting the assessment, it's extremely important that the instructors evaluate the big picture so that each element of the students' readiness is considered as part of the whole. This is also the phase in which the students' readiness is evaluated (as discussed in the previous section).
+
+When conducting the assessment the following points should be considered:
+
+First, the instructional staff should assess the students that will be in the course. This is best done during and after the first academic session. Examples of the conditions that should be evaluated include:
+
+**Student Age(s) and Maturity Level** - Is the class comprised of children, adults or a mixture of both, and what is the age range of the adults? The answers to these questions will help determine the most appropriate way to deliver the academics. For example, adults typically ask questions and probe knowledge with little to no incentive to do so from the instructional staff. This will help gauge what the students already know and what needs to be expanded upon. Alternatively, when teaching children, the instructional staff may need to ask them direct or probing questions, as children are often apprehensive or shy. However, maturity levels in children can be wide ranging. Often, a mature youth will assert himself more and learn and perform better than an adult lacking maturity. So beware of preconceptions when assessing students, they may often surprise you.
+
+**Past Water Experience** - What are the students' comfort levels in the water? Have they ever participated in swim classes? Have they dived before? Do they enjoy other water sports? This information will provide valuable insight to the instructional staff as to potential student apprehension that should be addressed.
+
+**PartnersPartner Dependence** - Are there students who are taking the course with a spouse, partner or other family member? If so, do they seem dependent on the other person? Does it help or hinder them? A good example of this is a situation where a father and son take the course together for the first time. In this case, the son may feel dependent on the father's assistance since that's what he has come to learn through his past experiences with his father. If the father is removed from the picture, the child may excel. Of course, often this isn't the best solution. However, a brief and private discussion with the father regarding the situation may open new doors for the child to progress in a more positive manner. Alternatively, an individual may be overly critical of their partner's performance. Again, it's important that the instructors recognize the situation through their assessment and take appropriate action so that each individual can progress in a positive and fun environment.
+
+Remember, in addition to the classroom, this same assessment procedure should be applied before, during and after the first in-water session
+
+Proper and timely assessment of the students will help ensure that the instructional staff do not bore the students with information they already know or overwhelm them by advancing too quickly. It also helps identify and solve issues that could create or already are learning barriers. At the very least, a good assessment will give the instructors a much clearer picture of who their students are, which ultimately helps in the next phase: the presentation phase.
