@@ -123,6 +123,19 @@
       - [Pulmonary Oxygen Toxicity](#pulmonary-oxygen-toxicity)
       - [Carbon Dioxide Toxicity](#carbon-dioxide-toxicity)
       - [Carbon Monoxide Toxicity](#carbon-monoxide-toxicity)
+  - [Methods of Instruction](#methods-of-instruction)
+    - [Learning](#learning)
+    - [Factors that Affect Learning](#factors-that-affect-learning)
+      - [Readiness](#readiness)
+      - [Intensity](#intensity)
+      - [Primacy](#primacy)
+      - [Exercise](#exercise)
+      - [Effect](#effect)
+      - [Generational Differences](#generational-differences)
+        - [The Silent Generation](#the-silent-generation)
+        - [Baby Boomers](#baby-boomers)
+        - [Gen Xers](#gen-xers)
+        - [Generation "Y" aka the "Millennials"](#generation-y-aka-the-millennials)
 
 # SDI Open Water Scuba Diver Instructor
 
@@ -1474,3 +1487,128 @@ Contamination can occur within the compressor system itself due to poor maintena
 Though carbon monoxide itself is odorless and tasteless, it is often accompanied by other contaminates (such as those in an automobile's exhaust), and divers should avoid breathing any gas that has a hint of a smell or taste.
 
 If a diver convulses or becomes unconscious underwater, the diver's buddy should immediately render assistance by taking physical control of the affected diver and then start a controlled ascent to the surface. Upon surfacing administer appropriate first aid measures. Subsequent treatment may include hyperbaric chamber therapy; however, its benefit in helping to flush carbon monoxide from the body remains the subject of debate among medical authorities. Following an acute episode of carbon monoxide toxicity, there is some possibility of subsequent neurological complications arising days, or even weeks, later.
+
+## Methods of Instruction
+
+Educational theory as it applies to explaining and defining "learning" is an ever-changing and rather complex field of study. It is not the intent of this chapter to delve into such theories and analyze what they entail. Rather, the goal is to discuss the basic elements of teaching and learning processes as they apply to the SDI Open Water Scuba Diver Instructor and form the foundation of scuba education. Building on this foundation, we will incorporate how to properly prepare for and deliver a presentation. And finally, we will discuss how to use assistants properly with the SDI Open Water Scuba Diver program and other continuing education courses.
+
+### Learning
+
+SDI Open Water Scuba Diver Instructors are qualified to teach specific programs as defined in the SDI Instructor standards. With that in mind, it's important that the open water scuba diver instructor has a basic understanding of how people learn and how to effectively teach the appropriate concepts and skills. There are three key factors regarding learning that need to be discussed:
+
+**First** - Every person learns differently. Some people read a book once and grasp the subject matter, while others prefer to have the subject read or narrated to them. Still others learn best by applying what they read or hear. Those students need to have "hands on" before they can learn.
+
+**Second** - Learning retention can be identified. When someone learns something new, there is a permanent and observable change in their behavior.
+
+**Third** - Learning retention is quantifiable. There are several ways to measure a student's retention. These include talking to the student about the subject matter, giving the student time to practice what was learned or observed, and by testing the student to evaluate their comprehension.
+
+While this may seem oversimplified, these three factors are what scuba education is basically all about. Now, let's go a little deeper and examine the relevant principles that make up the learning process.
+
+### Factors that Affect Learning
+
+Many things can have an impact on an individual-s ability to learn. Some of these things may be quite obvious, while others may not be as apparent. What-s important is that the educator, the SDI OWSDI - understands the primary principles of learning as they apply to diver education. The learning principles that are relevant to this course are: Readiness, Intensity, Primacy, Exercise and Effect.
+
+#### Readiness
+
+"Learning Readiness" is simply a term used to describe a student's condition in relation to learning, i.e. their preparedness. This includes both immediate and overall condition.
+
+> In regard to their immediate condition, students' readiness can be determined by evaluating whether they are mentally, physically and emotionally prepared to learn.
+
+When evaluating the students' overall condition, one must consider factors such as age, level of education, employment status and to some extent socioeconomic status. These factors can play a major role in the students' combined readiness for a scuba course. For instance, when teaching children and adults simultaneously, the instructor has to consider many different things, first and foremost, the age differences of the participants and how that may affect their preparedness. For instance, the time of day the course is conducted may be a contributing factor. In the morning, an adult may be ready to learn, whereas a child may still want to be in bed sleeping. Conversely, an adult may not be as ready to learn after a long day at work, while a child who is still attending school may already be mentally prepared to learn. While comparing age groups, another consideration is time availability. An adult may be unable to complete a homework assignment due to a hectic work schedule, whereas a child, accustomed to doing homework, may enjoy having a break from the typical homework assignments he gets in school. While this has addressed mental preparedness in relation to students' ages (and additional factors that come with age), there are also physical signs that should be evaluated.
+
+Physical preparedness or the lack thereof (as with hunger and illness) affects both the young and the old. While there is nothing the OWSDI can do about the student being ill, other than to send them home to get some rest - something can be done about hunger. If the course schedule runs through normal meal times, one of two things must take place: meals and refreshments need to be provided or an appropriate break that allows for mealtime should be built into the schedule. If a break is added, ensure that a list of local places to get refreshments or food is provided for those who are unfamiliar with the local area. Another consideration is body temperature; the student may become cold while either in pool/confined water or open water, and this can also be a concern in the classroom. In addition to the obvious concerns about hypothermia, students that are cold will focus only on being cold and not the task at hand.
+
+Evaluating students' readiness is generally a passive exercise on the part of the OWSDI as there is little the OWSDI can do to affect students' overall readiness for a scuba course. However, with proper planning and good judgment, instructors can have an immediate and direct affect on how well the students adapt and progress through the course.
+
+> While the OWSDI may have little control over students' readiness to learn, they have more direct control of the "intensity" of the course.
+
+#### Intensity
+
+Simply put, the principle of "Intensity" is based on the idea that students are more likely to learn skills and gain knowledge from a real situation or a simulated reality situation versus learning from a description or reading about the skills and how knowledge is applied. As such, the progression of becoming an SDI Open Water Scuba Diver is a well-established example of increasing intensity.
+
+First, the student reads the student manual and watches the associated video or takes the online academics. Here the intensity is low since practical application is, for the most part, non-existent. However, in this stage the instructional staff can increase intensity by putting extra effort into making their time out of the water with the student as practical as possible. Using visual aids and utilizing workshops in which the student actively participates in the learning are good examples of ways to increase intensity. A typical example of this is demonstrating the correct way to assemble the scuba equipment in the classroom or on the showroom floor, and then having the student practice it under the guidance of the instructional staff.
+
+Second, the student applies his newly gained knowledge in a controlled in-water situation at the pool or confined water environment. It is here that the student puts into immediate practice the skills he has learned. In this case the student is much more likely to retain the information as they will have applied it in a real situation. Therefore, intensity is much higher in this instance.
+
+Third, the student is placed in an actual open water scuba diving situation to demonstrate that they have retained the material and can successfully apply it to an actual situation.
+
+When considering intensity, ask the following questions: Why is one course more memorable than another? Was the instructor more animated? Were they more dynamic? Did they encourage student participation? All of these may be factors and should be considered when planning and teaching a course. Think about courses you completed that were particularly helpful and fun. What made them so? Chances are good that if you emulate the classes you most enjoyed, your students will enjoy yours as well.
+
+> By incorporating intensity into the course, students are likely to have a better experience and are therefore more likely to retain the information.
+
+In addition to incorporating intensity, it's vital that students are taught and perform scuba skills correctly the first time they are introduced to them. This is what is referred to as "Primacy."
+
+#### Primacy
+
+Primacy is basically a fancy word for "do it right the first time." Prior to reaching the dive professional levels of training, courses consisted of repetitive knowledge and skills, all of which were first presented and demonstrated by the instructor to help ensure accuracy the first time they were attempted by the student, with the notable exception of divemaster and assistant instructor courses.
+
+> Remember, students will generally attempt to perform a skill for the first time exactly as it was shown to them.
+
+At the very least, that is the image that will burn into their memory. This is why a lot of time is spent during a professional level course ensuring skills are performed to demonstration quality. It's much easier to teach a skill correctly and in the correct order the first time than it is to try to help a student unlearn a skill or skills that they have made habit.
+
+One of the best ways for an instructor to follow a functional and relevant pattern of instruction time after time is to use lesson plans and skills checklists. As such, SDI has made available academic presentation forms for use in the classroom and skills cue cards for use in the pool and open water. Not only do these aides help the instructor follow a logical progression, but they help ensure that knowledge and skills are taught in a logical sequence the first time and every time.
+
+The next principle we will discuss is "exercise," which in its purist form basically states that skills and applied knowledge become second nature if they are repeated often. As you read the next section, think about the principle of primacy and why it is integral to the principle of exercise.
+
+#### Exercise
+
+Much of the knowledge and many of the skills involved in scuba diving are unique to the sport. There are very few skills that apply elsewhere, with the exception of certain water sports. As a result, the principle of exercise is a very important part of an SDI Open Water Scuba Diver Instructor's responsibility, since the OWSDI is often responsible for correcting students' errors in practice. Remember, the principle of exercise is basically reinforcing that "perfect practice, makes perfect."
+
+In regard to the academic portion of the course, the student reads the manual or completes the online training, answers the knowledge review questions and finally, reviews this knowledge with the assistant instructor or instructor to ensure comprehension. Throughout the academic sessions, the instructional staff asks redundant questions to reinforce retention.
+
+For the skills or in-water portion of the course, skills are properly demonstrated (remember the principle of primacy) and then are correctly practiced by the student over and over again. It is the OWSDI's role to correct the student should he make a mistake. All of this repetitiveness starts and reinforces the process of making the student's reaction second nature. The end goal is that the new diver will be relaxed and can enjoy dives because they are comfortable in what they are doing, and trust in their ability. This leads us to the final principle, the principle of "effect."
+
+#### Effect
+
+Simply, the principle of effect says that if a student is having a good and enjoyable experience (while learning), then their learning is increased; however, if they are having a bad or negative experience, their learning is decreased.
+
+> This is why positive reinforcement is integral to the success of the students and the principle of effect should be observed and evaluated for each student throughout the course.
+
+If the student is not having an enjoyable time, then it is likely that they are not optimizing their learning. This is also another reason negative reinforcement is discouraged. After all, the student is paying to learn how to scuba dive and should have an enjoyable experience.
+
+In the end, what will be observed is the value of the information provided when it is practiced and applied. Sometimes this doesn't happen during the course but later, after the diver has had an opportunity to apply what they've learned on a pleasure dive. The greatest thing an instructor can hear is "I used what I learned during the course on one of my dives and it worked great."
+
+#### Generational Differences
+
+The final aspect that can affect learning is the age differences between students. This was discussed briefly in the readiness section; in this section we will go into more detail. There are four different sets of students when it comes to age: Silent Generation, Baby Boomers, Gen Xers and Generation Y, each requiring a slightly different method of teaching.
+
+##### The Silent Generation
+
+The Silent Generation describes a group of people born between the early 1920's and early 1940's. While this is a small portion of the students that will appear in the classroom, they do still appear and as such, knowing how they learn and respond is very important. The Silent Generation is known to have a strong work ethic, which carries over into their study habits - they are very disciplined and prefer to schedule courses for the morning hours. Other qualities of the Silent Generation are:
+
+- Respects authority
+- Prefers to communicate in a direct and formal manner
+- Self motivated and does not require a lot of direction
+- Like simple black and white text as opposed to flashy presentations
+
+##### Baby Boomers
+
+Baby Boomers are perhaps one of the larger groups of divers. This describes people born between 1945 and 1964. Like the Silent Generation they are hard workers but maybe even more extreme, and can be workaholics. Baby Boomers are very efficient as a generation and can be perfectionists, and therefore may demand the same from their instructor. Some traits that are unique to them include:
+
+- Prefer tactile learning (hands on)
+- Are sensitive to temperature of learning environment
+- Question authority
+- View criticism in a negative way
+- Like simple black and white text as opposed to flashy presentations
+
+##### Gen Xers
+
+Gen Xers were born roughly between 1965 and 1980. They also comprise a large percentage of people taking dive courses. Like the previous two generations, Gen Xers are hard workers; however, they like to get the job done fast so they can move onto something new. As a result, a Gen Xer may say they understand something just for the sake of moving on. The learning environment for Gen Xers needs to be fun and have a higher degree of freedom. Other traits to be aware of include:
+
+- Respond best to structured learning objectives with clear goals
+- May benefit from having a schedule including when assignments will be due
+- Like immediate feedback on all tasks they are asked to perform
+- Prefer to have courses scheduled in the evening
+
+##### Generation "Y" aka the "Millennials"
+
+The final generation is generation "Y" also known as the "Millennials." They were born between the early 1980's and early 2000. This generation moves in a fast pace world where information is presented in short burst and should be full of action. Colorful PowerPoint® presentations along with videos work well. This is also the generation that will fully embrace online learning technology. They also like to get where they are going fast and if encouraged, will take more courses and move up through the diving ranks. Some characteristics that generation "Y" has include:
+
+- Enjoy humor while learning
+- Do their own research
+- Tolerant of differences in opinion
+- Have limited brand loyalty and will follow a trend or the latest new thing
+- Are team players
+- Perform better when rewarded for job well done
+
+All of the above is a generalization and potentially geographically specific. Without a doubt it may not apply to all students even if they fit into the age categories, but it will help the OWSDI candidate understand and prepare for divers that will be taking courses. There are many factors that affect learning and the message here is to keep the mind open to new ideas and always try a different approach if the current one is not working. Once the instructor better understands the students' background based and their applicable generation, the instructor can tailor his delivery methods as appropriate.
