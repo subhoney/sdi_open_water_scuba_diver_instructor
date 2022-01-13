@@ -143,6 +143,11 @@
       - [Application](#application)
       - [Evaluation](#evaluation)
     - [Learning Objectives](#learning-objectives)
+    - [Instructional Theory - Phases of Learning](#instructional-theory---phases-of-learning)
+      - [Stimulus](#stimulus)
+      - [Response](#response)
+      - [Reinforcement](#reinforcement)
+      - [Motivation](#motivation)
 
 # SDI Open Water Scuba Diver Instructor
 
@@ -1705,3 +1710,39 @@ CPRFor example, when performing CPR during the CPROX1stAED course, students are 
 In this example we established the Audience, the student; the Behavior, maintain 100 compressions per minute for one minute, pausing every 30 seconds to administer two breaths; the Condition, using a mannequin; and the Degree, continue this cycle for five minutes.
 
 Writing objectives using this format helps ensure that there is little to no ambiguity as to what is expected of the student or instructor. It creates specific, measurable goals that can be quickly and easily evaluated by both the student and the instructor.
+
+### Instructional Theory - Phases of Learning
+
+There are four basic phases of learning as they relate to instructional theory. They are: Stimulus, Response, Reinforcement and Motivation. We will discuss each of these phases and provide examples how to use and recognize them.
+
+#### Stimulus
+
+Stimulus is also known as an attention-getting step. At the beginning of a presentation, a statement combined with the appropriate body language should be made to get the students' attention and encourage them to listen to what is being said or demonstrated. An effective attention-getting step will cause a response.
+
+Because presentations will be done above and below the water, ways to get the students' attention in both environments should be considered. On the surface, such an action could be a verbal statement such as: "Have you ever been looking through a magazine or watching a movie and wondered what the marine life was that you were seeing?" This would be a good attention-getting step when teaching the SDI Marine Eco System course.
+
+The attention-getting step may have a few elements that could be included. For instance, it is best if the subject can be related to something the students already know; in the example above it was "magazine or movie." It should also relate to the subject "marine life." While not all attention-getting steps have to relate to the subject, they should at a minimum relate to something the students already know. They should also be easy to apply to the subject that will be presented.
+
+Underwater, the attention-getting step is relatively simple. A sound should be made either by clapping hands together or by using a mechanical noise-making device followed by hand signals advising the students to watch the demonstration.
+
+#### Response
+
+Depending on the type of opening stimulus or attention-getting step, there should be a visual or verbal response from the students indicating that their focus has been established. In a classroom or academic setting students may respond in kind, or visually turn their attention to the presenter. In an underwater setting the students generally respond by physically and visually recognizing the attention-getting step. In most cases, the instructor asks if the students are "OK" to proceed by directing the "OK" hand signal in their direction and waiting to receive the signal in return.
+
+#### Reinforcement
+
+Now that the students have listened to the presentation or performed the skill, it is time to reinforce their response. There will be a difference in how the response is reinforced depending on whether the students and instructor are in or above the water.
+
+Above the water, questions should be asked about the subject that was presented. In the best case scenario the student understands what was presented and answers the question correctly. This would deserve positive reinforcement such as: "that is correct, very good." Should the student answer the question incorrectly, they must be provided with an explanation of the correct answer.
+
+Underwater, if the student performs the skill but not within the acceptable range of success, the SDI OWSDI should demonstrate the skill again, emphasizing the portion of the skill the student did not successfully complete. Once the student performs the skill correctly the positive reinforcement can be as simple as an ok sign or an over-emphasized clap or a handshake. This confirms for the student that they were successful.
+
+> Sincere reinforcement will increase the likelihood of additional positive responses from the students. As such, it is critical that the OWSDI respond to a positive student outcome with genuine sincerity. This is one of the most important aspects of reinforcement.
+
+#### Motivation
+
+Motivation is an essential part of learning. In most cases, students come to learn. Why are they there? Is it because they want to be or does someone else want them there? Are they enthusiastic and raring to go or not at all sure they are ready to venture into the underwater world? These are important points to consider whenever you begin a new class. A dive educator must ensure the students not only learn the concepts but are eager to perfect the knowledge and skills that will enable them to enjoy diving from their very first experience in the water. With proper and straightforward motivation, students will gain the skills and confidence to master the task at hand, and thereby be ready to progress and have fun. Motivation can be delivered several ways: through continual positive reinforcement of proper behavior; by guiding students down a successful and rewarding path; and by providing them with a strong understanding of why they need to know the skill, or why the knowledge is important. An additional simple form of motivation is "cause and effect." For example, educating students as to why they should not hold their breath underwater is a form of motivation. In this case, the motivation is the non-effect: to be able to dive another day.
+
+Returning to our SDI Navigation class, an example of motivation would be to provide a value statement to the students: "By knowing how to navigate underwater the student will easily be able to return to their entry point, therefore making the dive more enjoyable."
+
+As we've said, motivation comes in many forms. In fact, examples can be found almost anywhere. It is the OWSDI's job to find or create appropriate examples, and use them to the students' benefit.
