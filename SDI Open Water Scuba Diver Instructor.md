@@ -136,6 +136,18 @@
         - [Baby Boomers](#baby-boomers)
         - [Gen Xers](#gen-xers)
         - [Generation "Y" aka the "Millennials"](#generation-y-aka-the-millennials)
+  - [Methods of Instruction 2](#methods-of-instruction-2)
+    - [Phases of Teaching](#phases-of-teaching)
+      - [Assessment](#assessment)
+      - [Presentation](#presentation)
+      - [Application](#application)
+      - [Evaluation](#evaluation)
+    - [Learning Objectives](#learning-objectives)
+    - [Instructional Theory - Phases of Learning](#instructional-theory---phases-of-learning)
+      - [Stimulus](#stimulus)
+      - [Response](#response)
+      - [Reinforcement](#reinforcement)
+      - [Motivation](#motivation)
 
 # SDI Open Water Scuba Diver Instructor
 
@@ -1612,3 +1624,125 @@ The final generation is generation "Y" also known as the "Millennials." They wer
 - Perform better when rewarded for job well done
 
 All of the above is a generalization and potentially geographically specific. Without a doubt it may not apply to all students even if they fit into the age categories, but it will help the OWSDI candidate understand and prepare for divers that will be taking courses. There are many factors that affect learning and the message here is to keep the mind open to new ideas and always try a different approach if the current one is not working. Once the instructor better understands the students' background based and their applicable generation, the instructor can tailor his delivery methods as appropriate.
+
+## Methods of Instruction 2
+
+### Phases of Teaching
+
+Now that we've covered the basics of how people learn, we can examine the phases of teaching and how each is applied in a learning environment. This is effectively "how to teach."
+
+The phases of teaching as they relate to this course are: Assessment, Presentation, Application and Evaluation. Each phase is as important as the next, and so is the order in which they are implemented. Each phase and how it relates to the next will be discussed in this section.
+
+#### Assessment
+
+During the assessment phase the instructional staff evaluates each student's general condition as well as the overall dynamic of the group. While conducting the assessment, it's extremely important that the instructors evaluate the big picture so that each element of the students' readiness is considered as part of the whole. This is also the phase in which the students' readiness is evaluated (as discussed in the previous section).
+
+When conducting the assessment the following points should be considered:
+
+First, the instructional staff should assess the students that will be in the course. This is best done during and after the first academic session. Examples of the conditions that should be evaluated include:
+
+**Student Age(s) and Maturity Level** - Is the class comprised of children, adults or a mixture of both, and what is the age range of the adults? The answers to these questions will help determine the most appropriate way to deliver the academics. For example, adults typically ask questions and probe knowledge with little to no incentive to do so from the instructional staff. This will help gauge what the students already know and what needs to be expanded upon. Alternatively, when teaching children, the instructional staff may need to ask them direct or probing questions, as children are often apprehensive or shy. However, maturity levels in children can be wide ranging. Often, a mature youth will assert himself more and learn and perform better than an adult lacking maturity. So beware of preconceptions when assessing students, they may often surprise you.
+
+**Past Water Experience** - What are the students' comfort levels in the water? Have they ever participated in swim classes? Have they dived before? Do they enjoy other water sports? This information will provide valuable insight to the instructional staff as to potential student apprehension that should be addressed.
+
+**Partner Dependence** - Are there students who are taking the course with a spouse, partner or other family member? If so, do they seem dependent on the other person? Does it help or hinder them? A good example of this is a situation where a father and son take the course together for the first time. In this case, the son may feel dependent on the father's assistance since that's what he has come to learn through his past experiences with his father. If the father is removed from the picture, the child may excel. Of course, often this isn't the best solution. However, a brief and private discussion with the father regarding the situation may open new doors for the child to progress in a more positive manner. Alternatively, an individual may be overly critical of their partner's performance. Again, it's important that the instructors recognize the situation through their assessment and take appropriate action so that each individual can progress in a positive and fun environment.
+
+Remember, in addition to the classroom, this same assessment procedure should be applied before, during and after the first in-water session
+
+Proper and timely assessment of the students will help ensure that the instructional staff do not bore the students with information they already know or overwhelm them by advancing too quickly. It also helps identify and solve issues that could create or already are learning barriers. At the very least, a good assessment will give the instructors a much clearer picture of who their students are, which ultimately helps in the next phase: the presentation phase.
+
+#### Presentation
+
+Following the assessment phase, the instructional staff should have a much better idea of whom they will be teaching. As a result, they should be better equipped to formulate and deliver a presentation tailored to the group. The presentation should start with an explanation to the students of what they will be learning. It should be clear and concise and each subject should be separated out into small, manageable portions. Doing so will also help identify logical stopping points in the curriculum, which provides opportunities for the students to ask questions (in private or away from the rest of the class), stretch and get refreshments. For example, when teaching the SDI Underwater Navigation course, the instructor covers the use of mechanical and electronic compasses, what affects them, and how to properly care for and maintain them. Before moving on to the natural navigation presentation, the instructor allows the group to take a five-minute break to refresh themselves.
+
+> When developing presentations, instructors need to be sure that each subject has a clear objective and well-defined timeline. Breaks should be strategically placed within the timeline, and most importantly, the instructor needs to do their best to stick to it.
+
+In addition, the timeline should be communicated to the students prior to starting, so they know what to expect and won't be wondering when they are going to get a break instead of focusing on the subject matter.
+
+Creating and delivering a good presentation is vital to the overall validity and progression of the course. Naturally, there are many factors such as behavioral objectives and visual aids that must be considered when developing presentations. These considerations are covered later in this chapter.
+
+In terms of scuba education, a presentation generally includes a segment or segments of time when the students will apply their newly gained knowledge. In fact, these practice periods are particularly recommended as the class increases in "intensity," since this tends to increase retention (as was explained in the previous section).
+
+#### Application
+
+Very simply, the application phase of learning occurs when students "apply" what they have learned. Such application can be done in almost any location, but as previously discussed in the primacy section, it;s vital that they apply the knowledge in the appropriate sequence and perform skills correctly the first time. Should they fail to perform the skill or apply the knowledge correctly the first time, the SDI OWSDI must be there to correct them in a positive way.
+
+Continuing with the example of the SDI Navigation course: As part of his presentation, the instructor issues each student a compass mounted to a slate. He takes the class outside to the parking lot and gives instruction on how to properly set the bezel while holding the compass level, in order to take a single heading course. He then provides instruction on how to complete a reciprocal course. At the conclusion of his demonstration, he instructs the students to apply the knowledge and complete the same exercise on their own.
+
+Conducting land drills or "dry drills" prior to performing anything in-water will help the divers better understand what is required of them underwater. This same application of theory can be used in the academic setting as well. For example, when teaching the SDI Marine Eco System Awareness course an instructor could ask the divers to identify benthic (bottom dwelling) and pelagic (mid-water) marine life from a book. By doing so, the students have to practically apply what they have learned about the definitions of benthic and pelagic marine life.
+
+As with any learning situation, there should be an evaluation phase to test how much of the information taught was retained.
+
+#### Evaluation
+
+Once the subject has been presented and the students have had an opportunity to apply and reapply what they have learned, their knowledge retention will need to be evaluated. Of the many ways to test the retention and understanding of subjects that were presented, the most common methods are by examination or skill performance or a combination of both.
+
+Examinations are not always written, although this is ideal for record keeping; they can also be verbal. Throughout the course students should be asked questions. If the answer is correct, the student experiences positive reinforcement; however, if the answer is incorrect, the explanation the instructor provides should serve as an additional opportunity for all students to grasp the concept. This is a form of examination and is best used at the end of each lecture session. To ensure that all students retain and understand what was discussed, questions should be asked of each student in an even distribution.
+
+The written exam is more straightforward. Each student answers the questions to the best of their ability, and hands it in to be corrected. Generally speaking, most SDI written exams have a minimum passing score. However, all of the questions that the student answered incorrectly are to be reviewed together by the student and instructor to ensure that the student has 100% understanding of what they missed.
+
+Skill performance exams are also pretty straightforward. In this case, the student is asked to perform a skill or a series of skills with a predetermined degree of accuracy. How accurately the student performs the skill(s) determines if they will successfully pass or not.
+
+Returning to the SDI Navigation course scenario for an example of a typical skill performance exam: To test the students' skill performance for completing a reciprocal course, the instructor asks the students to swim out 50 kick cycles and return to within 3m /10 feet of where they started. When performing the skill, one diver of the buddy team is to hold the compass and set the direction, while the other is to monitor depth and watch out for obstacles in their path. If the buddy team returns within 3m/10 feet of the location they left from, they have passed the exam.
+
+> The final and perhaps most important "test" is the instructor's assessment of the students' comfort level in the water. The instructor should observe each student through all phases of the dive and evaluate whether their comfort has increased or they are still nervous. Students who continue to be nervous may need additional time with the instructor, possibly on a one-on-one basis.
+
+Ultimately, each phase of teaching is necessary for the next to be successful.
+
+### Learning Objectives
+
+Learning objectives (objectives) are a core part of every presentation, and usually are used in the introduction of new subjects. In some cases the objectives may be described as performance-based outcomes, or behavioral objectives. In other words, they are what the student will understand, be able to describe or be able to do at the conclusion of the presentation, and in the case of behavioral objectives, what behavior will be elicited from the student or subject. By establishing the objectives, an instructor knows what he must teach and the students know what is expected of them. Objectives should be brief, concise and have a measurable outcome, and should be provided in both theory and skill presentations.
+
+When creating objectives, the instructor should evaluate his audience and what they should be able to describe or do at the conclusion of the presentation. In addition, the objective should define any specific conditions under which the objective must be met and how well it must be done. A simple way to remember how to write an objective is the “ABCD” format.
+
+**Audience** – Who?
+
+**Behavior** – What should the student be able to do?
+
+**Condition** – Under what conditions is the student being asked to perform this?
+
+**Degree** – How well must it be done?
+
+CPRFor example, when performing CPR during the CPROX1stAED course, students are asked to maintain a constant rate of compressions per minute and administer two breaths every thirty seconds for a specified period of time. Using the above “ABCD” format, a good example of the objective would be:
+
+“By the end of this exercise, using a mannequin, the student will be able to maintain 100 compressions per minute for one minute, pausing every 30 seconds to administer two breaths. The student will continue this cycle for five minutes.”
+
+In this example we established the Audience, the student; the Behavior, maintain 100 compressions per minute for one minute, pausing every 30 seconds to administer two breaths; the Condition, using a mannequin; and the Degree, continue this cycle for five minutes.
+
+Writing objectives using this format helps ensure that there is little to no ambiguity as to what is expected of the student or instructor. It creates specific, measurable goals that can be quickly and easily evaluated by both the student and the instructor.
+
+### Instructional Theory - Phases of Learning
+
+There are four basic phases of learning as they relate to instructional theory. They are: Stimulus, Response, Reinforcement and Motivation. We will discuss each of these phases and provide examples how to use and recognize them.
+
+#### Stimulus
+
+Stimulus is also known as an attention-getting step. At the beginning of a presentation, a statement combined with the appropriate body language should be made to get the students' attention and encourage them to listen to what is being said or demonstrated. An effective attention-getting step will cause a response.
+
+Because presentations will be done above and below the water, ways to get the students' attention in both environments should be considered. On the surface, such an action could be a verbal statement such as: "Have you ever been looking through a magazine or watching a movie and wondered what the marine life was that you were seeing?" This would be a good attention-getting step when teaching the SDI Marine Eco System course.
+
+The attention-getting step may have a few elements that could be included. For instance, it is best if the subject can be related to something the students already know; in the example above it was "magazine or movie." It should also relate to the subject "marine life." While not all attention-getting steps have to relate to the subject, they should at a minimum relate to something the students already know. They should also be easy to apply to the subject that will be presented.
+
+Underwater, the attention-getting step is relatively simple. A sound should be made either by clapping hands together or by using a mechanical noise-making device followed by hand signals advising the students to watch the demonstration.
+
+#### Response
+
+Depending on the type of opening stimulus or attention-getting step, there should be a visual or verbal response from the students indicating that their focus has been established. In a classroom or academic setting students may respond in kind, or visually turn their attention to the presenter. In an underwater setting the students generally respond by physically and visually recognizing the attention-getting step. In most cases, the instructor asks if the students are "OK" to proceed by directing the "OK" hand signal in their direction and waiting to receive the signal in return.
+
+#### Reinforcement
+
+Now that the students have listened to the presentation or performed the skill, it is time to reinforce their response. There will be a difference in how the response is reinforced depending on whether the students and instructor are in or above the water.
+
+Above the water, questions should be asked about the subject that was presented. In the best case scenario the student understands what was presented and answers the question correctly. This would deserve positive reinforcement such as: "that is correct, very good." Should the student answer the question incorrectly, they must be provided with an explanation of the correct answer.
+
+Underwater, if the student performs the skill but not within the acceptable range of success, the SDI OWSDI should demonstrate the skill again, emphasizing the portion of the skill the student did not successfully complete. Once the student performs the skill correctly the positive reinforcement can be as simple as an ok sign or an over-emphasized clap or a handshake. This confirms for the student that they were successful.
+
+> Sincere reinforcement will increase the likelihood of additional positive responses from the students. As such, it is critical that the OWSDI respond to a positive student outcome with genuine sincerity. This is one of the most important aspects of reinforcement.
+
+#### Motivation
+
+Motivation is an essential part of learning. In most cases, students come to learn. Why are they there? Is it because they want to be or does someone else want them there? Are they enthusiastic and raring to go or not at all sure they are ready to venture into the underwater world? These are important points to consider whenever you begin a new class. A dive educator must ensure the students not only learn the concepts but are eager to perfect the knowledge and skills that will enable them to enjoy diving from their very first experience in the water. With proper and straightforward motivation, students will gain the skills and confidence to master the task at hand, and thereby be ready to progress and have fun. Motivation can be delivered several ways: through continual positive reinforcement of proper behavior; by guiding students down a successful and rewarding path; and by providing them with a strong understanding of why they need to know the skill, or why the knowledge is important. An additional simple form of motivation is "cause and effect." For example, educating students as to why they should not hold their breath underwater is a form of motivation. In this case, the motivation is the non-effect: to be able to dive another day.
+
+Returning to our SDI Navigation class, an example of motivation would be to provide a value statement to the students: "By knowing how to navigate underwater the student will easily be able to return to their entry point, therefore making the dive more enjoyable."
+
+As we've said, motivation comes in many forms. In fact, examples can be found almost anywhere. It is the OWSDI's job to find or create appropriate examples, and use them to the students' benefit.
