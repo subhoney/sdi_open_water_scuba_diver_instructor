@@ -161,6 +161,18 @@
       - [Visual Aids](#visual-aids)
       - [Reading Body Language](#reading-body-language)
       - [Trust](#trust)
+  - [Methods of Instruction, Part 4](#methods-of-instruction-part-4)
+    - [Lesson Preperation](#lesson-preperation)
+      - [Classroom](#classroom)
+      - [Pool/Confined Water](#poolconfined-water)
+      - [Open Water](#open-water)
+    - [Training Materials](#training-materials)
+      - [Traditional Training Materials](#traditional-training-materials)
+      - [Online Training](#online-training-1)
+    - [Course Planning](#course-planning)
+      - [Preparation, Planning and Control in Dive Management and Diving Activities](#preparation-planning-and-control-in-dive-management-and-diving-activities)
+    - [Using Assistants While Teaching Courses](#using-assistants-while-teaching-courses)
+    - [Summary: Chapters 11, 12, 13, and 14](#summary-chapters-11-12-13-and-14)
 
 # SDI Open Water Scuba Diver Instructor
 
@@ -1863,3 +1875,133 @@ Additional signs of nervousness that may be observed in a student include consta
 A strong rapport is built on trust, the more trust there is in a relationship, the better the rapport will be. Students have a basic level of trust in their dive leader(s) or they would not have enrolled in the course. However, it is up to the dive professional to nurture and grow that trust. This can be done several ways and at different times. For instance, the dive professional can contact the student before the course begins to introduce himself, answer any questions the student may have and describe the course progression. During the course, the dive professional should be friendly, helpful and approachable. The professional must follow through with requests made of him, and above all, treat every student with respect. Once a good rapport is established, the student will likely come back to take additional courses as well as recommend the dive professional and dive facility to their friends and family.
 
 Effective communication is not an innate human trait. It must be learned, practiced and carefully applied. All of these considerations require that the dive professional do a self-assessment and review their own performance prior to conducting a course. It is very important that the OWSDI looks and feels professional and prepares appropriately so that trust is established with the students.
+
+## Methods of Instruction, Part 4
+
+### Lesson Preperation
+
+Up to this point, a great deal of information from learning theory to presentation considerations has been covered. In this section, it all comes together. Here we will discuss how to prepare for classroom and water sessions as well as how to deal with and avoid potential issues that may arise in each. We will start in the classroom.
+
+#### Classroom
+
+It is very important to understand how to effectively use and prepare for an academic or classroom session. The academic session, although traditionally conducted in a classroom, can be done at the dive site. In fact, for continuing education or refresher courses this may be an ideal setting. Whichever setting is used, proper preparation is required for each.
+
+First, make sure all supplies needed for the course are easily accessible. The best thing to do is prepare a list of what is needed for every class. This list may include a computer, digital projector, and whiteboard with markers, instructor materials and visual aids. Make sure all electrical equipment is working properly and ensure there are extra materials for students, such as pencils, answer sheets or course materials. Ensure the classroom or area is clean, organized and presentable to the students. Pick up any trash or clutter that may be lying around. Remove any training aids that were used in previous courses. Make sure the lights are on and if there is a video of the underwater world available, make sure it is running and the volume is set at a moderate level.
+
+When preparing to conduct the academic session at the dive site, ensure there is a shaded or covered area so the divers can get out of the sun or rain. The same general supplies will be needed; the only additional item that may be needed is some form of ground cover such as a tarp or blanket. The advantage of covering the academics onsite is that the students can apply what was discussed immediately.
+
+> A lesson plan should be prepared that includes all the subjects that will be covered as well as the estimated time to cover each subject.
+
+When planning a class session, be sure to include breaks every so often. If the session is in the morning, the lectures can go a little longer. However, if the session is in the evening, it is better to include frequent short breaks. While a lesson plan outlines all the topics that will be covered, an academic presentation form like the one below helps present each topic individually. The academic presentation form brings together all the elements that were previously discussed in the Teaching Theory and Methods section.
+
+The academic session of a course is the time to cover subjects in detail and answer all of the questions the students may have. This is the students’ learning phase and it is the instructor’s responsibility to ensure they are learning and understanding all that is presented.
+
+At the end of the academic session a brief explanation should be given of what to expect during the next academic session or what the students can expect at the pool/confined water or open water session. Be sure to provide details such as time, address, directions, where to park and what to do once they arrive.
+
+Click [here](https://www.tdisdi.com/wp-content/uploads/files/IT_PDFs/Forms/Academic_Presentation_Examples.pdf) to download a PDF of a sample academic presentation form.
+
+#### Pool/Confined Water
+
+The pool or confined water session of the course is the time when students are exposed to and practice skills in a controlled environment. Unlike the academic session, the practical session is more about doing and less about lecture.
+
+One of the biggest considerations when preparing for the pool/confined water session is the site. What site will be used? Will there be lifeguards or other surface support? If using a pool, is the pool reserved and what section of the pool will be needed, shallow or deep? Just as was done for the academic session, a list of supplies should be created. The confined water list should include: weights, extra cylinders, extra scuba equipment, first aid supplies, oxygen kit and dive flag if using a confined water site that is exposed to open water. Be sure to bring along any training aids that may be needed such as objects to photograph when teaching a photo or video course and floating hoops for the buoyancy course.
+
+When the students arrive at the pool/confined water site a briefing should be conducted that covers emergency procedures, a review of the knowledge and skills that will be covered during the session and finally, what hand signals will be used. The in-water presentation form can be completed and used by the instructor along with the cue cards.
+
+Click [here](https://www.tdisdi.com/wp-content/uploads/files/IT_PDFs/Forms/In_Water_Presentation_Example.pdf) to download a PDF of a sample in-water presentation form.
+
+By using the in-water presentation form and the cue cards the instructor should not overlook anything. The primary purpose of the pool/confined water session is to get the students in the water so they can apply what they have learned. This provides the instructor an opportunity to assess comfort level and retention of knowledge. The key here is to maximize the time in the water.
+
+Skills must be briefed and demonstrated by the instructor so that the students have a clear understanding of what is expected. After every skill performance an evaluation should be conducted explaining how well the student did or correcting any poor skill performances. If a correction is needed, try to start and end the evaluation of students with a positive element, putting the negative or correction in the middle.
+
+The pool/confined water session should be wrapped up with what can be expected in the next confined water session or what to expect during the open water session.
+
+#### Open Water
+
+Preparing for the open water session is similar to that of the pool/confined water. The biggest difference is that open water is used for final assessment. This is where the students get to demonstrate what they have learned and apply their skills in a real world environment.
+
+If this is the first time that the students are getting into the water (since not all specialties require a confined or pool session) start them off slowly and in a shallow area if possible. By taking it slow, the instructor gets a chance to familiarize themselves with the students' abilities prior to getting into deep water.
+
+Some areas that differ from confined or pool sites and should be noted are: tides, currents and boat traffic. When conducting the open water dives it is also good to have an assistant to help with control and any equipment issues that may arise.
+
+### Training Materials
+
+Now that the various portions of how to prepare for the course have been covered, it's time to discuss what materials the students have the option to use and how to use those materials effectively. In this section traditional materials (printed manuals) and online training (also known as blended learning) will be discussed.
+
+#### Traditional Training Materials
+
+In the early days of diving, the instructor had to directly convey information to the students since there were no training materials available. Generally, instructors taught diving the same way they had been taught, which in many cases was the "military way." The challenge for the instructors was to make the training enjoyable.
+
+As years passed, various scuba training agencies were formed and with them, their own brand of training materials. Initially, the training material supported what the instructor was teaching. However, over time training material was standardized, and it became the instructor who supported the training material. In essence, the traditional method consists of the student reviewing the academic material prior to practical training with the instructor. As we have come to find, this method has been successful and has established a proven track record.
+
+With the SDI System, the student first reads the manual and completes the knowledge quest answers. In addition they watch the CD or DVD. By using these materials the student is exposed to the information several times before they attend class. The repetition this system provides helps the student to retain the information.
+
+During the class, the instructor reviews what the students have previously read and watched and increases the intensity by interjecting personal experiences. Additionally, he has the opportunity to begin teaching the students hand signals and to build a rapport with them.
+
+As stated above, the student completes the knowledge quest booklet prior to the academic session. The instructor and students review the questions together to ensure the students have 100 percent comprehension of the information each question is testing. Following the review, the instructor collects the students' booklets and they become part of the students' training record. While this traditional method has been used successfully for many years, an alternate option is online learning.
+
+#### Online Training
+
+Though the name "online training" implies that the course is completed solely online, a better name for this style of learning is blended learning. Online training simply replaces a "hard copy" student manual. And, just like students taking a traditional class, online students must complete required sections prior to attending class.
+
+To start, students log into the TDI/SDI website (https://www.tdisdi.com) or SDI Online Training website (www.sdi-onlinetraining.com), set up their personal profile and begin their academics. This method is very convenient for students who have Internet access.
+
+During the sign up process the student must designate a facility with which they will be completing their training. After the student has set up their profile, the store they have designated will be notified. One of the major differences between traditional and online instruction is that the instructor can monitor the online student's online progress in real time. This gives the instructor or dive center the chance to send emails noting the student's good work, send dive center news letters or inform them of when the next classroom or pool session will be.
+
+Once the students have completed the online academics, they are prompted to print out a detailed report to give to the instructor as verification that they have completed the online training.
+
+After students complete the online academics, they schedule a time to go to the dive center and meet with an instructor. The SDI OWSDI now has an opportunity to meet the student face to face, get to know them, show them around the dive center and introduce them to the staff. The instructor has the opportunity to review the detailed report and answer any questions the student has, and ensure the student understands the subject. As stated previously, even though the SDI Online Training is set up to ensure 100 percent remediation, it is still important that the instructor ensures the student is comfortable with the subject matter.
+
+Both the traditional and online learning have unique benefits; however, both accomplish the same goal: to educate the student about scuba. It is simply how each is used that makes the difference. Some students learn better by interacting with an instructor while others prefer to learn on their own and at their pace.
+
+### Course Planning
+
+This section will cover overall preparation and planning for a course, including dive management and various diving activities as they pertain to proper procedures for the water portion of a course. The information in this section is broad in scope and can be applied to any course the SDI Instructor may be teaching.
+
+#### Preparation, Planning and Control in Dive Management and Diving Activities
+
+Preparing and planning for a course begins long before the students ever set foot in the dive center. There are a lot of aspects the dive professional has to consider and many of them need to be planned well in advance of teaching a course. Examples of these include ensuring the proper dive equipment is available and that it has been serviced; checking that all membership fees and insurance premiums are paid; creating a course schedule for the next 12 months and being sure the pool/confined water and open water sites and boats will be available when needed. While it may seem premature to be thinking about these details, none of this is easy to deal with at the last minute. The SDI Dive Center will likely have established procedures and prepared many of these items; in fact, contracts may already be established for the pools or boats..
+
+When planning the season's course schedule, a logical order should be followed. There should be a set of courses that flow through the season starting with the SDI Open Water Scuba Diver course and ending with SDI Assistant Instructor course. It is important that each year's schedule has professional level courses like assistant instructor because a critical part of dive management is proper support. At various points along the schedule there should be continuing education courses, rescue and non-training fun dives.
+
+Fun dives that involve the customers and dive center staff are a great way to get to know customers and build a social network for the divers where they can find dive buddies and learn about opportunities to continue diving. During a diving event that is sponsored by the dive center there should be as many trained professionals on site as possible to serve as eyes, ears or dive buddies. 
+
+> Proper support during diving activities is invaluable and a great risk management tool, even for the fun dives.
+
+Assistant instructors and divemasters can be an extra set of eyes and quite commonly an extra set of ears. It is not uncommon for the students to confide in the assistant about their confusion or lack of understanding about subjects or skills. The assistant can then bring this information back to the instructor so the subject can be reviewed or the skill demonstrated again. Assistants are also invaluable when it comes to clerical or administrative tasks.
+
+There is a lot of paperwork that goes into teaching a course and having an extra set of eyes to review that paperwork will ensure it is completed properly. If all the paperwork is completed and the students have been registered, this all adds up to great customer service and reduced liability.
+
+Planning for the in-water portion of a course is no easy task but there are some things that can be done to smooth that process. As discussed earlier, knowing that the pool, open water and boats are available is a big relief but alternative sites still need to be considered. One factor that cannot be controlled is the weather; because of weather, alternate sites need to be planned for and available. If there are no alternate sites then extra days need to be built into the course schedule.
+
+When thinking of alternate sites, one must look beyond open water sites. Outdoor pools and confined water sites can also be affected by the weather. While it may be harder to find an alternate pool or confined water site, it is not impossible. When looking for an alternate site, think of normal weather patterns and the typical way a storm comes in. This will indicate which way the waves will hit the shoreline during both good and bad weather. Always have a backup plan ahead of time so that if something happens, a change of plan takes place and the course runs smoothly.
+
+Another important matter to address is emergency procedures. When teaching from a boat or at a pool, much of the required emergency equipment should already be available: phone or radio, oxygen kit, AED and trained personnel. However, when teaching at a remote site, each of these needs to be considered and addressed. Have an emergency management plan prepared for each dive location. This plan should include local emergency contact details, evacuation plan, and location of nearest medical facility. An onsite first aid kit and an oxygen kit should be available. If the dive site does not have cell phone coverage then the nearest phone needs to be located. Each site's emergency management plan needs to be in writing and communicated to all support staff.
+
+The final item to consider is whether the site is appropriate for the course that will be taught. When teaching a Marine Eco System course a site with the widest range of marine life is the best choice. And when planning a boat specialty, remember to plan it for a date and/or season when a boat will be available
+
+All that is left are the last minute details, which are inevitable but manageable if all the larger details have been worked out. Remember, a successful dive professional follows the six Ps: Proper Prior Planning Prevents Poor Performance.
+
+If all foreseeable logistics have been thought out and planned for, courses will run smoothly and the students will have an enjoyable experience.
+
+### Using Assistants While Teaching Courses
+
+Using an assistant while teaching courses can be a huge time saver and reduce the normal stress levels of running a course. During the classroom portion of the training the SDI Assistant Instructor can conduct the knowledge quest review under the guidance of an active OWSDI. The assistant is also a second set of eyes to look over all the paperwork the OWSDI will need to review. The assistant can check that all forms are signed and initialed, verify that knowledge quest review sheets are turned in and ensure that medical history forms have been completed.
+
+During the pool/confined water and open water portions of the training the SDI Assistant Instructor lends an extra set of eyes and ears that can watch and listen for worrisome situations that may occur and help eliminate those situations before they can cause problems.
+
+Either in the pool/confined water or during the dives, the assistant can watch the rest of the group while the OWSDI works one-on-one with a student. The SDI Assistant Instructor can also lead dives 3 and 4 during the open water dives under the indirect supervision of the instructor, so long as the SDI OWSDI has evaluated and approved all of the skills and the students are proficient with them prior to the start of dives 3 and 4.
+
+> The assistant instructor cannot evaluate any skill required for certification either above or below the surface of the water whether in the pool/confined water or during the open water dives.
+
+How an assistant handles a problem either above or below water will largely depend on whether or not the OWSDI is present. Prior to the dive, the assistant and the OWSDI should discuss how to handle the various situations that could occur. Just as it is for the divers, it is very important for the assistant and the instructor to establish a clear set of hand signals. These hand signals should include an emergency signal that would indicate the divers need to surface or that the OWSDI will be surfacing with a diver and the assistant should bring all the other divers to the surface in a controlled manner.
+
+Using assistants during courses is also a great way to train them. An assistant under the watchful eye of an OWSDI can learn a lot and be exposed to students in "real world" situations. An assistant that has worked with various instructors learns different styles of teaching and different problem solving methods. This will smooth their transition into higher levels of professional training.
+
+The more an assistant and OWSDI work together the more they will know what to expect of each other should a situation arise. A good assistant is invaluable to an instructor.
+
+> While it is difficult to establish a procedure to handle every situation that may occur, it is recommended that each facility try to establish a standard procedure for the most common scenarios. For this reason, it is highly recommended that facilities conduct an annual dive professional training session prior to the diving season.
+
+### Summary: Chapters 11, 12, 13, and 14
+
+This section covered everything from the basics of learning, and the phases of teaching to lesson preparation and course planning. Various methods of communication and the potential pitfalls to be aware of when delivering a presentation were discussed. Armed with this and the remainder of the information that was covered in the chapter, the SDI OWSDI should be able to successfully create and deliver a well-rounded presentation. In fact, after reading this chapter, one could say that the goal is to increase the "intensity" by applying what has been learned from this chapter in a practical, hands-on setting, thus increasing learning retention.

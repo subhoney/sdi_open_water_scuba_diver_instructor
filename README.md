@@ -13,3 +13,5 @@ SDI doesn't do printed manuals anymore. That kinda bugs me. This is a printable,
 1. Accident report form for personal use
 1. Improve the "Ambient Pressure to Depth" material in the pressure section,
 add references to it in the partial pressure (Dalton's Law) section
+1. Add formal lesson plan for classroom instruction
+1. Add private hand signal page for OWSDI and AIs
