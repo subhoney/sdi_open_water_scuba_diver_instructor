@@ -177,6 +177,7 @@
     - [SDI Open Water Scuba Diver Program](#sdi-open-water-scuba-diver-program)
     - [SDI Advanced Adventure Specialty](#sdi-advanced-adventure-specialty)
     - [Teaching Specialty Courses](#teaching-specialty-courses)
+    - [SDI Rescue Diver Course](#sdi-rescue-diver-course)
 
 # SDI Open Water Scuba Diver Instructor
 
@@ -2122,3 +2123,18 @@ A complete calendar for six months, or better yet a year, listing all specialtie
 Specialty training not only improves a diver's skills and knowledge, but also keeps them involved with diving. It gives the instructor a variety of classes he can teach so he will not get tired of teaching the same class all of the time. Additionally, specialty classes usually don't take as much time to teach, so instructors have the opportunity to make more money per hour teaching a specialty.
 
 > Just as it's recommended for divers to continue their dive education, dive leaders are encouraged to do the same. Dive leaders who actively participate in specialty or technical training set a good example for others and are more likely to pass their enthusiasm for the sport on to their students.
+
+### SDI Rescue Diver Course
+
+As previously stated an SDI Open Water Scuba Diver Instructor is qualified to teach several core programs without being required to take additional training beyond that of the instructor course. The SDI Open Water Scuba Diver course, the Advanced Adventure, Rescue Diver, Divemaster and Assistant Instructor make up the core programs. Each program is fun, interesting and challenging to teach. The SDI Open Water Scuba Diver program introduces the new diver to the underwater world. The SDI Advanced Adventure course allows them to try several specialties to better decide which area(s) of diving they may wish to explore. The Rescue Diver program will provide the student insight into how to become more self-sufficient and recognize and address problem situations before a rescue is required. Should a rescue be required, the course will train them for that as well.
+
+During the SDI Open Water Scuba Diver course some basic self-help and buddy aid skills were introduced to the students. The SDI Rescue Diver program will expand on what to look for in oneself and one's buddy to help eliminate a potential accident from occurring. Students will learn how to handle an accident should it occur and what steps should be undertaken to properly attend to a diving accident victim.
+
+> No matter what area(s) of diving interest a student has they should all be encouraged to complete the SDI Rescue Diver program when they are eligible.
+Often students have stated that the SDI Rescue Diver program was one of the most demanding yet enjoyable courses they have taken.
+
+The SDI Rescue Diver course is a prerequisite for the SDI Master Diver (non-leadership) level as well as the SDI Divemaster (entry-level leadership) level. To begin the SDI Rescue Diver Course the student must be a minimum of 18 years of age (15 with parental approval) and either an advanced diver or an open water scuba diver with a minimum of 40 logged dives. Additionally, the rescue student must have documentation of current CPR and first aid training. Student materials for the rescue diver course include a student manual, knowledge quest manual and the diver's slates. Instructor materials consist of the instructor guide, resource CD and rescue scenario slates. The suggested hours for the rescue course are twelve (12), with a recommended minimum of eight (8) in the open water.
+
+As with most SDI courses, the waiver / release and medical questionnaire must be completed prior to starting the course. Students under the age of eighteen (18) must have parent or legal guardian approval prior to beginning the course. Once the course is completed all paperwork must be retained in the student's SDI Student Record Folder. If this is the first course an individual has taken through the facility, a new training record folder should be completed and used for the course.
+
+Similar to other SDI programs, the student completes the student manual and knowledge quest prior to the academic session, during which the instructor reviews the materials and answers any questions the students may have. Pool/confined water is not required but it may help to streamline the open water sessions. During the in-water training portion of the rescue course the student is introduced to buddy aid and assistance skills. They practice these skills until they are proficient in them. During the final portion of the rescue program, students are exposed to various scenarios for which they must make the appropriate decisions on handing and executing a thorough rescue. The SDI Rescue Instructor Guide and Rescue Instructor Resource CD are great resources for information about how to structure the course.
