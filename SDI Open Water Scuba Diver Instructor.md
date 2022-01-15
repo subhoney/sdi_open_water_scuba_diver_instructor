@@ -188,7 +188,7 @@
     - [SDI Products and Procedures](#sdi-products-and-procedures)
       - [How to Purchase SDI Products](#how-to-purchase-sdi-products)
       - [Registration Procedures](#registration-procedures)
-    - [Summary: Chpaters 15 and 16](#summary-chpaters-15-and-16)
+    - [Summary: Chapters 15 and 16](#summary-chapters-15-and-16)
 
 # SDI Open Water Scuba Diver Instructor
 
@@ -2265,6 +2265,6 @@ As outlined above there are several times a dive professional may need to intera
 
 Before any training begins students have to be acquired. The instructor, along with every other dive professional affiliated with the dive center, has a responsibility to help the dive center acquire students to fill classes. Full classes equal active divers, which promote equipment sales and travel.
 
-### Summary: Chpaters 15 and 16
+### Summary: Chapters 15 and 16
 
 Chapters 15 and 16 have shown there are several opportunities for an instructor to gain experience applying what they have learned during their course and why it is important for the instructor to understand the entire process of scheduling, marketing and conducting a course.
