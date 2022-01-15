@@ -195,6 +195,8 @@
     - [Recruiting New Divers](#recruiting-new-divers)
     - [Diver Retention](#diver-retention)
     - [The Dive Professional's Role in Sales](#the-dive-professionals-role-in-sales)
+    - [Creating and Maintaining a Center of Activity](#creating-and-maintaining-a-center-of-activity)
+    - [Expanding Beyond the Open Water Scuba Diver Instructor](#expanding-beyond-the-open-water-scuba-diver-instructor)
 
 # SDI Open Water Scuba Diver Instructor
 
@@ -2385,3 +2387,54 @@ In the eyes of the student, the SDI Dive Professional is the expert and the pers
 However, during academic presentations, some dive professionals may still feel uncomfortable with "sales." That is okay! In this situation, let students know that the dive center has an individual who is an expert at identifying a diver's equipment needs. During the first equipment familiarization session, the dive professional should invite one of the dive center's equipment experts to the session to deliver a brief but coordinated presentation. Throughout the course, the dive professional should "create the need" for a diver to own their equipment by clearly explaining the benefits of ownership. Explain that divers who own their equipment will dive more often because they are comfortable. Reinforce that it's a good idea for the students to make an appointment or otherwise get advice from a dive center equipment expert on what equipment may best fit their unique needs. This approach creates two experts, one who teaches diving and one who knows and sells equipment.
 
 An SDI Dive Professional may be expert at many things, but no single person is an expert at everything. It's okay to refer students to another person who is an expert in another field such as equipment sales, and doing so simply reinforces the mantra of an SDI Dive Center - that the SDI Dive Center is the customers' all-encompassing resource for everything related to scuba diving: an inviting and comfortable "center of activity."
+
+### Creating and Maintaining a Center of Activity 
+
+A dive center only has one opportunity to make a great first impression on a potential customer or student. That first impression is imprinted when the customer walks into the dive center. The second impression, while not as indelible as the first, is as important and is made when they are greeted. Obviously, every staff member should take responsibility for doing whatever it takes to help make each and every customer's first and second impressions as good as possible.
+
+It's recommended that one or more dive center staff meetings be devoted to discussing what should be done to help mold customers' first and second impressions so that they are lasting, consistent, and above all good. Some topics to discuss include:
+
+- What do other businesses do to help create a good impression?
+- What do other businesses do that creates a poor impression?
+- What are appropriate and inviting greetings? What should be avoided?
+- What do other businesses do to create a welcoming atmosphere? What are turn-offs?
+
+Through this discussion, it should be easy to identify things that work and those that do not, as well as what's appropriate and what isn't. However, this effort will be fruitless without follow through. Dive center staff and dive professionals must do everything they can to implement new ideas and constantly seek ways to improve. Here are a few things to consider when making the dive center atmosphere more inviting to customers: Window DecalsCreate a daily checklist that should be completed before the dive center opens:
+
+- Clean the glass front door.
+- Clean up the parking area.
+- Clean up the store, especially sales counters and every area a customer can see or will be exposed to.
+- Clean the dressing and bathrooms. Make sure there are toilet and hand paper, and check often to see if it needs to be replaced.
+- Clean the floors.
+- Check and fix displays.
+- Check and fix lighting. Make sure showroom and displays are well lit.
+- Additional items as they apply to the dive center's configuration.
+
+Create inviting areas of activity within the dive center:
+
+- Have a TV with underwater activities playing.
+- Create a CLEAN and SAFE area for children to play.
+- Have a travel center with travel brochures and posted dates of upcoming trips.
+- Have a training center with training materials and posted dates of upcoming courses.
+- Have available a printed brochure of all the courses being conducted in the next six to twelve months.
+
+Ensure the staff appears and acts consistently:
+
+- Every staff member should be in a dive center "uniform" and wear a name tag.
+- Use a comfortable and brief greeting for in-store and phone customers.
+
+The important thing to remember is that the dive center should be inviting to the customer and provide easy access to the equipment and information they seek.
+
+> If a customer has a pleasant experience, they will not only come back but may also bring family members, friends and co-workers with them — other potential customers with whom the dive center only has one opportunity to make a great first impression.
+
+### Expanding Beyond the Open Water Scuba Diver Instructor
+
+Becoming and working as an SDI Open Water Scuba Diver Instructor is just one option in the huge array of opportunities available in the dive industry, some of which include part time or full time employment as an instructor, equipment sales expert or repair technician. There are also opportunities to work for various equipment manufacturers, destination resorts, charter boats, exotic dive centers and training agencies. If a career in the diving industry is of interest there are logical steps to follow.
+
+- Do the necessary homework and research in order to find what opportunities are available.
+- Find out what training, skills and tools are required for the job.
+- Research where the training, skills and tools can be obtained.
+- Identify the cost of acquiring the training, skills and tools.
+- Develop a step-by-step plan that should include a time line to completion, a budget and the milestones along the way in order to reach the end goal.
+
+As you've seen, an SDI Open Water Scuba Diver Instructor has many important roles; however, it's every industry professional's responsibility to properly promote our sport to others who show interest in the underwater world. We believe that you understand this commitment, and thank you for choosing International Training and SDI as your certification agency of choice and good luck.
