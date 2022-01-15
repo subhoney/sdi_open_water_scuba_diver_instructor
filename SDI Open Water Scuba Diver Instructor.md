@@ -148,6 +148,10 @@
       - [Response](#response)
       - [Reinforcement](#reinforcement)
       - [Motivation](#motivation)
+  - [Methods of Instruction, Part 3](#methods-of-instruction-part-3)
+    - [General Teaching Methods](#general-teaching-methods)
+      - [Oral Presentations](#oral-presentations)
+      - [Guided Discussion](#guided-discussion)
 
 # SDI Open Water Scuba Diver Instructor
 
@@ -1746,3 +1750,29 @@ Motivation is an essential part of learning. In most cases, students come to lea
 Returning to our SDI Navigation class, an example of motivation would be to provide a value statement to the students: "By knowing how to navigate underwater the student will easily be able to return to their entry point, therefore making the dive more enjoyable."
 
 As we've said, motivation comes in many forms. In fact, examples can be found almost anywhere. It is the OWSDI's job to find or create appropriate examples, and use them to the students' benefit.
+
+## Methods of Instruction, Part 3
+
+### General Teaching Methods
+
+Simply put, teaching is the conveyance of information from one person to another. One responsibility of the teacher is to assess what the student knows already and build upon the existing knowledge. There are a few ways a student can obtain additional knowledge - through oral presentations, online training, Internet forums, guided discussion or doing pleasure dives. In this section, oral presentations, guided discussion and online training will be discussed.
+
+#### Oral Presentations
+
+Perhaps one of the longest standing and best-tested forms of teaching is oral presentation. This form of teaching appeals to a wide range of students and teachers alike. In face-to-face lectures, the students can ask questions as subjects are presented and interact with the instructor one-on-one. Additionally, the instructor has the opportunity to verbally test the students, as well as see and respond to their reactions. The other large benefit is the building of rapport between both parties (this will be discussed later in Factors That Influence Communication).
+
+Presenting information to a group of students is the fundamental basis of scuba instruction. As such, it is important for the dive professional to overcome any fear of public speaking they may have. While there are tricks to controlling this fear, a little nervousness is not a bad thing. Being nervous indicates that the presenter cares about the impression they make, and that the information they are providing is correct and in a logical order.
+
+Another important part of a presentation is the use of visual aids. In some cases, visual aids are nothing more than handouts of the information that will be discussed. As an example, when giving a presentation using PowerPoint ®, students can be handed an outline so that they may follow along. Simply print out the slides using the handouts feature in the program. Providing the outline to the students will help them stay focused on what's being taught, as well as give them a handy place to take notes.
+
+As was discussed in earlier sections, utilizing the equipment the students are learning about during a presentation is highly recommended, and a great way to implement the use of training aids. For example, when teaching the SDI Underwater Navigation course and discussing compasses, compasses can be handed out for the students to hold and look at. Many people learn better by touching and doing.
+
+Oral presentation is an age-old, tried and tested method of information delivery. However, over time many modifications have been made to the traditional format of the teacher addressing a group. One such modification is bringing the group together for discussion under the guidance of the teacher/instructor.
+
+#### Guided Discussion
+
+Guided discussion can be a great way for the instructor to answer any questions the students have, while at the same time assessing how much information the students have retained. In this format, students get a chance to interact with each other and discuss the topics that were covered. In this scenario, it's important that the instructor only listen and interact or interject when needed. However, it is the instructor's responsibility to keep the discussion on track.
+
+> The two key factors the instructor should constantly monitor and maintain are topics and time.
+
+The topics under discussion should relate to the course and not go beyond its scope. It's easy for anyone to get off on a tangent, and it's human nature to follow along. Stopping these distractions when they start is the instructor's responsibility and will keep the discussion on track. In reference to time, open or guided discussions tend to go on too long without proper guidance; therefore, the duration of the discussion should be just long enough for all of the relevant questions to be answered and for the objective to be met. Managing guided discussions takes practice, but if done properly, they can be very effective and more fun for the student.
