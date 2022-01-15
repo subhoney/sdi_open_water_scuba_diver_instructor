@@ -171,6 +171,7 @@
       - [Online Training](#online-training-1)
     - [Course Planning](#course-planning)
       - [Preparation, Planning and Control in Dive Management and Diving Activities](#preparation-planning-and-control-in-dive-management-and-diving-activities)
+    - [Using Assistants While Teaching Courses](#using-assistants-while-teaching-courses)
 
 # SDI Open Water Scuba Diver Instructor
 
@@ -1966,6 +1967,29 @@ Fun dives that involve the customers and dive center staff are a great way to ge
 
 > Proper support during diving activities is invaluable and a great risk management tool, even for the fun dives.
 
-Assistant instructors and divemasters can be an extra set of eyes and quite commonly an extra set of ears. It is not uncommon for the students to confide in the assistant about their confusion or lack of understanding about subjects or skills. The assistant can then bring this information back to the instructor so the subject can be reviewed or the skill demonstrated again. Assistants are also invaluable when it comes to clerical or administrative tasks
+Assistant instructors and divemasters can be an extra set of eyes and quite commonly an extra set of ears. It is not uncommon for the students to confide in the assistant about their confusion or lack of understanding about subjects or skills. The assistant can then bring this information back to the instructor so the subject can be reviewed or the skill demonstrated again. Assistants are also invaluable when it comes to clerical or administrative tasks.
 
 There is a lot of paperwork that goes into teaching a course and having an extra set of eyes to review that paperwork will ensure it is completed properly. If all the paperwork is completed and the students have been registered, this all adds up to great customer service and reduced liability.
+
+Planning for the in-water portion of a course is no easy task but there are some things that can be done to smooth that process. As discussed earlier, knowing that the pool, open water and boats are available is a big relief but alternative sites still need to be considered. One factor that cannot be controlled is the weather; because of weather, alternate sites need to be planned for and available. If there are no alternate sites then extra days need to be built into the course schedule.
+
+When thinking of alternate sites, one must look beyond open water sites. Outdoor pools and confined water sites can also be affected by the weather. While it may be harder to find an alternate pool or confined water site, it is not impossible. When looking for an alternate site, think of normal weather patterns and the typical way a storm comes in. This will indicate which way the waves will hit the shoreline during both good and bad weather. Always have a backup plan ahead of time so that if something happens, a change of plan takes place and the course runs smoothly.
+
+Another important matter to address is emergency procedures. When teaching from a boat or at a pool, much of the required emergency equipment should already be available: phone or radio, oxygen kit, AED and trained personnel. However, when teaching at a remote site, each of these needs to be considered and addressed. Have an emergency management plan prepared for each dive location. This plan should include local emergency contact details, evacuation plan, and location of nearest medical facility. An onsite first aid kit and an oxygen kit should be available. If the dive site does not have cell phone coverage then the nearest phone needs to be located. Each site's emergency management plan needs to be in writing and communicated to all support staff.
+
+The final item to consider is whether the site is appropriate for the course that will be taught. When teaching a Marine Eco System course a site with the widest range of marine life is the best choice. And when planning a boat specialty, remember to plan it for a date and/or season when a boat will be available
+
+All that is left are the last minute details, which are inevitable but manageable if all the larger details have been worked out. Remember, a successful dive professional follows the six Ps: Proper Prior Planning Prevents Poor Performance.
+
+If all foreseeable logistics have been thought out and planned for, courses will run smoothly and the students will have an enjoyable experience.
+
+### Using Assistants While Teaching Courses
+
+Using an assistant while teaching courses can be a huge time saver and reduce the normal stress levels of running a course. During the classroom portion of the training the SDI Assistant Instructor can conduct the knowledge quest review under the guidance of an active OWSDI. The assistant is also a second set of eyes to look over all the paperwork the OWSDI will need to review. The assistant can check that all forms are signed and initialed, verify that knowledge quest review sheets are turned in and ensure that medical history forms have been completed.
+
+During the pool/confined water and open water portions of the training the SDI Assistant Instructor lends an extra set of eyes and ears that can watch and listen for worrisome situations that may occur and help eliminate those situations before they can cause problems.
+
+Either in the pool/confined water or during the dives, the assistant can watch the rest of the group while the OWSDI works one-on-one with a student. The SDI Assistant Instructor can also lead dives 3 and 4 during the open water dives under the indirect supervision of the instructor, so long as the SDI OWSDI has evaluated and approved all of the skills and the students are proficient with them prior to the start of dives 3 and 4.
+
+> The assistant instructor cannot evaluate any skill required for certification either above or below the surface of the water whether in the pool/confined water or during the open water dives.
+
