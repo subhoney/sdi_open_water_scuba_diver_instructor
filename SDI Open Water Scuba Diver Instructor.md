@@ -189,6 +189,9 @@
       - [How to Purchase SDI Products](#how-to-purchase-sdi-products)
       - [Registration Procedures](#registration-procedures)
     - [Summary: Chapters 15 and 16](#summary-chapters-15-and-16)
+  - [The Business Side of Diving](#the-business-side-of-diving)
+    - [The Dive Professional's Role](#the-dive-professionals-role)
+    - [The Impact of Diving Education](#the-impact-of-diving-education)
 
 # SDI Open Water Scuba Diver Instructor
 
@@ -2268,3 +2271,52 @@ Before any training begins students have to be acquired. The instructor, along w
 ### Summary: Chapters 15 and 16
 
 Chapters 15 and 16 have shown there are several opportunities for an instructor to gain experience applying what they have learned during their course and why it is important for the instructor to understand the entire process of scheduling, marketing and conducting a course.
+
+## The Business Side of Diving
+
+### The Dive Professional's Role
+
+After the SDI Assistant Instructor rating the next step in a dive professional's career is becoming an SDI Open Water Scuba Diver Instructor (OWSDI). The OWSDI must have an understanding of the scuba industry, the business of diving, and what role they play within it.
+
+At the hub of the scuba industry is the retail dive center. The retail dive center is the central location for certification agencies, scuba manufacturers, dive travel agencies and dive professionals to connect with the customers. Without dive centers, all industry players including dive resorts and charter boats would suffer. In such a scenario, the customer would have to connect the dots themselves, which is an arduous task and pales in comparison to other "one-stop" recreational shopping outlets consumers have come to embrace. The bottom line is that the majority of the diving industry revolves around the dive retailer.
+
+Here's an illustration of how the process of providing diving services and products comes together.
+
+As this diagram illustrates, the dive retailer is the hub for the majority of scuba diving services and activities. While it's clear that dive retailers are a central location for related products and services, it's important to remember that they support the most basic services a diver requires including cylinder maintenance and gas fills, rental equipment availability and organized diving opportunities. The key element in this system is the SDI Dive Professional, as it's their responsibility to ensure the customer understands that the SDI Dive Retailer is their all-encompassing resource for everything related to scuba diving. As such, it's important that the customer feels welcome at, and with, their local SDI Dive Retailer.
+
+![business-flow](https://elearning.tdisdi.com/pluginfile.php/856/mod_lesson/page_contents/3286/17_2_11.jpg)
+
+### The Impact of Diving Education
+
+There are two ways for divers to learn new skills and expand their knowledge.
+
+The first is the "learn as you go" method, also known to some as "the school of hard knocks." Through this approach, divers learn by way of first-hand experience with no previous knowledge or formal education regarding the task. This approach tends to be high-anxiety and often leads to accidents and high dropout rates. While this approach works for a select group of individuals, it's not recommended for most.
+
+The second and more acceptable approach is to undergo some form of formal training in which the student gains knowledge and experience under the guidance of an experienced and trained dive professional who is well versed in the type of diving the student wishes to learn. While some divers may experience some anxiety participating in this approach, it will likely be far less because they are under the supervision of a professional. As such, the diver(s) will be more comfortable and have more confidence in their knowledge and ability. This increases diver retention, supports sales and travel and encourages divers to keep diving with their local SDI Dive Retailer. 
+
+> Most new divers today enter the sport by way of the formal training approach; however, many divers attempt to continue their education and gain additional skills by learning as they go. This is not an ideal situation for the diver since it can be intimidating or in some cases dangerous, and again, leads to an increase in diver dropout.
+
+This is why it's important that the SDI Dive Retailer has continuing education readily available for divers of all levels. Remember, a comfortable confident diver will continue with the sport and remain loyal to their SDI Dive Retailer and Dive Professional. In addition, a continuing education program is an excellent source of revenue for an OWSDI and dive retailer. For these reasons, it's vital that the SDI Open Water Scuba Diver Instructor be well versed in promoting and explaining the continuing education opportunities available at their SDI Dive Retailer.
+
+Developing a continuing education program is not a complicated task. It only takes a few simple steps and vigilance. A staff member or a team of members at the SDI Dive Center should be responsible for coordinating the program. Elements of a successful program that must be carefully planned well in advance (at least six months) include:
+
+- Course Name and Description
+- Course Prerequisites
+- Required Equipment
+- Cost/Fees
+- Dates, Times and Locations of Pool/Confined Water and Open Water Sessions
+- Primary Instructor, Assistant Instructor and Alternates
+- Certification(s) Earned
+
+Dive leaders should consistently refer back to these learning opportunities when teaching other courses, especially during the SDI Open Water Scuba Diver course. This sets the stage in the students' minds as to where, when and how to get involved in continuing education.
+
+There are several ways to promote continuing education courses when teaching other programs:
+
+When talking about navigation, night diving, boat diving and other types of specialty diving, let the students know that the dive store has courses available, and that the dive center staff is ready to answer questions about specialty courses as well as help them when they are ready to enroll in one or more of the courses.
+
+- During the SDI Open Water Scuba Diver course, students should be consistently encouraged to further their education and become advanced divers.
+- Note which specialty courses a student shows interest in. A staff member should follow up with the student after the course to let them know when the courses they're interested in are scheduled, and answer any questions the student may have.
+
+It's a good idea to talk to other instructors who actively conduct specialty courses. They may have some great tips to share, and be able to help you put together a successful continuing education program based on their experiences.
+
+Finally, remember that most new divers want to continue their education with a dive professional they know, trust and have built a bond with. If the student had fun while learning in the SDI Open Water Scuba Diver course, or any other course - that student is much more likely to enroll in a specialty course that will be taught by the same dive professional. While this is a major part of being a successful dive professional, one must be able to recruit new students as well.
