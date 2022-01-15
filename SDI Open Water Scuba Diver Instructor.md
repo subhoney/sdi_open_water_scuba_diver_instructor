@@ -197,6 +197,8 @@
     - [The Dive Professional's Role in Sales](#the-dive-professionals-role-in-sales)
     - [Creating and Maintaining a Center of Activity](#creating-and-maintaining-a-center-of-activity)
     - [Expanding Beyond the Open Water Scuba Diver Instructor](#expanding-beyond-the-open-water-scuba-diver-instructor)
+  - [Final Exam Steps](#final-exam-steps)
+    - [Almost There!](#almost-there)
 
 # SDI Open Water Scuba Diver Instructor
 
@@ -2438,3 +2440,15 @@ Becoming and working as an SDI Open Water Scuba Diver Instructor is just one opt
 - Develop a step-by-step plan that should include a time line to completion, a budget and the milestones along the way in order to reach the end goal.
 
 As you've seen, an SDI Open Water Scuba Diver Instructor has many important roles; however, it's every industry professional's responsibility to properly promote our sport to others who show interest in the underwater world. We believe that you understand this commitment, and thank you for choosing International Training and SDI as your certification agency of choice and good luck.
+
+## Final Exam Steps
+
+### Almost There!
+
+You have almost completed the SDI OWSDI online academic program. Just a few more steps and you will be finished and ready to complete your training with your instructor trainer. SDI/TDI/ERDI offers many different paths for the dive professional. Is technical diving calling to you? Maybe it's the ERDI Public Safety courses that interests you. There is nothing holding you back. You will have the opportunity to discuss your options in more detail when you meet with your instructor trainer to complete your program. Please remember the you will need copies of the following documents to submit along with the course completion form that will be sent to you via email once you have satisfactorily completed the final exam. You will submit these forms and the course completion form to your instructor trainer.
+
+- Proof of appropriate diver certification
+- Proof of current insurance listing SDI/TDI/ERDI as an additional insured (if required in your area and if you will be working with students)
+- You may also be required to pay an additional fee for the practical/skill development portion of your OWSDI course.
+
+Your instructor trainer will also have you complete a dive leader medical statement, and may at his or her discretion have you complete an additional written and/or oral examination. Please direct any questions regarding the program to your instructor trainer. On the following exam, you be asked questions pertaining to the gas laws. If you need to download the Gas Laws Worksheet again please use the following link: Gas Laws Worksheet To continue without downloading this documents click "Next Page" below.
