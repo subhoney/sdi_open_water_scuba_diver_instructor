@@ -172,6 +172,7 @@
     - [Course Planning](#course-planning)
       - [Preparation, Planning and Control in Dive Management and Diving Activities](#preparation-planning-and-control-in-dive-management-and-diving-activities)
     - [Using Assistants While Teaching Courses](#using-assistants-while-teaching-courses)
+    - [Summary: Chapters 11, 12, 13, and 14](#summary-chapters-11-12-13-and-14)
 
 # SDI Open Water Scuba Diver Instructor
 
@@ -1993,3 +1994,14 @@ Either in the pool/confined water or during the dives, the assistant can watch t
 
 > The assistant instructor cannot evaluate any skill required for certification either above or below the surface of the water whether in the pool/confined water or during the open water dives.
 
+How an assistant handles a problem either above or below water will largely depend on whether or not the OWSDI is present. Prior to the dive, the assistant and the OWSDI should discuss how to handle the various situations that could occur. Just as it is for the divers, it is very important for the assistant and the instructor to establish a clear set of hand signals. These hand signals should include an emergency signal that would indicate the divers need to surface or that the OWSDI will be surfacing with a diver and the assistant should bring all the other divers to the surface in a controlled manner.
+
+Using assistants during courses is also a great way to train them. An assistant under the watchful eye of an OWSDI can learn a lot and be exposed to students in "real world" situations. An assistant that has worked with various instructors learns different styles of teaching and different problem solving methods. This will smooth their transition into higher levels of professional training.
+
+The more an assistant and OWSDI work together the more they will know what to expect of each other should a situation arise. A good assistant is invaluable to an instructor.
+
+> While it is difficult to establish a procedure to handle every situation that may occur, it is recommended that each facility try to establish a standard procedure for the most common scenarios. For this reason, it is highly recommended that facilities conduct an annual dive professional training session prior to the diving season.
+
+### Summary: Chapters 11, 12, 13, and 14
+
+This section covered everything from the basics of learning, and the phases of teaching to lesson preparation and course planning. Various methods of communication and the potential pitfalls to be aware of when delivering a presentation were discussed. Armed with this and the remainder of the information that was covered in the chapter, the SDI OWSDI should be able to successfully create and deliver a well-rounded presentation. In fact, after reading this chapter, one could say that the goal is to increase the "intensity" by applying what has been learned from this chapter in a practical, hands-on setting, thus increasing learning retention.
