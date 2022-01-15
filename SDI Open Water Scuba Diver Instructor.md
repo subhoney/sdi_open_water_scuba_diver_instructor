@@ -182,6 +182,8 @@
     - [Divers vs. Dive Professionals](#divers-vs-dive-professionals)
     - [Theory](#theory)
     - [Supervising Dives](#supervising-dives)
+    - [Emergency Situations](#emergency-situations)
+    - [Preparing to Teach a Professional Level Course](#preparing-to-teach-a-professional-level-course)
 
 # SDI Open Water Scuba Diver Instructor
 
@@ -2174,3 +2176,37 @@ Divemasters and assistant instructors must understand what their primary respons
 Once a diver has met the prerequisites and made the decision to enroll in a dive leader course, it is likely that they have already assisted in a course or at least observed supervised divers. As such, the diver should have a general idea of what is involved with managing and supervising other divers. To build on this general understanding, the instructor should review with the candidates how to deliver dive briefings and how to monitor and supervise other divers.
 
 When presenting dive briefings, the dive leader should discuss dive site information (water temperature, visibility, etc); pertinent safety information; the expected dive profile and what the divers may see during the dive. Additional information regarding dive briefings can be found in the SDI Divemaster and Assistant Instructor Manuals and their corresponding instructor guides.
+
+Supervision of divers from the surface is a three-step process:
+
+1. **Checking the dive teams into the water.** During the checkout, the dive leader should verify that the dive teams have all the necessary equipment; that they have air and the valve is open; and that they have conducted their pre-entry buddy check.
+1. **Monitoring the site from the surface.** While the dive is in progress the dive leader should keep an eye out for lost or panicked divers and assist divers should they surface unexpectedly.
+1. **Checking the dive teams back in.** During the check-in, the dive leader should welcome the divers back; log their time out of the water, their depth and dive time; and check them back in on the dive-team roster.
+
+Every dive professional must understand that it is their job to balance diver safety while at the same time making dives fun. However, dives do not always go as planned, accidents may happen, and it is the dive professional’s responsibility to properly manage such situations should they occur.
+
+### Emergency Situations
+
+A major portion of a dive professional's responsibilities includes anticipating potential problems and addressing them before they happen. Early signs of diver nervousness, which include constant chatter, abnormal silence or the inability to complete a simple task, should normally trigger a seasoned professional to approach the diver and ask if there is anything they can do to help. Conversely, someone who has never been responsible for supervising divers may not be looking for these early signs. As such, it is important to discuss with the candidates how to recognize the early signs of stress and potential ways to address them. A good method is to have the candidates observe divers at a local dive site. The group should be discreet during this exercise and try not to draw attention to themselves as this may create additional stress for the divers they are observing. The candidates should observe the individuals preparing to dive and assess their demeanor. Do the divers appear nervous and if so, what are the indicators? As a follow up to their assessment, the candidates should explain how they, as the dive leader, would handle the situation.
+
+Another method the candidates can utilize to practice recognizing stress and potential problems would be to allow them to observe an actual course. Since they are not yet certified dive leaders, they must act solely as observers. During the course, the candidates should observe the students and take notes. This information can then be discussed at a later time.
+
+It is almost inevitable that, at some point over their professional career, a dive leader will have to rescue a diver. Of course, the extent of the actions they take during the rescue will vary from something as simple as calming a diver down while on the surface, to recovering an unconscious diver from depth. With that, it is important that a new dive leader be informed on how to address the wide range of possibilities they may encounter. During the rescue diver course they are taught to lend assistance to a diver in distress if it will not cause them harm. As a dive professional who is responsible for a diver they have an increased level of responsibility to lend assistance. The SDI Divemaster Manual examines many different emergency situations and is a great reference for the professional candidate.
+
+### Preparing to Teach a Professional Level Course
+
+Teaching dive professionals requires thorough planning and follow through. Just like teaching a diver level course, there must be a schedule; the equipment and any visual aids must be ready to use; and the candidates must have their materials ahead of time so they can prepare. Before a candidate can assist with a class they must have covered and understand the applicable information. For example, as part of the assistant instructor course, a candidate is required to assist with the confined water portion of an open water scuba diver course. Before they can assist with this course, they must have already covered the academics, control techniques and what is expected of them as an assistant.
+
+> A prudent instructor will schedule dive leader and diver courses in a manner that will allow the dive leader to have already completed the required portions of their course in order to be able to assist with the diver courses.
+
+As previously mentioned, the instructor's primary goal when teaching a diver level course is to convey the information and skills to the students so they can be proficient to a degree that warrants certification at a given level.. As such, the dive leader accepts liability for the training or supervision of the divers. However, the liability when training dive leaders is not as readily apparent.
+SDI has made available several informative [educational videos](https://www.tdisdi.com/media/products/ITI_Product_Training.html) about how to teach dive leader level programs. These videos include information on:
+
+- How to Market Dive Leader Programs
+- The Materials Needed for Dive Leader Programs
+- Scheduling Dive Leader Programs
+- How to Teach Dive Leader Programs
+- How to Properly Use and Complete the Dive Leader Training Record
+
+These informative videos can be seen by clicking here: [Dive Leader Training Videos](https://www.tdisdi.com/media/products/ITI_Product_Training.html)
+
