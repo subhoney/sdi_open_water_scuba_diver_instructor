@@ -178,6 +178,17 @@
     - [SDI Advanced Adventure Specialty](#sdi-advanced-adventure-specialty)
     - [Teaching Specialty Courses](#teaching-specialty-courses)
     - [SDI Rescue Diver Course](#sdi-rescue-diver-course)
+  - [Teaching Dive Professionals](#teaching-dive-professionals)
+    - [Divers vs. Dive Professionals](#divers-vs-dive-professionals)
+    - [Theory](#theory)
+    - [Supervising Dives](#supervising-dives)
+    - [Emergency Situations](#emergency-situations)
+    - [Preparing to Teach a Professional Level Course](#preparing-to-teach-a-professional-level-course)
+    - [Liability of Teaching Professionals](#liability-of-teaching-professionals)
+    - [SDI Products and Procedures](#sdi-products-and-procedures)
+      - [How to Purchase SDI Products](#how-to-purchase-sdi-products)
+      - [Registration Procedures](#registration-procedures)
+    - [Summary: Chapters 15 and 16](#summary-chapters-15-and-16)
 
 # SDI Open Water Scuba Diver Instructor
 
@@ -2145,3 +2156,115 @@ The rescue course helps build not only the student's skills, but also helps buil
 
 Up to this point the diver level programs an SDI OWSDI is qualified to teach have been discussed. The next levels an OWSDI is qualified to teach are the dive professional levels including SDI Divemaster and SDI Assistant Instructor. It is recommended the SDI OWSDI gain knowledge and experience teaching the diver levels before they begin teaching dive professionals. With that in mind, the SDI OWSDI needs to ensure that his knowledge and skill levels are the highest possible quality before he passes the knowledge on to or demonstrates skills to professional level candidates as discussed in the next section.
 
+## Teaching Dive Professionals
+
+One may think that teaching dive professionals is like teaching any other course, which to some extent is true. However, there is a lot more preparation for the dive professional programs and the instructor must employ a different mindset when presenting dive professional level information. The SDI Open Water Scuba Diver Instructor must change their information delivery from simply teaching a new skill to a diver, to teaching a dive leader how to teach and supervise divers. In this section the difference between teaching divers and dive professionals will be discussed as well as how to prepare for a professional level course, and what added liability comes with training dive professionals.
+
+### Divers vs. Dive Professionals
+
+When teaching a diver level course, the instructor's primary goals are to convey the information and skills to the students so they can be proficient at a given level of certification. This is accomplished through academics, in-water practice and a final in-water evaluation. The end result is that the diver has comprehended the information they learned and should be able to execute the skills long after the completion of the course. This is also true when teaching dive professionals; however, the candidates must be able to execute skills and display teaching abilities once certified.
+
+Dive professionals must meet established prerequisites prior to enrolling in a dive leader course. In fact, dive leader candidates should already have a firm understanding of basic diving theory and application. In the professional level course, they will be taught the "why" behind the theory and application. For example, SDI Divemaster candidates have been taught buddy- and self-rescue; however, in the SDI Divemaster course they must refine those techniques, and more importantly, learn how to anticipate a problem and address it before a rescue is needed.
+
+### Theory
+
+One of the largest differences when teaching a dive leader candidate versus a diver is the way the academic knowledge is presented. Dive professionals must have a more in-depth understanding so they are able to answer questions asked by student divers. This is not to say that dive professionals are expected to have all the answers, but they should know where to find answers to questions that they cannot immediately answer. A dive professional must know how to convey information to student divers so as not to overwhelm them with too much information. Also, the level of information given by the dive professional should be appropriate for the level of the student diver.
+
+> For example, an open water diver asks an assistant: "How would I plan a dive to 40m/130ft?" A good response from the assistant might be: "There are several points to consider when planning dives to those depths. I would suggest taking the SDI Deep Diver specialty which will provide you with a better understanding of how to safely and properly plan and complete a dive to that depth."
+
+Even though the divemaster or assistant instructor may be perfectly capable of answering this question, they need to remember that this dive plan is beyond the certification level of the open water diver.
+
+Divemasters and assistant instructors must understand what their primary responsibilities are when assisting an instructor with a course. These responsibilities may include ensuring that students' forms and training records have been properly completed and preparing the classroom and training aids. When a dive professional candidate has an understanding of how to convey their knowledge and how to assist with courses, it is time to teach them how to supervise dives and handle emergency situations.
+
+### Supervising Dives
+
+Once a diver has met the prerequisites and made the decision to enroll in a dive leader course, it is likely that they have already assisted in a course or at least observed supervised divers. As such, the diver should have a general idea of what is involved with managing and supervising other divers. To build on this general understanding, the instructor should review with the candidates how to deliver dive briefings and how to monitor and supervise other divers.
+
+When presenting dive briefings, the dive leader should discuss dive site information (water temperature, visibility, etc); pertinent safety information; the expected dive profile and what the divers may see during the dive. Additional information regarding dive briefings can be found in the SDI Divemaster and Assistant Instructor Manuals and their corresponding instructor guides.
+
+Supervision of divers from the surface is a three-step process:
+
+1. **Checking the dive teams into the water.** During the checkout, the dive leader should verify that the dive teams have all the necessary equipment; that they have air and the valve is open; and that they have conducted their pre-entry buddy check.
+1. **Monitoring the site from the surface.** While the dive is in progress the dive leader should keep an eye out for lost or panicked divers and assist divers should they surface unexpectedly.
+1. **Checking the dive teams back in.** During the check-in, the dive leader should welcome the divers back; log their time out of the water, their depth and dive time; and check them back in on the dive-team roster.
+
+Every dive professional must understand that it is their job to balance diver safety while at the same time making dives fun. However, dives do not always go as planned, accidents may happen, and it is the dive professional’s responsibility to properly manage such situations should they occur.
+
+### Emergency Situations
+
+A major portion of a dive professional's responsibilities includes anticipating potential problems and addressing them before they happen. Early signs of diver nervousness, which include constant chatter, abnormal silence or the inability to complete a simple task, should normally trigger a seasoned professional to approach the diver and ask if there is anything they can do to help. Conversely, someone who has never been responsible for supervising divers may not be looking for these early signs. As such, it is important to discuss with the candidates how to recognize the early signs of stress and potential ways to address them. A good method is to have the candidates observe divers at a local dive site. The group should be discreet during this exercise and try not to draw attention to themselves as this may create additional stress for the divers they are observing. The candidates should observe the individuals preparing to dive and assess their demeanor. Do the divers appear nervous and if so, what are the indicators? As a follow up to their assessment, the candidates should explain how they, as the dive leader, would handle the situation.
+
+Another method the candidates can utilize to practice recognizing stress and potential problems would be to allow them to observe an actual course. Since they are not yet certified dive leaders, they must act solely as observers. During the course, the candidates should observe the students and take notes. This information can then be discussed at a later time.
+
+It is almost inevitable that, at some point over their professional career, a dive leader will have to rescue a diver. Of course, the extent of the actions they take during the rescue will vary from something as simple as calming a diver down while on the surface, to recovering an unconscious diver from depth. With that, it is important that a new dive leader be informed on how to address the wide range of possibilities they may encounter. During the rescue diver course they are taught to lend assistance to a diver in distress if it will not cause them harm. As a dive professional who is responsible for a diver they have an increased level of responsibility to lend assistance. The SDI Divemaster Manual examines many different emergency situations and is a great reference for the professional candidate.
+
+### Preparing to Teach a Professional Level Course
+
+Teaching dive professionals requires thorough planning and follow through. Just like teaching a diver level course, there must be a schedule; the equipment and any visual aids must be ready to use; and the candidates must have their materials ahead of time so they can prepare. Before a candidate can assist with a class they must have covered and understand the applicable information. For example, as part of the assistant instructor course, a candidate is required to assist with the confined water portion of an open water scuba diver course. Before they can assist with this course, they must have already covered the academics, control techniques and what is expected of them as an assistant.
+
+> A prudent instructor will schedule dive leader and diver courses in a manner that will allow the dive leader to have already completed the required portions of their course in order to be able to assist with the diver courses.
+
+As previously mentioned, the instructor's primary goal when teaching a diver level course is to convey the information and skills to the students so they can be proficient to a degree that warrants certification at a given level.. As such, the dive leader accepts liability for the training or supervision of the divers. However, the liability when training dive leaders is not as readily apparent.
+SDI has made available several informative [educational videos](https://www.tdisdi.com/media/products/ITI_Product_Training.html) about how to teach dive leader level programs. These videos include information on:
+
+- How to Market Dive Leader Programs
+- The Materials Needed for Dive Leader Programs
+- Scheduling Dive Leader Programs
+- How to Teach Dive Leader Programs
+- How to Properly Use and Complete the Dive Leader Training Record
+
+These informative videos can be seen by clicking here: [Dive Leader Training Videos](https://www.tdisdi.com/media/products/ITI_Product_Training.html)
+
+### Liability of Teaching Professionals
+
+Just as the newly certified dive professional assumes added liability for training or supervising divers, so too does the instructor who certified them to do so. Very simply, instructors who train dive leaders assume not only the liability for the dive leader's training, but may assume some liability for any divers that dive leader may subsequently supervise or train. To help mitigate this liability the instructor must follow SDI Training Standards; use all available training materials, including liability release forms; and ensure 100% comprehension of subjects and skills by the dive professional candidate during their training. While this is clearly a very serious responsibility, it is quite easy to accomplish by following the guidelines and procedures as outlined in the SDI training and support materials. Procedures for obtaining these materials will be covered in the following sections.
+
+### SDI Products and Procedures
+
+Every dive professional and dive center staff member plays an important role in the future of the dive center and the health of the scuba diving industry. While the primary interest of the dive professional may be educating and creating new divers, this by itself will not support the dive center or the industry as a whole. In order to maintain a healthy business all members of the staff must take part in selling equipment, promoting classes, encouraging customers to have their equipment serviced annually and promoting dive travel. If everybody contributes to each of these facets then everybody can also enjoy a prosperous and long career in the dive industry.
+
+The dive professional, along with the dive center, will need to interact with International Training to purchase product for the courses they offer and to register divers from entry level through dive professional levels. Anytime the dive professional or dive center has recommendations for new products or programs their comments or suggestions are welcome at ITI. The following information will help the dive professional better understand the purchasing of product and registration of students with ITI. While most dive centers will purchase product and register divers, the dive professional may be called on at some point to perform these duties.
+
+#### How to Purchase SDI Products
+
+There are several ways to purchase product from Scuba Diving international, Technical Diving International and Emergency Response Diving International. Which of these methods is used is a matter of personal preference or convenience. While some may enjoy speaking with a person to get a better understanding of what they are ordering, others may like ordering the product online. ITI has allowed for both of these options.
+
+**Regional Sales Manager**: Dive centers and professional members should always feel free to contact their ITI Regional Sales Manager to place an order, ask them about on-going specials or simply discuss "what's new?" Regional sales managers are quick to pass that order on to the regional office and it will be shipped out as soon as possible. This is a great option if the business hours or time zone differs from that of the regional office the dive professional works through. It is also a good opportunity to just catch up or share ideas and observations of what is happening in the local market.
+
+**Regional Office**: Contacting the ITI Regional Office directly is another way products can be ordered. With terrific customer service, an actual person who is happy to assist the customer will be reached on the other end of the line without going to voice mail or automated menus. If it's after hours, send the order form via fax and the order will be processed first thing the next working day.
+
+**Online Catalogue**: Go online, create an account, log on and shop! Facilities and professional members in the North American region may purchase materials at any time 24/7 - ITI is always open with the online catalogue. Facilities and professional members outside of the North American region should contact their regional office for more information. For each product there is a product description and a list of other support materials if available. Take time and browse for materials whenever your schedule permits and finalize the order when ready. This method is safe, private, quick and efficient.
+
+**Most products are available online.**
+
+Associate members and non-members may make purchases of certain items by visiting their local SDI-TDI-ERDI Dive Center, calling the regional office directly or in North America, by opening up an online account through the website. Because associate members and non-members are not professional SDI/TDI/ERDI Divemasters, Assistant Instructors, Instructors or Instructor Trainers (professional members) they are restricted to purchasing certain materials. Cool clothing, stickers and certain books are available to anyone, while manuals and other instructor materials are restricted for professional members only.
+
+Please contact the ITI Regional Office or World Headquarters with any questions or comments, or to place an order - ITI staff will be happy to assist. A list of all ITI Regional Offices is available 24 hours a day, seven days a week online at https://www.tdisdi.com.
+
+#### Registration Procedures
+
+Once a student has successfully completed a course, the next step is to register the diver. Perhaps one of the most exciting moments, for the diver and the instructor alike - is when a diver is handed their certification card. For the diver, there is a sense of accomplishment and for the instructor there is the satisfaction of having passed on their knowledge and experience.
+
+In order to maintain the professional image the instructor has established, and that of SDI/TDI/ERDI, it's important to register the student's record of course completion correctly and in a timely manner so the registration form can be processed quickly and the diver's credentials returned as soon as possible.
+
+Diver registrations may be submitted via written form, pre-paid form or using the online registration system.
+
+When completing a written Diver Registration form (found in the appendix section of the Standards and Procedures Manual) and pre-paid form, please keep the following in mind to avoid processing delays:
+
+- Write legibly.
+- Use the correct form for the course that was taught.
+- Fill out the form completely.
+- A separate form is required for each course that was taught.
+- Sign forms where indicated.
+
+To register a student online, simply log in to the members area of https://www.tdisdi.com and choose either "Have HQ Print" or "Print at Facility," which can be found under the heading "Student Registrations." The latter option (Print at Facility) is only available if your dive facility has a C-Card printer and is authorized by ITI Headquarters to print cards. With either choice, it's critical to follow the on-screen instructions to ensure proper processing.
+
+It's important to follow the established guidelines to ensure processing is completed in a timely manner. ITI prides itself on customer service and timely turnaround on certification cards. Working together, a high level of customer service can be achieved.
+
+As outlined above there are several times a dive professional may need to interact with ITI. Knowing the procedures and process will help streamline the transaction. Please don't hesitate to contact the local ITI Regional Sales Manager, Regional Office or ITI Headquarters if should any questions arise. They're there to help!
+
+Before any training begins students have to be acquired. The instructor, along with every other dive professional affiliated with the dive center, has a responsibility to help the dive center acquire students to fill classes. Full classes equal active divers, which promote equipment sales and travel.
+
+### Summary: Chapters 15 and 16
+
+Chapters 15 and 16 have shown there are several opportunities for an instructor to gain experience applying what they have learned during their course and why it is important for the instructor to understand the entire process of scheduling, marketing and conducting a course.
