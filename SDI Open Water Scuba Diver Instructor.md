@@ -175,6 +175,8 @@
     - [Summary: Chapters 11, 12, 13, and 14](#summary-chapters-11-12-13-and-14)
   - [Courses an Open Water Scuba Diver Instructor Can Teach](#courses-an-open-water-scuba-diver-instructor-can-teach)
     - [SDI Open Water Scuba Diver Program](#sdi-open-water-scuba-diver-program)
+    - [SDI Advanced Adventure Specialty](#sdi-advanced-adventure-specialty)
+    - [Teaching Specialty Courses](#teaching-specialty-courses)
 
 # SDI Open Water Scuba Diver Instructor
 
@@ -2029,3 +2031,31 @@ The paperwork required for the OWSD program includes the SDI Student Training Fo
 The instructor should refer to the current SDI Open Water Scuba Diver standards for a complete and up-to-date listing of requirements.
 
 Many divers are excited, and want to learn more after they complete their open water scuba diver course. To quench that desire, SDI Open Water Scuba Diver Instructors have many options to offer them, starting with the SDI Advanced Adventure program.
+
+### SDI Advanced Adventure Specialty
+
+Because SDI's Advanced level requires 25 logged dives and the completion of four (4) specialties, SDI developed the Advanced Adventure program to compete with other agencies advanced diver level programs. The Advanced Adventure program requires five (5) specialty dives. Two (2) programs, navigation and deep diving, are the core-required dives. The other three (3) elective specialties can be selected from a group of specialties included in the student manual. Teaching this program is similar to teaching any specialty with the exception that each topic should only be an overview of the applicable specialty. By covering the basic academics and conducting the required skills associated with the first dive of the chosen specialty, students can get a better understanding of what to expect should they choose to complete the full specialty course. One (1) dive from each of the specialties may be applied towards the full specialty certification.
+
+The support materials for this program include the student manual, instructor guide and a PowerPoint® presentation. Normal SDI paperwork including the waiver and medical release are required and must be retained in the student training folder.
+
+Upon completion of the program the diver receives an SDI Advanced Adventure card. If the diver wishes to continue on and receive their SDI Advanced Open Water Scuba Diver rating they can receive credit for one (1) specialty towards the four (4) required for the SDI Advanced Open Water Scuba Diver rating.
+
+### Teaching Specialty Courses
+
+Divers who wish to take specialties or the SDI Rescue Diver course are obviously interested in continuing their diving education. Initially, they may only be interested in a specific specialty; however, while taking the specialty course, they may quickly learn the value and benefit of completing additional specialty training.
+
+During the assistant instructor program the SDI Specialties that an SDI Assistant Instructor can teach were discussed. In contrast to the limited number of specialties the assistant instructor can teach, an SDI OWSDI can become qualified to teach any and all of the specialties that SDI offers. In fact, if there is a specialty SDI does not offer, SDI Instructors have the option to submit a Unique Specialty outline for approval.
+
+There are several specialties within the SDI system that an SDI OWSDI may become qualified to teach. These specialties include:
+
+| Advanced Buoyancy           	| Underwater Navigation 	| Equipment Specialist              	|
+|-----------------------------	|-----------------------	|-----------------------------------	|
+| Boat                        	| Underwater Video      	| Ice Diver                         	|
+| Computer Nitrox             	| Solo Diver            	| Night and Low Visibility          	|
+| Diver Propulsion Vehicle    	| Drift                 	| Search and Recovery               	|
+| Dry Suit                    	| Deep                  	| Underwater Hunter and Collector   	|
+| Full Face Mask              	| Altitude              	| Underwater Photographer           	|
+| Marine Ecosystems Awareness 	|                       	| Wreck                             	|
+| Research                    	|                       	| Visual Inspection Procedure (VIP) 	|
+| Shore/Beach Diver           	|                       	|                                   	|
+
