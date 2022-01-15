@@ -161,6 +161,9 @@
       - [Visual Aids](#visual-aids)
       - [Reading Body Language](#reading-body-language)
       - [Trust](#trust)
+  - [Methods of Instruction, Part 4](#methods-of-instruction-part-4)
+    - [Lesson Preperation](#lesson-preperation)
+      - [Classroom](#classroom)
 
 # SDI Open Water Scuba Diver Instructor
 
@@ -1863,3 +1866,27 @@ Additional signs of nervousness that may be observed in a student include consta
 A strong rapport is built on trust, the more trust there is in a relationship, the better the rapport will be. Students have a basic level of trust in their dive leader(s) or they would not have enrolled in the course. However, it is up to the dive professional to nurture and grow that trust. This can be done several ways and at different times. For instance, the dive professional can contact the student before the course begins to introduce himself, answer any questions the student may have and describe the course progression. During the course, the dive professional should be friendly, helpful and approachable. The professional must follow through with requests made of him, and above all, treat every student with respect. Once a good rapport is established, the student will likely come back to take additional courses as well as recommend the dive professional and dive facility to their friends and family.
 
 Effective communication is not an innate human trait. It must be learned, practiced and carefully applied. All of these considerations require that the dive professional do a self-assessment and review their own performance prior to conducting a course. It is very important that the OWSDI looks and feels professional and prepares appropriately so that trust is established with the students.
+
+## Methods of Instruction, Part 4
+
+### Lesson Preperation
+
+Up to this point, a great deal of information from learning theory to presentation considerations has been covered. In this section, it all comes together. Here we will discuss how to prepare for classroom and water sessions as well as how to deal with and avoid potential issues that may arise in each. We will start in the classroom.
+
+#### Classroom
+
+It is very important to understand how to effectively use and prepare for an academic or classroom session. The academic session, although traditionally conducted in a classroom, can be done at the dive site. In fact, for continuing education or refresher courses this may be an ideal setting. Whichever setting is used, proper preparation is required for each.
+
+First, make sure all supplies needed for the course are easily accessible. The best thing to do is prepare a list of what is needed for every class. This list may include a computer, digital projector, and whiteboard with markers, instructor materials and visual aids. Make sure all electrical equipment is working properly and ensure there are extra materials for students, such as pencils, answer sheets or course materials. Ensure the classroom or area is clean, organized and presentable to the students. Pick up any trash or clutter that may be lying around. Remove any training aids that were used in previous courses. Make sure the lights are on and if there is a video of the underwater world available, make sure it is running and the volume is set at a moderate level.
+
+When preparing to conduct the academic session at the dive site, ensure there is a shaded or covered area so the divers can get out of the sun or rain. The same general supplies will be needed; the only additional item that may be needed is some form of ground cover such as a tarp or blanket. The advantage of covering the academics onsite is that the students can apply what was discussed immediately.
+
+> A lesson plan should be prepared that includes all the subjects that will be covered as well as the estimated time to cover each subject.
+
+When planning a class session, be sure to include breaks every so often. If the session is in the morning, the lectures can go a little longer. However, if the session is in the evening, it is better to include frequent short breaks. While a lesson plan outlines all the topics that will be covered, an academic presentation form like the one below helps present each topic individually. The academic presentation form brings together all the elements that were previously discussed in the Teaching Theory and Methods section.
+
+The academic session of a course is the time to cover subjects in detail and answer all of the questions the students may have. This is the students’ learning phase and it is the instructor’s responsibility to ensure they are learning and understanding all that is presented.
+
+At the end of the academic session a brief explanation should be given of what to expect during the next academic session or what the students can expect at the pool/confined water or open water session. Be sure to provide details such as time, address, directions, where to park and what to do once they arrive.
+
+Click [here](https://www.tdisdi.com/wp-content/uploads/files/IT_PDFs/Forms/Academic_Presentation_Examples.pdf) to download a PDF of a sample academic presentation form.
