@@ -189,6 +189,14 @@
       - [How to Purchase SDI Products](#how-to-purchase-sdi-products)
       - [Registration Procedures](#registration-procedures)
     - [Summary: Chapters 15 and 16](#summary-chapters-15-and-16)
+  - [The Business Side of Diving](#the-business-side-of-diving)
+    - [The Dive Professional's Role](#the-dive-professionals-role)
+    - [The Impact of Diving Education](#the-impact-of-diving-education)
+    - [Recruiting New Divers](#recruiting-new-divers)
+    - [Diver Retention](#diver-retention)
+    - [The Dive Professional's Role in Sales](#the-dive-professionals-role-in-sales)
+    - [Creating and Maintaining a Center of Activity](#creating-and-maintaining-a-center-of-activity)
+    - [Expanding Beyond the Open Water Scuba Diver Instructor](#expanding-beyond-the-open-water-scuba-diver-instructor)
 
 # SDI Open Water Scuba Diver Instructor
 
@@ -2268,3 +2276,165 @@ Before any training begins students have to be acquired. The instructor, along w
 ### Summary: Chapters 15 and 16
 
 Chapters 15 and 16 have shown there are several opportunities for an instructor to gain experience applying what they have learned during their course and why it is important for the instructor to understand the entire process of scheduling, marketing and conducting a course.
+
+## The Business Side of Diving
+
+### The Dive Professional's Role
+
+After the SDI Assistant Instructor rating the next step in a dive professional's career is becoming an SDI Open Water Scuba Diver Instructor (OWSDI). The OWSDI must have an understanding of the scuba industry, the business of diving, and what role they play within it.
+
+At the hub of the scuba industry is the retail dive center. The retail dive center is the central location for certification agencies, scuba manufacturers, dive travel agencies and dive professionals to connect with the customers. Without dive centers, all industry players including dive resorts and charter boats would suffer. In such a scenario, the customer would have to connect the dots themselves, which is an arduous task and pales in comparison to other "one-stop" recreational shopping outlets consumers have come to embrace. The bottom line is that the majority of the diving industry revolves around the dive retailer.
+
+Here's an illustration of how the process of providing diving services and products comes together.
+
+As this diagram illustrates, the dive retailer is the hub for the majority of scuba diving services and activities. While it's clear that dive retailers are a central location for related products and services, it's important to remember that they support the most basic services a diver requires including cylinder maintenance and gas fills, rental equipment availability and organized diving opportunities. The key element in this system is the SDI Dive Professional, as it's their responsibility to ensure the customer understands that the SDI Dive Retailer is their all-encompassing resource for everything related to scuba diving. As such, it's important that the customer feels welcome at, and with, their local SDI Dive Retailer.
+
+![business-flow](https://elearning.tdisdi.com/pluginfile.php/856/mod_lesson/page_contents/3286/17_2_11.jpg)
+
+### The Impact of Diving Education
+
+There are two ways for divers to learn new skills and expand their knowledge.
+
+The first is the "learn as you go" method, also known to some as "the school of hard knocks." Through this approach, divers learn by way of first-hand experience with no previous knowledge or formal education regarding the task. This approach tends to be high-anxiety and often leads to accidents and high dropout rates. While this approach works for a select group of individuals, it's not recommended for most.
+
+The second and more acceptable approach is to undergo some form of formal training in which the student gains knowledge and experience under the guidance of an experienced and trained dive professional who is well versed in the type of diving the student wishes to learn. While some divers may experience some anxiety participating in this approach, it will likely be far less because they are under the supervision of a professional. As such, the diver(s) will be more comfortable and have more confidence in their knowledge and ability. This increases diver retention, supports sales and travel and encourages divers to keep diving with their local SDI Dive Retailer. 
+
+> Most new divers today enter the sport by way of the formal training approach; however, many divers attempt to continue their education and gain additional skills by learning as they go. This is not an ideal situation for the diver since it can be intimidating or in some cases dangerous, and again, leads to an increase in diver dropout.
+
+This is why it's important that the SDI Dive Retailer has continuing education readily available for divers of all levels. Remember, a comfortable confident diver will continue with the sport and remain loyal to their SDI Dive Retailer and Dive Professional. In addition, a continuing education program is an excellent source of revenue for an OWSDI and dive retailer. For these reasons, it's vital that the SDI Open Water Scuba Diver Instructor be well versed in promoting and explaining the continuing education opportunities available at their SDI Dive Retailer.
+
+Developing a continuing education program is not a complicated task. It only takes a few simple steps and vigilance. A staff member or a team of members at the SDI Dive Center should be responsible for coordinating the program. Elements of a successful program that must be carefully planned well in advance (at least six months) include:
+
+- Course Name and Description
+- Course Prerequisites
+- Required Equipment
+- Cost/Fees
+- Dates, Times and Locations of Pool/Confined Water and Open Water Sessions
+- Primary Instructor, Assistant Instructor and Alternates
+- Certification(s) Earned
+
+Dive leaders should consistently refer back to these learning opportunities when teaching other courses, especially during the SDI Open Water Scuba Diver course. This sets the stage in the students' minds as to where, when and how to get involved in continuing education.
+
+There are several ways to promote continuing education courses when teaching other programs:
+
+When talking about navigation, night diving, boat diving and other types of specialty diving, let the students know that the dive store has courses available, and that the dive center staff is ready to answer questions about specialty courses as well as help them when they are ready to enroll in one or more of the courses.
+
+- During the SDI Open Water Scuba Diver course, students should be consistently encouraged to further their education and become advanced divers.
+- Note which specialty courses a student shows interest in. A staff member should follow up with the student after the course to let them know when the courses they're interested in are scheduled, and answer any questions the student may have.
+
+It's a good idea to talk to other instructors who actively conduct specialty courses. They may have some great tips to share, and be able to help you put together a successful continuing education program based on their experiences.
+
+Finally, remember that most new divers want to continue their education with a dive professional they know, trust and have built a bond with. If the student had fun while learning in the SDI Open Water Scuba Diver course, or any other course - that student is much more likely to enroll in a specialty course that will be taught by the same dive professional. While this is a major part of being a successful dive professional, one must be able to recruit new students as well.
+
+### Recruiting New Divers
+
+Successful businesses are very good at two things. First, they know how to attract new customers. Second, they know how to keep the customers they have. Keeping customers is as simple as offering them the products and services they need in a friendly and convenient manner, as was covered earlier. However, in order to recruit new customers, a business must start by informing potential customers about their products and services and why these are the best solutions to fit their customer's needs. It is here that the dive professional has awesome potential.
+
+Scuba diving is more than a sport. It is a passion. Every diver, and more importantly every dive professional knows the pure emotion that scuba diving elicits. It is this emotion that the dive professional can and should use to gain the attention of potential new divers. When a dive professional transfers this emotion onto their students, they then become the dive professional's best recruitment tool because they, too, are now excited and want to share it.
+
+Over the years industry surveys have shown that most individuals take a diving certification course because of word of mouth referral. Properly trained divers are the best recruiting tool and should be utilized to their fullest potential. Many businesses worry about where to spend their advertising dollars. If they would simply invest in a great customer service process the word of mouth advertising would reap benefits over and over.
+
+The amount and type of referrals the dive professional and the dive store receive will be based on the students' perception of their complete scuba experiences. If the individual has a good experience, they are more likely to refer others. Conversely, marketing experts tell us if an individual has a bad experience they will tell at least ten other people about that bad experience, and those people will tell others. Therefore, the key to gaining the most from word of mouth referrals is ensuring that the customers have a great experience and that they have a vehicle by which they can refer others.
+
+Develop a system to gather referral information from customers and students. The information should include the referral contact's name, address, phone number, e-mail and relationship to the customer. A professional looking and feeling form or card with these fields will do the trick. Address this as part of the debriefing following a successful and fun pool/confined water session. Ask the students if they know anyone who might be interested in becoming a diver, or a non-certified person they would like to have as a dive buddy. Make sure to get the student's approval to contact that person. The information gathered should be entered into the dive center's database for future follow up.
+
+The first contact should be made by phone. The staff member making the call should introduce himself and explain why he is calling. The referral candidate should be told who referred them and why they were chosen (dive buddy - someone they travel with - a significant other). Additionally, the caller should answer any questions, invite the potential student to come into the store, and ask if it's okay to send them information from time to time. Most importantly, the caller should respect the referral's wishes.
+
+> If the referral candidate does not want more information, or to take the call, the caller should thank them and leave them be.
+
+However, if the referral candidate agrees to receive more information, the dive center should immediately follow up. Timely follow-through is critical and is the only opportunity for a good first impression. The follow-up should include a hand written thank you note in addition to the requested information. Whether it is an invitation for a free personal orientation or a free introduction to scuba, it's always a good idea to include some type of an incentive for the referral candidate to visit the dive center in person. The dive center staff should also create an incentive for divers who provide referrals and an additional "thank you" incentive if referral candidates sign up for a class.
+
+Dive professionals should always bear in mind that every person they come in contact with daily is a potential new diver. Your co-workers, parents at a children's sporting activity, or someone you meet in line at the store could be your next student. Or, they may be a certified diver who want to provide a referral. Ideas for recruiting new potential divers are limited only by one's imagination, so put that imagination to work.
+
+In addition to word of mouth, there are countless other ways to attract new students. A few ideas include:
+
+- **Business Cards**: One side of the business card has the dive center's contact information and the dive professional's name. On the other side is an offer for a free introduction to scuba: "Simply bring this card into the store to make an appointment for a FREE try scuba."
+- **Try Scuba"Tokens"**: Find a source that can custom print on wooden nickels or generic casino chips or tokens. Again, one side of the "token" has the dive center's logo and contact information and on the other side is an offer for a free introduction to scuba: "Simply bring this token into the store to make an appointment for a FREE try scuba." The custom business cards and tokens are great tools to have when talking to individuals. When the subject of scuba diving comes up, hand them a business card or a token to try scuba for FREE.
+- **Travel Agencies**: Build a relationship with one or several travel agencies and together design an incentive package for the travel agencies to refer new divers to the dive center. For example, travel agencies sell a lot of cruises. Offer the travel agency a coupon to give their customers for a free snorkel session.
+- **Free Scuba Classes**: Offer free scuba classes to travel agents, radio and TV personalities, and other individuals who reach large audiences. It's vital that these individuals have the best time of their life. Otherwise, they won't promote the dive center, or worse will tell people to avoid it.
+
+Attracting new customers is an ever-changing art form and successful businesses know that they must employ a wide range of customer acquisition tactics to continue to be successful. However, successful businesses also know that retaining the customers they have is equally important.
+
+### Diver Retention
+
+Simply put, the word retention means "the continued possession, use or control" of something. Therefore, "diver retention" refers to a diver's loyal (continued) patronization of a dive center. High diver retention usually goes hand-in-hand with good customer service and leads to an increase in word of mouth referrals. However, in order to keep diver retention at high levels, dive centers and professionals must be able to offer their current customers what they want including dive travel opportunities, new equipment, equipment service, and most important to the dive professional - additional training.
+
+It is the dive professional's responsibility to nurture the diver's need for additional training. Remember, comfortable and confident divers generally have a good rapport with dive professionals who have previously trained them. Divers listen to their dive leaders and trust what they say. This trust comes through a bond that has been established between the diver and their instructor. This bond takes some time to establish and it does not come easy. To establish this bond the instructor has to gain the respect of the students by being open and honest with them. The instructor must be available before and after class to answer the students' questions individually. Never lead them astray. Additionally, the dive professional has a responsibility to relate the importance of owning properly maintained equipment, and obtaining the proper training for its use.
+
+With this in mind, how does a dive professional influence a diver's retention and keep them an active diver? While there are many specific answers to this question the first step is to listen to what they want or need. Then the dive professional should keep the fire ignited in divers by consistently showing them that they and the dive center are ready and willing to address those needs and desires so they can advance their hobby or turn it into a potential career. Diving is as much about social activities as it is about diving activities, so a dive professional needs to help divers stay involved in both.
+Individuals want to be a part of something that is fun, where they meet other individuals who share their interests. Here are a few examples of how to keep divers involved in diving:Local Diving
+
+- **Promote Local Diving Opportunities**: Plan and conduct group diving events in the surrounding area. Diving is done all over the world, but too often diving is only associated with clear blue water in a tropical location. Most of the population does not live in such locations, so it is imperative to promote the diving that can be done right down the road from a diver's home. In fact, some of the best diving can be had in one's local area.
+- **Pool Parties**: Pool parties are an excellent way for divers to try out new equipment, practice skills, and just get in the water during the winter months.
+- **Dive Travel**: Promote trips to different diving destinations. A number of dive travel companies exist within the industry such as Scuba Travel International; contact one to find out how to get involved. Prior to a trip, hold a presentation about the location, the local nightlife, the weather, what to pack, marine life commonly encountered, etc.
+- **Post Trip Party**: After a dive trip or a weekend of local diving, schedule a social at the dive center. Divers love to talk about their experiences and show pictures and video from the diving they did. In fact, the dive center may choose to create a special DVD or slide show highlighting the experience.
+- **Observation**: Invite divers to come to the local dive site when instructors are conducting training. Note: While these divers cannot be involved in any of the training, they can assist with equipment and dive on their own.
+- **Holiday Party**: Schedule a holiday party for the customers of the dive store. Halloween costume parties and New Year's events are popular and offer an escape from tradition.
+- **Be Creative**: The opportunities to keep customers coming back are limitless. Remember, the goal is to keep customers involved with the dive center so that when they are ready to buy new equipment or enroll in a course, there's no question as to who they will buy from.
+
+It is the dive professional's responsibility to make divers feel like they are part of the dive center. But remember, it's not only diving that will keep divers interested in the sport but also the social side, meeting new people and enjoying everything the sport has to offer.
+
+> Social activities that revolve around diving keep the "diving bug" deeply imbedded in the customer's mind, but it also serves a secondary purpose. If customers are thinking about diving, they are likely visualizing themselves diving, which is an outstanding opportunity to subtly introduce them to the new equipment the dive center has to offer. After all, they may as well be visualizing themselves in the latest and greatest equipment available.
+
+### The Dive Professional's Role in Sales
+
+Many dive professionals prefer to consider themselves educators rather than sales people. This is true; SDI Dive Professionals are educators, plain and simple. The fact is that good scuba educators don't need to be the stereotypical "sales person" as their demeanor and delivery of information conveys the importance of owning and maintaining scuba equipment. This "No Sales" approach is simple to implement, and should come naturally for SDI Dive Professionals if they themselves believe it. In this sense, the SDI Dive Professional is simply practicing what they preach.
+
+In the eyes of the student, the SDI Dive Professional is the expert and the person they trust. The student depends on the dive professional to teach them about what equipment and skills are necessary to be a comfortable, confident scuba diver.
+ 
+> The words the dive professional uses and the equipment they wear in class makes a lasting impression on the students. In fact, many students will buy the exact same equipment the instructor is wearing simply because the student believes, and rightly so, that the instructor wears what he thinks is best. For this reason, it is vital that all dive professionals use only the equipment that the dive center sells when training divers under the auspices of that dive center.
+
+However, during academic presentations, some dive professionals may still feel uncomfortable with "sales." That is okay! In this situation, let students know that the dive center has an individual who is an expert at identifying a diver's equipment needs. During the first equipment familiarization session, the dive professional should invite one of the dive center's equipment experts to the session to deliver a brief but coordinated presentation. Throughout the course, the dive professional should "create the need" for a diver to own their equipment by clearly explaining the benefits of ownership. Explain that divers who own their equipment will dive more often because they are comfortable. Reinforce that it's a good idea for the students to make an appointment or otherwise get advice from a dive center equipment expert on what equipment may best fit their unique needs. This approach creates two experts, one who teaches diving and one who knows and sells equipment.
+
+An SDI Dive Professional may be expert at many things, but no single person is an expert at everything. It's okay to refer students to another person who is an expert in another field such as equipment sales, and doing so simply reinforces the mantra of an SDI Dive Center - that the SDI Dive Center is the customers' all-encompassing resource for everything related to scuba diving: an inviting and comfortable "center of activity."
+
+### Creating and Maintaining a Center of Activity 
+
+A dive center only has one opportunity to make a great first impression on a potential customer or student. That first impression is imprinted when the customer walks into the dive center. The second impression, while not as indelible as the first, is as important and is made when they are greeted. Obviously, every staff member should take responsibility for doing whatever it takes to help make each and every customer's first and second impressions as good as possible.
+
+It's recommended that one or more dive center staff meetings be devoted to discussing what should be done to help mold customers' first and second impressions so that they are lasting, consistent, and above all good. Some topics to discuss include:
+
+- What do other businesses do to help create a good impression?
+- What do other businesses do that creates a poor impression?
+- What are appropriate and inviting greetings? What should be avoided?
+- What do other businesses do to create a welcoming atmosphere? What are turn-offs?
+
+Through this discussion, it should be easy to identify things that work and those that do not, as well as what's appropriate and what isn't. However, this effort will be fruitless without follow through. Dive center staff and dive professionals must do everything they can to implement new ideas and constantly seek ways to improve. Here are a few things to consider when making the dive center atmosphere more inviting to customers: Window DecalsCreate a daily checklist that should be completed before the dive center opens:
+
+- Clean the glass front door.
+- Clean up the parking area.
+- Clean up the store, especially sales counters and every area a customer can see or will be exposed to.
+- Clean the dressing and bathrooms. Make sure there are toilet and hand paper, and check often to see if it needs to be replaced.
+- Clean the floors.
+- Check and fix displays.
+- Check and fix lighting. Make sure showroom and displays are well lit.
+- Additional items as they apply to the dive center's configuration.
+
+Create inviting areas of activity within the dive center:
+
+- Have a TV with underwater activities playing.
+- Create a CLEAN and SAFE area for children to play.
+- Have a travel center with travel brochures and posted dates of upcoming trips.
+- Have a training center with training materials and posted dates of upcoming courses.
+- Have available a printed brochure of all the courses being conducted in the next six to twelve months.
+
+Ensure the staff appears and acts consistently:
+
+- Every staff member should be in a dive center "uniform" and wear a name tag.
+- Use a comfortable and brief greeting for in-store and phone customers.
+
+The important thing to remember is that the dive center should be inviting to the customer and provide easy access to the equipment and information they seek.
+
+> If a customer has a pleasant experience, they will not only come back but may also bring family members, friends and co-workers with them — other potential customers with whom the dive center only has one opportunity to make a great first impression.
+
+### Expanding Beyond the Open Water Scuba Diver Instructor
+
+Becoming and working as an SDI Open Water Scuba Diver Instructor is just one option in the huge array of opportunities available in the dive industry, some of which include part time or full time employment as an instructor, equipment sales expert or repair technician. There are also opportunities to work for various equipment manufacturers, destination resorts, charter boats, exotic dive centers and training agencies. If a career in the diving industry is of interest there are logical steps to follow.
+
+- Do the necessary homework and research in order to find what opportunities are available.
+- Find out what training, skills and tools are required for the job.
+- Research where the training, skills and tools can be obtained.
+- Identify the cost of acquiring the training, skills and tools.
+- Develop a step-by-step plan that should include a time line to completion, a budget and the milestones along the way in order to reach the end goal.
+
+As you've seen, an SDI Open Water Scuba Diver Instructor has many important roles; however, it's every industry professional's responsibility to properly promote our sport to others who show interest in the underwater world. We believe that you understand this commitment, and thank you for choosing International Training and SDI as your certification agency of choice and good luck.
