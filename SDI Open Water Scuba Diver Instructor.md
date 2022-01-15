@@ -168,6 +168,7 @@
       - [Open Water](#open-water)
     - [Training Materials](#training-materials)
       - [Traditional Training Materials](#traditional-training-materials)
+      - [Online Training](#online-training-1)
 
 # SDI Open Water Scuba Diver Instructor
 
@@ -1928,3 +1929,19 @@ Now that the various portions of how to prepare for the course have been covered
 In the early days of diving, the instructor had to directly convey information to the students since there were no training materials available. Generally, instructors taught diving the same way they had been taught, which in many cases was the "military way." The challenge for the instructors was to make the training enjoyable.
 
 As years passed, various scuba training agencies were formed and with them, their own brand of training materials. Initially, the training material supported what the instructor was teaching. However, over time training material was standardized, and it became the instructor who supported the training material. In essence, the traditional method consists of the student reviewing the academic material prior to practical training with the instructor. As we have come to find, this method has been successful and has established a proven track record.
+
+With the SDI System, the student first reads the manual and completes the knowledge quest answers. In addition they watch the CD or DVD. By using these materials the student is exposed to the information several times before they attend class. The repetition this system provides helps the student to retain the information.
+
+During the class, the instructor reviews what the students have previously read and watched and increases the intensity by interjecting personal experiences. Additionally, he has the opportunity to begin teaching the students hand signals and to build a rapport with them.
+
+As stated above, the student completes the knowledge quest booklet prior to the academic session. The instructor and students review the questions together to ensure the students have 100 percent comprehension of the information each question is testing. Following the review, the instructor collects the students' booklets and they become part of the students' training record. While this traditional method has been used successfully for many years, an alternate option is online learning.
+
+#### Online Training
+
+Though the name "online training" implies that the course is completed solely online, a better name for this style of learning is blended learning. Online training simply replaces a "hard copy" student manual. And, just like students taking a traditional class, online students must complete required sections prior to attending class.
+
+To start, students log into the TDI/SDI website (https://www.tdisdi.com) or SDI Online Training website (www.sdi-onlinetraining.com), set up their personal profile and begin their academics. This method is very convenient for students who have Internet access.
+
+During the sign up process the student must designate a facility with which they will be completing their training. After the student has set up their profile, the store they have designated will be notified. One of the major differences between traditional and online instruction is that the instructor can monitor the online student's online progress in real time. This gives the instructor or dive center the chance to send emails noting the student's good work, send dive center news letters or inform them of when the next classroom or pool session will be.
+
+As students progress through the online program, they read sections of information and complete a short quiz at the end of the sections. The students must have a one hundred (100) percent understanding of the information tested in each quiz. In the event they do not score one hundred (100) percent, the system prompts them to reread the section and retake the quiz. Quiz questions are taken from a large question pool and change each time the student retakes the quiz. Students who take the online course read, watch videos and have portions of the academics narrated to them, which utilizes more senses then reading alone, making for an better academically prepared student.
