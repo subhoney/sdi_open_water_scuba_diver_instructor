@@ -173,6 +173,11 @@
       - [Preparation, Planning and Control in Dive Management and Diving Activities](#preparation-planning-and-control-in-dive-management-and-diving-activities)
     - [Using Assistants While Teaching Courses](#using-assistants-while-teaching-courses)
     - [Summary: Chapters 11, 12, 13, and 14](#summary-chapters-11-12-13-and-14)
+  - [Courses an Open Water Scuba Diver Instructor Can Teach](#courses-an-open-water-scuba-diver-instructor-can-teach)
+    - [SDI Open Water Scuba Diver Program](#sdi-open-water-scuba-diver-program)
+    - [SDI Advanced Adventure Specialty](#sdi-advanced-adventure-specialty)
+    - [Teaching Specialty Courses](#teaching-specialty-courses)
+    - [SDI Rescue Diver Course](#sdi-rescue-diver-course)
 
 # SDI Open Water Scuba Diver Instructor
 
@@ -2005,3 +2010,138 @@ The more an assistant and OWSDI work together the more they will know what to ex
 ### Summary: Chapters 11, 12, 13, and 14
 
 This section covered everything from the basics of learning, and the phases of teaching to lesson preparation and course planning. Various methods of communication and the potential pitfalls to be aware of when delivering a presentation were discussed. Armed with this and the remainder of the information that was covered in the chapter, the SDI OWSDI should be able to successfully create and deliver a well-rounded presentation. In fact, after reading this chapter, one could say that the goal is to increase the "intensity" by applying what has been learned from this chapter in a practical, hands-on setting, thus increasing learning retention.
+
+## Courses an Open Water Scuba Diver Instructor Can Teach
+
+From the entry level open water scuba course through the dive professional training including the divemaster and assistant instructor program the SDI Open Water Scuba Diver Instructor is qualified to teach them all. In Chapter 15 all programs an SDI OWSDI is qualified to teach will be discussed. Let's start with the SDI Open Water Scuba Diver program.
+
+### SDI Open Water Scuba Diver Program
+
+The underwater adventure begins when an individual enrolls in the SDI Open Water Scuba Diver program. This course informs the new diver about the underwater environment, diving equipment and basic diving physics and physiology. During the pool /confined water portion of their training they will learn basic diving skills, how to use scuba diving equipment, as well as self- and buddy-aid techniques. When the student is comfortable and confident with their skills, they move on to a series of open water dives under the supervision of an instructor, in which the instructor conducts a final evaluation of their skills. Upon successful completion of the open water dives, candidates become certified SDI Open Water Scuba Divers and are "licensed" to dive with their buddy anywhere in the world without the supervision of a dive leader.
+
+The open water scuba diver course academics can be completed online or via a standard student kit. Depending on how the course is structured the student may need to complete the entire online academic course or read the entire student manual and complete the knowledge quest before they attend their first skill development session.
+
+Other support materials for the SDI Open Water Scuba Diver program include a knowledge quest, CD or DVD, PowerPoint® and instructor guide. The OWSDI guide is located in the appendix of the SDI OWSDI manual. You can download the appendix by clicking the following link:
+
+[SDI OWSDI Appendix PDF](https://www.tdisdi.com/wp-content/uploads/files/elearning_appendices/SDI_Open_Water_Scuba_Diver_Instructor.pdf)
+
+The SDI Instructor Trainer will review this guide in detail during the SDI OWSDI course.
+
+The paperwork required for the OWSD program includes the SDI Student Training Folder. This folder contains the personal information, liability waiver and medical questionnaire. Should a student be under the age of eighteen (18) they must have written approval from a parent or legal guardian.
+
+The instructor should refer to the current SDI Open Water Scuba Diver standards for a complete and up-to-date listing of requirements.
+
+Many divers are excited, and want to learn more after they complete their open water scuba diver course. To quench that desire, SDI Open Water Scuba Diver Instructors have many options to offer them, starting with the SDI Advanced Adventure program.
+
+### SDI Advanced Adventure Specialty
+
+Because SDI's Advanced level requires 25 logged dives and the completion of four (4) specialties, SDI developed the Advanced Adventure program to compete with other agencies advanced diver level programs. The Advanced Adventure program requires five (5) specialty dives. Two (2) programs, navigation and deep diving, are the core-required dives. The other three (3) elective specialties can be selected from a group of specialties included in the student manual. Teaching this program is similar to teaching any specialty with the exception that each topic should only be an overview of the applicable specialty. By covering the basic academics and conducting the required skills associated with the first dive of the chosen specialty, students can get a better understanding of what to expect should they choose to complete the full specialty course. One (1) dive from each of the specialties may be applied towards the full specialty certification.
+
+The support materials for this program include the student manual, instructor guide and a PowerPoint® presentation. Normal SDI paperwork including the waiver and medical release are required and must be retained in the student training folder.
+
+Upon completion of the program the diver receives an SDI Advanced Adventure card. If the diver wishes to continue on and receive their SDI Advanced Open Water Scuba Diver rating they can receive credit for one (1) specialty towards the four (4) required for the SDI Advanced Open Water Scuba Diver rating.
+
+### Teaching Specialty Courses
+
+Divers who wish to take specialties or the SDI Rescue Diver course are obviously interested in continuing their diving education. Initially, they may only be interested in a specific specialty; however, while taking the specialty course, they may quickly learn the value and benefit of completing additional specialty training.
+
+During the assistant instructor program the SDI Specialties that an SDI Assistant Instructor can teach were discussed. In contrast to the limited number of specialties the assistant instructor can teach, an SDI OWSDI can become qualified to teach any and all of the specialties that SDI offers. In fact, if there is a specialty SDI does not offer, SDI Instructors have the option to submit a Unique Specialty outline for approval.
+
+There are several specialties within the SDI system that an SDI OWSDI may become qualified to teach. These specialties include:
+
+| Advanced Buoyancy           	| Underwater Navigation 	| Equipment Specialist              	|
+|-----------------------------	|-----------------------	|-----------------------------------	|
+| Boat                        	| Underwater Video      	| Ice Diver                         	|
+| Computer Nitrox             	| Solo Diver            	| Night and Low Visibility          	|
+| Diver Propulsion Vehicle    	| Drift                 	| Search and Recovery               	|
+| Dry Suit                    	| Deep                  	| Underwater Hunter and Collector   	|
+| Full Face Mask              	| Altitude              	| Underwater Photographer           	|
+| Marine Ecosystems Awareness 	|                       	| Wreck                             	|
+| Research                    	|                       	| Visual Inspection Procedure (VIP) 	|
+| Shore/Beach Diver           	|                       	|                                   	|
+
+SDI Instructors have several options available in order to become qualified to teach these specialties.
+
+**Option One**: Complete the specialty class with an SDI Instructor Trainer for that specialty and purchase the appropriate instructor materials. During the course, the instructor trainer will review: all of the materials available for the specialty; how to use those materials; how to conduct a typical specialty course; and what paperwork must be completed during a specialty program. The specialty instructor candidate must provide proof of 10 logged dives in the specialty area. By choosing this option the instructor has the opportunity to learn some of the tricks of the trade from someone who has taught the specialty.
+
+**Option Two**: This option is available for instructors who have a vast amount of experience in a specialty and do not wish to complete a specialty instructor program with an SDI Instructor Trainer. To qualify, the specialty instructor candidate must: provide documentation of experience; purchase the appropriate instructor materials; and provide proof of 25 logged dives in the specialty area.
+
+**Option Three**: This option allows the instructor the latitude to design and write a "Unique Specialty." In other words, create a specialty that SDI does not have on the current list of approved specialties. In order to do this, the specialty instructor candidate must: provide documentation of 25 logged dives in the specialty; and write and submit a complete outline defining the academic information to be covered and all in-water skill training to be completed in pool/confined water and / or open water. Unique specialties are commonly submitted to address local diving practices or needs.
+
+When teaching an SDI specialty program the instructor must use all support materials for the specialties that have materials available. The materials used to teach a specialty may include: a student manual, knowledge quest, instructor guide and a PowerPoint® presentation. An on-line training option is also available for some of the SDI specialty courses. The student should review and complete all of the required materials before attending the class. This allows the instructor to focus more on the students' questions and practical application. In reality, however, students do not always follow through with this preparation, so it's recommended that the instructor plan time to review the academics the student has not completed.
+
+Requirements for participation in specialties vary. SDI has compiled the following matrix to quickly show the prerequisites, number of dives required and minimum age for the different specialties. This is only a quick reference matrix; for more detailed requirements please see the course-specific standards.
+
+| Specialty Name                        	| Minimum Age            	| Number of Required Dives 	| Student / Instructor Ratio in Open Water 	| Pre-req. Certification or requirements                    	| Certification Card must be issued by SDI 	|
+|---------------------------------------	|------------------------	|--------------------------	|------------------------------------------	|-----------------------------------------------------------	|------------------------------------------	|
+| Advance Adventure                     	| See chosen specialties 	| 5                        	| 8 or less - see chosen specialty         	| Open Water                                                	| Yes                                      	|
+| Advanced Buoyancy Control             	| 10                     	| 2                        	| 8                                        	| Open Water                                                	| Yes                                      	|
+| Altitude Diver                        	| 10                     	| 2                        	| 8                                        	| Open Water                                                	| Yes                                      	|
+| Boat Diver                            	| 10                     	| 2                        	| 8                                        	| Open Water                                                	| Yes                                      	|
+| Computer Diver                        	| 10                     	| 2                        	| 8                                        	| Open Water                                                	| Yes                                      	|
+| Computer Nitrox Diver                 	| 10                     	| None                     	| n/a                                      	| Open Water or enrollment in Open Water Scuba Diver Course 	| Yes                                      	|
+| Deep Diver                            	| 15                     	| 2                        	| 4                                        	| Open Water                                                	| Yes                                      	|
+| Diver Propulsion Vehicle Diver        	| 15                     	| 2                        	| 2                                        	| Open Water                                                	| Yes                                      	|
+| Drift Diver                           	| 10                     	| 2                        	| 8                                        	| Open Water                                                	| Yes                                      	|
+| Dry Suit Diver                        	| 15                     	| 2                        	| 4                                        	| Open Water                                                	| Yes                                      	|
+| Equipment Specialist Diver            	| 10                     	| None                     	| n/a                                      	| n/a                                                       	| Yes                                      	|
+| Full Face Mask Diver                  	| 15                     	| 2                        	| 8                                        	| Open Water                                                	| Yes                                      	|
+| Ice Diver                             	| 18                     	| 2                        	| 2                                        	| Open Water                                                	| Yes                                      	|
+| Marine Ecosystems Awareness Diver     	| 10                     	| 2                        	| 8                                        	| Open Water                                                	| Yes                                      	|
+| Night/Limited Visibility Diver        	| 10                     	| 2                        	| 8                                        	| Open Water                                                	| Yes                                      	|
+| Research Diver                        	| 15                     	| 2                        	| 4                                        	| Open Water                                                	| Yes                                      	|
+| Search and Recovery Diver             	| 15                     	| 2                        	| 8                                        	| Open Water                                                	| Yes                                      	|
+| Shore/Beach Diver                     	| 10                     	| 2                        	| 8                                        	| Open Water                                                	| Yes                                      	|
+| Underwater Hunter and Collector Diver 	| 10                     	| 2                        	| 8                                        	| Open Water                                                	| Yes                                      	|
+| Underwater Navigation Diver           	| 10                     	| 2                        	| 8                                        	| Open Water                                                	| Yes                                      	|
+| Underwater Photographer Diver         	| 10                     	| 2                        	| 8                                        	| Open Water                                                	| Yes                                      	|
+| Underwater Video Diver                	| 10                     	| 2                        	| 8                                        	| Open Water                                                	| Yes                                      	|
+| Wreck Diver Â— No Penetration         	| 10                     	| 2                        	| 8                                        	| Open Water                                                	| Yes                                      	|
+| Wreck Diver Â— Limited Penetration    	| 15                     	| 3                        	| 8                                        	| Deep Diver if >60ft                                       	| Yes                                      	|
+| Solo Diver                            	| 21                     	| 2                        	| 8                                        	| AOWSD and 100 dives                                       	| Yes                                      	|
+| Visual Inspection Procedure (VIP)     	| 18                     	| None                     	| n/a                                      	| n/a                                                       	| Yes                                      	|
+
+ The most current standards for specialties can be found on-line in the member's section of https://www.tdisdi.com or in the SDI Standards and Procedures manual. These standards provide information such as student to instructor ratios, depth limits for dives and minimum age for participation in the various specialties.
+
+ As with any SDI program, there is required paperwork that must be completed for specialty training. The required paperwork consists of the SDI training folder, a waiver/release, a medical questionnaire and a parental liability release if the student is younger than 18 years of age.
+
+The instructor can structure the specialty several different ways:
+
+- A thorough academic review can be conducted followed by a pool session and the open water dives.
+- The academic session can be designed as a review instead of in-depth lecture.
+- If the specialty does not require a pool/confined water session, the open water dives can follow immediately after the academic session.
+- The academic review can be conducted as a review at the open water site followed immediately by the open water dives. This option can be very beneficial to the student as it provides a more casual learning environment and allows them to apply what was just learned.
+
+There are a few specialties that may benefit from a pool/confined water session. These include the dry suit, photography and video specialties. Even if the specialty does not require a pool/confined water session the instructor has the flexibility to conduct a pool/confined water session as a skill refresher. Students who have successfully completed the course should be rewarded with their certification card and diploma.
+
+To process a specialty card, the instructor must register the student either on-line or by sending the appropriate paperwork to SDI Headquarters or the appropriate regional office. However, many facilities have the option to print certification cards in the store.
+
+In order to promote specialties, everyone within the store should know when specialties are offered and have some information about them. Most specialties should be promoted during the SDI Open Water Scuba Diver course. Specialty courses should be cross promoted in conjunction with other specialty courses. A calendar indicating the dates and times of every scheduled specialty should be readily available to all staff members affiliated with a dive center. That way, everyone can promote all specialties. Remember, one of the responsibilities of every staff member is to recognize the interests of the customers and educate them on the services available to them at the dive center including courses. This will be covered in more detail in the Successfully Selling Scuba section of this manual.
+
+A complete calendar for six months, or better yet a year, listing all specialties is a great way to inform all possible students when they can plan on signing up for and taking that specialty program they're interested in. Also, it's important to remember that most specialties can be taught in conjunction with either local diving or exotic trips.
+
+Specialty training not only improves a diver's skills and knowledge, but also keeps them involved with diving. It gives the instructor a variety of classes he can teach so he will not get tired of teaching the same class all of the time. Additionally, specialty classes usually don't take as much time to teach, so instructors have the opportunity to make more money per hour teaching a specialty.
+
+> Just as it's recommended for divers to continue their dive education, dive leaders are encouraged to do the same. Dive leaders who actively participate in specialty or technical training set a good example for others and are more likely to pass their enthusiasm for the sport on to their students.
+
+### SDI Rescue Diver Course
+
+As previously stated an SDI Open Water Scuba Diver Instructor is qualified to teach several core programs without being required to take additional training beyond that of the instructor course. The SDI Open Water Scuba Diver course, the Advanced Adventure, Rescue Diver, Divemaster and Assistant Instructor make up the core programs. Each program is fun, interesting and challenging to teach. The SDI Open Water Scuba Diver program introduces the new diver to the underwater world. The SDI Advanced Adventure course allows them to try several specialties to better decide which area(s) of diving they may wish to explore. The Rescue Diver program will provide the student insight into how to become more self-sufficient and recognize and address problem situations before a rescue is required. Should a rescue be required, the course will train them for that as well.
+
+During the SDI Open Water Scuba Diver course some basic self-help and buddy aid skills were introduced to the students. The SDI Rescue Diver program will expand on what to look for in oneself and one's buddy to help eliminate a potential accident from occurring. Students will learn how to handle an accident should it occur and what steps should be undertaken to properly attend to a diving accident victim.
+
+> No matter what area(s) of diving interest a student has they should all be encouraged to complete the SDI Rescue Diver program when they are eligible.
+Often students have stated that the SDI Rescue Diver program was one of the most demanding yet enjoyable courses they have taken.
+
+The SDI Rescue Diver course is a prerequisite for the SDI Master Diver (non-leadership) level as well as the SDI Divemaster (entry-level leadership) level. To begin the SDI Rescue Diver Course the student must be a minimum of 18 years of age (15 with parental approval) and either an advanced diver or an open water scuba diver with a minimum of 40 logged dives. Additionally, the rescue student must have documentation of current CPR and first aid training. Student materials for the rescue diver course include a student manual, knowledge quest manual and the diver's slates. Instructor materials consist of the instructor guide, resource CD and rescue scenario slates. The suggested hours for the rescue course are twelve (12), with a recommended minimum of eight (8) in the open water.
+
+As with most SDI courses, the waiver / release and medical questionnaire must be completed prior to starting the course. Students under the age of eighteen (18) must have parent or legal guardian approval prior to beginning the course. Once the course is completed all paperwork must be retained in the student's SDI Student Record Folder. If this is the first course an individual has taken through the facility, a new training record folder should be completed and used for the course.
+
+Similar to other SDI programs, the student completes the student manual and knowledge quest prior to the academic session, during which the instructor reviews the materials and answers any questions the students may have. Pool/confined water is not required but it may help to streamline the open water sessions. During the in-water training portion of the rescue course the student is introduced to buddy aid and assistance skills. They practice these skills until they are proficient in them. During the final portion of the rescue program, students are exposed to various scenarios for which they must make the appropriate decisions on handing and executing a thorough rescue. The SDI Rescue Instructor Guide and Rescue Instructor Resource CD are great resources for information about how to structure the course.
+
+After the students have completed the rescue diver training they should be presented with a SDI Rescue Diver certification card and diploma. The card can be requested through the normal channels from SDI Headquarters or the local Regional Office.
+
+The rescue course helps build not only the student's skills, but also helps build confidence by demonstrating to them that they have the ability to handle a rescue. As the diver continues down the path of their diving career, their rescue training will help them be more aware of potential rescue situations and be able to handle and hopefully eliminate rescue situations.
+
+Up to this point the diver level programs an SDI OWSDI is qualified to teach have been discussed. The next levels an OWSDI is qualified to teach are the dive professional levels including SDI Divemaster and SDI Assistant Instructor. It is recommended the SDI OWSDI gain knowledge and experience teaching the diver levels before they begin teaching dive professionals. With that in mind, the SDI OWSDI needs to ensure that his knowledge and skill levels are the highest possible quality before he passes the knowledge on to or demonstrates skills to professional level candidates as discussed in the next section.
+
