@@ -164,6 +164,7 @@
   - [Methods of Instruction, Part 4](#methods-of-instruction-part-4)
     - [Lesson Preperation](#lesson-preperation)
       - [Classroom](#classroom)
+      - [Pool/Confined Water](#poolconfined-water)
 
 # SDI Open Water Scuba Diver Instructor
 
@@ -1890,3 +1891,19 @@ The academic session of a course is the time to cover subjects in detail and ans
 At the end of the academic session a brief explanation should be given of what to expect during the next academic session or what the students can expect at the pool/confined water or open water session. Be sure to provide details such as time, address, directions, where to park and what to do once they arrive.
 
 Click [here](https://www.tdisdi.com/wp-content/uploads/files/IT_PDFs/Forms/Academic_Presentation_Examples.pdf) to download a PDF of a sample academic presentation form.
+
+#### Pool/Confined Water
+
+The pool or confined water session of the course is the time when students are exposed to and practice skills in a controlled environment. Unlike the academic session, the practical session is more about doing and less about lecture.
+
+One of the biggest considerations when preparing for the pool/confined water session is the site. What site will be used? Will there be lifeguards or other surface support? If using a pool, is the pool reserved and what section of the pool will be needed, shallow or deep? Just as was done for the academic session, a list of supplies should be created. The confined water list should include: weights, extra cylinders, extra scuba equipment, first aid supplies, oxygen kit and dive flag if using a confined water site that is exposed to open water. Be sure to bring along any training aids that may be needed such as objects to photograph when teaching a photo or video course and floating hoops for the buoyancy course.
+
+When the students arrive at the pool/confined water site a briefing should be conducted that covers emergency procedures, a review of the knowledge and skills that will be covered during the session and finally, what hand signals will be used. The in-water presentation form can be completed and used by the instructor along with the cue cards.
+
+Click [here](https://www.tdisdi.com/wp-content/uploads/files/IT_PDFs/Forms/In_Water_Presentation_Example.pdf) to download a PDF of a sample in-water presentation form.
+
+By using the in-water presentation form and the cue cards the instructor should not overlook anything. The primary purpose of the pool/confined water session is to get the students in the water so they can apply what they have learned. This provides the instructor an opportunity to assess comfort level and retention of knowledge. The key here is to maximize the time in the water.
+
+Skills must be briefed and demonstrated by the instructor so that the students have a clear understanding of what is expected. After every skill performance an evaluation should be conducted explaining how well the student did or correcting any poor skill performances. If a correction is needed, try to start and end the evaluation of students with a positive element, putting the negative or correction in the middle.
+
+The pool/confined water session should be wrapped up with what can be expected in the next confined water session or what to expect during the open water session.
