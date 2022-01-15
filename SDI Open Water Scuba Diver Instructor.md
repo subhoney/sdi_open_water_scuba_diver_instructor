@@ -152,6 +152,12 @@
     - [General Teaching Methods](#general-teaching-methods)
       - [Oral Presentations](#oral-presentations)
       - [Guided Discussion](#guided-discussion)
+      - [Online Training](#online-training)
+    - [Factors that Influence Communication](#factors-that-influence-communication)
+      - [Vocal Expression](#vocal-expression)
+      - [Image](#image)
+      - [Nervousness](#nervousness)
+      - [Teaching Tools](#teaching-tools)
 
 # SDI Open Water Scuba Diver Instructor
 
@@ -1776,3 +1782,57 @@ Guided discussion can be a great way for the instructor to answer any questions 
 > The two key factors the instructor should constantly monitor and maintain are topics and time.
 
 The topics under discussion should relate to the course and not go beyond its scope. It's easy for anyone to get off on a tangent, and it's human nature to follow along. Stopping these distractions when they start is the instructor's responsibility and will keep the discussion on track. In reference to time, open or guided discussions tend to go on too long without proper guidance; therefore, the duration of the discussion should be just long enough for all of the relevant questions to be answered and for the objective to be met. Managing guided discussions takes practice, but if done properly, they can be very effective and more fun for the student.
+
+#### Online Training
+
+One of the latest advents to the scuba diving industry is online training, also known as blended learning. While this is not a new concept in many other industries, it may take some time to get used to.
+
+Online training does not replace the need for face-to-face interaction; it does however, give the dive professional a chance to apply what they would normally do in the classroom in a new way. When using online training, the dive professional can watch the progress of the students, send them emails or call them to discuss the course and answer questions.
+
+When students complete the academics online, they are essentially cutting out the fat. Doing so facilitates a more efficient face-to-face interaction between the student and instructional staff because the majority of the time can now be spent on hands-on training and knowledge and skill application. This is very valuable time because the student builds trust with the professional earlier and the professional has a chance to assess the student sooner.
+
+Currently SDI offers many of its courses online and will continue to develop and adapt more of them as time progresses.
+
+### Factors that Influence Communication
+
+This section looks at factors that influence effective communication as they apply to the instructor. These factors and principles should be considered and applied where necessary when giving presentations and interacting with students.
+
+#### Vocal Expression
+
+> Vocal expression is one of the most important tools a presenter has in his arsenal.
+
+The key elements of vocal expression are pitch, volume and rate of speech. Pitch, commonly referred to as "voice inflection," is the tone or modulation of the voice as it goes from high to low, or vice versa. The use of inflection allows us to show emotion through speech. It helps convey the excitement or importance of a topic. It also helps keep the students engaged in the presentation. The presenter who speaks in a monotone fashion quickly looses the interest of their audience.
+
+When speaking to a group, presenters must be constantly aware of the volume of their voice. If they are too loud, students may focus on the volume rather than the information. If they are too quiet, the students won't be able to hear the information and in many cases, students won't inform the presenter they can't hear unless asked. Therefore, it's in the presenter's best interest to ask the group if his volume is sufficient. Volume can also be used in combination with pitch to inject excitement and gain the attention of the group. However, excessive volume can also be mistakenly interpreted as a negative emotion such as anger. To help avoid this, it's recommended that presenters practice their delivery and solicit input from the group.
+
+The speed or rate at which a presenter speaks also has an impact on the way the information is interpreted. In fact, the rate of speech should be appropriately adjusted if there are any special circumstances. For instance, are there children in the class? If so, they may benefit from a decreased rate of speech, as would a translator or someone with a learning disability. This information may not be known prior to class, so it is up to the dive professional to monitor the group and make adjustments if anyone is struggling to keep up. Others, such as translators or those with learning disabilities, may need additional one-on-one time with the presenter to help ensure that they understand the subject matter.
+
+Proper vocal expression is important if the students are to correctly interpret and understand the information being presented; however, if the students can't get past the appearance of the presenter, their vocal expression will make little difference. 
+
+#### Image
+
+An instructor who stands before a group of students and looks well put together will gain the respect and trust of the students faster and more easily than one who looks like they just fell out of bed. In most cases, first impressions are based on overall appearance. They are long lasting and difficult to change. That is why it is vital that the instructor look the part. This includes wearing appropriate clothing that is characteristic of the dive facility they represent and avoiding any clothing that is damaged, ripped or torn. Also, as a general rule, it's not appropriate for a presenter to wear a hat indoors unless it is part of the approved uniform.
+
+When addressing the group, the presenter should appear relaxed even if they are feeling nervous. They should stand in an upright position and avoid pacing at the front of the room. In a casual classroom setting it is ok for the instructor to sit amongst the students, but he should avoid slouching in the chair or putting his feet up. Either way, sitting or standing - the presenter should keep his head high, project his voice and keep constant eye contact with the class.
+
+#### Nervousness
+
+As stated earlier, a little bit of nervousness is expected and should go away a few minutes after beginning the presentation. However, there are a few things a presenter can do to help minimize the impact of nervousness.
+
+**Practice, Practice and Practice** - It's highly recommended that the instructor practice their presentation a few times. This can be done with no one around, in front of a video camera or in front of select family and friends who are willing to provide honest input. If using a video camera, the presenter should review the presentation, take notes on areas he can improve on, and implement the changes in the next practice presentation
+
+**Use Training Aids** - While the use of visual aids is recommended, the presenter should be sure to use visual aids that he is familiar with. When using a PowerPoint® or custom presentation, it's important that the presenter review it completely several times to help ensure there are no surprises. In addition, the presenter should check for typos and make a list of questions and topics that may come up.
+
+**Some Final Tricks of the Trade** - The presenter may benefit from taking a few quiet minutes before starting the presentation. During this time he should take a few deep, slow breaths and think about the subject and how he will deliver the presentation to the group.
+
+With all of this said, the most important thing for the presenter to do is focus on getting the information to the students clearly, not quickly.
+
+#### Teaching Tools
+
+There is a wide range of teaching tools available from SDI for the SDI Open Water Scuba Diver Instructor to use in his presentations. These include diver manuals, instructor guides, PowerPoint® presentations, cue cards and posters. Of course, any piece of scuba equipment or scuba related item might be used as a teaching tool as well.
+
+When properly used, teaching tools can act as a guide for the instructor to follow. Take a scuba mask for example: The instructor could begin with what type of mask is it, high or low volume; what the mask skirt is made out of, and why that's important; and what options are important to consider when choosing a mask.
+
+Used as a teaching tool, PowerPoint® is both interactive and helps the presenter manage his time. PowerPoint® helps the presenter keep the presentation on track and cover all the points that need to be discussed. Additionally, after using the presentation a few times, the presenter will have a good idea how long the presentation takes from start to finish. Also, the slides should augment the verbal presentation but not be a written version of it. Presenters must use their own words, experiences and perspective to bring what's in the PowerPoint® to life.
+
+When using digital systems, it's recommended that the presenter set up the equipment prior to class and go through one or two "dry runs." By doing so, unpleasant surprises will be avoided and the overall presentation will be more professional.
