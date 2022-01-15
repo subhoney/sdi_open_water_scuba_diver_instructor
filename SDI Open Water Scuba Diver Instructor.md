@@ -2141,7 +2141,7 @@ Similar to other SDI programs, the student completes the student manual and know
 
 After the students have completed the rescue diver training they should be presented with a SDI Rescue Diver certification card and diploma. The card can be requested through the normal channels from SDI Headquarters or the local Regional Office.
 
-Rescue Diver
 The rescue course helps build not only the student's skills, but also helps build confidence by demonstrating to them that they have the ability to handle a rescue. As the diver continues down the path of their diving career, their rescue training will help them be more aware of potential rescue situations and be able to handle and hopefully eliminate rescue situations.
 
 Up to this point the diver level programs an SDI OWSDI is qualified to teach have been discussed. The next levels an OWSDI is qualified to teach are the dive professional levels including SDI Divemaster and SDI Assistant Instructor. It is recommended the SDI OWSDI gain knowledge and experience teaching the diver levels before they begin teaching dive professionals. With that in mind, the SDI OWSDI needs to ensure that his knowledge and skill levels are the highest possible quality before he passes the knowledge on to or demonstrates skills to professional level candidates as discussed in the next section.
+
