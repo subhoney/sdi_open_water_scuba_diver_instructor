@@ -2451,4 +2451,6 @@ You have almost completed the SDI OWSDI online academic program. Just a few more
 - Proof of current insurance listing SDI/TDI/ERDI as an additional insured (if required in your area and if you will be working with students)
 - You may also be required to pay an additional fee for the practical/skill development portion of your OWSDI course.
 
-Your instructor trainer will also have you complete a dive leader medical statement, and may at his or her discretion have you complete an additional written and/or oral examination. Please direct any questions regarding the program to your instructor trainer. On the following exam, you be asked questions pertaining to the gas laws. If you need to download the Gas Laws Worksheet again please use the following link: Gas Laws Worksheet To continue without downloading this documents click "Next Page" below.
+Your instructor trainer will also have you complete a dive leader medical statement, and may at his or her discretion have you complete an additional written and/or oral examination. Please direct any questions regarding the program to your instructor trainer. On the following exam, you be asked questions pertaining to the gas laws. If you need to download the Gas Laws Worksheet again please use the following link: [Gas Laws Worksheet](https://www.tdisdi.com/wp-content/uploads/files/elearning_appendices/SDI_Open_Water_Scuba_Diver_Instructor.pdf). To continue without downloading this documents click "Next Page" below.
+
+GOOD LUCK.

@@ -11,7 +11,7 @@ Informational Requirements:
 ### Imperial
 
 $$
-Buoyancy = weightOfObject- [(cubicFeetDisplaced)(lbsPerCubicFootOfWater)]
+Buoyancy=weightOfObject-[(cubicFeetDisplaced)(lbsPerCubicFootOfWater)]
 $$
 
 > What is the buoyancy of an object in seawater object that weighs 55 pounds and displaces 0.75 cubic feet?
@@ -63,13 +63,13 @@ $
 ### Metric
 
 $$
-Buoyancy = weightOfObject- [(litersDisplaced)(kg/literOfWater)]
+Buoyancy=weightOfObject-[(litersDisplaced)(kg/literOfWater)]
 $$
 
 > What is the buoyancy of an object in seawater that weighs 20 kilograms and displaces 15 liters?
 >
 > $$
-> 20kg - (15)(1.03) = -4.55kg
+> 20kg-(15)(1.03)=-4.55kg
 > $$
 >
 > The object is negative 4.55kg buoyant.
@@ -77,7 +77,7 @@ $$
 > What is the buoyancy of an object in freshwater that weighs 10kg and displaces 15L?
 >
 > $$
-> 10kg - (15L*1.0) = 5kg
+> 10kg-(15L*1.0)=5kg
 > $$
 >
 > The object is 5kg positively buoyant.
