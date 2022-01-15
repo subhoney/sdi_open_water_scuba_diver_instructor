@@ -184,6 +184,11 @@
     - [Supervising Dives](#supervising-dives)
     - [Emergency Situations](#emergency-situations)
     - [Preparing to Teach a Professional Level Course](#preparing-to-teach-a-professional-level-course)
+    - [Liability of Teaching Professionals](#liability-of-teaching-professionals)
+    - [SDI Products and Procedures](#sdi-products-and-procedures)
+      - [How to Purchase SDI Products](#how-to-purchase-sdi-products)
+      - [Registration Procedures](#registration-procedures)
+    - [Summary: Chpaters 15 and 16](#summary-chpaters-15-and-16)
 
 # SDI Open Water Scuba Diver Instructor
 
@@ -2210,3 +2215,56 @@ SDI has made available several informative [educational videos](https://www.tdis
 
 These informative videos can be seen by clicking here: [Dive Leader Training Videos](https://www.tdisdi.com/media/products/ITI_Product_Training.html)
 
+### Liability of Teaching Professionals
+
+Just as the newly certified dive professional assumes added liability for training or supervising divers, so too does the instructor who certified them to do so. Very simply, instructors who train dive leaders assume not only the liability for the dive leader's training, but may assume some liability for any divers that dive leader may subsequently supervise or train. To help mitigate this liability the instructor must follow SDI Training Standards; use all available training materials, including liability release forms; and ensure 100% comprehension of subjects and skills by the dive professional candidate during their training. While this is clearly a very serious responsibility, it is quite easy to accomplish by following the guidelines and procedures as outlined in the SDI training and support materials. Procedures for obtaining these materials will be covered in the following sections.
+
+### SDI Products and Procedures
+
+Every dive professional and dive center staff member plays an important role in the future of the dive center and the health of the scuba diving industry. While the primary interest of the dive professional may be educating and creating new divers, this by itself will not support the dive center or the industry as a whole. In order to maintain a healthy business all members of the staff must take part in selling equipment, promoting classes, encouraging customers to have their equipment serviced annually and promoting dive travel. If everybody contributes to each of these facets then everybody can also enjoy a prosperous and long career in the dive industry.
+
+The dive professional, along with the dive center, will need to interact with International Training to purchase product for the courses they offer and to register divers from entry level through dive professional levels. Anytime the dive professional or dive center has recommendations for new products or programs their comments or suggestions are welcome at ITI. The following information will help the dive professional better understand the purchasing of product and registration of students with ITI. While most dive centers will purchase product and register divers, the dive professional may be called on at some point to perform these duties.
+
+#### How to Purchase SDI Products
+
+There are several ways to purchase product from Scuba Diving international, Technical Diving International and Emergency Response Diving International. Which of these methods is used is a matter of personal preference or convenience. While some may enjoy speaking with a person to get a better understanding of what they are ordering, others may like ordering the product online. ITI has allowed for both of these options.
+
+**Regional Sales Manager**: Dive centers and professional members should always feel free to contact their ITI Regional Sales Manager to place an order, ask them about on-going specials or simply discuss "what's new?" Regional sales managers are quick to pass that order on to the regional office and it will be shipped out as soon as possible. This is a great option if the business hours or time zone differs from that of the regional office the dive professional works through. It is also a good opportunity to just catch up or share ideas and observations of what is happening in the local market.
+
+**Regional Office**: Contacting the ITI Regional Office directly is another way products can be ordered. With terrific customer service, an actual person who is happy to assist the customer will be reached on the other end of the line without going to voice mail or automated menus. If it's after hours, send the order form via fax and the order will be processed first thing the next working day.
+
+**Online Catalogue**: Go online, create an account, log on and shop! Facilities and professional members in the North American region may purchase materials at any time 24/7 - ITI is always open with the online catalogue. Facilities and professional members outside of the North American region should contact their regional office for more information. For each product there is a product description and a list of other support materials if available. Take time and browse for materials whenever your schedule permits and finalize the order when ready. This method is safe, private, quick and efficient.
+
+**Most products are available online.**
+
+Associate members and non-members may make purchases of certain items by visiting their local SDI-TDI-ERDI Dive Center, calling the regional office directly or in North America, by opening up an online account through the website. Because associate members and non-members are not professional SDI/TDI/ERDI Divemasters, Assistant Instructors, Instructors or Instructor Trainers (professional members) they are restricted to purchasing certain materials. Cool clothing, stickers and certain books are available to anyone, while manuals and other instructor materials are restricted for professional members only.
+
+Please contact the ITI Regional Office or World Headquarters with any questions or comments, or to place an order - ITI staff will be happy to assist. A list of all ITI Regional Offices is available 24 hours a day, seven days a week online at https://www.tdisdi.com.
+
+#### Registration Procedures
+
+Once a student has successfully completed a course, the next step is to register the diver. Perhaps one of the most exciting moments, for the diver and the instructor alike - is when a diver is handed their certification card. For the diver, there is a sense of accomplishment and for the instructor there is the satisfaction of having passed on their knowledge and experience.
+
+In order to maintain the professional image the instructor has established, and that of SDI/TDI/ERDI, it's important to register the student's record of course completion correctly and in a timely manner so the registration form can be processed quickly and the diver's credentials returned as soon as possible.
+
+Diver registrations may be submitted via written form, pre-paid form or using the online registration system.
+
+When completing a written Diver Registration form (found in the appendix section of the Standards and Procedures Manual) and pre-paid form, please keep the following in mind to avoid processing delays:
+
+- Write legibly.
+- Use the correct form for the course that was taught.
+- Fill out the form completely.
+- A separate form is required for each course that was taught.
+- Sign forms where indicated.
+
+To register a student online, simply log in to the members area of https://www.tdisdi.com and choose either "Have HQ Print" or "Print at Facility," which can be found under the heading "Student Registrations." The latter option (Print at Facility) is only available if your dive facility has a C-Card printer and is authorized by ITI Headquarters to print cards. With either choice, it's critical to follow the on-screen instructions to ensure proper processing.
+
+It's important to follow the established guidelines to ensure processing is completed in a timely manner. ITI prides itself on customer service and timely turnaround on certification cards. Working together, a high level of customer service can be achieved.
+
+As outlined above there are several times a dive professional may need to interact with ITI. Knowing the procedures and process will help streamline the transaction. Please don't hesitate to contact the local ITI Regional Sales Manager, Regional Office or ITI Headquarters if should any questions arise. They're there to help!
+
+Before any training begins students have to be acquired. The instructor, along with every other dive professional affiliated with the dive center, has a responsibility to help the dive center acquire students to fill classes. Full classes equal active divers, which promote equipment sales and travel.
+
+### Summary: Chpaters 15 and 16
+
+Chapters 15 and 16 have shown there are several opportunities for an instructor to gain experience applying what they have learned during their course and why it is important for the instructor to understand the entire process of scheduling, marketing and conducting a course.
