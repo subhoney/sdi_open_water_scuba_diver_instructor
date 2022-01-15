@@ -192,6 +192,7 @@
   - [The Business Side of Diving](#the-business-side-of-diving)
     - [The Dive Professional's Role](#the-dive-professionals-role)
     - [The Impact of Diving Education](#the-impact-of-diving-education)
+    - [Recruiting New Divers](#recruiting-new-divers)
 
 # SDI Open Water Scuba Diver Instructor
 
@@ -2320,3 +2321,32 @@ When talking about navigation, night diving, boat diving and other types of spec
 It's a good idea to talk to other instructors who actively conduct specialty courses. They may have some great tips to share, and be able to help you put together a successful continuing education program based on their experiences.
 
 Finally, remember that most new divers want to continue their education with a dive professional they know, trust and have built a bond with. If the student had fun while learning in the SDI Open Water Scuba Diver course, or any other course - that student is much more likely to enroll in a specialty course that will be taught by the same dive professional. While this is a major part of being a successful dive professional, one must be able to recruit new students as well.
+
+### Recruiting New Divers
+
+Successful businesses are very good at two things. First, they know how to attract new customers. Second, they know how to keep the customers they have. Keeping customers is as simple as offering them the products and services they need in a friendly and convenient manner, as was covered earlier. However, in order to recruit new customers, a business must start by informing potential customers about their products and services and why these are the best solutions to fit their customer's needs. It is here that the dive professional has awesome potential.
+
+Scuba diving is more than a sport. It is a passion. Every diver, and more importantly every dive professional knows the pure emotion that scuba diving elicits. It is this emotion that the dive professional can and should use to gain the attention of potential new divers. When a dive professional transfers this emotion onto their students, they then become the dive professional's best recruitment tool because they, too, are now excited and want to share it.
+
+Over the years industry surveys have shown that most individuals take a diving certification course because of word of mouth referral. Properly trained divers are the best recruiting tool and should be utilized to their fullest potential. Many businesses worry about where to spend their advertising dollars. If they would simply invest in a great customer service process the word of mouth advertising would reap benefits over and over.
+
+The amount and type of referrals the dive professional and the dive store receive will be based on the students' perception of their complete scuba experiences. If the individual has a good experience, they are more likely to refer others. Conversely, marketing experts tell us if an individual has a bad experience they will tell at least ten other people about that bad experience, and those people will tell others. Therefore, the key to gaining the most from word of mouth referrals is ensuring that the customers have a great experience and that they have a vehicle by which they can refer others.
+
+Develop a system to gather referral information from customers and students. The information should include the referral contact's name, address, phone number, e-mail and relationship to the customer. A professional looking and feeling form or card with these fields will do the trick. Address this as part of the debriefing following a successful and fun pool/confined water session. Ask the students if they know anyone who might be interested in becoming a diver, or a non-certified person they would like to have as a dive buddy. Make sure to get the student's approval to contact that person. The information gathered should be entered into the dive center's database for future follow up.
+
+The first contact should be made by phone. The staff member making the call should introduce himself and explain why he is calling. The referral candidate should be told who referred them and why they were chosen (dive buddy - someone they travel with - a significant other). Additionally, the caller should answer any questions, invite the potential student to come into the store, and ask if it's okay to send them information from time to time. Most importantly, the caller should respect the referral's wishes.
+
+> If the referral candidate does not want more information, or to take the call, the caller should thank them and leave them be.
+
+However, if the referral candidate agrees to receive more information, the dive center should immediately follow up. Timely follow-through is critical and is the only opportunity for a good first impression. The follow-up should include a hand written thank you note in addition to the requested information. Whether it is an invitation for a free personal orientation or a free introduction to scuba, it's always a good idea to include some type of an incentive for the referral candidate to visit the dive center in person. The dive center staff should also create an incentive for divers who provide referrals and an additional "thank you" incentive if referral candidates sign up for a class.
+
+Dive professionals should always bear in mind that every person they come in contact with daily is a potential new diver. Your co-workers, parents at a children's sporting activity, or someone you meet in line at the store could be your next student. Or, they may be a certified diver who want to provide a referral. Ideas for recruiting new potential divers are limited only by one's imagination, so put that imagination to work.
+
+In addition to word of mouth, there are countless other ways to attract new students. A few ideas include:
+
+- **Business Cards**: One side of the business card has the dive center's contact information and the dive professional's name. On the other side is an offer for a free introduction to scuba: "Simply bring this card into the store to make an appointment for a FREE try scuba."
+- **Try Scuba"Tokens"**: Find a source that can custom print on wooden nickels or generic casino chips or tokens. Again, one side of the "token" has the dive center's logo and contact information and on the other side is an offer for a free introduction to scuba: "Simply bring this token into the store to make an appointment for a FREE try scuba." The custom business cards and tokens are great tools to have when talking to individuals. When the subject of scuba diving comes up, hand them a business card or a token to try scuba for FREE.
+- **Travel Agencies**: Build a relationship with one or several travel agencies and together design an incentive package for the travel agencies to refer new divers to the dive center. For example, travel agencies sell a lot of cruises. Offer the travel agency a coupon to give their customers for a free snorkel session.
+- **Free Scuba Classes**: Offer free scuba classes to travel agents, radio and TV personalities, and other individuals who reach large audiences. It's vital that these individuals have the best time of their life. Otherwise, they won't promote the dive center, or worse will tell people to avoid it.
+
+Attracting new customers is an ever-changing art form and successful businesses know that they must employ a wide range of customer acquisition tactics to continue to be successful. However, successful businesses also know that retaining the customers they have is equally important.
