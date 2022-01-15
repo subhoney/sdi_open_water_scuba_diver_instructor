@@ -173,6 +173,8 @@
       - [Preparation, Planning and Control in Dive Management and Diving Activities](#preparation-planning-and-control-in-dive-management-and-diving-activities)
     - [Using Assistants While Teaching Courses](#using-assistants-while-teaching-courses)
     - [Summary: Chapters 11, 12, 13, and 14](#summary-chapters-11-12-13-and-14)
+  - [Courses an Open Water Scuba Diver Instructor Can Teach](#courses-an-open-water-scuba-diver-instructor-can-teach)
+    - [SDI Open Water Scuba Diver Program](#sdi-open-water-scuba-diver-program)
 
 # SDI Open Water Scuba Diver Instructor
 
@@ -2005,3 +2007,25 @@ The more an assistant and OWSDI work together the more they will know what to ex
 ### Summary: Chapters 11, 12, 13, and 14
 
 This section covered everything from the basics of learning, and the phases of teaching to lesson preparation and course planning. Various methods of communication and the potential pitfalls to be aware of when delivering a presentation were discussed. Armed with this and the remainder of the information that was covered in the chapter, the SDI OWSDI should be able to successfully create and deliver a well-rounded presentation. In fact, after reading this chapter, one could say that the goal is to increase the "intensity" by applying what has been learned from this chapter in a practical, hands-on setting, thus increasing learning retention.
+
+## Courses an Open Water Scuba Diver Instructor Can Teach
+
+From the entry level open water scuba course through the dive professional training including the divemaster and assistant instructor program the SDI Open Water Scuba Diver Instructor is qualified to teach them all. In Chapter 15 all programs an SDI OWSDI is qualified to teach will be discussed. Let's start with the SDI Open Water Scuba Diver program.
+
+### SDI Open Water Scuba Diver Program
+
+The underwater adventure begins when an individual enrolls in the SDI Open Water Scuba Diver program. This course informs the new diver about the underwater environment, diving equipment and basic diving physics and physiology. During the pool /confined water portion of their training they will learn basic diving skills, how to use scuba diving equipment, as well as self- and buddy-aid techniques. When the student is comfortable and confident with their skills, they move on to a series of open water dives under the supervision of an instructor, in which the instructor conducts a final evaluation of their skills. Upon successful completion of the open water dives, candidates become certified SDI Open Water Scuba Divers and are "licensed" to dive with their buddy anywhere in the world without the supervision of a dive leader.
+
+The open water scuba diver course academics can be completed online or via a standard student kit. Depending on how the course is structured the student may need to complete the entire online academic course or read the entire student manual and complete the knowledge quest before they attend their first skill development session.
+
+Other support materials for the SDI Open Water Scuba Diver program include a knowledge quest, CD or DVD, PowerPoint® and instructor guide. The OWSDI guide is located in the appendix of the SDI OWSDI manual. You can download the appendix by clicking the following link:
+
+[SDI OWSDI Appendix PDF](https://www.tdisdi.com/wp-content/uploads/files/elearning_appendices/SDI_Open_Water_Scuba_Diver_Instructor.pdf)
+
+The SDI Instructor Trainer will review this guide in detail during the SDI OWSDI course.
+
+The paperwork required for the OWSD program includes the SDI Student Training Folder. This folder contains the personal information, liability waiver and medical questionnaire. Should a student be under the age of eighteen (18) they must have written approval from a parent or legal guardian.
+
+The instructor should refer to the current SDI Open Water Scuba Diver standards for a complete and up-to-date listing of requirements.
+
+Many divers are excited, and want to learn more after they complete their open water scuba diver course. To quench that desire, SDI Open Water Scuba Diver Instructors have many options to offer them, starting with the SDI Advanced Adventure program.
