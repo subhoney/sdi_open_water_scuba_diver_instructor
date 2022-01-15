@@ -169,6 +169,8 @@
     - [Training Materials](#training-materials)
       - [Traditional Training Materials](#traditional-training-materials)
       - [Online Training](#online-training-1)
+    - [Course Planning](#course-planning)
+      - [Preparation, Planning and Control in Dive Management and Diving Activities](#preparation-planning-and-control-in-dive-management-and-diving-activities)
 
 # SDI Open Water Scuba Diver Instructor
 
@@ -1944,4 +1946,26 @@ To start, students log into the TDI/SDI website (https://www.tdisdi.com) or SDI 
 
 During the sign up process the student must designate a facility with which they will be completing their training. After the student has set up their profile, the store they have designated will be notified. One of the major differences between traditional and online instruction is that the instructor can monitor the online student's online progress in real time. This gives the instructor or dive center the chance to send emails noting the student's good work, send dive center news letters or inform them of when the next classroom or pool session will be.
 
-As students progress through the online program, they read sections of information and complete a short quiz at the end of the sections. The students must have a one hundred (100) percent understanding of the information tested in each quiz. In the event they do not score one hundred (100) percent, the system prompts them to reread the section and retake the quiz. Quiz questions are taken from a large question pool and change each time the student retakes the quiz. Students who take the online course read, watch videos and have portions of the academics narrated to them, which utilizes more senses then reading alone, making for an better academically prepared student.
+Once the students have completed the online academics, they are prompted to print out a detailed report to give to the instructor as verification that they have completed the online training.
+
+After students complete the online academics, they schedule a time to go to the dive center and meet with an instructor. The SDI OWSDI now has an opportunity to meet the student face to face, get to know them, show them around the dive center and introduce them to the staff. The instructor has the opportunity to review the detailed report and answer any questions the student has, and ensure the student understands the subject. As stated previously, even though the SDI Online Training is set up to ensure 100 percent remediation, it is still important that the instructor ensures the student is comfortable with the subject matter.
+
+Both the traditional and online learning have unique benefits; however, both accomplish the same goal: to educate the student about scuba. It is simply how each is used that makes the difference. Some students learn better by interacting with an instructor while others prefer to learn on their own and at their pace.
+
+### Course Planning
+
+This section will cover overall preparation and planning for a course, including dive management and various diving activities as they pertain to proper procedures for the water portion of a course. The information in this section is broad in scope and can be applied to any course the SDI Instructor may be teaching.
+
+#### Preparation, Planning and Control in Dive Management and Diving Activities
+
+Preparing and planning for a course begins long before the students ever set foot in the dive center. There are a lot of aspects the dive professional has to consider and many of them need to be planned well in advance of teaching a course. Examples of these include ensuring the proper dive equipment is available and that it has been serviced; checking that all membership fees and insurance premiums are paid; creating a course schedule for the next 12 months and being sure the pool/confined water and open water sites and boats will be available when needed. While it may seem premature to be thinking about these details, none of this is easy to deal with at the last minute. The SDI Dive Center will likely have established procedures and prepared many of these items; in fact, contracts may already be established for the pools or boats..
+
+When planning the season's course schedule, a logical order should be followed. There should be a set of courses that flow through the season starting with the SDI Open Water Scuba Diver course and ending with SDI Assistant Instructor course. It is important that each year's schedule has professional level courses like assistant instructor because a critical part of dive management is proper support. At various points along the schedule there should be continuing education courses, rescue and non-training fun dives.
+
+Fun dives that involve the customers and dive center staff are a great way to get to know customers and build a social network for the divers where they can find dive buddies and learn about opportunities to continue diving. During a diving event that is sponsored by the dive center there should be as many trained professionals on site as possible to serve as eyes, ears or dive buddies. 
+
+> Proper support during diving activities is invaluable and a great risk management tool, even for the fun dives.
+
+Assistant instructors and divemasters can be an extra set of eyes and quite commonly an extra set of ears. It is not uncommon for the students to confide in the assistant about their confusion or lack of understanding about subjects or skills. The assistant can then bring this information back to the instructor so the subject can be reviewed or the skill demonstrated again. Assistants are also invaluable when it comes to clerical or administrative tasks
+
+There is a lot of paperwork that goes into teaching a course and having an extra set of eyes to review that paperwork will ensure it is completed properly. If all the paperwork is completed and the students have been registered, this all adds up to great customer service and reduced liability.
