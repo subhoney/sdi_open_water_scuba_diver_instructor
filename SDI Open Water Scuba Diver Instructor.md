@@ -165,6 +165,9 @@
     - [Lesson Preperation](#lesson-preperation)
       - [Classroom](#classroom)
       - [Pool/Confined Water](#poolconfined-water)
+      - [Open Water](#open-water)
+    - [Training Materials](#training-materials)
+      - [Traditional Training Materials](#traditional-training-materials)
 
 # SDI Open Water Scuba Diver Instructor
 
@@ -1907,3 +1910,21 @@ By using the in-water presentation form and the cue cards the instructor should 
 Skills must be briefed and demonstrated by the instructor so that the students have a clear understanding of what is expected. After every skill performance an evaluation should be conducted explaining how well the student did or correcting any poor skill performances. If a correction is needed, try to start and end the evaluation of students with a positive element, putting the negative or correction in the middle.
 
 The pool/confined water session should be wrapped up with what can be expected in the next confined water session or what to expect during the open water session.
+
+#### Open Water
+
+Preparing for the open water session is similar to that of the pool/confined water. The biggest difference is that open water is used for final assessment. This is where the students get to demonstrate what they have learned and apply their skills in a real world environment.
+
+If this is the first time that the students are getting into the water (since not all specialties require a confined or pool session) start them off slowly and in a shallow area if possible. By taking it slow, the instructor gets a chance to familiarize themselves with the students' abilities prior to getting into deep water.
+
+Some areas that differ from confined or pool sites and should be noted are: tides, currents and boat traffic. When conducting the open water dives it is also good to have an assistant to help with control and any equipment issues that may arise.
+
+### Training Materials
+
+Now that the various portions of how to prepare for the course have been covered, it's time to discuss what materials the students have the option to use and how to use those materials effectively. In this section traditional materials (printed manuals) and online training (also known as blended learning) will be discussed.
+
+#### Traditional Training Materials
+
+In the early days of diving, the instructor had to directly convey information to the students since there were no training materials available. Generally, instructors taught diving the same way they had been taught, which in many cases was the "military way." The challenge for the instructors was to make the training enjoyable.
+
+As years passed, various scuba training agencies were formed and with them, their own brand of training materials. Initially, the training material supported what the instructor was teaching. However, over time training material was standardized, and it became the instructor who supported the training material. In essence, the traditional method consists of the student reviewing the academic material prior to practical training with the instructor. As we have come to find, this method has been successful and has established a proven track record.
