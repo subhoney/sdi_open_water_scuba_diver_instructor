@@ -158,6 +158,9 @@
       - [Image](#image)
       - [Nervousness](#nervousness)
       - [Teaching Tools](#teaching-tools)
+      - [Visual Aids](#visual-aids)
+      - [Reading Body Language](#reading-body-language)
+      - [Trust](#trust)
 
 # SDI Open Water Scuba Diver Instructor
 
@@ -1836,3 +1839,27 @@ When properly used, teaching tools can act as a guide for the instructor to foll
 Used as a teaching tool, PowerPoint® is both interactive and helps the presenter manage his time. PowerPoint® helps the presenter keep the presentation on track and cover all the points that need to be discussed. Additionally, after using the presentation a few times, the presenter will have a good idea how long the presentation takes from start to finish. Also, the slides should augment the verbal presentation but not be a written version of it. Presenters must use their own words, experiences and perspective to bring what's in the PowerPoint® to life.
 
 When using digital systems, it's recommended that the presenter set up the equipment prior to class and go through one or two "dry runs." By doing so, unpleasant surprises will be avoided and the overall presentation will be more professional.
+
+#### Visual Aids
+
+Visual aids enhance communication and can be a valuable part of any lesson. As discussed earlier, each person learns differently and the visual aid helps those that learn better by seeing and perhaps touching. For example, when teaching the SDI Underwater Video course, imagine trying to explain how to clean and inspect an O-ring without having one? What if you needed to show how a latch locks a video housing shut in order to keep it watertight? This would make perfect sense to the student if a video housing were available for the student to see and feel.
+
+> Visual training aids can also serve as a distraction. When teaching a refresher course or buoyancy course it's a good idea for the instructor to bring along some water toys. The students will start playing with the toys, adults and children alike; this takes their mind off buoyancy and suddenly their buoyancy improves.
+
+Always have the training aids available before the course begins. Valuable time can be wasted looking for training aids at the last minute.
+
+Proper preparation before any segment will help the instructor minimize potential problems and increase their confidence level knowing they are prepared.
+
+#### Reading Body Language
+
+Reading body language is an art that takes time and practice to master. However, there are some basic signs that we can all recognize. When teaching classes later in the evening or after mealtime, it is fairly easy to recognize signs of fatigue such as eyes closing or heads nodding. This generally indicates that it is time for a break so the students can get up and move around. A less obvious sign would be students' eyes drifting around the classroom. This may be a sign of boredom and is a good indication that it is time to get that student engaged in the presentation. This can be done by asking them a question or redirecting their attention to a training aid.
+
+Reading students' body language in the water is important since it applies to easing their nervousness. For example, relaxed students will swim along and observe their surroundings while nervous students may not let go of the low-pressure inflator or take their eyes off of their buddy. The instructor must immediately address a nervous student when he observes the signs. In this case, the instructor should gain the attention of the student by giving them the "OK" signal. If the student fails to respond, he should be brought to the surface where the instructor can make sure he is OK.
+
+Additional signs of nervousness that may be observed in a student include constant fidgeting; an individual who is abnormally quiet or abnormally talkative; or unwarranted anxiety. The instructor should observe the students before, during, and after a dive and help students resolve any issues if they appear nervous or anxious.
+
+#### Trust
+
+A strong rapport is built on trust, the more trust there is in a relationship, the better the rapport will be. Students have a basic level of trust in their dive leader(s) or they would not have enrolled in the course. However, it is up to the dive professional to nurture and grow that trust. This can be done several ways and at different times. For instance, the dive professional can contact the student before the course begins to introduce himself, answer any questions the student may have and describe the course progression. During the course, the dive professional should be friendly, helpful and approachable. The professional must follow through with requests made of him, and above all, treat every student with respect. Once a good rapport is established, the student will likely come back to take additional courses as well as recommend the dive professional and dive facility to their friends and family.
+
+Effective communication is not an innate human trait. It must be learned, practiced and carefully applied. All of these considerations require that the dive professional do a self-assessment and review their own performance prior to conducting a course. It is very important that the OWSDI looks and feels professional and prepares appropriately so that trust is established with the students.
