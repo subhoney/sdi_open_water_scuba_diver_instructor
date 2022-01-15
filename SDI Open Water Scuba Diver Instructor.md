@@ -178,6 +178,10 @@
     - [SDI Advanced Adventure Specialty](#sdi-advanced-adventure-specialty)
     - [Teaching Specialty Courses](#teaching-specialty-courses)
     - [SDI Rescue Diver Course](#sdi-rescue-diver-course)
+  - [Teaching Dive Professionals](#teaching-dive-professionals)
+    - [Divers vs. Dive Professionals](#divers-vs-dive-professionals)
+    - [Theory](#theory)
+    - [Supervising Dives](#supervising-dives)
 
 # SDI Open Water Scuba Diver Instructor
 
@@ -2145,3 +2149,28 @@ The rescue course helps build not only the student's skills, but also helps buil
 
 Up to this point the diver level programs an SDI OWSDI is qualified to teach have been discussed. The next levels an OWSDI is qualified to teach are the dive professional levels including SDI Divemaster and SDI Assistant Instructor. It is recommended the SDI OWSDI gain knowledge and experience teaching the diver levels before they begin teaching dive professionals. With that in mind, the SDI OWSDI needs to ensure that his knowledge and skill levels are the highest possible quality before he passes the knowledge on to or demonstrates skills to professional level candidates as discussed in the next section.
 
+## Teaching Dive Professionals
+
+One may think that teaching dive professionals is like teaching any other course, which to some extent is true. However, there is a lot more preparation for the dive professional programs and the instructor must employ a different mindset when presenting dive professional level information. The SDI Open Water Scuba Diver Instructor must change their information delivery from simply teaching a new skill to a diver, to teaching a dive leader how to teach and supervise divers. In this section the difference between teaching divers and dive professionals will be discussed as well as how to prepare for a professional level course, and what added liability comes with training dive professionals.
+
+### Divers vs. Dive Professionals
+
+When teaching a diver level course, the instructor's primary goals are to convey the information and skills to the students so they can be proficient at a given level of certification. This is accomplished through academics, in-water practice and a final in-water evaluation. The end result is that the diver has comprehended the information they learned and should be able to execute the skills long after the completion of the course. This is also true when teaching dive professionals; however, the candidates must be able to execute skills and display teaching abilities once certified.
+
+Dive professionals must meet established prerequisites prior to enrolling in a dive leader course. In fact, dive leader candidates should already have a firm understanding of basic diving theory and application. In the professional level course, they will be taught the "why" behind the theory and application. For example, SDI Divemaster candidates have been taught buddy- and self-rescue; however, in the SDI Divemaster course they must refine those techniques, and more importantly, learn how to anticipate a problem and address it before a rescue is needed.
+
+### Theory
+
+One of the largest differences when teaching a dive leader candidate versus a diver is the way the academic knowledge is presented. Dive professionals must have a more in-depth understanding so they are able to answer questions asked by student divers. This is not to say that dive professionals are expected to have all the answers, but they should know where to find answers to questions that they cannot immediately answer. A dive professional must know how to convey information to student divers so as not to overwhelm them with too much information. Also, the level of information given by the dive professional should be appropriate for the level of the student diver.
+
+> For example, an open water diver asks an assistant: "How would I plan a dive to 40m/130ft?" A good response from the assistant might be: "There are several points to consider when planning dives to those depths. I would suggest taking the SDI Deep Diver specialty which will provide you with a better understanding of how to safely and properly plan and complete a dive to that depth."
+
+Even though the divemaster or assistant instructor may be perfectly capable of answering this question, they need to remember that this dive plan is beyond the certification level of the open water diver.
+
+Divemasters and assistant instructors must understand what their primary responsibilities are when assisting an instructor with a course. These responsibilities may include ensuring that students' forms and training records have been properly completed and preparing the classroom and training aids. When a dive professional candidate has an understanding of how to convey their knowledge and how to assist with courses, it is time to teach them how to supervise dives and handle emergency situations.
+
+### Supervising Dives
+
+Once a diver has met the prerequisites and made the decision to enroll in a dive leader course, it is likely that they have already assisted in a course or at least observed supervised divers. As such, the diver should have a general idea of what is involved with managing and supervising other divers. To build on this general understanding, the instructor should review with the candidates how to deliver dive briefings and how to monitor and supervise other divers.
+
+When presenting dive briefings, the dive leader should discuss dive site information (water temperature, visibility, etc); pertinent safety information; the expected dive profile and what the divers may see during the dive. Additional information regarding dive briefings can be found in the SDI Divemaster and Assistant Instructor Manuals and their corresponding instructor guides.
