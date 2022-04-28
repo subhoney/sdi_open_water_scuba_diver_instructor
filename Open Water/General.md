@@ -24,32 +24,32 @@ Instructor and student must both be single-tank backmount config.
 
 ## Instructor
 
-[ ] Mask
-[ ] Fins
-[ ] Snorkel
-[ ] BCD with LIP
-[ ] Regulator with SPG
-[ ] Alternate air source
-[ ] Weights
-[ ] PDC
-[ ] Exposure suit adequate for the conditional
-[ ] Compressed gas cylinder
-[ ] Compass (only during nav skills)
-[ ] Rescue signal
-[ ] Dive flag (based on local laws or regulations)
+- [ ] Mask
+- [ ] Fins
+- [ ] Snorkel
+- [ ] BCD with LIP
+- [ ] Regulator with SPG
+- [ ] Alternate air source
+- [ ] Weights
+- [ ] PDC
+- [ ] Exposure suit adequate for the conditional
+- [ ] Compressed gas cylinder
+- [ ] Compass (only during nav skills)
+- [ ] Rescue signal
+- [ ] Dive flag (based on local laws or regulations)
 
 
 ## Student
 
-[ ] Mask
-[ ] Fins
-[ ] Snorkel
-[ ] BCD with LIP
-[ ] Regulator with SPG
-[ ] Alternate air source
-[ ] Weights
-[ ] PDC
-[ ] Exposure suit adequate for the conditional
-[ ] Compressed gas cylinder
-[ ] Compass (only during nav skills)
-[ ] Rescue signal
+- [ ] Mask
+- [ ] Fins
+- [ ] Snorkel
+- [ ] BCD with LIP
+- [ ] Regulator with SPG
+- [ ] Alternate air source
+- [ ] Weights
+- [ ] PDC
+- [ ] Exposure suit adequate for the conditional
+- [ ] Compressed gas cylinder
+- [ ] Compass (only during nav skills)
+- [ ] Rescue signal
