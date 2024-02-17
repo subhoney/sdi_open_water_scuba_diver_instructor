@@ -2,7 +2,9 @@
 
 ## Introduction
 
-SDI doesn't do printed manuals anymore. That kinda bugs me. This is a printable, searchable manual with some extra material.
+SDI doesn't do printed manuals anymore. That kinda bugs me. This is a printable, searchable manual with some extra material. 
+
+Created and largely finished in 2021; if you're using this manual, be careful of standard- or information-drift.
 
 ## TODOs
 
